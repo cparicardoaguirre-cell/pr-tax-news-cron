@@ -2,6 +2,73 @@
 
 ---
 
+## 2026-04-16 — CORRIDA #4 (15:00 AST)
+
+**Hora corrida:** ~15:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 14 IDs totales (13 previos + 1 nuevo)
+
+### Items incluidos en digest:
+
+1. `8f623be7a1797bfc` — [URGENTE][SEGUIMIENTO RC 06-2026] JSF fija fecha especifica para decision — Cheque de Alivio Contributivo $554M (2026-04-16)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): CC 26-01 a 26-06 ya en seen.txt; sin nuevas CC/DA/BI indexadas en abril 2026 post-15-abr
+- IRS-PR (irs.gov): IRB 2026-16 revisado — Rev. Proc. 2026-16 (Sec. 911 waiver: Haiti, Ukraine, Congo, Sudan, Iraq, Lebanon, Mali) NO aplica PR; Notice 2026-16 (QPP 100% depreciacion bajo OBBB Act, feb-20-2026, 55 dias) → descartado (>30 dias + sin mencion PR)
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- JSF_donde_esta_cheque (6941b01c33bef667): redundante con item #1
+- JSF_hacienda_revela_falta (0dadde6ed1321ce0): redundante con item #1
+- JSF_sigue_sin_aprobarse (e9db3afabc4bb7db): redundante con item #1
+- WAPA JSF cerca decidir (42cc0fbcd7dfba86): redundante con item #1
+- BI RI 26-02 IVU municipal (3e1b59bdf0a9b9ad): URL no verificada (403), fecha no confirmada (probable >30 dias); pendiente proxima corrida
+- Notice 2026-16 QPP (bc4b0e7dba9f1a57): 2026-02-20, 55 dias → DESCARTADO (>30 dias + sin mencion PR/possessions)
+- Rev. Proc. 2026-16 Sec. 911 (bc46b233e73bfffa): aplica paises extranjeros, NO aplica PR (territorio EE.UU.)
+- Hacienda/Reglamento Tesoro federal credito extranjero: comunicado de 2021 (Francisco Pares Alicea, secretario anterior) → DESCARTADO (fecha fuera de rango)
+
+### Seguimiento activo:
+- JSF/$554M cheque alivio: decision con fecha especifica, esperada antes del ~29-abr-2026
+- BI RI 26-02 (IVU municipal FY 2026-2027): verificar en proxima corrida
+
+### Digest enviado:
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-16 | Hora: 15:00 AST | Corrida #4
+URGENTE: JSF ya tiene fecha para su decision sobre el Cheque de Alivio $554M
+=========================================
+
+[URGENTE][SEGUIMIENTO RC 06-2026] JSF fija fecha especifica para decision — Cheque de Alivio Contributivo $554M
+Fecha: 2026-04-16
+La Junta de Supervision Fiscal (JSF) ya tiene una fecha especifica para anunciar
+su determinacion sobre el Cheque de Alivio Contributivo de $554M (RC 06-2026).
+El director Robert Mujica trabajo durante el fin de semana del 11-12 de abril y
+mantuvo conversaciones con el equipo de la Gobernadora hasta el domingo. Hacienda
+confirmo que sometio toda la informacion requerida y las conversaciones estan en
+etapa "avanzada." La JSF evalua las recaudaciones de abril como criterio clave
+antes de emitir la determinacion final. Decision esperada antes del 29 de abril
+de 2026. Contribuyentes elegibles (ingreso neto tributable ≤$150,000, residentes
+todo el 2025, sin contribucion opcional ni CBA) deben mantener SURI actualizado
+con cuenta bancaria para recibir deposito directo.
+https://www.primerahora.com/noticias/gobierno-politica/notas/la-junta-ya-tiene-fecha-para-su-decision-sobre-el-cheque-de-alivio-contributivo/
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 14 IDs totales
+Proxima corrida: 18:00 AST
+Hacienda PR: CC 26-01/26-06 ya en seen.txt — sin nuevas CC/DA/BI indexadas.
+IRS: IRB 2026-16 revisado (Rev. Proc. 2026-16 Sec. 911 paises extranjeros; Notice 2026-16 QPP depreciacion) — sin aplicacion a PR.
+DDEC/SURI/Tribunal/OCIF: sin publicaciones nuevas.
+BI RI 26-02 (IVU municipal 2026-2027): fecha no confirmada — pendiente verificacion.
+```
+
+---
+
 ## 2026-04-16 — CORRIDA #3 (10:16 AST)
 
 **Hora corrida:** ~10:16 AST
