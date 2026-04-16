@@ -2,6 +2,83 @@
 
 ---
 
+## 2026-04-16 — CORRIDA #2 (10:00 AM AST)
+
+**Hora corrida:** ~10:00 AST
+**Items encontrados:** 3
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 12 IDs totales (9 previos + 3 nuevos)
+
+### Items incluidos en digest:
+
+1. `3434207005e80f3c` — [HACIENDA PR - COMUNICADO] Prorroga 30 dias planilla: Empleados Federales DHS (2026-04-08)
+2. `762a2d7bf1566578` — [HACIENDA PR - COMUNICADO] Cierre Ciclo Contributivo 2025 — Resultados Finales (2026-04-15)
+3. `b6b9fb26807aeaf7` — [URGENTE][SEGUIMIENTO RC 06-2026] JSF: Decision sobre Cheque Alivio $554M antes del ~29 abril (2026-04-15)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): comunicados de prensa abril 2026; no CC/DA/BI nuevos
+- IRS-PR (irs.gov): IRBs 2026-15 y 2026-16 revisados — sin items aplicables a PR
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA DDEC 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados por 30-day filter:
+- DA 26-01 / OA DDEC 2026-01 (2026-02-06): radicacion electronica Annual Compliance Report Ley 60 → 69 dias → DESCARTADO
+- BI RI 26-01 (2026-02-17): ajuste inflacion Credito por Trabajo 2025 → 58 dias → DESCARTADO
+
+### Digest enviado:
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-16 | Hora: 10:00 AST | Corrida #2
+URGENTE: Junta Supervision Fiscal decide sobre cheque alivio $554M antes del ~29 abril
+=========================================
+
+[HACIENDA PR - COMUNICADO] Prorroga 30 dias planilla: Empleados Federales DHS
+Fecha: 2026-04-08
+La Gobernadora y el Secretario de Hacienda Angel Pantoja anunciaron prorroga de 30
+dias para empleados del Departamento de Seguridad Nacional (DHS/Homeland Security)
+en PR, afectados por el cierre parcial del gobierno federal. La extension no conlleva
+intereses ni penalidades. Para beneficiarse, los interesados debieron solicitar la
+prorroga antes del 15 de abril de 2026 via SURI (Formulario SC 2644). Empleados que
+la solicitaron tienen hasta el 15 de mayo de 2026 para radicar su planilla.
+https://noticel.com/en/noticias/gobierno/20260408/empleados-federales-de-homeland-security-tendran-30-dias-mas-para-radicar-planilla/
+---
+
+[HACIENDA PR - COMUNICADO] Cierre Ciclo Contributivo 2025 — Resultados Finales
+Fecha: 2026-04-15
+Hacienda cerro el Ciclo Contributivo 2025 con 1,221,122 planillas radicadas,
+superando la meta proyectada de 1.1-1.2 millones. En reintegros, se desembolsaron
+$2,049,182,311 correspondientes a 918,719 planillas. De ese total, $1,477.4 millones
+corresponden al Credito por Trabajo (EITC) reclamado en 724,087 planillas. Hacienda
+reporto resultados records en velocidad de procesamiento versus anos anteriores. Los
+contribuyentes con prorroga aprobada (SC 2644) tienen hasta el 15 de octubre de 2026.
+https://www.metro.pr/noticias/2026/04/15/hacienda-cierra-ciclo-contributivo-12-millones-de-planillas-y-mas-de-2000-millones-en-reintegro/
+---
+
+[URGENTE][SEGUIMIENTO RC 06-2026] Junta Supervision Fiscal: Decision sobre Cheque Alivio $554M en ~2 semanas
+Fecha: 2026-04-15
+El Director de la Junta de Supervision Fiscal (JSF), Robert Mujica, anuncio que la
+Junta emitira su determinacion sobre el Cheque de Alivio Contributivo de $554 millones
+(RC 06-2026) antes del 29 de abril de 2026 aproximadamente. La JSF tiene dudas sobre
+el impacto fiscal dado el decline en recaudaciones y la situacion de Medicaid. Existe
+la posibilidad de que la JSF apruebe un monto menor al propuesto, lo que requeriria
+nueva legislacion de la Asamblea Legislativa. Los contribuyentes que radicaron planilla
+con ingreso neto tributable <= $150,000 deben estar pendientes a esta decision.
+https://noticel.com/noticias/20260415/junta-de-supervision-fiscal-decidira-sobre-el-alivio-contributivo-prometido/
+---
+
+================================
+Fuentes revisadas: 6 | Items: 3 | seen.txt: 12 IDs totales
+Proxima corrida: 15:00 AST
+IRS-PR: IRBs 2026-15 y 2026-16 revisados — sin items aplicables a PR.
+Tribunal Apelativo / OCIF / SURI: sin publicaciones nuevas.
+DDEC: sin nuevas ordenes administrativas desde OA DDEC 2026-002 (ya en seen.txt).
+```
+
+---
+
 ## 2026-04-16 — PRIMERA CORRIDA (seen.txt inicializado)
 
 **Hora corrida:** ~01:54 AST (6:00 AM corrida — ejecutada manualmente)
