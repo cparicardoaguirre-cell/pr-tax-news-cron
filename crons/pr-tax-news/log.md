@@ -2,6 +2,68 @@
 
 ---
 
+## 2026-04-16 — CORRIDA #5 (22:00 AST)
+
+**Hora corrida:** ~22:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 15 IDs totales (14 previos + 1 nuevo)
+
+### Items incluidos en digest:
+
+1. `3c1b2393affd3dd2` — [URGENTE][SEGUIMIENTO RC 06-2026] JSF decidiria sobre cheque alivio $554M a finales de esta semana (2026-04-16)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): sin nuevas CC/DA/BI desde corrida #4; publicaciones index devolvio 403
+- IRS-PR (irs.gov): IRB 2026-17 aun no publicado; sin items aplicables a PR
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- El Nuevo Dia "Todavia en veremos" (f8bdf8b46c73ed71): fecha de publicacion no confirmada, posiblemente anterior a la corrida. DESCARTADO.
+- Metro PR "Hacienda insiste $554M" (3736e6dc1da54ca6): publicado 2026-04-15, redundante con items previos. DESCARTADO.
+- DA 26-01 Hacienda (18470ab3236f82d5): publicada ~2026-02-06 (69 dias) → DESCARTADO (>30 dias).
+- BI RI 26-02 IVU municipal (3e1b59bdf0a9b9ad): URL sigue sin verificar (403). DESCARTADO pendiente proxima corrida.
+- IRS Notice 2026-22 (IRB 2026-15, poblacion PR para Credit Ceiling): aplica a calculos internos IRS, no a contribuyentes en PR directamente. DESCARTADO.
+
+### Seguimiento activo:
+- JSF/$554M cheque alivio: decision ahora esperada **a finales de esta semana** (~17-18 de abril de 2026) — timeline acelerado vs. "antes del 29 de abril"
+- BI RI 26-02 (IVU municipal FY 2026-2027): verificar en proxima corrida
+
+### Digest enviado:
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-16 | Hora: 22:00 AST | Corrida #5
+URGENTE: JSF decidira sobre el cheque de alivio $554M a FINALES DE ESTA SEMANA
+=========================================
+
+[URGENTE][SEGUIMIENTO RC 06-2026] JSF decidiria sobre el cheque de alivio contributivo $554M a finales de esta semana
+Fecha: 2026-04-16
+El Nuevo Dia reporta hoy que la Junta de Supervision Fiscal (JSF) estaria en posicion
+de anunciar su determinacion sobre el Cheque de Alivio Contributivo de $554M (RC 06-2026)
+a finales de esta semana (aprox. 17-18 de abril de 2026) - timeline significativamente
+mas acelerado que el "antes del 29 de abril" que se estimaba esta tarde. La JSF mantiene
+dudas sobre el impacto fiscal dado el decline en recaudaciones y la situacion de Medicaid.
+Hacienda insiste en los $554M completos. Si la JSF aprueba un monto menor al propuesto,
+se requerira nueva legislacion de la Asamblea Legislativa. Contribuyentes elegibles
+(ingreso neto tributable <=$ 150,000, residentes todo el 2025, sin contribucion opcional
+ni CBA) deben mantener SURI actualizado con cuenta bancaria para recibir deposito directo.
+https://www.elnuevodia.com/negocios/economia/notas/la-junta-fiscal-decidiria-sobre-el-incentivo-contributivo-a-finales-de-esta-semana/
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 15 IDs totales
+Proxima corrida: 06:00 AST (17-abr-2026)
+Hacienda PR: sin nuevas CC/DA/BI desde corrida #4. BI RI 26-02 pendiente verificacion.
+IRS-PR: IRB 2026-17 aun no publicado. Sin items aplicables a PR.
+DDEC/SURI/Tribunal/OCIF: sin publicaciones nuevas.
+```
+
+---
+
 ## 2026-04-16 — CORRIDA #4 (15:00 AST)
 
 **Hora corrida:** ~15:00 AST
