@@ -2,6 +2,69 @@
 
 ---
 
+## 2026-04-16 — CORRIDA #3 (10:16 AST)
+
+**Hora corrida:** ~10:16 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 13 IDs totales (12 previos + 1 nuevo)
+
+### Items incluidos en digest:
+
+1. `9779bc595a0c236c` — [HACIENDA PR - COMUNICADO] Hacienda desembolsa $156.9 millones adicionales en reintegros (2026-04-09)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): comunicados de prensa abril 2026; no CC/DA/BI nuevos (ultimo: CC RI 26-06)
+- IRS-PR (irs.gov): IRBs 2026-15, 2026-16 y 2026-17 revisados — sin items aplicables a PR
+  - IRB 2026-16: SIFL rates + Rev. Proc. 2026-16 (Sec. 911 waiver, paises extranjeros) — NO aplica PR
+  - IRB 2026-17: Notice 2026-17 (Sec. 987 foreign currency, CFCs) — NO aplica PR
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA DDEC 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- GAO-26-107225 "IRS Should Improve Oversight of Taxpayers Claiming Exemption from Federal Taxes" (2025-12-12): 125 dias → DESCARTADO (>30 dias; aunque relevante para clientes Act 60)
+- Hacienda $200M primera nomina reintegros (2026-02-12): 63 dias → DESCARTADO
+- Hacienda $200M "mas" reintegros (≈2026-03-09): ~38 dias → DESCARTADO
+- Hacienda sobrepasa $1,000M (≈2026-03-04): ~43 dias → DESCARTADO
+- BI RI 26-01 (2026-02-17): ya descartado en corrida #2
+- IRS Campaign 685 / Act 60 enforcement articles: fuentes secundarias (bufetes), no oficiales IRS
+
+### Seguimiento activo:
+- JSF/$554M cheque alivio: decision pendiente ~antes del 29-abr-2026
+
+### Digest enviado:
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-16 | Hora: 10:16 AST | Corrida #3
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+=========================================
+
+[HACIENDA PR - COMUNICADO] Hacienda desembolsa $156.9 millones adicionales en reintegros
+Fecha: 2026-04-09
+El Departamento de Hacienda informo el desembolso de $156,898,042 en reintegros adicionales,
+anunciado por la Gobernadora Gonzalez Colon y el Secretario Angel Pantoja. A esa fecha, el
+total desembolsado acumulado ascendio a $1,956,538,858 correspondiente a 877,325 planillas,
+superando en $118.9 millones el mismo periodo del ano contributivo anterior. El anuncio se
+realizo durante la semana final del ciclo contributivo previo al cierre del 15 de abril de
+2026. Contribuyentes con prorroga SC 2644 tienen hasta el 15 de octubre de 2026.
+https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/hacienda-desembolsa-156-millones-adicionales-en-reintegros
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 13 IDs totales
+Proxima corrida: 15:00 AST
+IRS-PR: IRBs 2026-15/16/17 revisados — sin items aplicables a PR.
+GAO-26-107225 (dic-2025): fuera del filtro 30 dias (125 dias).
+Tribunal Apelativo / SURI / OCIF: sin publicaciones nuevas.
+DDEC: sin nuevas ordenes administrativas desde OA 2026-002.
+JSF/$554M cheque: decision pendiente (~antes 29-abr) — en seguimiento.
+```
+
+---
+
 ## 2026-04-16 — CORRIDA #2 (10:00 AM AST)
 
 **Hora corrida:** ~10:00 AST
