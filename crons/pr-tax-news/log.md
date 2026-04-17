@@ -2,6 +2,76 @@
 
 ---
 
+## 2026-04-17 — CORRIDA #7 (10:00 AST)
+
+**Hora corrida:** ~10:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 16 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+
+Ninguno — sin novedades nuevas desde corrida #6.
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): CC RI 26-01 a 26-06 ya en seen.txt; sin nuevas CC/DA/BI post-16-abr; comunicados: ninguno nuevo en abril 17
+- IRS-PR (irs.gov): IRB 2026-17 (boletin) no publicado aun; ultimo disponible IRB 2026-15 (6-abr)
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida:
+- Rev. Proc. 2026-17 (§163(j) elections, 2026-03-18, IRB 2026-15): no menciona PR/possessions/Sec.933/Act 60 → DESCARTADO por filtro IRS
+- BI RI 25-09 (Employee Retention Benefit, deadline Jun-1-2026): publicado en 2025, fecha exacta no confirmada → DESCARTADO
+- BI RI 26-02 (IVU municipal FY 2026-2027): publicado ~15-mar, 33 dias → DESCARTADO (>30 dias)
+- CC RI 26-07 / DA 26-02: no existen aun
+- IRB 2026-17 (boletin): no publicado
+- JSF $554M: sin decision nueva (mismo estado que corrida #6)
+- Tribunal Apelativo / DDEC / SURI / OCIF: sin publicaciones nuevas
+
+### Seguimiento activo:
+- [URGENTE] CC RI 26-06: deadline corporaciones 21-abr-2026 (4 dias) — ya reportado corrida #1
+- JSF/$554M cheque alivio: decision esperada "a finales de esta semana" — SIN DECISION AL CIERRE (10:00 AST, 17-abr-2026)
+
+### Digest enviado:
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-17 | Hora: 10:00 AST | Corrida #7
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+=========================================
+
+Sin novedades oficiales nuevas desde corrida #6 (06:00 AST).
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] CC RI 26-06 — DEADLINE CORPORACIONES: 21-ABR-2026 (4 dias)
+Corporaciones con ano natural que solicitaron prorroga deben someter la evidencia
+requerida ante Hacienda no mas tarde del 21 de abril de 2026. Prorroga automatica
+de 6 meses disponible para quienes no radicaron antes del 15-abr.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+[SEGUIMIENTO RC 06-2026] JSF: SIN DECISION al cierre de esta corrida
+La Junta de Supervision Fiscal aun no ha emitido su determinacion sobre el Cheque
+de Alivio Contributivo de $554M. Decision esperada "a finales de esta semana" segun
+reporte del 16-abr. Se notificara cuando la JSF emita su determinacion.
+
+--- DESCARTADOS ESTA CORRIDA ---
+- Rev. Proc. 2026-17 (sec.163(j) elections, 18-mar): no menciona PR/possessions -> DESCARTADO
+- BI RI 25-09 (Employee Retention Benefit, deadline Jun-1): publicado 2025 -> DESCARTADO
+- BI RI 26-02 (IVU municipal FY 2026-2027): publicado ~15-mar, 33 dias -> DESCARTADO
+- IRB 2026-17 (boletin IRS): no publicado aun
+- CC RI 26-07 / DA 26-02: no existen aun
+- Tribunal Apelativo / DDEC / SURI / OCIF: sin publicaciones nuevas
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 16 IDs totales
+Proxima corrida: 15:00 AST (17-abr-2026)
+```
+
+---
+
 ## 2026-04-17 — CORRIDA #6 (06:00 AST)
 
 **Hora corrida:** ~06:00 AST
