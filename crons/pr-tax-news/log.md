@@ -2,6 +2,77 @@
 
 ---
 
+## 2026-04-17 — CORRIDA #6 (06:00 AST)
+
+**Hora corrida:** ~06:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 16 IDs totales (15 previos + 1 nuevo)
+
+### Items incluidos en digest:
+
+1. `85ac0b58ddf6b63b` — [IRS-PR - REV. PROC.] Rev. Proc. 2026-12: Marco de Nominacion QOZ 2.0 — Cambio Clave para Puerto Rico (2026-04-06)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): sin nuevas CC/DA/BI desde corrida #5; comunicados: ultimo el de abril 9 ya en seen.txt
+- IRS-PR (irs.gov): Rev. Proc. 2026-12 (QOZ 2.0 PR) incluida; IRB 2026-17 no accesible (403)
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- CC RI 26-01 a 26-06: ya en seen.txt
+- DA 26-01 (2026-02-06): 70 dias → DESCARTADO (>30 dias)
+- BI RI 26-02 IVU municipal: URL no verificada (403 persistente) — pendiente proxima corrida
+- "El Nuevo Dia: alivio contributivo anual" (~2026-02-15): estimado 61 dias → DESCARTADO (>30 dias)
+- "Conceden mas tiempo / Extienden plazo" articulos JSF (feb-mar 2026): >30 dias → DESCARTADOS
+- Hacienda comunicados abril: ultimo (2026-04-09, $156.9M reintegros) ya en seen.txt (9779bc595a0c236c)
+- OA DDEC 2026-002 (2026-03-11): ya en seen.txt
+- IRB 2026-17: no accesible (403)
+
+### Seguimiento activo:
+- JSF/$554M cheque alivio: decision esperada "a finales de esta semana" (aprox. 17-18 abril) — SIN DECISION AL CIERRE DE ESTA CORRIDA (06:00 AST)
+- BI RI 26-02 (IVU municipal FY 2026-2027): verificar en proxima corrida
+
+### Digest enviado:
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-17 | Hora: 06:00 AST | Corrida #6
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+=========================================
+
+[IRS-PR - REV. PROC.] Rev. Proc. 2026-12: Marco de Nominacion QOZ 2.0 — Cambio Clave para Puerto Rico
+Fecha: 2026-04-06
+El IRS publico la Rev. Proc. 2026-12 implementando cambios del OBBBA a las Zonas de
+Oportunidad Cualificadas (QOZ). Cambio clave para PR: se elimina la designacion automatica
+de todas las comunidades de bajos ingresos (LICs) en PR como QOZs. A partir del 1 de enero
+de 2027, el Gobernador de PR debera nominar tramos censales especificos (maximo 25% de LICs),
+bajo el mismo proceso aplicable a los estados. Las QOZs actualmente designadas en PR mantienen
+su designacion hasta el 31 de diciembre de 2027. Efectivo: 6 de abril de 2026. Impacta a
+inversionistas bajo Act 60 (Individuo Residente Inversionista) con inversiones en Qualified
+Opportunity Funds (QOFs) en Puerto Rico.
+https://www.irs.gov/pub/irs-drop/rp-26-12.pdf
+---
+
+================================
+SEGUIMIENTO RC 06-2026 — CHEQUE ALIVIO $554M:
+JSF AUN SIN DECISION FINAL al cierre de esta corrida (06:00 AST, 17-abr-2026).
+Decision esperada "a finales de esta semana" segun reporte del 16-abr.
+Se notificara cuando la JSF emita su determinacion.
+================================
+Hacienda PR: sin nuevas CC/DA/BI. BI RI 26-02 (IVU municipal) pendiente verificacion.
+IRS-PR: IRB 2026-17 no accesible. Rev. Proc. 2026-12 (QOZ 2.0 PR) incluida arriba.
+DDEC/SURI/Tribunal/OCIF: sin publicaciones nuevas.
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 16 IDs totales
+Proxima corrida: 10:00 AST (17-abr-2026)
+```
+
+---
+
 ## 2026-04-16 — CORRIDA #5 (22:00 AST)
 
 **Hora corrida:** ~22:00 AST
