@@ -2,6 +2,87 @@
 
 ---
 
+## 2026-04-18 — CORRIDA #14 (18:00 AST)
+
+**Hora corrida:** ~18:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 17 IDs totales (16 previos + 1 nuevo)
+
+### Items incluidos en digest:
+
+1. `7acba4e2d61ed229` — [IRS-PR - REG. PROPUESTO] REG-114499-25: Impuesto sobre Transferencias de Remesas — Puerto Rico explicitamente incluido (2026-04-10/13)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): sin CC RI 26-07, DA 26-02 ni BI nuevos; CC RI 26-01 a 26-06 ya en seen.txt; comunicados: ultimo del 9-abr ya en seen.txt (9779bc595a0c236c)
+- IRS-PR (irs.gov): REG-114499-25 (remittance excise tax proposed regs, 10/13-abr) — PR explicitamente incluido como ubicacion de envio bajo IRC Sec. 4475; IRB 2026-17 no publicado aun (ultimo disponible: IRB 2026-15, 6-abr)
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida:
+- CC RI 26-07 / DA 26-02 / BI nuevos: no existen aun / sin URL verificable
+- IRB 2026-17 (IRS): no publicado (ultimo: IRB 2026-15, 6-abr)
+- Notice 2026-17 (Sec. 987 QBU foreign currency): NO aplica PR → DESCARTADO
+- Notice 2025-55 (penalty relief remittance, oct-2025): publicado >30 dias → DESCARTADO
+- Federal Register URL (6d46527e3d78d822): duplicado — se usa URL irs.gov como canonico
+- "No Tax on Tips" final regs (Apr-10): no menciona PR/Sec.933/possessions → DESCARTADO
+- JSF cheque alivio $554M: sin decision nueva (mismo estado que corrida #13)
+- Tribunal / DDEC / SURI / OCIF: sin publicaciones nuevas
+
+### Seguimiento activo:
+- [URGENTE] CC RI 26-06: deadline corporaciones 21-abr-2026 (LUNES, 3 dias) — ya reportado corrida #1
+- JSF/$554M cheque alivio RC 06-2026: SIN DECISION al 18:00 AST; decision estimada ~29-abr-2026
+
+### Digest enviado:
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-18 | Hora: 18:00 AST | Corrida #14
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+=========================================
+
+[IRS-PR - REG. PROPUESTO] REG-114499-25: Impuesto sobre Transferencias de Remesas — Puerto Rico explicitamente incluido
+Fecha: 2026-04-10 (anuncio IRS) / 2026-04-13 (Federal Register, REG-114499-25)
+El Departamento del Tesoro y el IRS emitieron reglamentacion propuesta bajo la Seccion
+4475 del IRC (One Big Beautiful Bill/OBBBA), que impone un excise tax del 1% sobre
+transferencias de remesas hacia el exterior vigente desde el 1 de enero de 2026. Puerto
+Rico es explicitamente incluido como ubicacion de envio: transferencias DESDE Puerto Rico
+hacia paises extranjeros son gravables cuando el remitente paga en efectivo, giros
+postales, cheques de caja u otros instrumentos fisicos similares (NO aplica a pagos
+con tarjeta debito/credito emitida en EE.UU.). Importante: las transferencias HACIA
+Puerto Rico no estan sujetas al impuesto (PR no se considera "pais extranjero" bajo
+estas reglas). El proveedor de remesas es responsable de cobrar el impuesto, hacer
+depositos siquincenales (Formulario 720), y reportar trimestralmente al IRS. El IRS
+ha otorgado alivio de penalidades a proveedores durante los primeros tres trimestres
+de 2026 (Notice 2025-55). Periodo de comentarios: hasta el 12 de junio de 2026.
+https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-the-new-remittance-transfer-tax-established-under-the-one-big-beautiful-bill
+---
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] CC RI 26-06 — DEADLINE CORPORACIONES: LUNES 21-ABR-2026 (3 DIAS)
+Corporaciones con ano natural que solicitaron prorroga deben someter la evidencia
+requerida ante Hacienda no mas tarde del lunes 21 de abril de 2026. Hoy sabado
+18-abr: quedan 3 dias (sab/dom/lun). Prorroga automatica de 6 meses disponible
+para quienes no radicaron antes del 15-abr.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+[SEGUIMIENTO RC 06-2026] JSF: SIN DECISION al 18:00 AST, 18-abr-2026
+La Junta de Supervision Fiscal (JSF) aun no ha emitido su determinacion sobre el
+Cheque de Alivio Contributivo de $554M (RC 06-2026). Ultimos reportes del 15-abr
+(Metro PR, El Nuevo Dia): Director Mujica confirmo decision "en menos de dos semanas"
+desde el 15-abr, estimando ~29-abr-2026. Sin nuevos reportes de decision para el 18-abr.
+Se notificara cuando la JSF emita su determinacion oficial.
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 17 IDs totales
+Proxima corrida: 22:00 AST (18-abr-2026)
+```
+
+---
+
 ## 2026-04-18 — CORRIDA #13 (15:00 AST)
 
 **Hora corrida:** ~15:00 AST
