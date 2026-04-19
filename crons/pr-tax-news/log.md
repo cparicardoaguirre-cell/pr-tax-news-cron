@@ -2,6 +2,83 @@
 
 ---
 
+## 2026-04-19 — CORRIDA #16 (10:00 AST)
+
+**Hora corrida:** ~10:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 18 IDs totales (17 previos + 1 nuevo)
+
+### Items incluidos en digest:
+
+1. `904584aa4d8b1643` — [IRS-PR - REV. PROC.] Rev. Proc. 2026-14: Listado Oficial de Tramos Censales Elegibles QOZ 2.0 — Puerto Rico Incluido (2026-04-06, rev. 2026-04-08)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): sin CC RI 26-07, DA 26-02 ni BI nuevos; CC RI 26-01 a 26-06 ya en seen.txt; comunicados: ultimo del 9-abr ya en seen.txt (9779bc595a0c236c); hacienda.pr.gov devolvio 403 en fetches directos
+- IRS-PR (irs.gov): Rev. Proc. 2026-14 (QOZ 2.0 listado tramos elegibles, 6-8 abr) — nueva, no en seen.txt; IRB 2026-17 no publicado (irs.gov/irb devolvio 403; busquedas no muestran publicacion); items IRS 15-19 abr (whistleblower alert, online tool, extension planilla) — ninguno aplica PR
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida:
+- CC RI 26-07 / DA 26-02 / BI nuevos: no existen aun / sin URL verificable
+- IRB 2026-17 (IRS): no publicado aun
+- IRS items post-14 abr: whistleblower alert (17-abr), online tax debt tool (16-abr), extension reminder (14-abr) — ninguno aplica PR/Section 933/Act 60 → DESCARTADOS
+- JSF cheque alivio $554M: sin nueva decision oficial; noticias mas recientes del 15-abr siguen vigentes ("menos de dos semanas" desde 15-abr)
+- DDEC / SURI / Tribunal Apelativo / OCIF: sin publicaciones nuevas
+
+### Seguimiento activo:
+- [URGENTE] CC RI 26-06: deadline corporaciones 21-abr-2026 (MARTES, 2 dias) — ya reportado corrida #1
+- JSF/$554M cheque alivio RC 06-2026: SIN DECISION al 10:00 AST; decision estimada ~29-abr-2026
+
+### Digest enviado:
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-19 | Hora: 10:00 AST | Corrida #16
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+URGENTE: CC RI 26-06 — Deadline corporaciones MARTES 21-abr (2 dias)
+=========================================
+
+[IRS-PR - REV. PROC.] Rev. Proc. 2026-14: Listado Oficial de Tramos Censales Elegibles QOZ 2.0 — Puerto Rico Incluido
+Fecha: 2026-04-06 (revisado 2026-04-08)
+El IRS publico la Rev. Proc. 2026-14, documento complementario a la Rev. Proc. 2026-12
+(ya reportada en Corrida #6). Esta nueva guia identifica los 25,332 tramos censales de
+bajos ingresos (LICs) elegibles para ser nominados como Zonas de Oportunidad Cualificadas
+(QOZs) bajo el programa QOZ 2.0 del OBBBA, incluyendo tramos rurales con nuevos incentivos.
+Puerto Rico esta incluido: el Gobernador podra nominar hasta el 25% de los LICs elegibles
+en PR para designacion como QOZs vigentes a partir del 1 de enero de 2027. Ventana de
+nominacion: 1 de julio al 28 de septiembre de 2026 (extension de 30 dias posible hasta
+28 octubre). Las zonas actuales en PR expiran el 31 de diciembre de 2027. Impacta a
+inversionistas bajo Act 60 (Individuo Residente Inversionista) con inversiones en Qualified
+Opportunity Funds (QOFs) en Puerto Rico.
+https://www.irs.gov/newsroom/treasury-irs-provide-guidance-to-states-for-nominating-census-tracts-as-qualified-opportunity-zones-under-the-one-big-beautiful-bill
+---
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] CC RI 26-06 — DEADLINE CORPORACIONES: MARTES 21-ABR-2026 (2 DIAS)
+Corporaciones con ano natural que solicitaron prorroga deben someter la evidencia
+requerida ante Hacienda no mas tarde del martes 21 de abril de 2026. Hoy domingo
+19-abr: quedan 2 dias calendario (lun 20 / mar 21). Prorroga automatica de 6 meses
+disponible para quienes no radicaron antes del 15-abr.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+[SEGUIMIENTO RC 06-2026] JSF: SIN DECISION al 10:00 AST, 19-abr-2026
+La Junta de Supervision Fiscal (JSF) aun no ha emitido su determinacion sobre el
+Cheque de Alivio Contributivo de $554M (RC 06-2026). Ultimas noticias son del
+15-abr: Director Mujica confirmo decision en menos de dos semanas desde el 15-abr,
+estimando ~29-abr-2026. No se encontraron nuevos reportes de decision entre el
+15-19 de abril. Se notificara cuando la JSF emita su determinacion oficial.
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 18 IDs totales
+Proxima corrida: 15:00 AST (19-abr-2026)
+```
+
+---
+
 ## 2026-04-19 — CORRIDA #15 (06:00 AST)
 
 **Hora corrida:** ~06:00 AST
