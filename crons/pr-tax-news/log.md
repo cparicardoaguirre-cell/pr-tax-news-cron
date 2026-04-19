@@ -2,6 +2,71 @@
 
 ---
 
+## 2026-04-19 — CORRIDA #18 (18:00 AST)
+
+**Hora corrida:** ~18:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 20 IDs totales (+2 nuevos: IRB 2026-16, IRB 2026-17)
+
+### Items incluidos en digest:
+
+Ninguno — sin novedades nuevas.
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): sin CC RI 26-07 ni superiores; hacienda.pr.gov sigue devolviendo 403 en fetches directos; URL "Jueves Santo / cierre ciclo" devolvio 403, descartada por Regla 1; ultimo comunicado oficial verificable sigue siendo 9-abr (9779bc595a0c236c)
+- IRS-PR (irs.gov): IRB 2026-16 (13-abr) y IRB 2026-17 detectados por primera vez; ambos sin relevancia PR (Sec. 911 foreign earned income / SIFL rates); agregados a seen.txt
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida:
+- IRB 2026-16 (13-abr-2026): Rev. Proc. 2026-16 (waiver Sec. 911 para Haiti, Ucrania, RD Congo, Sudan del Sur, Irak, Libano, Mali para ano 2025) + tasas SIFL — NO aplica a PR; ID: 354ee44efc8f093f → agregado a seen.txt
+- IRB 2026-17: Notice 2026-25 (ajuste limite gastos de vivienda Sec. 911, 2026) — NO aplica a PR; ID: 04e952b5d528ed7e → agregado a seen.txt
+- Hacienda "Jueves Santo / Cierre ciclo": URL devolvio 403, descartado por Regla 1; NO agregado a seen.txt (puede ser accesible en corridas futuras)
+- Act 38-2026 (Ley 38-2026, ~10-mar-2026): Mas de 30 dias; ya en seen.txt de corridas anteriores
+- JSF/RC 06-2026 ($554M): Actualizacion de status, no documento oficial; director JSF indico decision ~29-abr-2026
+
+### Seguimiento activo:
+- [URGENTE] CC RI 26-06: deadline corporaciones MARTES 21-abr-2026 (2 dias) — ya reportado corrida #1
+- JSF/$554M cheque alivio RC 06-2026: SIN DECISION al 18:00 AST; decision estimada ~29-abr-2026 (Mujica, 15-abr)
+
+### Digest enviado:
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-19 | Hora: 18:00 AST | Corrida #18
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+URGENTE: CC RI 26-06 — Deadline corporaciones MARTES 21-abr (2 dias)
+=========================================
+
+Sin novedades oficiales nuevas desde corrida #17 (15:00 AST, 19-abr-2026).
+
+--- DESCARTADOS ESTA CORRIDA ---
+- IRB 2026-16 (13-abr-2026): Rev. Proc. 2026-16 (tasas SIFL + waiver Sec. 911) — NO aplica a PR.
+- IRB 2026-17: Notice 2026-25 (ajuste limite gastos vivienda Sec. 911, 2026) — NO aplica a PR.
+- Hacienda "Jueves Santo / Cierre ciclo": URL no cargable (403) — descartado por Regla 1.
+- Act 38-2026: >30 dias desde firma.
+- JSF/RC 06-2026: Sin decision; estimada ~29-abr.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] CC RI 26-06 — DEADLINE CORPORACIONES: MARTES 21-ABR-2026
+Corporaciones con ano natural que solicitaron prorroga deben someter la evidencia
+requerida ante Hacienda no mas tarde del martes 21 de abril de 2026. Quedan 2 dias.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+[PENDIENTE] JSF / RC 06-2026 — Cheque Alivio Contributivo $554M
+Decision esperada: ~29-abr-2026.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 20 IDs totales
+Proxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-04-19 — CORRIDA #17 (15:00 AST)
 
 **Hora corrida:** ~15:00 AST (ejecutada ~10:09 AST)
