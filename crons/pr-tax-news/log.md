@@ -2,6 +2,56 @@
 
 ---
 
+## 2026-04-19 — CORRIDA #18-B (18:13 AST)
+
+**Hora corrida:** 18:13 AST
+**Items encontrados:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida).
+**seen.txt:** 22 IDs totales (+2 nuevos esta corrida)
+
+### Items nuevos detectados:
+
+1. **[IRS-PR] REG-114499-25** — Impuesto sobre Transferencias de Remesas al Exterior
+   - Fecha: 2026-04-13
+   - ID: 6d46527e3d78d822
+   - URL: https://www.federalregister.gov/documents/2026/04/13/2026-07085/excise-tax-on-remittance-transfers
+
+2. **[Hacienda PR - Comunicado]** — Nueva nómina $97.2M en reintegros (ciclo 2025)
+   - Fecha: 2026-03-26
+   - ID: 2f4cdf15395f846d
+   - URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/departamento-de-hacienda-aprueba-nueva-nomina-de-sobre-90-millones-en-reintegros
+
+### Digest (no enviado — red restringida):
+
+```
+📋 DIGEST CONTRIBUTIVO PR — 2026-04-19 18:13 AST
+
+[IRS-PR - REGLAMENTACION PROPUESTA]
+Propuesta Reglamentación: Impuesto sobre Transferencias de Remesas (REG-114499-25)
+Fecha: 2026-04-13
+El Departamento del Tesoro y el IRS publicaron REG-114499-25 para implementar el
+impuesto de 1% sobre transferencias de remesas al exterior (sección 4475 IRC, OBBBA).
+Aplica a transferencias electrónicas desde cualquier estado, territorio o posesión de
+EE.UU., incluyendo explícitamente al Estado Libre Asociado de Puerto Rico. Período de
+comentarios públicos vence el 12 de junio de 2026.
+https://www.federalregister.gov/documents/2026/04/13/2026-07085/excise-tax-on-remittance-transfers
+---
+
+[Hacienda PR - COMUNICADO]
+Nueva nómina de reintegros: $97.2 millones — Ciclo Contributivo 2025
+Fecha: 2026-03-26
+Hacienda anunció el desembolso de $97,217,919 en reintegros correspondientes a 43,683
+planillas. Total acumulado al 26-mar: $1,692,989,341 (760,250 planillas procesadas).
+https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/departamento-de-hacienda-aprueba-nueva-nomina-de-sobre-90-millones-en-reintegros
+---
+
+================================
+Fuentes revisadas: 6 | Items: 2 | seen.txt: 22 IDs totales
+Proxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-04-19 — CORRIDA #18 (18:00 AST)
 
 **Hora corrida:** ~18:00 AST
