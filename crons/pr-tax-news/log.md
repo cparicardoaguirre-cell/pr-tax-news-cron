@@ -2,6 +2,63 @@
 
 ---
 
+## 2026-04-20 — CORRIDA #19 (06:00 AST)
+
+**Hora corrida:** 06:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 24 IDs totales (+2 nuevos esta corrida)
+
+### Items nuevos detectados:
+
+1. **[Hacienda PR - Comunicado]** — Hacienda cierra ciclo contributivo 2025: 1.2M planillas radicadas
+   - Fecha: 2026-04-15
+   - ID: 7003d42369d1d559
+   - URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/hacienda-cierra-ciclo-contributivo-con-mas-de-1-2-millones-de-planillas-radicadas
+
+### IDs agregados a seen.txt (sin incluir en digest):
+
+- IRB 2026-15 (6-abr-2026): Contiene tablas AFR y datos de poblacion PR para calculo de techo de credito de vivienda (Sec. 42(h)) — mencion de PR es incidental/rutinaria, no aplica filtro PR-especifico; ID: db227ba305f789da → agregado a seen.txt
+
+### Digest (no enviado — red restringida):
+
+```
+📋 DIGEST CONTRIBUTIVO PR — 2026-04-20 06:00 AST
+
+[Hacienda PR - COMUNICADO]
+Hacienda cierra ciclo contributivo 2025: 1.2 millones de planillas radicadas
+Fecha: 2026-04-15
+El Departamento de Hacienda anuncio el cierre del ciclo contributivo correspondiente al
+ano 2025 con 1,221,122 planillas radicadas, superando la proyeccion inicial de 1.1 a
+1.2 millones. Se desembolsaron $2,049,182,311 en reintegros correspondientes a 918,719
+planillas procesadas. El Credito por Trabajo (EITC) represento $1,477.4 millones del
+total. Se atendieron 19,513 contribuyentes en centros de preparacion de planillas.
+https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/hacienda-cierra-ciclo-contributivo-con-mas-de-1-2-millones-de-planillas-radicadas
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 24 IDs totales
+Proxima corrida: 10:00 AST
+```
+
+### Fuentes revisadas:
+
+- Hacienda PR (hacienda.pr.gov): comunicado cierre ciclo 15-abr NUEVO; CC RI 26-01-26-06 ya en seen.txt; CC RI 26-07 no encontrada; hacienda.pr.gov sigue devolviendo 403 en fetches directos
+- IRS-PR (irs.gov): IRB 2026-15 (6-abr) sin relevancia PR especifica (Sec. 42 poblacion); IRB 2026-17 ya en seen.txt; IRB 2026-18 no publicado aun; Campaign 685 activa pero sin nuevo documento oficial
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: LexJuris devolvio 403; sin sentencias tributarias nuevas indexadas por WebSearch
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas ordenes
+- OCIF: sin publicaciones contributivas nuevas
+
+### Descartados esta corrida:
+
+- Comunicados de reintegros anteriores ($200M primera nomina feb-9, $1B milestone mar-1, $200M mas mar-10): todos >30 dias; NO en seen.txt → NO se agregan (pueden reaparecer si se necesita backfill)
+- IRB 2026-15 (6-abr-2026): mencion PR incidental (Sec. 42(h) techo credito vivienda, datos de poblacion); ID: db227ba305f789da → AGREGADO a seen.txt para no re-procesar
+- GAO-26-107225 (dic 2025): Informe sobre supervision IRS de contribuyentes PR que reclaman exencion federal; >30 dias; DESCARTADO
+- IRS Campaign 685: enfoque de auditoria activo pero sin nuevo documento oficial publicado en periodo
+
+---
+
 ## 2026-04-19 — CORRIDA #18-B (18:13 AST)
 
 **Hora corrida:** 18:13 AST
