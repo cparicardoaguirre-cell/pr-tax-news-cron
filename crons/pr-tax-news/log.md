@@ -2,6 +2,80 @@
 
 ---
 
+## 2026-04-20 — CORRIDA #12 (06:00 AST)
+
+**Hora corrida:** ~06:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 18 IDs totales (16 previos + 2 nuevos: 89caffccfae4cccd + 53cc32a0c1070570)
+
+### Items incluidos en digest:
+
+1. `89caffccfae4cccd` — [TRIBUNAL PRIMERA INSTANCIA - CONTRIBUTIVO] Hacienda bajo orden de desacato: debe entregar datos contributivos de Sagardia al Senado (2026-04-17, seguimiento 2026-04-19)
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): CC RI 26-01 a 26-06 ya en seen.txt; sin CC RI 26-07, DA 26-02 ni BI RI 26-02; "cuatrienio informe" (dic-2024, >30 dias) descartado; hacienda.pr.gov devolvio 403 en fetches directos
+- IRS-PR (irs.gov): IRB 2026-17 — fetch devolvio 403; busqueda no arrojo contenido aplicable a PR; descartado
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR / Primera Instancia: Caso Sagardia — NUEVO (17/19-abr-2026); Tribunal PI ordeno a Hacienda entregar datos contributivos al Senado con advertencia de desacato
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en seen.txt)
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida:
+- CC RI 26-07 / DA 26-02 / BI RI 26-02: no existen aun / sin URL verificable
+- IRB 2026-17 (IRS): fetch 403; busqueda no confirma contenido PR → DESCARTADO
+- "Secretario Hacienda informe cuatrienio": publicado dic-2024 (~120 dias) → DESCARTADO (>30 dias)
+- JSF cheque alivio (RC 06-2026): sin decision nueva desde 15-abr; seguimiento activo
+- DDEC / SURI / OCIF: sin publicaciones nuevas
+
+### Seguimiento activo:
+- [URGENTE] CC RI 26-06: deadline corporaciones MANANA 21-abr-2026 — ya reportado corrida #1
+- JSF/$554M cheque alivio: SIN DECISION al 06:00 AST; director Mujica (15-abr) dijo "en menos de dos semanas" → decision estimada ~29-abr-2026; dia 5 de ventana; sin nuevos reportes post-17-abr
+
+### Digest enviado:
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-20 | Hora: 06:00 AST | Corrida #12
+URGENTE: CC RI 26-06 — Deadline corporaciones MANANA 21-abr-2026
+=========================================
+
+[TRIBUNAL PRIMERA INSTANCIA - CONTRIBUTIVO] Hacienda bajo orden de desacato: debe entregar datos contributivos de Sagardia al Senado
+Fecha: 2026-04-17 (seguimiento 2026-04-19)
+El Tribunal de Primera Instancia de San Juan (Jueza Iris L. Cancio Gonzalez) reitero su
+orden al Secretario de Hacienda, Angel Pantoja Rodriguez, de entregar dentro de 48 horas
+la informacion contributiva (Formularios W-2 y 480) del contratista gubernamental Antonio
+Sagardia de Jesus, solicitada por el Senado de Puerto Rico. El tribunal rechazo los
+argumentos de Hacienda sobre confidencialidad de planillas y advirtio que el incumplimiento
+podria resultar en sanciones por desacato civil. Al 19-abr-2026, era incierto si Hacienda
+habia cumplido con el plazo. El caso establece precedente sobre el alcance del poder
+investigativo legislativo frente a la confidencialidad de informacion contributiva bajo
+el Codigo de Rentas Internas de PR.
+https://www.metro.pr/noticias/2026/04/17/tribunal-ordena-a-hacienda-entregar-datos-contributivos-de-sagardia-en-48-horas/
+---
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] CC RI 26-06 — DEADLINE CORPORACIONES: 21-ABR-2026 (MANANA)
+Corporaciones con ano natural que solicitaron prorroga deben someter la evidencia
+requerida ante Hacienda no mas tarde del MANANA, martes 21 de abril de 2026.
+Esta es la ultima corrida antes del vencimiento del plazo.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+[SEGUIMIENTO RC 06-2026] JSF: SIN DECISION al 06:00 AST, 20-abr-2026
+El Cheque de Alivio Contributivo ($554M, RC 06-2026) sigue sin aval de la JSF.
+Director Mujica (15-abr): decision "en menos de dos semanas" desde el 15-abr —
+ventana estimada vence ~29-abr-2026. Estamos en dia 5 de esa ventana. Sin
+nuevos reportes post-17-abr con cambio de estado. Se notificara cuando haya
+decision oficial.
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 18 IDs totales
+Proxima corrida: 10:00 AST (20-abr-2026)
+```
+
+---
+
 ## 2026-04-17 — CORRIDA #11 (22:09 AST)
 
 **Hora corrida:** ~22:09 AST
