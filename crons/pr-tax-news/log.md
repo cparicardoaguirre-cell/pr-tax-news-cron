@@ -2,6 +2,62 @@
 
 ---
 
+## 2026-04-20 — CORRIDA #23 (10:00 AST)
+
+**Hora corrida:** ~10:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 27 IDs totales (26 previos + 1 nuevo: 7c7f482787555abf)
+
+### Items incluidos en digest:
+
+1. `7c7f482787555abf` — [TRIBUNAL PRIMERA INSTANCIA - CONTRIBUTIVO - SEGUIMIENTO] Vista de desacato al Secretario de Hacienda; jueza reserva fallo en caso Sagardia (2026-04-20)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no encontrada; BI RI 26-02 publicada antes de 15-mar-2026 (>30 dias) → filtrada; DA 26-02 no encontrada; hacienda.pr.gov devolvio 403 en todos los fetches
+- Hacienda comunicados: $200M reintegros — URL existe pero fetch 403, fecha sin verificar → DESCARTADO (Regla #1); planilla electronica disponible — probable ene/feb 2026 >30 dias → DESCARTADO
+- IRS-PR: IRB 2026-15 ya en seen.txt; IRB 2026-16 (SIFL, sin contenido PR) → DESCARTADO; IRB 2026-17 (Sec. 911 housing, no aplica PR) → DESCARTADO; IRB 2026-18 no publicado
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas ordenes
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- BI RI 26-02: publicada en o antes de 15-mar-2026 (>30 dias) — trata porcentajes municipales IVU mail-order FY 2026-2027
+- Hacienda $200M reintegros: URL indexada pero fetch 403, fecha sin verificar → Regla #1
+- Hacienda planilla electronica 2025: probable publicacion ene/feb 2026 (>30 dias)
+- IRB 2026-16: SIFL/APMA, sin mencion de PR/Sec.933/Act 60 → descartado
+- IRB 2026-17: Section 911 housing adjustments, no aplica a residentes PR → descartado
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-20 | Hora: 10:00 AST | Corrida #23
+URGENTE RECORDATORIO: CC RI 26-06 — Deadline planillas corporacion manana 21-abr-2026
+=========================================
+
+[TRIBUNAL PRIMERA INSTANCIA - CONTRIBUTIVO - SEGUIMIENTO] Vista de desacato al Secretario de Hacienda; jueza reserva fallo en caso Sagardia
+Fecha: 2026-04-20
+El Tribunal de Primera Instancia de San Juan celebro hoy (20-abr-2026) una vista de desacato
+contra el Secretario de Hacienda, Angel Pantoja Rodriguez, luego de que el Departamento no
+cumpliera con la orden de entregar la informacion contributiva (Formularios W-2 y 480) del
+contratista gubernamental Antonio Sagardia de Jesus al Senado de Puerto Rico dentro del plazo
+de 48 horas establecido por la Jueza Iris L. Cancio Gonzalez. Durante la vista, la jueza
+escucho los argumentos de ambas partes — incluyendo el respaldo publico de La Fortaleza al
+Secretario Pantoja — y se reservo su fallo sobre si procede un desacato formal. Este caso
+establece precedente sobre el alcance del poder investigativo legislativo frente a la
+confidencialidad de informacion contributiva bajo el Codigo de Rentas Internas de Puerto Rico.
+https://www.elnuevodia.com/noticias/tribunales/notas/a-vista-de-desacato-el-secretario-de-hacienda-por-no-entregar-datos-sobre-antonio-sagardia/
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 27 IDs totales
+Proxima corrida: 15:00 AST (20-abr-2026)
+```
+
+---
+
 ## 2026-04-20 — CORRIDA #22 (06:00 AST — sesion paralela)
 
 **Hora corrida:** ~06:00 AST
