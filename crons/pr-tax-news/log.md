@@ -2,6 +2,82 @@
 
 ---
 
+## 2026-04-20 — CORRIDA #21 (15:00 AST)
+
+**Hora corrida:** ~15:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 24 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+
+Ninguno — sin novedades nuevas desde corrida #20 (10:00 AST, 20-abr-2026).
+
+### Fuentes revisadas:
+- Hacienda PR (hacienda.pr.gov): sin CC RI 26-07 ni nuevas publicaciones; hacienda.pr.gov devolvio 403 en todos los fetches; CC FP 1300-28-26 filtrada (enero 2026, >30 dias)
+- IRS-PR (irs.gov): IRB 2026-16 (13-abr, APMA/SIFL, no aplica PR); IRB 2026-17 ya en seen.txt; IRB 2026-18 no publicado; IRS TACs sabados (logistico, no guidancia)
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas ordenes
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida:
+- CC FP 1300-28-26: publicada enero 15 de 2026 (>30 dias); trata calendario nomina gobierno — filtrada
+- hacienda.pr.gov comunicados varios: retornan 403 persistente, contenido no verificable → DESCARTADOS por Regla #1
+- IRS IRB 2026-16: contiene Ann. 2026-XX (APMA) y SIFL; sin mencion de PR/Sec.933/Act 60 → descartado
+- IRS IRB 2026-17 (ID: 04e952b5d528ed7e): ya procesado
+- JSF aviso violacion CRIM fiscal plan (20-abr): accion de oversight fiscal JSF, no publicacion contributiva Hacienda/IRS/DDEC; sin URL verificable (403) → descartado como item principal; incluido en seguimiento
+
+### Seguimiento activo:
+- [URGENTE] CC RI 26-06: deadline corporaciones MANANA 21-abr-2026 (ULTIMO DIA) — ya reportado desde corrida #1
+- JSF/$554M cheque alivio RC 06-2026: SIN DECISION al 15:00 AST del 20-abr-2026; Director Mujica (Metro, 15-abr): "en menos de dos semanas" => ~29-abr-2026; hoy JSF emitio aviso de violacion contra CRIM (asunto separado)
+
+### Digest enviado:
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-20 | Hora: 15:00 AST | Corrida #21
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+URGENTE: CC RI 26-06 — Deadline corporaciones MANANA 21-abr (ULTIMO DIA)
+=========================================
+
+Sin novedades oficiales nuevas desde corrida #20 (10:00 AST, 20-abr-2026).
+
+--- URGENTE: SEGUIMIENTO ACTIVO ---
+
+[URGENTE] CC RI 26-06 — DEADLINE CORPORACIONES: MANANA 21-ABR-2026
+ULTIMO DIA para corporaciones con ano natural que solicitaron prorroga
+de radicacion de la planilla corporativa (Forma SC 2644). Deben someter
+la evidencia requerida ante Hacienda no mas tarde del MARTES 21 de abril
+de 2026. Prorroga automatica de 6 meses disponible bajo CC RI 26-06.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+--- SEGUIMIENTO: RC 06-2026 (Cheque Alivio Contributivo $554M) ---
+
+[SEGUIMIENTO] JSF: SIN DECISION al 15:00 AST, 20-abr-2026
+Director Mujica (Metro.pr, 15-abr): "en menos de dos semanas" =>
+estimado ~29-abr-2026. Hacienda: 4-5 semanas adicionales tras aprobacion
+para emitir cheques. Hoy (20-abr): JSF emitio aviso de violacion contra
+plan fiscal del CRIM (distinto del RC 06-2026). RC 06-2026 pendiente.
+Se notificara cuando JSF emita su determinacion oficial.
+
+--- REVISADO ESTA CORRIDA (sin items nuevos) ---
+- Hacienda CC RI: sin CC RI 26-07 ni nuevas publicaciones (hacienda.pr.gov 403)
+- Hacienda CCFP: 1300-28-26 (enero 2026, >30 dias, filtrada)
+- IRS IRB 2026-16 (13-abr): APMA/SIFL, no aplica PR
+- IRS IRB 2026-17: ya en seen.txt (Sec.911 housing, no aplica PR)
+- IRS IRB 2026-18: no publicado aun
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas OA
+- Tribunal Apelativo: sin sentencias contributivas 2026
+- SURI / OCIF: sin avisos nuevos
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 24 IDs totales
+Proxima corrida: 18:00 AST (20-abr-2026)
+```
+
+---
+
 ## 2026-04-20 — CORRIDA #20 (10:00 AST)
 
 **Hora corrida:** ~10:00 AST
