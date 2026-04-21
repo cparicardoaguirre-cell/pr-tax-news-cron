@@ -2,6 +2,69 @@
 
 ---
 
+## 2026-04-21 — CORRIDA #27 (15:18 AST)
+
+**Hora corrida:** ~15:18 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 31 IDs totales (30 previos + 1 nuevo: c7aef2cfd77e3c40)
+
+### Items incluidos en digest:
+
+1. `c7aef2cfd77e3c40` — [TRIBUNAL APELATIVO PR - SEGUIMIENTO] Sagardia se persona ante el Apelativo para oponerse a entrega de planillas al Senado (2026-04-21)
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada
+- Hacienda DA/BI: DA 26-02 no encontrada; BI 26-02 (IVU municipal) >30 dias
+- Hacienda comunicados: Hacienda nueva nomina reintegros $158.8M / total $2,208M (21-abr) → DESCARTADO (operacional, sin novedad politica contributiva, patron consistente con corridas anteriores)
+- IRS: IRB 2026-18 no publicado; busquedas Sec.933/Act 60/PR no retornan guidance nueva
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: Sagardia PERSONAL (21-abr) → NUEVO; fallo pendiente al cierre
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas ordenes
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- CC RI 26-07: no publicada
+- IRS IRB 2026-18: no publicado
+- Hacienda reintegros $158.8M/total $2,208M (21-abr, Metro PR): primera nomina post-cierre ciclo; descartado por patron operacional consistente con exclusiones previas de corridas #21/#23/#24
+- IRS bona fide resident/Act 60/Sec.933/Sec.937: sin guidance nueva de 2026 post-15-abr
+- DDEC / SURI / OCIF: sin publicaciones nuevas
+
+### Nota de seguimiento:
+- CC RI 26-06: deadline VENCIDO hoy 21-abr. Corporaciones que no radicaron/sometieron evidencia quedan sujetas a penalidades; prorroga 6 meses (hasta 15-oct-2026) disponible para quienes solicitaron SC 2644.
+- JSF/$554M cheque alivio RC 06-2026: SIN DECISION al 15:18 AST. Decision esperada ~29-abr-2026 segun Mujica (15-abr). Monitorear proximas corridas.
+- Caso Sagardia (Tribunal Apelativo): tres recursos urgentes pendientes de fallo: (1) Certiorari Hacienda/Justicia, (2) Jurisdiccion Auxiliar Urgente Hacienda/Justicia, (3) Recurso propio de Sagardia. Fallo del Apelativo sigue pendiente al 15:18 AST.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS - CPA Ricardo Aguirre
+Fecha: 2026-04-21 | Hora: 15:18 AST | Corrida #27
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+=========================================
+
+[TRIBUNAL APELATIVO PR - SEGUIMIENTO] Sagardia se persona ante el Apelativo para oponerse a entrega de planillas al Senado
+Fecha: 2026-04-21
+El ex Secretario de Justicia Antonio Sagardia de Jesus presento hoy su propio recurso urgente ante el Tribunal de Apelaciones, solicitando que NO se entregue su informacion contributiva (Formularios W-2 y 480) al Senado de Puerto Rico, alegando que se le estan violentando sus derechos. Este recurso es independiente y adicional a los presentados por Hacienda/Justicia (certiorari urgente + jurisdiccion auxiliar urgente, reportados en corrida #24). El Tribunal tiene ante si tres recursos urgentes: dos del Gobierno y uno del propio Sagardia. El fallo del Apelativo permanece pendiente al cierre de esta corrida. El caso sigue estableciendo precedente sobre confidencialidad de planillas frente al poder investigativo legislativo bajo el Codigo de Rentas Internas de PR.
+https://www.metro.pr/noticias/2026/04/21/antonio-sagardia-acude-al-apelativo-para-que-no-entreguen-su-informacion-porque-se-le-estan-violentando-sus-derechos/
+---
+
+--- SEGUIMIENTO ACTIVO ---
+
+[CC RI 26-06 - VENCIDO HOY 21-ABR-2026]
+El plazo para que corporaciones con ano natural sometieran la evidencia requerida ante Hacienda bajo CC RI 26-06 vencio hoy, martes 21 de abril de 2026. Corporaciones que no radicaron planilla antes del 15-abr y no sometieron evidencia hoy quedan sujetas a penalidades. La prorroga automatica de 6 meses para quienes solicitaron SC 2644 permanece vigente; nuevo deadline: 15-oct-2026.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+[SEGUIMIENTO RC 06-2026] JSF: SIN DECISION al 15:18 AST, 21-abr-2026
+La Junta de Supervision Fiscal aun no ha emitido su determinacion sobre el Cheque de Alivio Contributivo de $554M (RC 06-2026). Director Mujica (15-abr): decision en 'menos de dos semanas' => estimado ~29-abr-2026. Se notificara en cuanto la JSF se pronuncie.
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 31 IDs totales
+Proxima corrida: 18:00 AST (21-abr-2026)
+```
+
+---
+
 ## 2026-04-21 — CORRIDA #26 (15:00 AST)
 
 **Hora corrida:** ~15:00 AST
