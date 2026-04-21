@@ -2,6 +2,71 @@
 
 ---
 
+## 2026-04-21 — CORRIDA #24 (06:00 AST)
+
+**Hora corrida:** ~06:00 AST
+**Items encontrados:** 3
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 30 IDs totales (27 previos + 3 nuevos: f499c2036d8854ff, b18ef078d5cae33f, bc1b2a98d306e420)
+
+### Items incluidos en digest:
+
+1. `f499c2036d8854ff` — [URGENTE][HACIENDA PR - EXTENSION] Prorroga 30 dias para empleados federales DHS en radicacion de planilla 2025; deadline ~15-may-2026 (2026-04-08)
+2. `b18ef078d5cae33f` — [HACIENDA PR - COMUNICADO] Hacienda cierra ciclo contributivo 2025: record de 1.2M planillas y $2,049M en reintegros (2026-04-15)
+3. `bc1b2a98d306e420` — [TRIBUNAL APELATIVO PR - CONTRIBUTIVO - SEGUIMIENTO] Hacienda acude al Tribunal de Apelaciones para frenar divulgacion de planillas de Sagardia al Senado (2026-04-21)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no encontrada; hacienda.pr.gov devolvio 403 en todos los fetches
+- Hacienda comunicados: "cierra ciclo contributivo" (15-abr-2026) → NUEVO; reintegros $100M/$144M/$156M/$200M → noticias operacionales sin politica contributiva nueva → DESCARTADOS
+- Hacienda extension DHS: prorroga planilla empleados federales (08-abr-2026) → NUEVO (no capturado en corridas previas)
+- IRS-PR: IRB 2026-16 (SIFL) → ya descartado en #23; IRB 2026-17 (Sec. 911) → ya descartado en #23; IRB 2026-18 → no publicado; Notice 2026-22 (poblacion para housing credits) → aplica a PR nominalmente pero no es novedad contributiva para contribuyentes → DESCARTADO
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: Hacienda certiorari caso Sagardia (21-abr-2026) → NUEVO
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas ordenes
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- CC RI 26-07: no encontrada — no existe aun
+- DA 26-02: no encontrada
+- IRB 2026-16: SIFL aircraft valuation, sin mencion PR → descartado
+- IRB 2026-17: Sec. 911 housing exclusion (no aplica residentes PR) → descartado
+- IRB 2026-18: no publicado
+- Hacienda reintegros ($100M, $144M, $156M, $200M): noticias operacionales/administrativas, sin novedad de politica contributiva
+- Notice 2026-22: datos poblacionales para housing credits — no aplica directamente a contribuyentes PR
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-21 | Hora: 06:00 AST | Corrida #24
+URGENTE: Empleados federales DHS — deadline planilla ~15-may-2026
+=========================================
+
+[URGENTE][HACIENDA PR - EXTENSION] Prorroga 30 dias para empleados federales DHS en radicacion de planilla 2025
+Fecha: 2026-04-08
+El Departamento de Hacienda otorgo una prorroga de 30 dias en la radicacion de planillas del ano contributivo 2025 a empleados federales de agencias bajo el Departamento de Seguridad Nacional (DHS), incluyendo CBP, ICE, USCIS, TSA, FEMA, USCG, USSS y CISA, entre otras. La medida responde al cierre parcial del DHS iniciado el 31 de enero de 2026. La fecha limite extendida es aproximadamente el 15 de mayo de 2026. La prorroga no genera intereses ni penalidades. Los empleados elegibles deben certificar su empleo en agencias DHS a traves del formulario SC2644 disponible en SURI. No se ha publicado numero formal de CC/DA asociado.
+https://www.elnuevodia.com/negocios/banca-finanzas/notas/hacienda-otorga-mas-tiempo-a-empleados-federales-para-radicar-su-planilla/
+---
+
+[HACIENDA PR - COMUNICADO] Hacienda cierra ciclo contributivo 2025: record de 1.2M planillas y $2,049M en reintegros
+Fecha: 2026-04-15
+El Departamento de Hacienda anuncio el cierre del ciclo contributivo 2025 con 1,221,122 planillas radicadas y $2,049,182,311 en reintegros desembolsados a 918,719 contribuyentes. De los reintegros, $1,477.4M corresponden al Credito por Trabajo (EITC), reclamado en 724,087 planillas e incluye ajuste por inflacion para el ano contributivo 2025. Al cierre se atendieron 19,513 contribuyentes en Centros de Preparacion y Radicacion Electronica. SURI fue destacado como herramienta central del ciclo.
+https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/hacienda-cierra-ciclo-contributivo-superando-expectativa-de-radicacion-con-mas-de-12-millones-de-planillas-y-sobre-2000-millones-en-reintegros
+---
+
+[TRIBUNAL APELATIVO PR - CONTRIBUTIVO - SEGUIMIENTO] Hacienda acude al Tribunal de Apelaciones para frenar divulgacion de planillas de Sagardia al Senado
+Fecha: 2026-04-21
+El Departamento de Hacienda, a traves del Departamento de Justicia, presento hoy ante el Tribunal de Apelaciones dos recursos urgentes: (1) Peticion de Jurisdiccion Auxiliar Urgente solicitando la paralizacion inmediata de la orden del TPI que obligaba a entregar informacion contributiva de Antonio Sagardia de Jesus al Senado, y (2) Peticion de Certiorari Urgente para que el Tribunal de Apelaciones revoque dicha orden. Hacienda argumento que el Codigo de Rentas Internas clasifica la informacion contributiva como confidencial y que la Solicitud de Informacion 2026-0036 del Senado no describe un proposito investigativo. Este caso sigue generando precedente sobre confidencialidad de planillas frente al poder investigativo legislativo.
+https://www.metro.pr/noticias/2026/04/21/hacienda-acude-al-tribunal-de-apelaciones-para-frenar-entrega-de-documentos-al-senado/
+---
+
+================================
+Fuentes revisadas: 6 | Items: 3 | seen.txt: 30 IDs totales
+Proxima corrida: 10:00 AST (21-abr-2026)
+```
+
+---
+
 ## 2026-04-20 — CORRIDA #23 (10:00 AST)
 
 **Hora corrida:** ~10:00 AST
