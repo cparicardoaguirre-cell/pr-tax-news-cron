@@ -2,6 +2,60 @@
 
 ---
 
+## 2026-04-21 — CORRIDA #25 (10:00 AST)
+
+**Hora corrida:** ~10:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 30 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+Ninguno — sin novedades nuevas desde corrida #24 (06:00 AST).
+
+### Fuentes revisadas:
+- Hacienda PR CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada aun
+- Hacienda PR DA/BI: no se encontraron nuevas DA o BI de 2026
+- Hacienda comunicados: "gobernadora envia medida alivio contributivo" (feb-2026) → >30 dias → DESCARTADO; demas comunicados ya en seen.txt
+- IRS-PR: IRB 2026-15 (Notice 2026-22 housing credits) → ya en seen.txt; IRB 2026-16 (SIFL) → ya en seen.txt; IRB 2026-17 (Sec. 911) → ya en seen.txt; IRB 2026-18 → no publicado
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: caso Sagardia ya en seen.txt; sin nuevas sentencias contributivas
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas ordenes administrativas
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- GAO-26-107225 ("IRS Should Improve Oversight of Taxpayers Claiming Exemption from Federal Taxes"): publicado 08-dic-2025 → >30 dias → DESCARTADO (aunque es relevante para Act 60/Sec. 933)
+- Hacienda comunicados de reintegros ($100M/$144M/$156M): ya descartados en corridas anteriores
+- "Gobernadora envia medida de alivio contributivo" (RC 06-2026, $554M): ley firmada 03-feb-2026 → >30 dias → DESCARTADO
+- CC RI 26-07: no publicada
+
+### Nota de seguimiento:
+FOMB/Junta de Control Fiscal aun pendiente de aprobar cheque de alivio contributivo (RC 06-2026, $554M). Director Robert Mujica indico el 15-abr-2026 que decision esperada en menos de 2 semanas (~29-abr-2026). Monitorear para corridas 3pm/6pm/10pm de hoy y proximos dias.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-21 | Hora: 10:00 AST | Corrida #25
+
+Sin novedades nuevas en esta corrida.
+
+Fuentes revisadas (sin items nuevos):
+- Hacienda PR: CC RI 26-01 a 26-06 ya en historial; CC RI 26-07 no publicada; DA/BI 2026 sin nuevas publicaciones; comunicados ya procesados
+- IRS-PR: IRB 2026-15/16/17 ya procesados; IRB 2026-18 no publicado aun
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: sin nuevas sentencias contributivas (caso Sagardia ya en historial)
+- DDEC: OA 2026-002 ya procesada; sin nuevas ordenes
+- OCIF: sin publicaciones contributivas
+
+NOTA DE SEGUIMIENTO: Junta de Control Fiscal aun pendiente de aprobar cheque de alivio contributivo ($554M / RC 06-2026). Director indico decision esperada antes de ~29-abr-2026.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 30 IDs totales
+Proxima corrida: 15:00 AST (21-abr-2026)
+```
+
+---
+
 ## 2026-04-21 — CORRIDA #24 (06:00 AST)
 
 **Hora corrida:** ~06:00 AST
