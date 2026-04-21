@@ -2,6 +2,72 @@
 
 ---
 
+## 2026-04-21 — CORRIDA #28 (18:00 AST)
+
+**Hora corrida:** ~18:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 31 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_Ninguno._
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-07 no publicada; CC RI 26-01 a 26-06 ya en seen.txt
+- Hacienda DA/BI: DA 26-02 y BI 26-02 no encontradas
+- Hacienda comunicados: patron operacional de reintegros (abr-16, abr-9); DESCARTADO
+- IRS IRB 2026-16: SIFL aircraft rates — NO aplica a PR; DESCARTADO
+- IRS IRB 2026-17: Notice 2026-25 (Sec. 911 housing, no PR) + farmers waiver — NO aplica a PR; DESCARTADO
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: fallo caso Sagardia AUN PENDIENTE al cierre de corrida #28 (18:00 AST)
+- DDEC: sin nuevas ordenes administrativas abril 2026
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- Hacienda reintegros (16-abr y 9-abr): patron operacional/estadistico, sin cambio de politica contributiva
+- IRS IRB 2026-16 (SIFL rates, 13-abr): no aplica a PR
+- IRS IRB 2026-17 (Sec. 911 housing / farmers waiver, 20-abr): no aplica a PR
+- Act 38-2026 (Ley 38-2026): firmada ~19-21-mar-2026; mas de 30 dias — fuera de filtro; ademas OA DDEC 2026-002 ya en seen.txt
+- GAO-26-107225 (IRS oversight PR Act 60): publicado dic-2025 — fuera de filtro de 30 dias
+- SURI / OCIF: sin publicaciones nuevas
+
+### Nota de seguimiento:
+- Caso Sagardia (Tribunal Apelativo): fallo PENDIENTE al cierre (18:00 AST). Tres recursos urgentes: (1) Certiorari Hacienda/Justicia, (2) Jurisdiccion Auxiliar Urgente Hacienda/Justicia, (3) Recurso propio Sagardia. Monitorear en corrida #29 (22:00 AST).
+- JSF/$554M cheque alivio RC 06-2026: SIN DECISION. Decision esperada ~29-abr-2026.
+- CC RI 26-07: no publicada al cierre de corrida #28.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS - CPA Ricardo Aguirre
+Fecha: 2026-04-21 | Hora: 18:00 AST | Corrida #28
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+=========================================
+
+Sin novedades nuevas en esta corrida.
+
+Fuentes revisadas: 8 | Items nuevos: 0
+
+ESTADO DE SEGUIMIENTOS ACTIVOS:
+• Caso Sagardia (Tribunal Apelativo): FALLO AUN PENDIENTE. Tres recursos ante el Apelativo (2 del Gobierno + 1 de Sagardia). Sin decision al cierre de corrida #28 (18:00 AST). Se monitorea en proxima corrida.
+• JSF / Cheque alivio RC 06-2026: Decision esperada ~29-abr-2026. Sin novedad.
+• CC RI 26-07: No publicada.
+
+DESCARTADOS EN ESTA CORRIDA:
+- Hacienda comunicados de reintegros (abril): patron operacional/estadistico, sin cambio de politica contributiva
+- IRS IRB 2026-16 (SIFL rates): no aplica a PR
+- IRS IRB 2026-17 (Sec. 911 housing / farmers waiver): no aplica a PR
+- Act 38-2026: firmada ~21-mar-2026 (>30 dias); OA DDEC 2026-002 ya en seen.txt
+- GAO-26-107225: publicado dic-2025 (fuera del filtro)
+- SURI / OCIF: sin publicaciones nuevas
+
+================================
+Fuentes revisadas: 8 | Items: 0 | seen.txt: 31 IDs totales
+Proxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-04-21 — CORRIDA #27 (15:18 AST)
 
 **Hora corrida:** ~15:18 AST
