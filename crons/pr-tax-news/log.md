@@ -2,6 +2,86 @@
 
 ---
 
+## 2026-04-21 — CORRIDA #26 (15:00 AST)
+
+**Hora corrida:** ~15:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 30 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+Ninguno — sin novedades nuevas desde corrida #25 (10:00 AST).
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada
+- Hacienda DA/BI: DA 26-02 no encontrada; BI 26-02 (IVU municipal) >30 dias
+- Hacienda comunicados: cierre ciclo contributivo (15-abr) ya en seen.txt; desembolsos reintegros ya procesados; sin nuevos comunicados post-15-abr
+- IRS: IRB 2026-17 ya procesado (Sec. 911 housing/Sec. 987 FX — sin contenido aplicable a PR); IRB 2026-18 no publicado (403)
+- SURI: sin avisos de mantenimiento o formularios nuevos indexados
+- Tribunal Apelativo PR: certiorari Sagardia presentado hoy (capturado en corrida #24); sin fallo del Apelativo hasta el cierre
+- DDEC: OA 2026-002 ya en seen.txt; sin nuevas ordenes administrativas
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- CC RI 26-07: no publicada — no existe aun
+- DA 26-02: no encontrada
+- IRB 2026-17: ya procesado en corridas anteriores; sin contenido aplicable a PR
+- IRB 2026-18: no publicado (URL devuelve 403)
+- Hacienda comunicados reintegros ($100M, $144M, $156M, $200M): ya procesados en corridas anteriores
+
+### Nota de seguimiento:
+- [URGENTE] CC RI 26-06: deadline corporaciones 21-abr-2026 ha VENCIDO a las 15:00 AST. Corporaciones que no radicaron ni sometieron evidencia hoy quedan sujetas a penalidades; prorroga de 6 meses (hasta 15-oct-2026) disponible para quienes la solicitaron via SC 2644.
+- JSF/$554M cheque alivio RC 06-2026: SIN DECISION al 15:00 AST. Decision esperada ~29-abr-2026 segun Mujica (15-abr). Monitorear proximas corridas.
+- Caso Sagardia (Tribunal Apelativo): certiorari + jurisdiccion auxiliar urgente presentados hoy por Hacienda/Justicia. Tribunal de Apelaciones aun no ha fallado al cierre. Plazo TPI vence ~21-22 abr. Precedente sobre confidencialidad planillas vs poder investigativo legislativo.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-21 | Hora: 15:00 AST | Corrida #26
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal, SURI, OCIF
+=========================================
+
+Sin novedades oficiales nuevas desde corrida #25 (10:00 AST).
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] CC RI 26-06 — DEADLINE CORPORACIONES: HOY 21-ABR-2026 (VENCIDO a 15:00 AST)
+El plazo para que corporaciones con ano natural sometieran la evidencia requerida ante
+Hacienda bajo CC RI 26-06 vencia hoy, martes 21 de abril de 2026. A las 15:00 AST el
+deadline ha transcurrido. Corporaciones que no radicaron antes del 15-abr y no sometieron
+evidencia hoy quedan sujetas a penalidades. La prorroga automatica de 6 meses para quienes
+la solicitaron permanece vigente (deadline radicacion: 15 de octubre de 2026).
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-06-cc-ri-26-06
+
+[SEGUIMIENTO RC 06-2026] JSF: SIN DECISION al 15:00 AST, 21-abr-2026
+La Junta de Supervision Fiscal aun no ha emitido su determinacion sobre el Cheque de
+Alivio Contributivo de $554M. Director Robert Mujica anuncio el 15-abr que la decision
+vendria en "menos de dos semanas" desde esa fecha (~29-abr-2026). Sin reportes de decision
+para hoy 21-abr al cierre de esta corrida. Se notificara en cuanto la JSF se pronuncie.
+
+[SEGUIMIENTO - TRIBUNAL APELATIVO] Caso Sagardia: Certiorari urgente pendiente
+El Tribunal de Apelaciones aun no ha actuado publicamente sobre los recursos urgentes
+presentados hoy por el Gobierno: (1) Peticion de Jurisdiccion Auxiliar Urgente para
+paralizar inmediatamente la orden TPI, y (2) Certiorari Urgente para revocar la orden
+que obliga a Hacienda a entregar informacion contributiva de Antonio Sagardia al Senado.
+El plazo del TPI vence aproximadamente hoy/manana (21-22 abr). Este caso establece
+precedente sobre la confidencialidad de planillas frente al poder investigativo legislativo.
+
+--- REVISADO ESTA CORRIDA ---
+- Hacienda CC/DA/BI: CC RI 26-01 a 26-06 ya en historial; CC RI 26-07 no publicada; DA 26-02 no encontrada
+- IRS: IRB 2026-17 ya procesado (sin contenido aplicable a PR); IRB 2026-18 no publicado
+- SURI: sin avisos de mantenimiento o formularios nuevos indexados
+- DDEC: sin nuevas ordenes administrativas (OA 2026-002 ya en historial)
+- OCIF: sin publicaciones contributivas
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 30 IDs totales
+Proxima corrida: 18:00 AST (21-abr-2026)
+```
+
+---
+
 ## 2026-04-21 — CORRIDA #25 (10:00 AST)
 
 **Hora corrida:** ~10:00 AST
