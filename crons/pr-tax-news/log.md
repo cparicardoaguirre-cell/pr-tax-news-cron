@@ -2,6 +2,86 @@
 
 ---
 
+## 2026-04-22 — CORRIDA #30 (06:00 AST)
+
+**Hora corrida:** ~06:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 45 IDs totales (44 previos + 1 nuevo: 95eac451c9f2ca38)
+
+### Items incluidos en digest:
+
+1. `95eac451c9f2ca38` — [HACIENDA PR - BI] BI RI 26-03: Nuevo Modelo SC 2745 — Cambio Obligatorio desde 1-jun-2026 (2026-04-15)
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (confirmado: sin indexacion)
+- Hacienda DA: DA 26-01 no confirmada; sin nuevas DAs 2026 verificadas
+- Hacienda BI: BI RI 26-03 (15-abr-2026) — NUEVO; BI RI 26-02 ya filtrada (>30 dias) en corridas anteriores
+- Hacienda comunicados: sin nuevos comunicados post-corrida #29; reintegros post-ciclo = patron operacional descartado
+- IRS IRB 2026-15 a 2026-17: ya en seen.txt; IRB 2026-18: no publicado
+- IRS PR-specific: sin notices/rulings nuevas aplicables a PR
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: caso Sagardia — paralizado por Apelativo (ya en seen.txt 7b7b5d61c2b748da); sin fallo definitivo al 22-abr-2026 06:00 AST
+- DDEC: sin nuevas ordenes administrativas
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- CC RI 26-07: no publicada — sin indexacion en hacienda.pr.gov ni fuentes secundarias al 22-abr-2026 06:00 AST
+- IRS IRBs 2026-15 a 2026-17: ya procesados; sin items nuevos aplicables a PR
+- "Camino a La Fortaleza resolucion alivio": publicado 03-feb-2026 (>30 dias) — DESCARTADO
+- "Junta Fiscal decidiria finales semana" (elnuevodia.com): ya en seen.txt (3c1b2393affd3dd2)
+- "JSF cerca de decidir" (wapa.tv): misma materia que item 687af191e0469297 en seen.txt; sin decision formal
+- Hacienda reintegros operacionales post-ciclo: patron estadistico, sin cambio de politica
+
+### Notas de seguimiento:
+- BI RI 26-03: Deadline practico URGENTE para CPAs — Version vieja SC 2745 valid hasta 31-may-2026; nueva version obligatoria desde 1-jun-2026. Actualizar modelos de practica antes de mayo.
+- Caso Sagardia (Tribunal Apelativo): SIN FALLO DEFINITIVO. Tres recursos pendientes. Senado evalua TSPR si Apelativo falla a favor de Hacienda. Monitorear.
+- JSF RC 06-2026 ($554M): SIN DECISION. Decision esperada ~29-abr-2026. Nuevas fuentes indican podria decidirse "esta semana". Monitorear corridas 10am/3pm/6pm/10pm.
+- CC RI 26-07: no publicada. Monitorear.
+- IRS IRB 2026-18: no publicado. Esperado proxima semana.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST — Novedades Contributivas PR
+Corrida #30 | Miercoles, 22 de abril de 2026 | 06:00 AM AST
+================================================
+
+[HACIENDA PR - BI] BI RI 26-03: Nuevo Modelo SC 2745 — Cambio Obligatorio desde 1-jun-2026
+Fecha: 2026-04-15
+El Departamento de Hacienda emitio el Boletin Informativo de Rentas Internas Num. 26-03 (BI RI 26-03)
+notificando la disponibilidad de una nueva version del Modelo SC 2745 (Poder y Declaracion de
+Representacion), con fecha de revision 27 de marzo de 2026. La version anterior (oct-2016) podra
+utilizarse hasta el 31 de mayo de 2026; a partir del 1 de junio de 2026 UNICAMENTE se aceptara
+la nueva version. El SC 2745 es el instrumento mediante el cual contribuyentes y representantes
+(CPA, abogados) formalizan la representacion ante Hacienda bajo la Sec. 6072.01 del Codigo de
+Rentas Internas de PR-2011. La nueva version esta disponible en "Planillas, Formularios y Anejos"
+en hacienda.pr.gov.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[SEGUIMIENTO #30] Caso Sagardia — Confidencialidad Contributiva vs. Poder Legislativo
+El Tribunal de Apelaciones paralizo el 21-abr la orden que obligaba a Hacienda a entregar planillas
+de Antonio Sagardia al Senado. Tres recursos ante el Apelativo: (1) certiorari Hacienda/Justicia,
+(2) jurisdiccion auxiliar Hacienda/Justicia, (3) recurso propio Sagardia. El Senado evalua escalar
+al Tribunal Supremo. SIN FALLO DEFINITIVO al 22-abr-2026 06:00 AST.
+
+[SEGUIMIENTO #30] JSF RC 06-2026 — Cheque Alivio Contributivo ~$554M
+La JSF no ha emitido su determinacion sobre el Cheque de Alivio Contributivo. Director Mujica
+anuncio el 15-abr decision en "menos de dos semanas" (~29-abr-2026). Nuevas fuentes indican que
+la JSF podria decidir esta semana. SIN DECISION al 22-abr-2026 06:00 AST.
+
+================================================
+Fuentes revisadas: 6 | Items nuevos: 1 | seen.txt: 45 IDs totales
+CC RI 26-07: no publicada. IRS IRB 2026-18: no publicado aun.
+Proxima corrida: 10:00 AM AST
+================================================
+```
+
+---
+
 ## 2026-04-21 — CORRIDA #29 (22:00 AST)
 
 **Hora corrida:** ~22:11 AST
