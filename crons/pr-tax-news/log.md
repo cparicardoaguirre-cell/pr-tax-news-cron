@@ -2,6 +2,71 @@
 
 ---
 
+## 2026-04-22 — CORRIDA #31 (10:00 AST)
+
+**Hora corrida:** ~10:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 45 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (confirmado: sin indexacion)
+- Hacienda DA: sin DA 26-01 ni otras DAs 2026 publicadas
+- Hacienda BI: sin nuevos boletines post BI RI 26-03 (ya en seen.txt)
+- Hacienda comunicados: sin nuevos comunicados; "cierra ciclo contributivo" (20-abr) ya en seen.txt
+- IRS IRB 2026-16, 2026-17: ya en seen.txt; IRB 2026-18: no publicado
+- IRS PR-specific: sin notices/rulings nuevas aplicables a PR en abril 2026
+- SURI: sin avisos de mantenimiento indexados
+- Tribunal Apelativo PR: Sagardia paralizado — ya en seen.txt (7b7b5d61c2b748da); sin fallos contributivos nuevos
+- DDEC: sin nuevas ordenes administrativas post DDEC 2026-002 (ya en seen.txt via microjuris)
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- "Junta Fiscal rechaza los proyectos de alivio contributivo" (elnuevodia.com): fecha confirmada 31-ene-2026 (>30 dias) — DESCARTADO
+- JSF aviso violacion CRIM (20-abr-2026): materia de cumplimiento PROMESA municipal, no novedad contributiva directa — DESCARTADO
+- CC RI 26-07: no publicada — sin indexacion al 22-abr-2026 10:00 AST
+- IRS IRBs 2026-16 a 2026-17: ya en seen.txt; sin items nuevos aplicables a PR
+
+### Notas de seguimiento:
+- Caso Sagardia (Tribunal Apelativo): SIN FALLO DEFINITIVO. Tres recursos pendientes ante Apelativo. Senado evalua TSPR si fallo favorable a Hacienda. Monitorear.
+- JSF RC-06-2026 ($554M cheque alivio): SIN DECISION FORMAL. Decision esperada ~29-abr-2026. Materia separada del rechazo de enero a reforma contributiva amplia. Monitorear.
+- CC RI 26-07: no publicada. Monitorear.
+- IRS IRB 2026-18: no publicado. Esperado proxima semana.
+- BI RI 26-03 URGENTE activo: Deadline SC 2745 viejo = 31-may-2026; nueva version obligatoria 1-jun-2026.
+
+### Mensaje enviado (intento; fallo en sandbox):
+
+```
+Sin novedades — Corrida #31 | Mie 22-abr-2026 | 10:00 AM AST
+================================================
+
+No se encontraron publicaciones nuevas en esta corrida.
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[SEGUIMIENTO #31] Caso Sagardia — Confidencialidad Contributiva vs. Poder Legislativo
+Tribunal de Apelaciones mantiene paralizada la entrega de planillas de Antonio Sagardia al
+Senado mientras evalua tres recursos (certiorari + jurisdiccion auxiliar de Hacienda/Justicia,
+recurso de Sagardia). El Senado evalua escalar al TSPR si Apelativo falla a favor de Hacienda.
+SIN FALLO DEFINITIVO al 22-abr-2026 10:00 AST.
+
+[SEGUIMIENTO #31] JSF RC-06-2026 — Cheque Alivio Contributivo ~$554M
+La JSF no ha emitido determinacion formal sobre el cheque de alivio. El director Mujica indico
+el 15-abr decision en "menos de dos semanas" (~29-abr-2026). La JSF rechazo en enero los
+proyectos de reforma contributiva amplia (reduccion de tasas), pero el cheque RC-06-2026 es
+materia separada. SIN DECISION al 22-abr-2026 10:00 AST.
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 45 IDs totales
+Proxima corrida: 03:00 PM AST
+================================
+```
+
+---
+
 ## 2026-04-22 — CORRIDA #30 (06:00 AST)
 
 **Hora corrida:** ~06:00 AST
