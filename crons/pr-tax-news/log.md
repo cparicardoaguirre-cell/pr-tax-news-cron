@@ -2,6 +2,77 @@
 
 ---
 
+## 2026-04-21 — CORRIDA #29 (22:00 AST)
+
+**Hora corrida:** ~22:11 AST
+**Items encontrados:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 44 IDs totales (31 previos + 13 nuevos)
+
+### Items incluidos en digest:
+
+1. `7b7b5d61c2b748da` — [TRIBUNAL APELATIVO PR - FALLO / SEGUIMIENTO] Apelativo paraliza entrega de datos contributivos de Sagardia al Senado (2026-04-21, noche)
+2. `687af191e0469297` — [JSF - SEGUIMIENTO] RC 06-2026: JSF anticipa decision en <2 semanas sobre $554M en cheques de alivio contributivo (2026-04-15)
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada
+- Hacienda DA/BI: sin nuevas DAs 2026 en catalogo; BI RI 25-09 (abr-2025) descartado por >30 dias
+- Hacienda comunicados: reintegros $200M Apr-21 (patron operacional — descartado); horarios especiales colecturias (vencido — descartado); DHS prorroga URL adicional (ya capturado corrida previa)
+- IRS IRB 2026-16 y 2026-17: ya en seen.txt, sin items nuevos aplicables a PR
+- IRS act/notices: GAO-26-107225 (dic-2025, >30 dias — descartado); Rev.Proc.2026-14 OZ (ya en seen via newsroom URL)
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: FALLO SAGARDIA emitido esta noche — NUEVO
+- JSF / Cheque alivio RC 06-2026: Metro PR Apr-15 confirma decision antes del 29-abr — NUEVO URL
+- DDEC: sin nuevas ordenes administrativas abril 2026 (OA DDEC 2026-002 ya en seen)
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- Hacienda reintegros operacionales (apr-21, $200M; $144M): patron estadistico, sin cambio de politica contributiva
+- Hacienda horarios especiales colecturias: ya vencido (15-abr)
+- DHS comunicado "hasta 25-abr" (70ec40db32267ff4): prorroga DHS ya capturada corrida previa (f499c2036d8854ff), deadline es May 15 (30 dias desde abr-15)
+- BI RI 25-09: publicado abr-2025, >30 dias
+- RSM alert DDEC 2026-002: misma materia que item ya en seen (d1ddd10ef194ea50); OA fechada 11-mar-2026 >30 dias
+- GAO-26-107225: publicado dic-2025, >30 dias
+- IRS IRBs 2026-16 y 2026-17: ya vistos; sin items PR aplicables
+- Rev.Proc.2026-14 PDF: mismo tema que newsroom URL ya en seen
+
+### Nota de seguimiento:
+- Caso Sagardia (Tribunal Apelativo): Apelativo PARALIZO entrega. Meritos del caso siguen pendientes. Senado evalua recurrir al TSPR. Monitorear en proxima corrida.
+- JSF / RC 06-2026 ($554M): Decision esperada antes del 29-abr-2026. Sin decision al cierre de corrida #29.
+- CC RI 26-07: no publicada.
+- IRS IRB 2026-18: proxima semana.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST — Novedades Contributivas PR
+Corrida #29 | Martes, 21 de abril de 2026 | 10:11 PM AST
+================================================
+
+[TRIBUNAL APELATIVO PR - FALLO / SEGUIMIENTO] Apelativo paraliza entrega de datos contributivos de Sagardia al Senado — Fallo emitido hoy en la noche
+Fecha: 2026-04-21 (noche)
+El Tribunal de Apelaciones emitio fallo esta noche concediendo la Jurisdiccion Auxiliar Urgente solicitada por Hacienda/Justicia y paralizando temporalmente la orden del TPI que obligaba a entregar informacion contributiva (W-2 y formularios 480) del contratista Antonio Sagardia de Jesus al Senado de PR. El Apelativo aclaro que la determinacion no adjudica los meritos; el caso continua bajo evaluacion. Ante el Apelativo estan tres recursos: (1) certiorari Hacienda/Justicia, (2) jurisdiccion auxiliar Hacienda/Justicia, (3) recurso propio Sagardia. El caso establece precedente sobre confidencialidad contributiva (Codigo Rentas Internas PR) frente al poder investigativo legislativo. El Senado evalua recurrir al Tribunal Supremo si el Apelativo falla a favor de Hacienda.
+https://www.metro.pr/noticias/2026/04/21/apelativo-paraliza-entrega-de-documentos-contributivos-de-sagardia-al-senado/
+---
+
+[JSF - SEGUIMIENTO] RC 06-2026: JSF anticipa decision en <2 semanas sobre $554M en cheques de alivio contributivo
+Fecha: 2026-04-15
+El Director Ejecutivo de la JSF, Robert Mujica, declaro el 15 de abril que la Junta espera tomar decision sobre la RC 06-2026 (cheques de alivio $554M) antes del 29 de abril. Para recibir el cheque: haber radicado planilla 2025 entre 9-feb y 15-abr-2026, residencia en PR todo 2025, ingreso neto tributable no mayor de $150,000. El Gobierno continua negociando con la JSF bajo PROMESA seccion 204. Sin decision al cierre de corrida #29.
+https://www.metro.pr/noticias/2026/04/15/en-menos-de-dos-semanas-decision-sobre-el-alivio-contributivo-segun-director-junta-de-supervision-fiscal/
+---
+
+================================================
+Fuentes revisadas: 6 (Hacienda PR, SURI, IRS-PR, Tribunal, DDEC, OCIF)
+Items nuevos: 2 | seen.txt: 44 IDs totales
+CC RI 26-07: no publicada al cierre.
+IRS IRBs 2026-15 a 2026-17: en seen.txt, sin items nuevos aplicables a PR.
+SURI, DDEC, OCIF: sin publicaciones nuevas.
+Proxima corrida: 06:00 AM AST (mier. 22 abril)
+================================================
+```
+
+---
+
 ## 2026-04-21 — CORRIDA #28 (18:00 AST)
 
 **Hora corrida:** ~18:00 AST
