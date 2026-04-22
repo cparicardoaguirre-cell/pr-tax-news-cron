@@ -2,6 +2,71 @@
 
 ---
 
+## 2026-04-22 — CORRIDA #33 (18:00 AST)
+
+**Hora corrida:** ~18:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 45 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (confirmado)
+- Hacienda CC FP 1300-28-26: publicada 15-ene-2026 (>30 días) + contenido gov interno — DESCARTADA
+- Hacienda DA: sin DAs 2026 publicadas
+- Hacienda BI: BI RI 26-03 ya en seen.txt; sin nuevos boletines
+- Hacienda comunicados: "cierra ciclo >1.2M planillas/$2,000M" (b18ef078d5cae33f) y "$156M reintegros" (9779bc595a0c236c) ya en seen.txt; operacionales descartados
+- IRS IRB 2026-17: ya en seen.txt; IRB 2026-18: no publicado
+- IRS PR-specific: sin notices/rulings nuevas aplicables a PR
+- SURI: sin avisos de mantenimiento indexados
+- Tribunal Apelativo PR: Sagardia — paralización mantenida (21-abr); sin fallo final al 22-abr-2026 18:00 AST
+- DDEC: sin nuevas órdenes administrativas post DDEC 2026-002
+- OCIF: sin publicaciones contributivas
+- JSF RC-06-2026: sin decisión formal al 22-abr-2026 18:00 AST
+
+### Descartados:
+- CC RI 26-07: no publicada — sin indexación en hacienda.pr.gov al 22-abr-2026 18:00 AST
+- IRS IRB 2026-18: no publicado al cierre de esta corrida
+- CC FP 1300-28-26: publicada ene-15-2026 (>30 días) y de contenido interno gubernamental (códigos de disposición en vouchers para agencias) — DESCARTADA
+- Comunicados de reintegros Hacienda: patrón estadístico, sin cambio de política — DESCARTADOS
+
+### Notas de seguimiento:
+- Caso Sagardia: El Tribunal Apelativo mantiene la paralización desde el 21-abr. Panel: Rivera Marchand (presidenta), Mateu Meléndez, Boria Vizcarrondo, Robles Adorno. Rechazó comparecencia especial del Lcdo. Sagardía. El Senado evalúa recurrir al TSPR si fallo favorece a Hacienda. SIN DECISION FINAL al 22-abr-2026 18:00 AST.
+- JSF RC-06-2026 ($554M cheque alivio): Prensa reporta decisión podría ser "a finales de esta semana" (semana 21-25 abr). SIN DECISION FORMAL al 22-abr-2026 18:00 AST. Deadline estimado ~29-abr-2026.
+- BI RI 26-03 URGENTE activo: Deadline SC 2745 viejo = 31-may-2026; nueva versión obligatoria 1-jun-2026.
+- CC RI 26-07: no publicada. Monitorear.
+- IRS IRB 2026-18: no publicado. Esperado próxima semana.
+
+### Mensaje enviado (intento; falló en sandbox):
+
+```
+Sin novedades — Corrida #33 | Mie 22-abr-2026 | 06:00 PM AST
+================================================
+
+No se encontraron publicaciones nuevas en esta corrida.
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[SEGUIMIENTO #33] Caso Sagardia — Confidencialidad Contributiva vs. Poder Legislativo
+Tribunal Apelativo mantiene la paralización de la orden de entrega de documentos contributivos de Sagardía al Senado, emitida el 21-abr. El panel (Rivera Marchand, Mateu Meléndez, Boria Vizcarrondo, Robles Adorno) rechazó además la comparecencia especial del Lcdo. Sagardía. SIN DECISION FINAL del Apelativo al 22-abr-2026 06:00 PM AST. El Senado evalúa recurrir al TSPR si el fallo favorece a Hacienda.
+
+[SEGUIMIENTO #33] JSF RC-06-2026 — Cheque Alivio Contributivo ~$554M
+Director Mujica indicó (~15-abr) que la decisión sería en "menos de dos semanas" (~29-abr-2026). Prensa reporta que la decisión podría ser a finales de esta semana. SIN DETERMINACIÓN FORMAL al 22-abr-2026 06:00 PM AST.
+
+[URGENTE - SEGUIMIENTO #33] BI RI 26-03 — Nuevo Modelo SC 2745 obligatorio 1-jun-2026
+El Boletín Informativo de Rentas Internas Núm. 26-03 (15-abr-2026) establece que la nueva versión del Modelo SC 2745 (Poder y Declaración de Representación, rev. 27-mar-2026) será OBLIGATORIA desde el 1 de junio de 2026. Plazo para actualizar modelos de práctica: antes del 31 de mayo de 2026.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 45 IDs totales
+Próxima corrida: 10:00 PM AST
+================================
+```
+
+---
+
 ## 2026-04-22 — CORRIDA #32 (15:00 AST)
 
 **Hora corrida:** ~15:00 AST
