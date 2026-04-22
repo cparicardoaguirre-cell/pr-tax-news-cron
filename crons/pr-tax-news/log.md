@@ -2,6 +2,83 @@
 
 ---
 
+## 2026-04-22 — CORRIDA #32 (15:00 AST)
+
+**Hora corrida:** ~15:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En produccion el envio funcionara normalmente.
+**seen.txt:** 45 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (confirmado)
+- Hacienda DA: sin DAs 2026 publicadas
+- Hacienda BI: BI RI 26-03 ya en seen.txt; sin nuevos boletines
+- Hacienda comunicados: todos los de abril ya en seen.txt; "$200M reintegros" (aa982e965c190e67) y "$144M reintegros" (d0c51ec9f8b1653f) ya registrados; operacionales descartados en corridas anteriores
+- IRS IRB 2026-16, 2026-17: ya en seen.txt; IRB 2026-18: no publicado
+- IRS PR-specific: sin notices/rulings nuevas aplicables a PR
+- SURI: sin avisos de mantenimiento indexados
+- Tribunal Apelativo PR: caso Sagardia (bc1b2a98d306e420 — Hacienda apeló el 21-abr) ya en seen.txt; sin fallo del Apelativo al 22-abr-2026 15:00 AST
+- DDEC: sin nuevas ordenes administrativas post DDEC 2026-002
+- OCIF: sin publicaciones contributivas
+
+### Descartados:
+- CC RI 26-07: no publicada — sin indexacion en hacienda.pr.gov al 22-abr-2026 15:00 AST
+- IRS IRB 2026-18: no publicado al cierre de esta corrida
+- GAO-26-107225 "Puerto Rico: IRS Should Improve Oversight...": publicado dic-2025 (>30 dias) — DESCARTADO
+- Caso criminal IRS/Gajwani (Act 60, falsa radicacion $30M): sentencia agosto 2024/2025 (>30 dias) — DESCARTADO
+- Comunicados reintegros operacionales Hacienda: patron estadistico, sin cambio de politica — DESCARTADO
+- DDEC / SURI / OCIF: sin publicaciones nuevas
+
+### Notas de seguimiento:
+- Caso Sagardia: Hacienda presento ante Apelativo el 21-abr: Auxiliar de Jurisdiccion Urgente + Certiorari. Tres recursos activos ante Apelativo. Senado evalua TSPR si fallo favorable a Hacienda. SIN DECISION al 22-abr-2026 15:00 AST.
+- JSF RC-06-2026 ($554M cheque alivio): SIN DECISION FORMAL. Decision esperada ~29-abr-2026.
+- BI RI 26-03 URGENTE activo: Deadline SC 2745 viejo = 31-may-2026; nueva version obligatoria 1-jun-2026.
+- CC RI 26-07: no publicada. Monitorear.
+- IRS IRB 2026-18: no publicado. Esperado proxima semana.
+
+### Mensaje enviado (intento; fallo en sandbox):
+
+```
+Sin novedades — Corrida #32 | Mie 22-abr-2026 | 03:00 PM AST
+================================================
+
+No se encontraron publicaciones nuevas en esta corrida.
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[SEGUIMIENTO #32] Caso Sagardia — Confidencialidad Contributiva vs. Poder Legislativo
+El 21-abr-2026, el Secretario de Hacienda Angel Pantoja presento ante el Tribunal de
+Apelaciones dos recursos urgentes: (1) Auxiliar de Jurisdiccion solicitando paralizar
+inmediatamente la orden del TPI de entregar documentos al Senado; (2) Certiorari
+solicitando revision y revocacion de dicha orden. El caso gira en torno a la
+confidencialidad de planillas bajo el Codigo de Rentas Internas vs. el poder
+investigativo legislativo. El Tribunal Apelativo tiene ahora tres recursos activos.
+SIN DECISION del Tribunal Apelativo al 22-abr-2026 15:00 AST.
+
+[SEGUIMIENTO #32] JSF RC-06-2026 — Cheque Alivio Contributivo ~$554M
+La Junta de Supervision Fiscal no ha emitido determinacion formal sobre el cheque de
+alivio contributivo. El director Mujica indico el 15-abr que la decision seria "en
+menos de dos semanas" (~29-abr-2026). SIN DECISION FORMAL al 22-abr-2026 15:00 AST.
+
+[URGENTE - SEGUIMIENTO #32] BI RI 26-03 — Nuevo Modelo SC 2745 obligatorio 1-jun-2026
+El Boletin Informativo de Rentas Internas Num. 26-03 (15-abr-2026) establece que la
+nueva version del Modelo SC 2745 (Poder y Declaracion de Representacion, rev. 27-mar-2026)
+sera OBLIGATORIA desde el 1 de junio de 2026. La version anterior (oct-2016) puede
+usarse hasta el 31-may-2026 unicamente. Plazo practico para actualizar modelos de
+practica: antes del 31 de mayo de 2026.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 45 IDs totales
+Proxima corrida: 06:00 PM AST
+================================
+```
+
+---
+
 ## 2026-04-22 — CORRIDA #31 (10:00 AST)
 
 **Hora corrida:** ~10:00 AST
