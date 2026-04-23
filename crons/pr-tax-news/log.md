@@ -2,6 +2,74 @@
 
 ---
 
+## 2026-04-23 — CORRIDA #34 (AST)
+
+**Hora corrida:** 2026-04-23 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 50 IDs totales (+5 IDs operacionales/estadísticos añadidos para prevenir re-detección)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 sin URL directa en hacienda.pr.gov — DESCARTADA (Regla #1)
+- Hacienda DA: sin DAs 2026 publicadas (solo DA 18-05 en índice)
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: 5 comunicados operacionales/estadísticos encontrados (nuevos en índice) — DESCARTADOS (reintegros = patrón estadístico; centros/planilla electrónica = operacional >30 días)
+- IRS IRB 2026-18: no publicado; IRB 2026-15/17 ya en seen.txt; sin nuevos notices/rulings aplicables a PR
+- SURI: sin avisos indexados
+- Tribunal Apelativo PR: Sagardia — paralización vigente (desde 21-abr); SIN DECISIÓN FINAL al 23-abr-2026
+- DDEC: sin nuevas órdenes administrativas post DDEC 2026-002 (ya en seen.txt)
+- GAO-26-107225: ya en seen.txt
+- JSF RC-06-2026: sin decisión formal al 23-abr-2026; conversaciones "productivas"
+- OCIF: sin publicaciones contributivas
+
+### Descartados (operacionales/estadísticos añadidos a seen.txt):
+- `eef6335d66c47ea7` — "Hacienda aprueba otra nómina de reintegros de sobre $100 millones" — operacional/estadístico
+- `37e8b2930fffc5a1` — "Hacienda paga nuevos reintegros y sobrepasa los $1,000 millones en 24 días" — operacional/estadístico + >30 días
+- `b346422112977010` — "Hacienda envía tercera ronda de reintegros por más de $270 millones" — operacional/estadístico + >30 días
+- `5dd6b0b4e6367e08` — "Disponible para radicación electrónica la Planilla de Individuos 2025" — operacional + >30 días
+- `a7883b8315afea31` — "Hacienda abre Centros de Preparación y Radicación de Planillas Electrónicas" — operacional + >30 días
+- CC RI 26-07: sin URL directa en hacienda.pr.gov al 23-abr-2026 — NO PUBLICADA (confirmado)
+- BI RI 26-04: no publicada
+- IRS IRB 2026-18: no publicado
+
+### Notas de seguimiento:
+- Caso Sagardia: Paralización vigente desde 21-abr. Panel: Rivera Marchand (presidenta), Mateu Meléndez, Boria Vizcarrondo, Robles Adorno. No adjudica el fondo; caso bajo evaluación. Senado evalúa TSPR si fallo favorece al Ejecutivo. SIN DECISIÓN FINAL al 23-abr-2026.
+- JSF RC-06-2026 ($554M cheque alivio): JSF y Ejecutivo en conversaciones "productivas" y "muy cerca de concluir en forma positiva". Sin fecha oficial confirmada al 23-abr. Deadline estimado Mujica (~15-abr): ~29-abr-2026.
+- BI RI 26-03 URGENTE activo: Deadline SC 2745 viejo = 31-may-2026; nueva versión obligatoria 1-jun-2026.
+- CC RI 26-07: no publicada. Monitorear.
+- IRS IRB 2026-18: no publicado. Esperado próxima semana.
+
+### Mensaje enviado (intento; falló en sandbox):
+
+```
+Sin novedades — Corrida #34 | Jue 23-abr-2026 | AST
+================================================
+
+No se encontraron publicaciones nuevas en esta corrida.
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[SEGUIMIENTO #34] Caso Sagardía — Confidencialidad Contributiva vs. Poder Legislativo
+Tribunal de Apelaciones mantiene la paralización de la orden de entrega de documentos contributivos de Sagardía al Senado (desde 21-abr-2026). Panel: Rivera Marchand (presidenta), Mateu Meléndez, Boria Vizcarrondo, Robles Adorno. La paraliz. no adjudica el fondo del caso; continúa bajo evaluación. SIN DECISIÓN FINAL al 23-abr-2026. Senado evalúa recurrir al TSPR si fallo favorece a Hacienda.
+
+[SEGUIMIENTO #34] JSF RC-06-2026 — Cheque Alivio Contributivo ~$554M
+Sin determinación formal de la Junta de Supervisión Fiscal al 23-abr-2026. Conversaciones entre JSF y Ejecutivo descritas como "productivas" y "muy cerca de concluir en forma positiva". Director Mujica indicó (~15-abr) decisión en "menos de dos semanas" (~29-abr-2026). SIN FECHA OFICIAL CONFIRMADA al cierre de esta corrida.
+
+[URGENTE - SEGUIMIENTO #34] BI RI 26-03 — Nuevo Modelo SC 2745 obligatorio 1-jun-2026
+BI de Rentas Internas Núm. 26-03 (15-abr-2026): nueva versión del Modelo SC 2745 (Poder y Declaración de Representación, rev. 27-mar-2026) será OBLIGATORIA desde el 1 de junio de 2026. Plazo para actualizar modelos de práctica: antes del 31 de mayo de 2026.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 50 IDs totales
+Próxima corrida: 10:00 AM AST (o según próximo ciclo)
+================================
+```
+
+---
+
 ## 2026-04-22 — CORRIDA #33 (18:00 AST)
 
 **Hora corrida:** ~18:00 AST
