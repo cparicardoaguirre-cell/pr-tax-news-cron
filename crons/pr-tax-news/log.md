@@ -2,6 +2,85 @@
 
 ---
 
+## 2026-04-23 — CORRIDA #36 (~22:00 AST)
+
+**Hora corrida:** 2026-04-23 ~22:00 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 52 IDs totales (+1 nuevo: `54a6e922b238eada`)
+
+### Items incluidos en digest:
+
+1. **[Hacienda PR - Comunicado]** Gobierno distribuye nómina de reintegros con Crédito por Trabajo; total ciclo 2025 alcanza $2,208 millones
+   - Fecha: 2026-04-21
+   - ID: `54a6e922b238eada`
+   - URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/gobierno-distribuye-nueva-nomina-millonaria-de-reintegros-de-individuos-que-incluye-una-importante-cantidad-de-pagos-de-credito-por-trabajo
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 NO publicada (Regla #1)
+- Hacienda DA: sin DAs 2026 publicadas
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: 1 nuevo (gobierno-distribuye-nueva-nomina-millonaria, 21-abr); resto ya en seen.txt
+- IRS IRB 2026-16 (13-abr): Rev. Ruling 2026-8 (SIFL rates) y Announcement 2026-8 (APA report) — SIN relevancia PR; DESCARTADO
+- IRS IRB 2026-17: ya en seen.txt; IRB 2026-18 no publicado
+- IRS: sin nuevos notices/rulings aplicables a PR
+- SURI: sin avisos indexados
+- Tribunal Apelativo PR — Caso Sagardía: El Senado rindió escrito al panel el 22-abr; paralizacion vigente; SIN DECISION FINAL al 23-abr
+- DDEC: sin nuevas órdenes administrativas post DDEC 2026-002 (ya en seen.txt)
+- JSF RC-06-2026: SIN DECISION al 23-abr; Primera Hora (~22-abr) reporta "etapa decisiva"; decision est. antes 29-abr
+- JSF vs CRIM: aviso de violación plan fiscal CRIM emitido 20-abr; plazo correcciones 30-abr (no es fuente en lista, seguimiento informativo)
+- OCIF: sin publicaciones contributivas
+
+### Notas de seguimiento:
+- JSF RC-06-2026: "Etapa decisiva" segun Primera Hora (~22-abr). Decision estimada antes del 29-abr-2026. Monitorear URGENTEMENTE.
+- Caso Sagardía: Senado rindió escrito al Apelativo el 22-abr. Panel sigue evaluando. SIN DECISION FINAL al 23-abr-2026.
+- BI RI 26-03 URGENTE activo: Deadline SC 2745 viejo = 31-may-2026; nueva versión obligatoria 1-jun-2026.
+- CC RI 26-07: no publicada. Monitorear.
+- BI RI 26-04: no publicada. Monitorear.
+- IRS IRB 2026-18: no publicado. Monitorear.
+- JSF vs. CRIM: deadline correcciones plan fiscal = 30-abr-2026. Monitorear.
+
+### Mensaje enviado (intento; falló en sandbox):
+
+```
+[URGENTE] RC-06-2026 JSF etapa decisiva
+Corrida #36 | Jue 23-abr-2026 | ~22:00 AST
+================================================
+
+--- PUBLICACION NUEVA (1) ---
+
+[Hacienda PR - Comunicado de Prensa]
+Gobierno distribuye nomina de reintegros con Credito por Trabajo; total ciclo 2025 alcanza $2,208 millones
+Fecha: 2026-04-21
+Resumen: El Secretario Angel Pantoja Rodriguez anuncio el desembolso de $158,879,428 en nueva nomina de reintegros correspondiente a 71,698 planillas procesadas del ciclo contributivo 2025. Con este pago, el total desembolsado asciende a $2,208,061,739 para 1,271,246 planillas. El pago incluye cantidades significativas de Credito por Trabajo (EITC). Los fondos se reflejaran en cuentas bancarias en los proximos dias.
+https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/gobierno-distribuye-nueva-nomina-millonaria-de-reintegros-de-individuos-que-incluye-una-importante-cantidad-de-pagos-de-credito-por-trabajo
+---
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[URGENTE - SEGUIMIENTO #36] JSF RC-06-2026 -- Cheque Alivio Contributivo ~$554M
+NUEVO (22-abr): Primera Hora reporta que el cheque de alivio contributivo "entra en etapa decisiva". La JSF ya tiene fecha para decision (confirmado ~16-abr). Director Mujica indico (15-abr) que la decision llegaria en "menos de dos semanas" (est. antes del 29-abr). Sin decision oficial al cierre de esta corrida (23-abr). Si se aprueba, Hacienda iniciaria distribucion ~4-5 semanas despues.
+
+[SEGUIMIENTO #36] Caso Sagardia -- Confidencialidad Contributiva vs. Senado
+NUEVO (22-abr): El Senado rindio su escrito al Tribunal de Apelaciones argumentando que la entrega de documentos contributivos de Sagardia es indispensable para ejercer su poder investigativo. Panel: Rivera Marchand (pres.), Mateu Melendez, Boria Vizcarrondo, Robles Adorno. Paralizacion vigente. SIN DECISION FINAL al 23-abr-2026.
+
+[URGENTE - SEGUIMIENTO #36] BI RI 26-03 -- Modelo SC 2745 obligatorio 1-jun-2026
+Sin cambios. Deadline activo: nueva version del Modelo SC 2745 (rev. 27-mar-2026) sera OBLIGATORIA desde el 1-jun-2026. Actualizar modelos de practica antes del 31-may-2026.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[NOTA] JSF vs. CRIM -- Aviso de Violacion Plan Fiscal 2026 (20-abr)
+La JSF emitio aviso de violacion contra el Plan Fiscal 2026 del CRIM el 20-abr. CRIM tiene hasta el 30-abr para corregir deficiencias en documentacion sobre catastro y facturacion. Impacto potencial en recaudacion de contribucion sobre propiedad municipal.
+
+--- PENDIENTES (no publicados al 23-abr) ---
+CC RI 26-07 | BI RI 26-04 | IRS IRB 2026-18
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 1 | seen.txt: 52 IDs totales
+Proxima corrida: 06:00 AST (Vie 24-abr-2026)
+```
+
+---
+
 ## 2026-04-23 — CORRIDA #35 (AST)
 
 **Hora corrida:** 2026-04-23 AST
