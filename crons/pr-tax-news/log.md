@@ -2,6 +2,66 @@
 
 ---
 
+## 2026-04-23 — CORRIDA #37 (15:07 AST)
+
+**Hora corrida:** 2026-04-23 15:07 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 52 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (Regla #1)
+- Hacienda DA: sin DAs 2026 publicadas al 23-abr
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: todos ya en seen.txt (cierre ciclo, reintegros, alivio contributivo)
+- IRS IRB 2026-15, 2026-16, 2026-17: ya en seen.txt; IRB 2026-18 no publicado
+- IRS Rev. Proc. 2026-14 (OZ 2.0 / territories): ya en seen.txt; sin contenido exclusivo PR aplicable
+- GAO-26-107225: ya en seen.txt
+- DDEC: sin nuevas ordenes post DDEC 2026-002 (ya en seen.txt)
+- SURI: sin avisos indexados
+- Tribunal Apelativo PR (Sagardia): paralizacion vigente; SIN DECISION FINAL al 23-abr
+- OCIF: sin publicaciones contributivas
+
+### Seguimientos activos:
+- **[URGENTE] JSF RC-06-2026:** Decision del cheque de alivio contributivo estimada antes del 29-abr-2026. Director Mujica (15-abr) indico "menos de dos semanas". SIN decision oficial al 23-abr 15:07 AST.
+- **[URGENTE] BI RI 26-03:** Modelo SC 2745 nueva version obligatoria desde 1-jun-2026. Deadline activo.
+- **[SEGUIMIENTO] Caso Sagardia:** Senado rindio escrito al Apelativo el 22-abr. Panel evalua. SIN DECISION FINAL.
+- CC RI 26-07, BI RI 26-04, IRS IRB 2026-18: pendientes de publicacion.
+
+### Mensaje enviado (intento; fallo en sandbox):
+
+```
+Corrida #37 | Jue 23-abr-2026 | 15:07 AST
+
+SIN NOVEDADES en esta corrida.
+
+Fuentes revisadas (0 items nuevos):
+- Hacienda PR: CC RI 26-01 a 26-06, BI RI 26-03, comunicados -- todos ya en seen.txt
+- IRS: IRB 2026-15/16/17 ya en seen.txt; IRB 2026-18 no publicado
+- DDEC: sin nuevas ordenes post DDEC 2026-002
+- Tribunal Apelativo / Sagardia: paralizacion vigente; SIN DECISION FINAL
+- SURI / OCIF: sin avisos indexados
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[URGENTE] JSF RC-06-2026 -- Cheque Alivio Contributivo ~$554M
+Decision estimada antes 29-abr. Aun SIN decision oficial al 23-abr 15:07 AST.
+
+[URGENTE] BI RI 26-03 -- Modelo SC 2745 obligatorio 1-jun-2026
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[SEGUIMIENTO] Caso Sagardia -- Panel Apelativo evaluando. SIN DECISION FINAL.
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 52 IDs totales
+Proxima corrida: 18:00 AST
+```
+
+---
+
 ## 2026-04-23 — CORRIDA #36 (~22:00 AST)
 
 **Hora corrida:** 2026-04-23 ~22:00 AST
