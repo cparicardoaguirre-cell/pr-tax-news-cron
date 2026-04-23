@@ -2,6 +2,72 @@
 
 ---
 
+## 2026-04-23 — CORRIDA #38 (18:00 AST)
+
+**Hora corrida:** 2026-04-23 18:00 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 52 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (Regla #1)
+- Hacienda DA: DA 26-01 descartada — URL retornó 403 y búsqueda secundaria no la confirmó (Regla #1); sin DAs 2026 nuevas verificadas
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: todos ya en seen.txt (hacienda-cierra-ciclo, desembolsa-200M, desembolsa-156M, desembolsa-144M, gobierno-distribuye-nomina-millonaria)
+- IRS: IRB 2026-18 no publicado (esperado ~27-abr-2026); sin notices 2026 aplicables a PR
+- DDEC: sin nuevas órdenes administrativas post DDEC 2026-002 (ya en seen.txt)
+- SURI: sin avisos de mantenimiento o formularios nuevos indexados
+- Tribunal Apelativo PR — Caso Sagardía: paralización vigente; Senado rindió escrito al panel el 22-abr; SIN DECISION FINAL al 23-abr
+- OCIF: sin publicaciones contributivas
+
+### Seguimientos activos:
+- **[URGENTE] JSF RC-06-2026:** El Nuevo Día (23-abr) informa decisión esperada "a finales de esta semana" (~25-abr-2026). NotiCel (23-abr): negociaciones activas entre Fortaleza y JSF, monto final aún en discusión. SIN decisión oficial a las 18:00 AST, 23-abr-2026. MONITOREAR corridas 22:00 AST hoy y 06:00 AST mañana.
+- **[URGENTE] BI RI 26-03:** Modelo SC 2745 nueva versión obligatoria desde 1-jun-2026. Deadline activo.
+- **[SEGUIMIENTO] Caso Sagardía:** Senado rindió escrito al Apelativo el 22-abr. Panel sigue evaluando. SIN DECISION FINAL.
+- CC RI 26-07, BI RI 26-04, IRS IRB 2026-18: pendientes de publicación.
+
+### Mensaje enviado (intento; fallo en sandbox):
+
+```
+Corrida #38 | Jue 23-abr-2026 | 18:00 AST
+================================================
+
+SIN NOVEDADES en esta corrida.
+
+Fuentes revisadas (0 items nuevos):
+- Hacienda CC RI: 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada
+- Hacienda DA: sin DA 2026 nueva verificada
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: todos ya en seen.txt
+- IRS: IRB 2026-18 no publicado (~27-abr); sin notices aplicables a PR
+- DDEC: sin nuevas ordenes post DDEC 2026-002
+- SURI: sin avisos indexados
+- Tribunal Apelativo / Sagardia: sin decision final
+- OCIF: sin publicaciones contributivas
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[URGENTE] JSF RC-06-2026 -- Cheque Alivio ~$554M
+El Nuevo Dia (23-abr): decision "a finales de esta semana" (~25-abr).
+NotiCel (23-abr): negociaciones activas; monto final en discusion.
+SIN decision oficial a las 18:00 AST, 23-abr-2026.
+
+[URGENTE] BI RI 26-03 -- SC 2745 obligatorio 1-jun-2026
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[SEGUIMIENTO] Caso Sagardia -- Apelativo
+Paralizacion vigente. Senado rendio escrito 22-abr. Sin decision final.
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 52 IDs totales
+Proxima corrida: 22:00 AST (23-abr-2026)
+```
+
+---
+
 ## 2026-04-23 — CORRIDA #37 (15:07 AST)
 
 **Hora corrida:** 2026-04-23 15:07 AST
