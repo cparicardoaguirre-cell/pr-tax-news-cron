@@ -2,6 +2,75 @@
 
 ---
 
+## 2026-04-23 — CORRIDA #35 (AST)
+
+**Hora corrida:** 2026-04-23 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 51 IDs totales (+1 CC FP 1300-28-26 añadida para prevenir re-detección)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 sin URL directa en hacienda.pr.gov — NO PUBLICADA (Regla #1)
+- Hacienda DA: sin DAs 2026 publicadas (solo DA 18-05 en índice)
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada al 23-abr
+- Hacienda comunicados: todos (cierra ciclo, reintegros $144M/$156M/$200M) ya en seen.txt
+- CC FP 1300-28-26: NUEVA en índice — DESCARTADA (Finanzas Públicas = fuera de scope Rentas Internas; ID añadido a seen.txt)
+- IRS IRB 2026-17: ya en seen.txt (id 04e952b5d528ed7e); IRB 2026-18 no publicado
+- IRS: sin nuevos notices/rulings aplicables a PR
+- SURI: sin avisos indexados
+- Tribunal Apelativo PR (Sagardía): paralización vigente desde 21-abr; sin decisión final al 23-abr
+- DDEC: sin nuevas órdenes administrativas post DDEC 2026-002 (ya en seen.txt)
+- JSF RC-06-2026: sin aprobación formal al 23-abr; nueva info — JSF "ya tiene fecha" (~24-25 abr)
+- OCIF: sin publicaciones contributivas
+
+### Descartados (añadidos a seen.txt):
+- `26344408c3f0d6cf` — CC FP 1300-28-26 (Carta Circular Finanzas Públicas — fuera de scope)
+
+### Notas de seguimiento:
+- JSF RC-06-2026: Artículos de ~20-abr-2026 (Primera Hora, El Nuevo Día) reportan que la JSF "ya tiene fecha" para decidir y se esperaba decisión "finales de esta semana" (est. 24-25 abr). Sin confirmación oficial al 23-abr. Monitorear urgentemente.
+- Caso Sagardía: Paralización vigente desde 21-abr. SIN DECISIÓN FINAL al 23-abr-2026.
+- BI RI 26-03 URGENTE activo: Deadline SC 2745 viejo = 31-may-2026; nueva versión obligatoria 1-jun-2026.
+- CC RI 26-07: no publicada. Monitorear.
+- BI RI 26-04: no publicada. Monitorear.
+- IRS IRB 2026-18: no publicado. Monitorear.
+
+### Mensaje enviado (intento; falló en sandbox):
+
+```
+Sin novedades — Corrida #35 | Jue 23-abr-2026 | AST
+================================================
+
+No se encontraron publicaciones nuevas en esta corrida.
+
+--- SEGUIMIENTOS ACTIVOS ---
+
+[URGENTE - SEGUIMIENTO #35] JSF RC-06-2026 — Cheque Alivio Contributivo ~$554M
+NUEVO: Multiples medios (~20-abr-2026) reportan que la JSF ya tiene fecha establecida para decidir sobre el alivio contributivo (RC-06-2026), y que la decision se esperaba para "finales de esta semana" (est. 24-25 abr-2026). Sin confirmacion oficial al cierre de esta corrida (23-abr). Previo: director Mujica (~15-abr) indico decision en "menos de dos semanas" (~29-abr). Si se aprueba, distribucion de cheques comenzaria ~4-5 semanas despues.
+Fuente: Primera Hora / El Nuevo Dia (~20-abr-2026)
+
+[SEGUIMIENTO #35] Caso Sagardia — Confidencialidad Contributiva vs. Poder Legislativo
+Sin novedad desde corrida #34. El Tribunal de Apelaciones mantiene la paralizacion de la orden de entrega de documentos contributivos de Sagardia al Senado (desde 21-abr-2026). Panel: Rivera Marchand (presidenta), Mateu Melendez, Boria Vizcarrondo, Robles Adorno. La paraliz. no adjudica el fondo del caso; continua bajo evaluacion. SIN DECISION FINAL al 23-abr-2026.
+
+[URGENTE - SEGUIMIENTO #35] BI RI 26-03 — Nuevo Modelo SC 2745 obligatorio 1-jun-2026
+BI de Rentas Internas Num. 26-03 (15-abr-2026): nueva version del Modelo SC 2745 (Poder y Declaracion de Representacion, rev. 27-mar-2026) sera OBLIGATORIA desde el 1 de junio de 2026. Plazo para actualizar modelos de practica: antes del 31 de mayo de 2026.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+--- PENDIENTES A MONITOREAR ---
+- CC RI 26-07: no publicada al 23-abr-2026
+- BI RI 26-04: no publicada al 23-abr-2026
+- IRS IRB 2026-18: no indexado al 23-abr-2026
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 51 IDs totales
+Proxima corrida: segun proximo ciclo AST
+================================
+```
+
+---
+
 ## 2026-04-23 — CORRIDA #34 (AST)
 
 **Hora corrida:** 2026-04-23 AST
