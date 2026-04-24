@@ -2,6 +2,61 @@
 
 ---
 
+## 2026-04-23 — CORRIDA #39 (22:00 AST)
+
+**Hora corrida:** 2026-04-23 22:12 AST
+**Items encontrados:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 52 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (Regla #1)
+- Hacienda DA: sin DA 2026 nuevas verificadas (búsquedas no confirmaron nuevas emisiones)
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: todos ya en seen.txt (hacienda-cierra-ciclo y demás)
+- IRS: IRB 2026-14 (30-mar, 24 días) encontrado pero NO confirmado con contenido PR-relevante (403); descartado por Regla #1 y #3. IRB 2026-15/16/17 ya en seen.txt.
+- DDEC: DDEC OA 2026-002 (11-mar) descartado — excede filtro 30 días (43 días); ya estaba en seen.txt con URL alterna
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: Caso Sagardía en evaluación; sin decisión final al 23-abr 22:00 AST
+- OCIF: sin publicaciones contributivas
+- GAO-26-107225: ya en seen.txt
+
+### Seguimientos activos:
+- **[URGENTE] JSF / Alivio Contributivo $554M:** NotiCel (23-abr): negociaciones entre Fortaleza y JSF continúan. JSF esperaba decidir "esta semana" (~25-abr-2026). SIN decisión oficial al 22:00 AST. MONITOREAR corridas 06:00 y 10:00 AST del 24-abr.
+- **[URGENTE] BI RI 26-03:** Modelo SC 2745 nueva versión obligatoria desde 1-jun-2026. Deadline activo (38 días).
+- **[SEGUIMIENTO] Caso Sagardía:** Tribunal de Apelaciones paralizó entrega de info contributiva el 21-abr; Senado rindió escrito el 22-abr; panel aún evaluando méritos. SIN DECISION FINAL.
+- CC RI 26-07, BI RI 26-04, IRS IRB 2026-18: pendientes de publicación.
+
+### Mensaje enviado (intento; fallo en sandbox):
+
+```
+Corrida #39 | Jue 23-abr-2026 | 22:00 AST
+================================================
+
+SIN NOVEDADES en esta corrida.
+
+Revisión exhaustiva completada. Todos los items de Hacienda PR, IRS, DDEC,
+Tribunal Apelativo y GAO ya estaban en seen.txt de corridas anteriores.
+
+SEGUIMIENTOS ACTIVOS:
+• [URGENTE] JSF / Alivio Contributivo: Negociaciones entre Fortaleza y JSF
+  continúan al 23-abr 22:00 AST. JSF esperaba decidir "esta semana" (~25-abr).
+  Cheque de $554M pendiente de autorización final. SIN decisión oficial.
+• [URGENTE] BI RI 26-03: Nueva versión Form SC 2745 obligatoria 1-jun-2026.
+  38 días para cumplimiento.
+• [SEGUIMIENTO] Caso Sagardía: Panel de Apelativo aún evaluando. SIN DECISIÓN.
+• CC RI 26-07, BI RI 26-04, IRB 2026-18: pendientes de publicación.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 52 IDs totales
+Próxima corrida: 06:00 AST (24-abr-2026)
+```
+
+---
+
 ## 2026-04-23 — CORRIDA #38 (18:00 AST)
 
 **Hora corrida:** 2026-04-23 18:00 AST
