@@ -2,6 +2,76 @@
 
 ---
 
+## 2026-04-24 — CORRIDA #42 (15:00 AST)
+
+**Hora corrida:** 2026-04-24 15:00 AST
+**Items nuevos:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 55 IDs totales (+2)
+
+### Items incluidos en digest:
+
+1. [JSF / RC 06-2026 — SEGUIMIENTO] Negociaciones Fortaleza-JSF continúan el 23-abr; decisión sobre $554M pendiente
+   - Fecha: 2026-04-23
+   - URL: https://noticel.com/en/noticias/20260423/continuan-las-negociaciones-entre-fortaleza-y-la-junta-sobre-el-alivio-contributivo/
+   - ID: 8a0620b155511651
+
+2. [TRIBUNAL APELATIVO PR — SEGUIMIENTO] Caso Sagardía: Senado somete alegato ante Apelativo el 22-abr
+   - Fecha: 2026-04-22
+   - URL: https://noticel.com/en/ultima-hora/20260422/el-senado-insiste-ante-el-apelativo-que-hacienda-tiene-que-entregar-documentos-de-sagardia/
+   - ID: cffb73186b70c448
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada (Regla #1 — descartada)
+- Hacienda DA/BI: ninguna nueva confirmada; BI RI 26-03 ya en seen.txt
+- Hacienda comunicados: todos ya en seen.txt
+- IRS: IRBs 2026-15 a 2026-17 revisados; 2026-18 no publicado; ningún Notice nuevo aplica a PR/Sec 933/Act 60
+- DDEC: sin nuevas órdenes en abril 2026; DDEC 2026-002 y 2026-003 ya en seen.txt
+- SURI: sitio en mantenimiento, sin avisos específicos nuevos indexados
+- Tribunal Apelativo PR: Senado somete alegato 22-abr — NUEVO; decisión meritos pendiente
+- JSF/RC 06-2026: negociaciones continúan al 23-abr — NUEVO; sin decisión oficial
+- OCIF: sin publicaciones contributivas nuevas
+
+### Descartados:
+- CC RI 26-07: no publicada en hacienda.pr.gov — Regla #1, descartada
+- BI RI 26-04: no encontrada
+- IRS IRB 2026-18: no publicado aún
+- DDEC: DDEC 2026-002 (11-mar-2026) — >30 días, ya en seen.txt; DDEC 2026-003 ya en seen.txt
+- Artículos Primera Hora y WAPA sobre JSF sin fecha confirmada (403 al fetch) — descartados por falta de verificación
+
+### Nota de seguimiento:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Negociaciones activas al 23-abr. Decisión esperada antes del 29-abr-2026. Si se aprueba, pagos en ~4-5 semanas. MONITOREAR corridas 18:00 y 22:00 AST del 24-abr.
+- **Caso Sagardía (Apelativo):** Senado presentó alegato el 22-abr. Apelativo evalúa méritos. Pendiente decisión sobre certiorari y jurisdicción auxiliar urgente.
+- CC RI 26-07, BI RI 26-04, IRS IRB 2026-18: pendientes de publicación.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+[URGENTE] DIGEST — Novedades Contributivas PR
+Corrida #42 | Viernes, 24 de abril de 2026 | 15:00 AST
+================================================
+
+[URGENTE] [JSF / RC 06-2026 — SEGUIMIENTO] Negociaciones Fortaleza-JSF continúan el 23-abr; decisión sobre $554M pendiente
+Fecha: 2026-04-23
+Al 23 de abril de 2026, las negociaciones entre el Gobierno de Puerto Rico y la Junta de Supervisión Fiscal sobre la Resolución Conjunta 06-2026 (RC 06-2026, $554 millones en cheques de alivio contributivo) continúan sin resolución. El Director Ejecutivo Robert Mujica había señalado que la JSF decidiría antes del 29 de abril de 2026. La JSF aún no ha emitido su determinación final bajo PROMESA §204. Una vez aprobado, los pagos iniciarían en 4-5 semanas. Para calificar: (1) planilla 2025 radicada entre 9-feb y 15-abr-2026; (2) residente en PR todo el 2025; (3) ingreso neto tributable no mayor de $150,000.
+https://noticel.com/en/noticias/20260423/continuan-las-negociaciones-entre-fortaleza-y-la-junta-sobre-el-alivio-contributivo/
+---
+
+[TRIBUNAL APELATIVO PR — SEGUIMIENTO] Caso Sagardía: Senado somete alegato ante Apelativo el 22-abr
+Fecha: 2026-04-22
+El 22 de abril de 2026, el Senado de Puerto Rico presentó su alegato ante el Tribunal de Apelaciones solicitando que se denieguen las peticiones del Gobierno (Hacienda/Justicia) y se confirme la orden del TPI que obliga a Hacienda a entregar información contributiva (W-2 y formularios 480, años 2024-2025) del contratista Antonio Sagardía de Jesús. El Senado fundamenta su posición en el poder investigativo legislativo (solicitud 2026-0036, aprobada 12-mar-2026). El caso plantea conflicto entre la confidencialidad del Código de Rentas Internas de PR de 2011 y el poder investigativo de la Asamblea. El Apelativo evalúa tres recursos: certiorari y jurisdicción auxiliar urgente (Hacienda/Justicia) y recurso propio del Sr. Sagardía. Pendiente decisión en los méritos.
+https://noticel.com/en/ultima-hora/20260422/el-senado-insiste-ante-el-apelativo-que-hacienda-tiene-que-entregar-documentos-de-sagardia/
+---
+
+================================
+Fuentes revisadas: 6 | Items: 2 | seen.txt: 55 IDs totales
+Seguimientos: JSF/RC 06-2026 (~29-abr) | Sagardía (Apelativo) | CC RI 26-07 | IRB 2026-18
+Proxima corrida: 18:00 AST
+================================
+```
+
+---
+
 ## 2026-04-24 — CORRIDA #41 (10:30 AST)
 
 **Hora corrida:** 2026-04-24 10:30 AST
