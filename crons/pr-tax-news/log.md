@@ -2,6 +2,104 @@
 
 ---
 
+## 2026-04-24 — CORRIDA #43 (18:00 AST)
+
+**Hora corrida:** 2026-04-24 18:00 AST
+**Items nuevos:** 4
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 65 IDs totales (+10: 4 en digest + 6 descartados evaluados)
+
+### Items incluidos en digest:
+
+1. [URGENTE][JSF / RC 06-2026 — SEGUIMIENTO] Hacienda revela qué falta para enviar cheque de alivio contributivo
+   - Fecha: 2026-04-15
+   - URL: https://www.primerahora.com/noticias/gobierno-politica/notas/cheque-de-alivio-contributivo-hacienda-revela-que-falta-para-enviarlo/
+   - ID: 0dadde6ed1321ce0
+
+2. [HACIENDA PR — CC RI 26-07] Radicación Planilla Informativa de Organización Exenta — año contributivo 2025
+   - Fecha: 2026-04-20
+   - URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-07-cc-ri-26-07
+   - ID: d93bc80580f7b2d4
+
+3. [TRIBUNAL APELATIVO PR — CASO SAGARDÍA] Apelativo paraliza entrega de información contributiva de Sagardía al Senado
+   - Fecha: 2026-04-21
+   - URL: https://noticel.com/en/noticias/20260421/apelaciones-detiene-entrega-al-senado-de-documentos-de-sagardia/
+   - ID: a68c3d06512c515a
+
+4. [TRIBUNAL APELATIVO PR — CASO SAGARDÍA] Sagardía reclama ser "parte indispensable" ante el Tribunal de Apelaciones
+   - Fecha: 2026-04-21/22
+   - URL: https://www.elvocero.com/ley-y-orden/justicia/sagard-a-reclama-al-tribunal-ser-parte-indispensable-en-pleito-por-su-informaci-n-contributiva/article_557b87ab-4a49-4fbc-a696-d29dcf2ea8d9.html
+   - ID: 247f41dbe13bbcb6
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-07 (04/20/2026) publicada — NUEVA ✓; completó serie 26-01 a 26-07
+- Hacienda DA: DA 26-01 (DDEC/Incentivos, mar-2026) ya en seen.txt; ninguna DA nueva
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04/05/06 no encontradas
+- Hacienda comunicados: "cierra ciclo contributivo" (04/21) ya en seen.txt (b18ef078d5cae33f)
+- IRS: IRB 2026-16 (SIFL rates) y 2026-17 (Sec 911 housing, no aplica a PR) — no contienen ítems PR; IRB 2026-18 no publicado
+- DDEC: sin nuevas órdenes en abril 2026
+- SURI: sin avisos específicos indexados en este ciclo
+- Tribunal Apelativo PR — Caso Sagardía: dos nuevos desarrollos (items 3 y 4 en digest)
+- JSF/RC 06-2026: sin decisión oficial al 24-abr 18:00; artículo PH del 04/15 capturado (NUEVO)
+- OCIF: sin publicaciones contributivas nuevas
+
+### Descartados (evaluados, IDs añadidos a seen.txt):
+- El Vocero "Apelativo ordena paralizar entrega" (bd6a23c141e1daaa): mismo evento que item #3 (NotiCel), descartado por redundancia
+- El Vocero "Apelan entrega contributiva Sagardía" (3e1c3e499e6c7d48): evento previo al stop order, cubierto en corridas anteriores vía Metro PR
+- El Vocero "Senado defiende ante Apelativo" (d1b49bebf8de5772): cubierto en corrida #42 (NotiCel 04/22)
+- WAPA "JSF podría estar cerca de decidir" (42cc0fbcd7dfba86): fecha no confirmada, misma narrativa; descartado
+- Primera Hora "Cheque entra en etapa decisiva" (4a809b56a7545d23): fecha no confirmada; misma narrativa del JSF
+- Primera Hora "Representante reclama dónde está el cheque" (796fb79f9a408892): fecha no confirmada; misma narrativa
+- IRS IRB 2026-16: SIFL rates — sin contenido PR-específico
+- IRS IRB 2026-17: Sec 911 housing exclusion — aplica a renta exterior, no PR específicamente
+- IRS IRB 2026-18: no publicado aún
+
+### Nota de seguimiento:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión al 24-abr 18:00. Decisión esperada antes del 29-abr-2026. El Nuevo Día informó que la JSF decidiría "a finales de esta semana" (semana 21-25 abr). MONITOREAR corrida 22:00 AST del 24-abr.
+- **Caso Sagardía (Apelativo):** Apelativo emitió stop order el 21-abr; Sagardía se incorpora como "parte indispensable". Evaluación del certiorari de Hacienda pendiente. Caso activo.
+- **CC RI 26-07:** Publicada el 20-abr-2026. Completa la serie CC RI 26-01 a 26-07 para el ciclo contributivo 2025.
+- **BI RI 26-04/05/06:** No encontradas; posiblemente no publicadas aún.
+- **IRS IRB 2026-18:** Pendiente de publicación.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+[URGENTE] DIGEST — Novedades Contributivas PR
+Corrida #43 | Viernes, 24 de abril de 2026 | 18:00 AST
+================================================
+
+[URGENTE] [JSF / RC 06-2026 — SEGUIMIENTO] Hacienda revela qué falta para enviar cheque de alivio contributivo
+Fecha: 2026-04-15
+El Secretario de Hacienda Ángel Pantoja Rodríguez confirmó que el único requisito pendiente para activar el desembolso del cheque de alivio contributivo (RC 06-2026, $554 millones) es la determinación formal de la JSF bajo PROMESA §204. Una vez la JSF emita aprobación, pagos comenzarían en 4-5 semanas. Requisitos: (1) planilla 2025 radicada 9-feb al 15-abr-2026; (2) residente en PR todo 2025; (3) ingreso neto tributable ≤$150,000; (4) no optó por tributación alterna (Anejo X). Las negociaciones JSF-Fortaleza continúan activas al 24-abr-2026; sin decisión oficial emitida. Decisión esperada antes del 29-abr.
+https://www.primerahora.com/noticias/gobierno-politica/notas/cheque-de-alivio-contributivo-hacienda-revela-que-falta-para-enviarlo/
+---
+
+[HACIENDA PR — CC RI 26-07] Radicación Planilla Informativa de Organización Exenta — año contributivo 2025
+Fecha: 2026-04-20
+La CC RI 26-07, publicada el 20-abr-2026, establece el procedimiento para la radicación de la Planilla Informativa de Organización Exenta de Contribución sobre Ingresos (año contributivo 2025). Aplica a organizaciones exentas sujetas a requisitos de radicación bajo el Código de Rentas Internas de PR de 2011. Los formularios, fecha límite e instrucciones especiales se encuentran en hacienda.pr.gov. Completa la serie CC RI 26-01 a 26-07 de este ciclo contributivo 2025.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-07-cc-ri-26-07
+---
+
+[TRIBUNAL APELATIVO PR — CASO SAGARDÍA] Apelativo paraliza entrega de información contributiva de Sagardía al Senado
+Fecha: 2026-04-21
+El Tribunal de Apelaciones ordenó la paralización inmediata de la entrega de información contributiva del abogado Antonio Sagardía de Jesús al Senado de Puerto Rico, acogiendo los recursos de certiorari y auxilio de jurisdicción urgente radicados por Hacienda el 21-abr-2026. El panel apelativo concedió al Senado plazo hasta el 23-abr para exponer su posición. El caso envuelve documentos tributarios de los años 2024 y 2025 solicitados por la Comisión de lo Jurídico del Senado en el contexto de una investigación legislativa.
+https://noticel.com/en/noticias/20260421/apelaciones-detiene-entrega-al-senado-de-documentos-de-sagardia/
+---
+
+[TRIBUNAL APELATIVO PR — CASO SAGARDÍA] Sagardía reclama ser "parte indispensable" ante el Tribunal de Apelaciones
+Fecha: 2026-04-21/22
+Antonio Sagardía de Jesús presentó moción ante el Tribunal de Apelaciones reclamando ser reconocido como "parte indispensable" en el pleito entre el Senado y Hacienda sobre su información contributiva. El panel rechazó previamente su solicitud de apariencia especial por no haber participado en Primera Instancia. El Apelativo evalúa el certiorari de Hacienda para revocar la orden de producción de documentos; el caso continúa activo.
+https://www.elvocero.com/ley-y-orden/justicia/sagard-a-reclama-al-tribunal-ser-parte-indispensable-en-pleito-por-su-informaci-n-contributiva/article_557b87ab-4a49-4fbc-a696-d29dcf2ea8d9.html
+---
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 4 | seen.txt: 65 IDs totales
+Próxima corrida: 22:00 AST
+================================
+```
+
+---
+
 ## 2026-04-24 — CORRIDA #42 (15:00 AST)
 
 **Hora corrida:** 2026-04-24 15:00 AST
