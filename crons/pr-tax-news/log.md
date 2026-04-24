@@ -2,6 +2,59 @@
 
 ---
 
+## 2026-04-24 — CORRIDA #41 (10:30 AST)
+
+**Hora corrida:** 2026-04-24 10:30 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 53 IDs totales (sin cambios)
+
+### Items incluidos en digest:
+_(ninguno — sin novedades en esta corrida)_
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no publicada en hacienda.pr.gov (Regla #1 — descartada)
+- Hacienda DA: ninguna DA 26-XX confirmada como nueva publicación
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: todos ya en seen.txt
+- IRS: IRBs 2026-15 a 2026-17 ya revisados en corridas anteriores; 2026-16/17 sin contenido PR-relevante; ningún Notice nuevo aplica a PR/Sec 933/Act 60
+- DDEC: CC DDEC 2026-003 ya en seen.txt (#40); sin nuevas órdenes confirmadas
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: Caso Sagardía en evaluación, panel paralizó entrega al Senado el 21-abr; SIN decisión final contributiva
+- OCIF: Propuesta reglamento sobre determinaciones administrativas (14-abr-2026) — no cualifica como publicación contributiva per configuración
+
+### Seguimientos activos:
+- **[URGENTE] JSF / Alivio Contributivo $554M:** JSF director (15-abr) estimó decidir "en dos semanas" (~29-abr-2026). Negociaciones continúan al 24-abr 10:30 AST. SIN decisión oficial. MONITOREAR corridas 15:00, 18:00 y 22:00 AST del 24-abr.
+- **[URGENTE] BI RI 26-03:** Modelo SC 2745 nueva versión obligatoria desde 1-jun-2026. Deadline activo (~37 días).
+- **[SEGUIMIENTO] Caso Sagardía:** Panel de Apelativo evalúa méritos; paralización temporal vigente. SIN DECISIÓN FINAL.
+- CC RI 26-07, BI RI 26-04, IRS IRB 2026-18: pendientes de publicación.
+
+### Mensaje para Telegram (producción):
+```
+[PR TAX NEWS] Corrida #41 | 2026-04-24 10:30 AST
+
+Sin novedades nuevas en esta corrida.
+
+Fuentes revisadas:
+• Hacienda PR (CC, DA, BI, Comunicados) — 0 items nuevos
+• SURI — sin avisos confirmados
+• IRS-PR (IRBs 2026-15 a 2026-17, Notices) — sin items aplicables a PR
+• Tribunal Apelativo PR — Caso Sagardía en evaluación, sin decisión final
+• DDEC — sin órdenes nuevas
+• OCIF — sin publicaciones contributivas
+
+SEGUIMIENTOS ACTIVOS:
+• [URGENTE] JSF/Alivio Contributivo $554M: decisión estimada ~29-abr-2026. Pendiente.
+• [URGENTE] BI RI 26-03: SC 2745 nueva versión obligatoria 1-jun-2026 (~37 días).
+• [SEGUIMIENTO] Caso Sagardía: Apelativo evalúa méritos. Sin decisión final.
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 53 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-04-24 — CORRIDA #40 (06:00 AST)
 
 **Hora corrida:** 2026-04-24 06:15 AST
