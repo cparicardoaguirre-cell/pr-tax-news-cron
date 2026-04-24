@@ -2,6 +2,35 @@
 
 ---
 
+## 2026-04-24 — CORRIDA #40 (06:00 AST)
+
+**Hora corrida:** 2026-04-24 06:15 AST
+**Items encontrados:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 53 IDs totales (+1)
+
+### Items incluidos en digest:
+1. `[DDEC - Carta Circular]` **CC DDEC 2026-003** — IncentiVOS: Incentivos para Industrias Creativas — ID: `0ec428a04365dfb3`
+
+### Fuentes revisadas:
+- Hacienda CC RI: CC RI 26-01 a 26-06 ya en seen.txt; CC RI 26-07 no confirmada con URL en hacienda.pr.gov (Regla #1 — descartada)
+- Hacienda DA: sin DA 2026 nuevas (DA 26-01, Feb-2026, >30 días — filtrada)
+- Hacienda BI: BI RI 26-03 ya en seen.txt; BI RI 26-04 no publicada
+- Hacienda comunicados: todos ya en seen.txt
+- IRS: IRB 2026-15/16/17 ya en seen.txt; IRB 2026-17 (Notice 2026-25 Section 911 housing/farmer) no aplica a PR
+- DDEC: **CC DDEC 2026-003** — NUEVA — IncentiVOS Industrias Creativas (~10-abr-2026, dentro de 30 días); DDEC 2026-002 (11-mar) >30 días filtrado
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: Caso Sagardía en evaluación (paralización del 21-abr); sin decisión final contributiva
+- OCIF: sin publicaciones contributivas
+- GAO-26-107225: ya en seen.txt; >30 días filtrado
+
+### Seguimientos activos:
+- **[SEGUIMIENTO] JSF / Alivio Contributivo $554M:** Sin decisión oficial publicada al 06:15 AST del 24-abr. Continuar monitoreando.
+- **[URGENTE] BI RI 26-03:** Modelo SC 2745 nueva versión obligatoria desde 1-jun-2026. Deadline activo (~37 días).
+- **[SEGUIMIENTO] Caso Sagardía:** Tribunal de Apelaciones evaluando méritos; sin decisión final contributiva al 24-abr.
+
+---
+
 ## 2026-04-23 — CORRIDA #39 (22:00 AST)
 
 **Hora corrida:** 2026-04-23 22:12 AST
