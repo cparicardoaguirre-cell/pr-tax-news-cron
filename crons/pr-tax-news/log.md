@@ -2,6 +2,46 @@
 
 ---
 
+## 2026-04-25 — CORRIDA #45 (15:00 AST)
+
+**Hora corrida:** 2026-04-25 15:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). Mensaje "sin novedades" no enviado.
+**seen.txt:** 76 IDs totales (+7 IDs evaluados/descartados añadidos)
+
+### Resultado: Sin items nuevos
+
+Todos los items relevantes encontrados en esta corrida ya estaban en seen.txt desde la corrida #44 (10:00 AST):
+- Caso Sagardía (Tribunal Apelativo, 24-abr): ya capturado con ID 108f2a9b80949b20
+- CC RI 26-01 a 26-07: todos en seen.txt
+- BI RI 26-03: en seen.txt; BI RI 26-02 (12-mar, >30 días) descartado por antigüedad
+- IRS IRB 2026-15 a 2026-17: en seen.txt; sin contenido PR-específico en 16/17
+- DDEC fortalece fiscalización (oct-2025): >30 días, descartado
+
+### IDs añadidos a seen.txt (evaluados/descartados):
+- d55244c1c12b5902 (foronoticioso.com — Sagardía, misma noticia, URL alternativa)
+- 4f84a78cc3c68239 (DDEC fortalece fiscalización — oct 2025, >30 días)
+- e7c2915750767f99 (poderjudicial.pr decisiones index)
+- e8e269cce7bf93c2 (lexjuris.com decisiones index)
+- 3e1b59bdf0a9b9ad (BI RI 26-02 — mar-12, >30 días)
+- 3644b6ad03bf8b03 (newsismybusiness.com DDEC — cobertura de prensa)
+- 42f2e6f37d1f2d97 (puertoricoplus.com Act 60 — sitio privado)
+
+### Seguimiento activo (carry-over de corrida #44):
+- **[URGENTE] JSF / RC 06-2026 ($554M cheques alivio):** Sin decisión al 25-abr 15:00 AST. Gobierno certificó entrega de documentos. Evaluación activa en JSF. Deadline esperado: ~29-abr-2026.
+- **Caso Sagardía:** Apelativo confirmó orden el 24-abr. Posible recurso al Tribunal Supremo.
+- **IRS IRB 2026-18:** Pendiente de publicación.
+
+### Fuentes revisadas esta corrida:
+- Hacienda PR (CC, DA, BI, comunicados): sin novedades
+- SURI: sin avisos nuevos
+- IRS-PR (IRB, notices, bona fide resident, Act 60): sin novedades
+- Tribunal Apelativo PR: sin nuevos fallos tributarios
+- DDEC: sin nuevas órdenes administrativas
+- OCIF: sin publicaciones contributivas
+
+---
+
 ## 2026-04-25 — CORRIDA #44 (10:00 AST)
 
 **Hora corrida:** 2026-04-25 10:00 AST
