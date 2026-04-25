@@ -2,6 +2,70 @@
 
 ---
 
+## 2026-04-25 — CORRIDA #44 (10:00 AST)
+
+**Hora corrida:** 2026-04-25 10:00 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 69 IDs totales (+4: 1 en digest + 3 descartados evaluados)
+
+### Items incluidos en digest:
+
+1. [URGENTE][TRIBUNAL APELATIVO PR — CASO SAGARDÍA] Apelativo confirma orden: Hacienda debe entregar datos contributivos de Sagardía al Senado
+   - Fecha: 2026-04-24
+   - URL: https://www.metro.pr/noticias/2026/04/24/apelativo-confirma-orden-contra-hacienda-y-obliga-entrega-de-datos-contributivos-de-sagardia/
+   - ID: 108f2a9b80949b20
+
+### Fuentes revisadas:
+- Hacienda CC RI: Ninguna nueva; serie 26-01 a 26-07 completa en seen.txt
+- Hacienda DA: Ninguna nueva; DA 26-01 ya en seen.txt
+- Hacienda BI: BI RI 26-04/05/06/07 no encontradas/no publicadas; BI RI 26-03 ya en seen.txt
+- Hacienda comunicados: Todos los desembolsos y "cierra ciclo" ya en seen.txt; ninguno nuevo
+- IRS: IRB 2026-17 ya en seen.txt; IRB 2026-18 no publicado; no hay nuevas notices PR-específicas
+- IRS bona fide/Sec 933/Act 60: Sin nuevas publicaciones 2026
+- DDEC: DDEC 2026-002 ya en seen.txt; sin nuevas órdenes en abril 2026
+- SURI: Sin avisos nuevos indexados
+- Tribunal Apelativo PR — Caso Sagardía: Apelativo **confirmó** orden contra Hacienda el 24-abr (NUEVO, item #1 en digest)
+- JSF / RC 06-2026: NotiCel 04/23 ya en seen.txt; sin decisión final al 25-abr 10:00 AST
+- OCIF: Sin publicaciones contributivas nuevas
+
+### Descartados (evaluados, IDs añadidos a seen.txt):
+- El Nuevo Día "Gobierno continúa en conversaciones con la JSF..." (9a7878af8aa1c362): fecha no verificable (paywall 403); misma narrativa JSF — descartado por cautela
+- El Vocero "Esperan aval para alivio contributivo la próxima semana" (aba34d193197297f): fecha no verificable (paywall 403) — descartado por cautela
+- El Nuevo Día "Todavía en veremos el cheque de incentivo" (f8bdf8b46c73ed71): fecha no verificable (paywall 403) — descartado por cautela
+
+### Nota de seguimiento:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión al 25-abr 10:00 AST. Gobierno certificó entrega de documentos según La Fortaleza (Jean Peña Payano, 23-abr). Evaluación en manos de la JSF. Mujica indicó decisión "próxima". Deadline esperado: ~29-abr-2026.
+- **Caso Sagardía (Apelativo):** Apelativo confirmó orden el 24-abr-2026; Hacienda obligada a entregar información contributiva al Senado. Posible recurso de Sagardía al Tribunal Supremo.
+- **BI RI 26-04/05/06/07:** No encontradas; no publicadas aún.
+- **IRS IRB 2026-18:** Pendiente de publicación.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+[URGENTE] DIGEST — Novedades Contributivas PR
+Corrida #44 | Sabado, 25 de abril de 2026 | 10:00 AST
+================================================
+
+[URGENTE][TRIBUNAL APELATIVO PR — CASO SAGARDIA] Apelativo confirma orden: Hacienda debe entregar datos contributivos de Sagardia al Senado
+Fecha: 2026-04-24
+El Tribunal de Apelaciones confirmo el 24-abr-2026 la orden del tribunal de primera instancia que obliga al Secretario de Hacienda a entregar al Senado informacion contributiva de Antonio M. Sagardia de Jesus. La Solicitud de Informacion Legislativa 2026-0036 requirio datos de cumplimiento de Sagardia como contratista gubernamental (formularios W-2 o 480.6SP, fechas de radicacion, correcciones). El Apelativo determino que la solicitud responde a un proposito legitimo de supervision del uso de fondos publicos y no viola derechos de privacidad. El fallo levanta efectivamente el stay order provisional del 21-abr-2026 que Hacienda y Sagardia habian obtenido; Hacienda queda obligada a cumplir con la entrega.
+https://www.metro.pr/noticias/2026/04/24/apelativo-confirma-orden-contra-hacienda-y-obliga-entrega-de-datos-contributivos-de-sagardia/
+---
+
+================================
+Fuentes revisadas: 7 | Items nuevos: 1 | seen.txt: 69 IDs totales
+Proxima corrida: 15:00 AST
+
+SEGUIMIENTO ACTIVO:
+[URGENTE] JSF / RC 06-2026 ($554M): Sin decision al 25-abr 10:00 AST. Gobierno confirmo entrega de documentos; evaluacion en manos de la JSF. Mujica indico decision "proxima". Deadline esperado: ~29-abr-2026.
+Caso Sagardia: Apelativo confirmo entrega. Posible recurso de Sagardia al Tribunal Supremo.
+BI RI 26-04/05/06/07: No publicados aun.
+IRS IRB 2026-18: No publicado aun.
+```
+
+---
+
 ## 2026-04-24 — CORRIDA #43 (18:00 AST)
 
 **Hora corrida:** 2026-04-24 18:00 AST
