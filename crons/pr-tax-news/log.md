@@ -2,6 +2,75 @@
 
 ---
 
+## 2026-04-25 — CORRIDA #48 (18:06 AST)
+
+**Hora corrida:** 2026-04-25 18:06 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 77 IDs totales (sin cambios)
+
+### Resultado: Sin items nuevos
+
+### Fuentes revisadas esta corrida:
+- Hacienda PR CC RI: CC RI 26-07 (20/04/2026) ya en seen.txt; sin CC RI 26-08 publicada
+- Hacienda PR DA/BI: BI RI 26-03 (20/04/2026) ya en seen.txt; sin BI RI 26-04+ publicados
+- Hacienda PR comunicados: cierre ciclo contributivo (21/04/2026) ya en seen.txt
+- IRS-PR: IRB 2026-15 y Rev. Proc. 2026-12 (QOZ/PR) ya en seen.txt; IRB 2026-18 pendiente (lunes 27-abr)
+- IRS Sec.933/937/Act 60: sin nueva guidance aplicable a PR en últimas 48 horas
+- DDEC: OA DDEC 2026-002 ya en seen.txt; sin nuevas OA publicadas
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: fallo Sagardía (24-abr) ya en seen.txt; recurso al Supremo pendiente
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida:
+- `3e93a2a974b49a3f` — senado.pr.gov/article.cfm?nwsid=2684 "Senado aprueba proyecto de Reforma Contributiva": URL devuelve 403 por tercera corrida consecutiva → descartado por Regla #1. Seguir monitoreando en corrida 22:00 AST.
+- `65a0972fed114aa1` — senado.pr.gov/comisin-contina-evaluacin... "Comisión continúa evaluación Reforma Contributiva": publicación de enero 2026 (>30 días) → descartado por filtro 30 días.
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión al 25-abr 18:06 AST. Negociaciones Fortaleza-JSF continúan (último reporte 23-abr). Mujica indicó decisión antes del 29-abr. Monitorear en corrida 22:00 AST.
+- **Caso Sagardía:** Fallo Apelativo 24-abr confirmado (4-0). Posible recurso al Tribunal Supremo pendiente.
+- **Senado PS 912 (Reforma Contributiva):** URL 403 tercera corrida. No verificable. Monitorear.
+- **IRS IRB 2026-18:** Pendiente publicación lunes 27-abr-2026.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Corrida #48 | Sabado, 25 de abril de 2026 | 18:06 AST
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal Apelativo, SURI, OCIF
+================================================
+
+Sin novedades nuevas en esta corrida.
+Todos los items de Hacienda PR (CC RI 26-07, BI RI 26-03), IRS-PR,
+DDEC y Tribunal Apelativo ya estaban registrados en corridas anteriores.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] JSF / RC 06-2026 ($554M cheque alivio contributivo)
+Sin decision oficial al 25-abr 18:06 AST. Negociaciones Fortaleza-JSF
+continuan (ultimo reporte: 23-abr). Mujica habia indicado decision
+antes del 29-abr. PROXIMA corrida: 22:00 AST monitoreara resultado.
+(RC 06-2026)
+
+[SEGUIMIENTO] Caso Sagardia — Tribunal Apelativo (fallo 24-abr-2026)
+El Apelativo confirmo el 24-abr la orden de que Hacienda entregue
+informacion contributiva de Antonio Sagardia al Senado (4-0). Posible
+recurso al Tribunal Supremo de PR pendiente. (TA2026CE00487)
+
+[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva
+URL en senado.pr.gov titulada "Senado aprueba proyecto de Reforma
+Contributiva" devuelve error 403 por tercera corrida consecutiva.
+No verificable por Regla #1. Si confirmado: nuevas tasas 0%-33%,
+exencion por dependiente $5,000, vigor desde ano contributivo 2024+.
+Monitorear en corrida 22:00 AST.
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 77 IDs totales
+Proxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-04-25 — CORRIDA #47 (15:16 AST)
 
 **Hora corrida:** 2026-04-25 15:16 AST
