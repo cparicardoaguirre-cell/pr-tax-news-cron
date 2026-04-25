@@ -2,6 +2,79 @@
 
 ---
 
+## 2026-04-25 — CORRIDA #46 (10:16 AST)
+
+**Hora corrida:** 2026-04-25 10:16 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 77 IDs totales (+1 descartado evaluado: af1d102bcec747a6)
+
+### Resultado: Sin items nuevos
+
+### Fuentes revisadas esta corrida:
+- Hacienda PR CC RI: serie 26-01 a 26-07 completa en seen.txt; sin CC RI 26-08
+- Hacienda PR DA: sin nuevas DA 2026 publicadas
+- Hacienda PR BI: BI RI 26-03 en seen.txt; BI RI 26-04/05/06 no publicados aún
+- Hacienda PR comunicados: sin nuevos comunicados de prensa verificables (hacienda.pr.gov 403)
+- IRS-PR: IRB 2026-15/16/17 en seen.txt; sin contenido PR-específico en 16/17; IRB 2026-18 no publicado
+- IRS Sec.933/937/Act 60: sin nueva guidance o notices para PR en abril 2026
+- DDEC: DDEC 2026-002 ya en seen.txt; sin nuevas órdenes administrativas
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: fallo Sagardía del 24-abr-2026 (TA2026CE00487) ya capturado en corrida #44 (ID: 108f2a9b80949b20); sin recurso nuevo al Tribunal Supremo
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida (IDs añadidos a seen.txt):
+- `af1d102bcec747a6` — El Nuevo Día "Junta Fiscal y gobierno aún no cuadran los números del cheque de alivio contributivo": fecha no verificable (paywall 403); narrativa idéntica a artículos previos ya en seen.txt → descartado por Regla #1
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión al 25-abr 10:16 AST. Negociaciones Fortaleza-JSF activas. Mujica indicó decisión "a finales de esta semana" (semana 20-25 abr) — hoy es sábado, último día. Si no decide hoy, estimado ~28-29 abr. Hacienda: 4-5 semanas para emitir cheques tras aprobación.
+- **Caso Sagardía:** Apelativo confirmó entrega el 24-abr (ID: 108f2a9b80949b20). Posible recurso al Tribunal Supremo. Monitorear.
+- **BI RI 26-04/05/06:** No publicados aún.
+- **IRS IRB 2026-18:** Pendiente de publicación.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Corrida #46 | Sabado, 25 de abril de 2026 | 10:16 AST
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal Apelativo, SURI, OCIF
+================================================
+
+Sin novedades oficiales nuevas en esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] JSF / RC 06-2026 ($554M cheque alivio contributivo)
+Sin decision oficial al 25-abr 10:16 AST. Negociaciones Fortaleza-JSF
+activas. Mujica habia indicado decision "a finales de esta semana"
+(semana 20-25 abr). Si no decide hoy (sabado), proximo estimado ~28-29
+abr. Hacienda: una vez aprobado, 4-5 semanas para emitir cheques.
+Requisitos: planilla 2025 radicada, residente PR todo 2025, ingreso neto
+<=150,000, sin opcion contributiva alterna. (RC 06-2026)
+
+[SEGUIMIENTO] Caso Sagardia — Tribunal Apelativo (fallo: 24-abr-2026)
+El Apelativo confirmo el 24-abr la orden de entregar informacion
+contributiva de Antonio Sagardia al Senado (TA2026CE00487, fallo 4-0).
+Posible recurso al Tribunal Supremo de PR pendiente. Hacienda obligada
+a entregar formularios W-2/480 de anos 2024 y 2025 al Senado.
+https://www.metro.pr/noticias/2026/04/24/apelativo-confirma-orden-contra-hacienda-y-obliga-entrega-de-datos-contributivos-de-sagardia/
+
+--- REVISADO ESTA CORRIDA (sin items nuevos) ---
+- Hacienda CC RI 26-01 a 26-07: todos en seen.txt
+- Hacienda DA/BI: sin nuevas publicaciones; BI RI 26-04/05/06 no publicados
+- IRS IRB 2026-15/16/17: en seen.txt; IRB 2026-18 no publicado aun
+- IRS Sec.933/937/Act 60: sin nueva guidance abril 2026
+- DDEC: DDEC 2026-002 en seen.txt; sin nuevas OA
+- SURI/OCIF: sin avisos nuevos
+- Tribunal Apelativo: fallo Sagardia 24-abr ya capturado; sin recurso nuevo al Supremo
+
+================================
+Fuentes revisadas: 7 | Items: 0 | seen.txt: 77 IDs totales
+Proxima corrida: 15:00 AST (25-abr-2026)
+```
+
+---
+
 ## 2026-04-25 — CORRIDA #45 (15:00 AST)
 
 **Hora corrida:** 2026-04-25 15:00 AST
