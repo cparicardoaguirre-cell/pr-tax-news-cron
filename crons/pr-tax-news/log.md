@@ -2,6 +2,69 @@
 
 ---
 
+## 2026-04-25 — CORRIDA #47 (15:16 AST)
+
+**Hora corrida:** 2026-04-25 15:16 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 77 IDs totales (sin cambios)
+
+### Resultado: Sin items nuevos
+
+### Fuentes revisadas esta corrida:
+- Hacienda PR CC RI: sin nuevas CC desde 26-07 (20/04/2026); CC RI 26-08 no publicada
+- Hacienda PR DA/BI: sin nuevas publicaciones; BI RI 26-04/05/06 no publicados
+- Hacienda PR comunicados: sin nuevos desde cierre ciclo contributivo (15/04/2026)
+- IRS-PR: IRB 2026-15/16/17 en seen.txt; IRB 2026-18 no publicado aún (esperar lunes 27-abr)
+- IRS Sec.933/937/Act 60/OZ: Rev. Proc. 2026-14 (OZ) ya en seen.txt; sin nueva guidance
+- DDEC: DDEC 2026-002 y CC 2026-003 ya en seen.txt; sin nuevas OA en abril 2026
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: fallo Sagardía 24-abr ya capturado; sin recurso al Supremo confirmado
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida (sin añadir a seen.txt):
+- `3e93a2a974b49a3f` — senado.pr.gov/article.cfm?nwsid=2684 "Senado aprueba proyecto de Reforma Contributiva": URL devuelve 403, fecha no verificable → descartado por Regla #1. Continuar monitoreando.
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión al 25-abr 15:16 AST. Mujica había indicado decisión "a finales de esta semana". Última corrida del día hábil; monitorear en corrida 18:00.
+- **Caso Sagardía:** Fallo Apelativo 24-abr confirmado. Posible recurso al Tribunal Supremo pendiente.
+- **Senado PS 912 (Reforma Contributiva):** Artículo del Senado indicaría posible aprobación reciente — no verificable (403). Monitorear.
+- **IRS IRB 2026-18:** Pendiente publicación lunes 27-abr-2026.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Corrida #47 | Sabado, 25 de abril de 2026 | 15:16 AST
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal Apelativo, SURI, OCIF
+================================================
+
+Sin novedades nuevas en esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] JSF / RC 06-2026 ($554M cheque alivio contributivo)
+Sin decision oficial al 25-abr 15:16 AST. Mujica habia indicado
+decision "a finales de esta semana" (semana 20-25 abr). Monitorear
+en corrida de 18:00 AST. (RC 06-2026)
+
+[SEGUIMIENTO] Caso Sagardia — Tribunal Apelativo (fallo: 24-abr-2026)
+Apelativo confirmo el 24-abr la orden de entregar informacion
+contributiva de Antonio Sagardia al Senado (fallo 4-0). Posible
+recurso al Tribunal Supremo de PR pendiente. (TA2026CE00487)
+
+[ALERTA PENDIENTE] Senado aprueba PS 912 (Reforma Contributiva)
+URL del Senado (article.cfm?nwsid=2684) no accesible (403). Se
+monitorea en proximas corridas para confirmar aprobacion, fecha
+efectiva y texto final de nuevas tasas individuales (0%-33%).
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 77 IDs totales
+Proxima corrida: 18:00 AST
+```
+
+---
+
 ## 2026-04-25 — CORRIDA #46 (10:16 AST)
 
 **Hora corrida:** 2026-04-25 10:16 AST
