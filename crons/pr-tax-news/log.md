@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-04-26 — CORRIDA #51 (10:07 AST)
+
+**Hora corrida:** 2026-04-26 10:07 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida).
+**seen.txt:** 97 IDs totales (+3 esta corrida — descartados por >30 días)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 — todas ya en seen.txt; CC RI 26-08 no publicada aún. Páginas hacienda.pr.gov retornan 403; indexación búsqueda confirma 26-07 (20-abr) como última.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 ya en seen.txt; BI RI 26-04+ no publicados. DA 2026 — sin nuevas confirmadas con URL verificable.
+- **Hacienda PR comunicados:** Todos los comunicados de abril ya en seen.txt (cierre ciclo, nóminas reintegros).
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRBs 2026-15 a 2026-18 ya en seen.txt. IRBs 2026-19/2026-20 como boletines separados no existen (son notices dentro de IRB 2026-15). Sin contenido PR nuevo confirmado.
+- **DDEC:** Sin órdenes administrativas nuevas. PS 912 sigue en evaluación.
+- **Tribunal Apelativo PR:** Fallo Sagardía (24-abr) ya en seen.txt. Sin nuevas sentencias contributivas.
+- **OCIF:** Sin publicaciones contributivas.
+- **JSF/Cheque RC 06-2026:** Sin decisión aún. Última noticia: NotiCel 23-abr ("Continúan negociaciones"). Mujica: decisión antes del 29-abr-2026.
+
+### Items descartados / IDs añadidos a seen.txt (>30 días):
+1. `19e2a7ea56385d08` — Primera Hora "Cámara y Senado dan luz verde al cheque de alivio contributivo" — ~feb-2026 (>30 días)
+2. `9242db09384b0761` — Primera Hora "Cheque de alivio: quiénes cualifican y cómo se entregará" — ~feb-2026 (>30 días)
+3. `a7714fc29d0c7113` — El Nuevo Día "La Cámara y el Senado aprueban el cheque de alivio contributivo" — ~feb-2026 (>30 días)
+
+### Items bajo monitoreo (NO añadidos a seen.txt):
+- `5a1e5af44aa94f87` — Primera Hora "¿Se hará realidad el Cheque de Alivio Contributivo?" — fecha no verificable (403). Mantener en monitoreo.
+- `3e93a2a974b49a3f` — senado.pr.gov/article.cfm?nwsid=2684 "Senado aprueba proyecto de Reforma Contributiva" — 6ª corrida consecutiva en 403. No confirmado por Regla #1. Mantener monitoreo.
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión al 26-abr 10:07 AST. Última noticia indexada: NotiCel 23-abr. Mujica prometió decisión antes del 29-abr. Deadline inminente. Monitorear corrida 15:00 AST.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** URL sigue en 403 — sexta corrida consecutiva. No confirmado.
+
+---
+
 ## 2026-04-26 — CORRIDA #50 (06:00 AST)
 
 **Hora corrida:** 2026-04-26 06:00 AST
