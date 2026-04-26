@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-04-26 — CORRIDA #50 (06:00 AST)
+
+**Hora corrida:** 2026-04-26 06:00 AST
+**Items nuevos:** 0
+**Telegram:** INTENTO (ver abajo)
+**seen.txt:** 94 IDs totales (+6 esta corrida — revisados y descartados/fuera de rango)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 — todas ya en seen.txt; sin CC RI 26-08 publicada aún
+- **Hacienda PR BI/DA:** sin BI RI 26-04+ ni DA 2026 nuevas indexadas
+- **Hacienda PR comunicados:** página principal retornó 403; resultados de búsqueda muestran últimos comunicados ya en seen.txt (cierra ciclo 21-abr, nómina reintegros, etc.)
+- **SURI:** sin avisos de mantenimiento o nuevos formularios indexados
+- **IRS IRB 2026-18** (publicado 27-abr-2026): revisado — contenido: Regs. propinas (§224), propuesta Remittance Transfer Tax (§4475, REG-114499-25), Notice 2026-26 (tasas planes pensión), Anuncio 2026-9 (sanciones OPR). Sin mención a Puerto Rico/Sec. 933/Act 60/possessions. **Descartado** por filtro IRS-PR.
+- **IRS IRB 2026-17:** ya en seen.txt (corrida anterior)
+- **DDEC Act 38-2026 / Ley 38-2026:** Ley firmada ~20-mar-2026 extiende Act 60 hasta 2055 con tasa 4% para aplicantes post-31-dic-2026. Artículos de análisis (DLA Piper, Grant Thornton 20-mar, MZLS, TiempoCapital, RelocatePR) encontrados como NUEVO en seen.txt check. **Descartados** — publicados hace >30 días (37+ días) y contenido sustantivo ya cubierto via CC DDEC 2026-003 en seen.txt.
+- **Tribunal Apelativo PR:** fallo Sagardía (24-abr, confirmación 4-0) ya en seen.txt. Sin nuevas sentencias contributivas en abril indexadas.
+- **OCIF:** sin publicaciones contributivas.
+
+### Items descartados / IDs añadidos a seen.txt (verificados, no proceden):
+1. `4e6917a0ab453974` — IRS IRB 2026-18 — sin contenido PR (reglas filtro IRS)
+2. `1c2c5893806d2a64` — DLA Piper: Act 38-2026 extension IRI — >30 días (20-mar)
+3. `ad204d1c9d9be45f` — Grant Thornton Tax Alert: Act 38-2026 — >30 días (20-mar)
+4. `7a5919219b036870` — RelocatePR: Act 38-2026 legislature — >30 días (mar-2026)
+5. `6b6b61c0d78e06ca` — MZLS: Act 38-2026 IRI extended 2055 — >30 días (mar-2026)
+6. `85a5c01fee892e5a` — TiempoCapital: Act 38-2026 investors — >30 días (mar-2026)
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Al 23-abr, negociaciones Fortaleza-JSF continuaban. NotiCel 23-abr: "Continúan las negociaciones". Primera Hora reportó que JSF "ya tiene fecha" para decisión (artículo ya en seen.txt). Mujica comprometió decisión antes del 29-abr. Deadline crítico: monitorear corridas 10:00 y 15:00 AST.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** URL senado.pr.gov/article.cfm?nwsid=2684 ("Senado aprueba proyecto de Reforma Contributiva") sigue en 403 — **quinta corrida consecutiva**. ID `3e93a2a974b49a3f` NO añadido a seen.txt. No confirmado por Regla #1. URL aparece en resultados de búsqueda (título visible). Revisar corrida siguiente.
+- **IRS IRB 2026-18:** Publicado y revisado esta corrida — descartado (sin contenido PR). Asunto cerrado.
+
+---
+
 ## 2026-04-25 — CORRIDA #49 (22:14 AST)
 
 **Hora corrida:** 2026-04-25 22:14 AST
