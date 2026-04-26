@@ -2,6 +2,83 @@
 
 ---
 
+## 2026-04-25 — CORRIDA #49 (22:14 AST)
+
+**Hora corrida:** 2026-04-25 22:14 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 88 IDs totales (+11 esta corrida)
+
+### Resultado: 1 item nuevo
+
+### Items nuevos:
+1. `e9db3afabc4bb7db` — Primera Hora: "El Cheque de Alivio Contributivo sigue sin ser aprobado por la Junta de Supervisión Fiscal" — 2026-04 (exacta fecha no verificable, publicado dentro de últimas 24h)
+
+### Fuentes revisadas esta corrida:
+- Hacienda PR CC RI: CC RI 26-01 a 26-07 — todas ya en seen.txt; sin CC RI 26-08 publicada
+- Hacienda PR BI: BI RI 26-01 a 26-03 — todas ya en seen.txt; sin BI RI 26-04+ publicados
+- Hacienda PR comunicados: cierre ciclo contributivo ya en seen.txt
+- IRS-PR: IRBs 2026-15, 2026-16, 2026-17 revisados — sin items específicamente aplicables a PR (Sec. 987 CFCs divisas, SIFL, §911 housing)
+- DDEC: CC DDEC 2026-003 ya en seen.txt; OA DDEC 2026-002 ya en seen.txt; sin nuevas OA en abril
+- SURI: sin avisos nuevos indexados
+- Tribunal Apelativo PR: fallo Sagardía (24-abr, 4-0) ya en seen.txt; posible recurso Supremo pendiente
+- OCIF: sin publicaciones contributivas
+
+### Descartados esta corrida (fuera de 30 días o duplicados):
+- `7da60c213bb39d04` — El Nuevo Día "Junta Fiscal rechaza proyectos alivio contributivo" — enero 2026 (>30 días)
+- `52efabf4df576020` — El Nuevo Día "Gobierno discrepa de la negativa JSF" — enero 2026 (>30 días)
+- `be6a5ff323c2682a` — BI RI 26-01 (Crédito por Trabajo 2025) — 17-feb-2026 (>30 días)
+- `9bff70dce1316063` — DDEC OIN 2025-015 — octubre 2025 (>30 días)
+- `d6fb57ccc3c77c74` — Telemundo Sagardía — misma historia ya registrada en seen.txt (foronoticioso + metro.pr)
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión al 25-abr 22:14 AST. Negociaciones Fortaleza-JSF continúan. Mujica indicó decisión antes del 29-abr. Monitorear corrida 06:00 AST.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** URL senado.pr.gov "Senado aprueba proyecto de Reforma Contributiva" sigue en 403 cuarta corrida consecutiva. No confirmado por Regla #1. De confirmarse: nuevas tasas 0%-33%, vigencia AÑO CONTRIBUTIVO 2024+, dependiente $5,000.
+- **IRS IRB 2026-18:** Pendiente publicación lunes 27-abr-2026. Revisar corrida 06:00 AST.
+
+### Digest [URGENTE] (intento; fallo en sandbox):
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Corrida #49 | Sabado, 25 de abril de 2026 | 22:14 AST
+Fuentes: Hacienda PR, IRS-PR, DDEC, Tribunal Apelativo, SURI, OCIF
+================================================
+
+[HACIENDA PR - SITUACION] Cheque de Alivio Contributivo: JSF AUN sin aprobar $554M
+Fecha: 2026-04-25 (situacion activa)
+
+La Junta de Supervision Fiscal (JSF) no ha aprobado aun el desembolso
+del "Cheque de Alivio Contributivo" (Resolucion Conjunta 06-2026,
+firmada 3-feb-2026 por la Gobernadora). La ley asigna $554M para
+contribuyentes con ingreso neto tributable igual o menor a $150,000
+que radicaron su planilla 2025 entre el 9-feb-2026 y el 15-abr-2026.
+La JSF analiza: (1) caida en recaudos de Hacienda, (2) situacion
+de Medicaid en PR. Al 23-abr las negociaciones Fortaleza-JSF
+continuan activas. Mujica (director JSF) habia anticipado decision
+antes del 29-abr-2026. Una vez aprobado, Hacienda estima enviar
+los pagos 4-5 semanas despues del aval.
+https://www.primerahora.com/noticias/gobierno-politica/notas/el-cheque-de-alivio-contributivo-sigue-sin-ser-aprobado-por-la-junta-de-supervision-fiscal/
+---
+
+--- SEGUIMIENTO ACTIVO (sin accion inmediata requerida) ---
+
+[ALERTA PENDIENTE] Senado PS 912 - Reforma Contributiva
+URL "Senado aprueba proyecto de Reforma Contributiva" en senado.pr.gov
+devuelve 403 por cuarta corrida consecutiva. No verificable (Regla #1).
+De confirmarse su aprobacion y firma: nuevas tasas 0%/6%/12%/24%/29%/33%
+con vigencia AÑO CONTRIBUTIVO 2024 (retroactivo a planillas ya radicadas).
+Aumento exencion por dependiente $2,500→$5,000 (≤18 años). Monitorear.
+
+[PENDIENTE] IRS IRB 2026-18
+Publicacion esperada lunes 27-abr-2026. Se revisara en corrida 06:00 AST.
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 1 | seen.txt: 88 IDs totales
+Proxima corrida: 06:00 AST (lunes 27-abr-2026)
+```
+
+---
+
 ## 2026-04-25 — CORRIDA #48 (18:06 AST)
 
 **Hora corrida:** 2026-04-25 18:06 AST
