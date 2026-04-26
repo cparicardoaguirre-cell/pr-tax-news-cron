@@ -2,6 +2,45 @@
 
 ---
 
+## 2026-04-26 — CORRIDA #52 (15:01 AST)
+
+**Hora corrida:** 2026-04-26 15:01 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida).
+**seen.txt:** 106 IDs totales (+9 esta corrida — descartados)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 (hasta 20-abr) — todas ya en seen.txt; CC RI 26-08 no publicada aún. Páginas 403.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 ya en seen.txt; BI RI 26-04+ no publicados. DA 2026 — sin nuevas confirmadas.
+- **Hacienda PR comunicados:** Todos en seen.txt. Comunicado "posposición fecha cierre hasta 25-abr" (70ec40db32267ff4) ya en seen.
+- **SURI:** Sin avisos indexados accesibles.
+- **IRS-PR:** IRBs 2026-15 a 2026-18 ya en seen.txt. Rev Proc 2026-14 PDF (OZ 2.0 / PR): log confirma "mismo tema que newsroom URL ya en seen" → ID c8284271cb54ba4a añadido a seen.txt. IRB 2026-19 no publicado aún (esperado lunes 27-abr o posterior). Sin contenido PR nuevo.
+- **DDEC:** Sin órdenes administrativas nuevas. DDEC-2026-002 (fondos capital privado Act 60) ya en seen.txt.
+- **Tribunal Apelativo PR:** Fallo Sagardía TA2026CE00487 (24-abr, ya en seen.txt). Sin nuevas sentencias contributivas.
+- **OCIF:** Propuesta reglamento DA (publicada 14-abr) — procedimental/financiero, NO contributivo → descartada. ID b741a0050d49949f añadido a seen.txt.
+- **JSF / RC 06-2026 ($554M):** Búsqueda intensiva. Artículos "Junta Fiscal rechaza" (7da60c213bb39d04) y "Gobierno discrepa de negativa" (52efabf4df576020) ya en seen.txt. "¿Qué ha pasado con el cheque?" (Primera Hora, 3fa496dfaa2423fe) — nuevo, añadido a seen. NO existe aún una certificación formal JSF publicada como documento oficial. Monitorear corrida 18:00 AST.
+- **Reforma Contributiva PS 912:** Senado en audiencias — 2 URLs nuevas Senado añadidas a seen.txt (0db8d04dcf6f1336, 65a0972fed114aa1). No es ley aún.
+
+### IDs añadidos a seen.txt (+9):
+1. `c8284271cb54ba4a` — irs.gov Rev Proc 2026-14 PDF — ya cubierto por IRB-16 URL
+2. `1b43f222426fe604` — newsismybusiness.com OZ-PR — fuente secundaria
+3. `74c9506da01c69b2` — jdsupra GAO-26-107225 — GAO ya en seen.txt
+4. `3fa496dfaa2423fe` — Primera Hora "¿Qué ha pasado con el cheque?" — media, no oficial
+5. `e02146766e5e605d` — opportunityzones.com Rev Proc 2026-14 — fuente secundaria
+6. `360fdb855be89a3e` — AAFAF "4 leyes reforma" — enero 29 2026 (>30 días)
+7. `0db8d04dcf6f1336` — senado.pr.gov "evalúa PS912" — no en lista fuentes
+8. `65a0972fed114aa1` — senado.pr.gov "comisión continúa" — no en lista fuentes
+9. `b741a0050d49949f` — OCIF GovPing reglamento DA — no contributivo
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin certificación oficial publicada al 26-abr 15:01 AST. Mujica (15-abr): "decisión en <2 semanas" → deadline ~29-abr. Monitorear corrida 18:00 AST con búsqueda directa a osf.pr.gov y juntasupervision.pr.gov.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** En audiencias. No es ley. Esperar acción legislativa formal.
+- **IRS IRB 2026-19:** No publicado. Esperado ~27-abr-2026 (lunes). Revisar en corrida 18:00 o 22:00 AST.
+
+---
+
 ## 2026-04-26 — CORRIDA #51 (10:07 AST)
 
 **Hora corrida:** 2026-04-26 10:07 AST
