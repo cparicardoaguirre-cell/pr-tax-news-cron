@@ -2,6 +2,36 @@
 
 ---
 
+## 2026-04-26 — CORRIDA #53 (18:06 AST)
+
+**Hora corrida:** 2026-04-26 18:06 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida).
+**seen.txt:** 107 IDs totales (+1 esta corrida — descartado)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. CC RI 26-08 no publicada. Páginas hacienda.pr.gov retornan 403.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 ya en seen.txt. DA 2026 sin nuevas. Páginas 403.
+- **Hacienda PR comunicados:** Todos los comunicados de abril 2026 ya en seen.txt, incluyendo "posposición hasta 25-abr" y "cierre ciclo 1.2M planillas".
+- **SURI:** Sin avisos nuevos indexados accesibles.
+- **IRS-PR:** IRBs 2026-16 y 2026-17 ya en seen.txt (SIFL rates y housing §911 — no aplican a PR). Notice 2026-19 está dentro de IRB 2026-15 (pensiones, no PR). Sin contenido PR nuevo.
+- **DDEC:** Sin órdenes administrativas nuevas. Búsqueda "Act 60 decreto incentivos" sin resultados de abril 2026.
+- **Tribunal Apelativo PR:** Fallo Sagardía TA2026CE00487 (24-abr) ya en seen.txt. Sin nuevas sentencias contributivas.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **JSF / RC 06-2026 ($554M):** Sin certificación publicada. oversightboard.pr.gov con error SSL. Mujica (15-abr): "en <2 semanas" → deadline estimado ~29-abr. Monitorear corrida 22:00 AST y corrida 6AM 27-abr.
+
+### IDs añadidos a seen.txt (+1):
+1. `5a1e5af44aa94f87` — primerahora.com "¿Se hará realidad el cheque?" — media, no oficial
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M cheque alivio contributivo):** Sin certificación oficial al 26-abr 18:06 AST. Deadline Mujica ~29-abr. Monitorear corridas 22:00 AST (hoy) y 6:00 AM (27-abr). Buscar en oversightboard.pr.gov cuando SSL se normalice.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** En audiencias. No es ley. Esperar acción legislativa formal.
+- **IRS IRB 2026-18 y posteriores:** Pendiente verificar contenido PR. IRB 2026-19 como boletín no existe (era Notice 2026-19 dentro de IRB 2026-15).
+
+---
+
 ## 2026-04-26 — CORRIDA #52 (15:01 AST)
 
 **Hora corrida:** 2026-04-26 15:01 AST
