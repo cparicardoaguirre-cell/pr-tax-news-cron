@@ -2,6 +2,90 @@
 
 ---
 
+## 2026-04-27 — CORRIDA #56 (10:05 AST)
+
+**Hora corrida:** 2026-04-27 10:05 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 109 IDs totales (sin cambios — 0 items nuevos esta corrida)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. CC RI 26-08 no publicada. Páginas hacienda.pr.gov retornan 403.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 ya en seen.txt. Sin BI RI 26-04 ni DA 2026 nuevas. Páginas 403.
+- **Hacienda PR comunicados:** Último comunicado indexado: "cierra ciclo contributivo" (21-abr-2026, ya en seen.txt). Sin comunicados del 27-abr indexados.
+- **SURI:** Sin avisos nuevos indexados accesibles.
+- **IRS-PR:**
+  - IRB 2026-19: NO publicado aún (el más reciente sigue siendo IRB 2026-18).
+  - REG-114499-25 (Impuesto Remesas/IRC §4475, Federal Register 13-abr-2026): ID `6d46527e3d78d822` ya en seen.txt (capturado corrida #52 como "descartado sin mención PR" — incorrecto). VERIFICADO esta corrida: aplica EXPLÍCITAMENTE a residentes de PR (definición legal incluye "Commonwealth of Puerto Rico"). Nunca reportado al digest. No se puede incluir como item nuevo por deduplicación, pero se incluye nota informativa en digest. Ver nota en seguimiento abajo.
+  - IRB 2026-18 ya en seen.txt. Sin otros IRBs nuevos.
+- **DDEC:** Sin órdenes administrativas nuevas. DDEC-2026-002/003 ya en seen.txt. Act 38-2026 ya en seen.txt (>30 días).
+- **Tribunal Apelativo PR:** Fallo Sagardía TA2026CE00487 ya en seen.txt. Sin nuevas sentencias contributivas.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **JSF / RC 06-2026:** Sin certificación oficial al 27-abr 10:05 AST. Gobernadora González (c. 23-abr): confía en aprobación "esta semana" (semana 27-abr al 1-may). Director Mujica (15-abr): "en menos de 2 semanas" → deadline ~29-abr-2026.
+
+### IDs añadidos a seen.txt: ninguno
+
+### Descartados:
+- Todos los CC RI 26-01 a 26-07 y BI RI 26-01 a 26-03: ya en seen.txt
+- IRB 2026-19: no publicado
+- REG-114499-25: ya en seen.txt (deduplicación)
+- Act 38-2026: ya en seen.txt (>30 días)
+- JSF RC 06-2026: sin documento oficial publicado (sólo cobertura mediática)
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Sin certificación oficial al 27-abr 10:05 AST. Monitorear corrida 15:00 AST.
+- **[NOTA] REG-114499-25 (IRC §4475 Remittance Tax):** Nunca reportado al digest; aplica a PR; en seen.txt como descartado. Incluida nota informativa en digest de esta corrida. Si se publica regla final (TD), reportar como item nuevo.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** URL senado.pr.gov/article.cfm?nwsid=2684 sigue en 403. No confirmada. Esperar acción legislativa firmada como ley.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+PR TAX NEWS - Sin Novedades | Corrida #56
+Fecha: 2026-04-27 | Hora: 10:05 AST
+CPA Ricardo Aguirre
+=========================================
+
+Sin publicaciones nuevas de Hacienda PR, IRS-PR, DDEC, Tribunal ni SURI esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] JSF / RC 06-2026 - Cheque de Alivio $554M
+Sin certificacion oficial de la Junta de Supervision Fiscal
+al 27-abr-2026 10:05 AST. Director Mujica (15-abr): decision
+en "menos de 2 semanas" -> deadline estimado ~29-abr-2026.
+Gobernadora (c. 23-abr): confia en aprobacion esta semana.
+Monitorear corrida 15:00 AST hoy.
+
+--- NOTA IMPORTANTE (IRS-PR) ---
+
+REG-114499-25 (Propuesta Impuesto Remesas / IRC Sec. 4475)
+Publicado en Federal Register: 13-abr-2026.
+Propone reglamento para impuesto del 1% sobre transferencias
+de remesas PAGADAS EN EFECTIVO desde EE.UU./PR hacia el
+extranjero. Aplica EXPLICITAMENTE a remitentes en Puerto Rico.
+Excepciones: transferencias desde cuenta bancaria (BSA) o
+tarjeta de debito/credito emitida en EE.UU. NO se reporta
+como item nuevo (esta en seen.txt desde corrida #52), pero
+se incluye esta nota informativa por relevancia para clientes.
+https://www.federalregister.gov/documents/2026/04/13/2026-07085/excise-tax-on-remittance-transfers
+
+--- REVISADO ESTA CORRIDA ---
+Hacienda CC RI: 26-01 a 26-07 en seen.txt; 26-08 no publicada
+Hacienda BI/DA: 26-01 a 26-03 en seen.txt; sin nuevas publicadas
+IRS IRB 2026-19: no publicado aun (esperado semana 27-abr)
+DDEC: sin nuevas ordenes administrativas
+Tribunal Apelativo: sin sentencias contributivas nuevas
+SURI / OCIF: sin avisos nuevos
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 109 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-04-27 — CORRIDA #55 (06:00 AST)
 
 **Hora corrida:** 2026-04-27 06:00 AST
