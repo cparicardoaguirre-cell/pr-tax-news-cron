@@ -2,6 +2,92 @@
 
 ---
 
+## 2026-04-27 — CORRIDA #58 (18:00 AST)
+
+**Hora corrida:** 2026-04-27 18:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 109 IDs totales (sin cambios — 0 items nuevos esta corrida)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. CC RI 26-08 no publicada al 18:00 AST. Páginas hacienda.pr.gov retornan 403 a fetch directo.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 en seen.txt. Sin BI RI 26-04 ni nuevas DA publicadas.
+- **Hacienda PR comunicados:** Último comunicado indexado: "cierra ciclo contributivo" (15-abr). Sin comunicados del 27-abr indexados al 18:00 AST.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:**
+  - IRB 2026-19: NO publicado al 18:00 AST (se esperaba lunes 27-abr).
+  - Todos los IRBs 2026-15 a 2026-18 ya en seen.txt.
+  - Sin nuevos Notices/Rev. Proc. con mención a PR/Section 933/Act 60.
+- **DDEC:** DDEC-2026-002 ya en seen.txt. Sin nuevas órdenes administrativas.
+- **Tribunal Apelativo PR:** Fallo Sagardía (original) y confirmación 24-abr (Metro PR) ya en seen.txt. Artículo NotiCel 24-abr (a4ed52805e66aa72): duplicado del mismo evento ya en seen.txt — descartado.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **JSF / RC 06-2026 (seguimiento):** Sin certificación oficial al 18:00 AST. Primera Hora (~25-abr): "La JSF ya tiene fecha para su decisión" (ya en seen.txt). Director Mujica (15-abr): deadline ~29-abr. Sin noticias hoy 27-abr de aprobación.
+
+### IDs añadidos a seen.txt: ninguno
+
+### Descartados esta corrida:
+- Todos los CC RI 26-01 a 26-07, BI RI 26-01 a 26-03: ya en seen.txt
+- Todos los comunicados Hacienda (cierra ciclo, desembolsos): ya en seen.txt
+- IRB 2026-19: no publicado
+- Noticel Sagardía 24-abr (a4ed52805e66aa72): duplicado de evento ya en seen.txt (Metro PR 108f2a9b80949b20)
+- Rev. Proc. 2026-12 (OZ), GAO-26-107225: ya en seen.txt
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Sin certificación oficial al 18:00 AST. Primera Hora reporta que JSF ya tiene fecha de decisión "esta semana" (antes del 1-may-2026). Director Mujica: deadline ~29-abr-2026. Monitorear corrida 22:00 AST hoy y corridas del 28-abr.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** En audiencias legislativas. No es ley. Esperar acción legislativa formal.
+- **[NOTA] IRB 2026-19:** Lunes 27-abr es fecha esperada de publicación. No publicado al 18:00 AST. Verificar corrida 22:00 AST.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+PR TAX NEWS — Sin Novedades | Corrida #58
+Fecha: 2026-04-27 | Hora: 18:00 AST
+CPA Ricardo Aguirre
+==========================================
+
+Sin publicaciones nuevas de Hacienda PR, IRS-PR, DDEC,
+Tribunal Apelativo ni SURI en esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] JSF / RC 06-2026 — Cheque de Alivio $554M
+Sin certificacion oficial de la Junta de Supervision
+Fiscal al 27-abr-2026 18:00 AST. Primera Hora (c. 25-abr)
+reporta que la JSF ya tiene fecha de decision ("esta
+semana"). Director Mujica (15-abr): decision esperada
+antes del ~29-abr-2026. Gobernadora: confia en aprobacion.
+Monitorear corrida 22:00 AST hoy y manana.
+
+--- FUENTES REVISADAS ---
+
+Hacienda PR:
+- CC RI: mas reciente es 26-07 (20-abr). Sin 26-08.
+- BI RI: mas reciente es 26-03 (20-abr). Sin 26-04.
+- DA: Sin nuevas en 2026 (ultima es DA 26-01/DDEC-2026-001).
+- Comunicados: ultimo indexado es cierre ciclo (15-abr).
+  Sin comunicados del 27-abr en indices publicos.
+
+IRS-PR:
+- IRB 2026-19: No publicado al 18:00 AST.
+- IRBs 2026-15 a 2026-18: ya en seen.txt.
+- Notices/Rev.Proc. con mencion PR: sin novedades.
+
+Tribunal Apelativo:
+- Fallo Sagardia + confirmacion 24-abr: ya en seen.txt.
+
+DDEC: Sin nuevas ordenes administrativas post-DDEC-2026-002.
+SURI: Sin avisos de mantenimiento o nuevos formularios.
+OCIF: Sin publicaciones contributivas nuevas.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 109 IDs totales
+Proxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-04-27 — CORRIDA #57 (15:13 AST)
 
 **Hora corrida:** 2026-04-27 15:13 AST
