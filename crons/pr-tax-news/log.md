@@ -2,6 +2,79 @@
 
 ---
 
+## 2026-04-27 — CORRIDA #57 (15:13 AST)
+
+**Hora corrida:** 2026-04-27 15:13 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida). En producción el envío funcionará normalmente.
+**seen.txt:** 109 IDs totales (sin cambios — 0 items nuevos esta corrida)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. CC RI 26-08 no publicada al 15:13 AST. Páginas hacienda.pr.gov retornan 403 a fetch directo.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 en seen.txt. Sin BI RI 26-04 ni DA 26-01 publicadas. Páginas 403.
+- **Hacienda PR comunicados:** Último comunicado indexado: "nueva nómina eleva reintegros a $2,208M" (21-abr). Sin comunicados del 27-abr indexados al 15:13 AST.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:**
+  - IRB 2026-19: NO publicado aún (el más reciente sigue siendo IRB 2026-18, publicado hoy temprano).
+  - Todos los IRBs recientes (2026-15 a 2026-18) ya en seen.txt.
+  - Rev. Proc. 2026-14 (OZ 2.0/PR) ya en seen.txt.
+  - Notice 2026-22 (cifras población PR housing credits/bond cap): ID `57d849a67451f737` — NUEVO en seen.txt pero descartado: contenido es asignación rutinaria de topes de crédito de vivienda y bonos de actividad privada bajo Section 42(h)/146; publicado en IRB 2026-15 (6-abr); no es novedad contributiva directamente accionable.
+- **DDEC:** DDEC-2026-002 ya en seen.txt. Sin nuevas órdenes administrativas.
+- **Tribunal Apelativo PR:** Fallo Sagardía ya en seen.txt. Sin nuevas sentencias contributivas.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **JSF / RC 06-2026 (seguimiento):** Sin certificación oficial al 15:13 AST. El Nuevo Día (fecha ~25-abr): "La Junta Fiscal decidiría a finales de esta semana." Gobernadora González (c. 23-abr): confía en aprobación semana del 27-abr. Director Mujica (15-abr): deadline ~29-abr. URL elnuevodia.com ya en seen.txt.
+
+### IDs añadidos a seen.txt: ninguno
+
+### Descartados esta corrida:
+- Todos los CC RI 26-01 a 26-07 y BI RI 26-01 a 26-03: ya en seen.txt
+- Notice 2026-22: nueva URL pero contenido administrativo rutinario (topes housing credits/bonds), sin relevancia contributiva directa para clientes
+- IRB 2026-19: no publicado
+- Artículos JSF sobre cheque de alivio: todos ya en seen.txt
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Sin certificación oficial al 15:13 AST. El Nuevo Día reporta decisión "a finales de esta semana" (antes del 1-may-2026). Monitorear corrida 18:00 AST hoy y corridas subsiguientes. Buscar en oversightboard.pr.gov.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** En audiencias legislativas. No es ley. Esperar acción legislativa formal.
+- **[NOTA] REG-114499-25 (IRC §4475 Remittance Tax):** Aplica a PR explícitamente; en seen.txt desde corrida #52 como descartado. IRB 2026-18 (publicado 27-abr) lo contiene oficialmente. Nunca reportado al digest. Si se publica regla final (TD), reportar como item nuevo.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+PR TAX NEWS — Sin Novedades | Corrida #57
+Fecha: 2026-04-27 | Hora: 15:13 AST
+CPA Ricardo Aguirre
+==========================================
+
+Sin publicaciones nuevas de Hacienda PR, IRS-PR, DDEC,
+Tribunal ni SURI esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] JSF / RC 06-2026 — Cheque de Alivio $554M
+Sin certificacion oficial de la Junta de Supervision Fiscal
+al 27-abr-2026 15:13 AST. El Nuevo Dia (c. 25-abr): decision
+esperada "a finales de esta semana" (antes del 1-may-2026).
+Director Mujica (15-abr): deadline estimado ~29-abr-2026.
+Gobernadora (c. 23-abr): confia en aprobacion esta semana.
+Monitorear corrida 18:00 AST hoy.
+
+--- REVISADO ESTA CORRIDA ---
+Hacienda CC RI: 26-01 a 26-07 en seen.txt; 26-08 no publicada
+Hacienda BI/DA: 26-01 a 26-03 en seen.txt; sin nuevas
+IRS IRB 2026-19: no publicado aun
+DDEC: sin nuevas ordenes administrativas
+Tribunal Apelativo: sin sentencias contributivas nuevas
+SURI / OCIF: sin avisos nuevos
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 109 IDs totales
+Proxima corrida: 18:00 AST
+```
+
+---
+
 ## 2026-04-27 — CORRIDA #56 (10:05 AST)
 
 **Hora corrida:** 2026-04-27 10:05 AST
