@@ -2,6 +2,36 @@
 
 ---
 
+## 2026-04-27 — CORRIDA #55 (06:00 AST)
+
+**Hora corrida:** 2026-04-27 06:00 AST
+**Items nuevos:** 0 oficiales | 1 descartado (fecha probable >30 días)
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (red restringida).
+**seen.txt:** 109 IDs totales (+1 esta corrida)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. CC RI 26-08 no publicada. Páginas hacienda.pr.gov retornan 403.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 ya en seen.txt. Sin nuevas DA 2026.
+- **Hacienda PR comunicados:** Todos los de abril 2026 en seen.txt (incluyendo "cierra ciclo" 21-abr). Sin comunicados del 27-abr indexados.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-18 (publicado 27-abr; TD-10044 tips deduction, REG-114499-25 remittance tax, Notice 2026-26 plan rates, Announcement 2026-9 OPR) — URL ya en seen.txt (capturado corrida #52). REG-114499-25 Federal Register URL ya en seen.txt. Verificado: aplica a PR (remesas desde PR hacia exterior), pero ya estaba en seen.txt como descartado — no reportable esta corrida.
+- **DDEC:** DDEC 2026-002 ya en seen.txt. Sin órdenes nuevas abril 2026.
+- **Tribunal Apelativo PR:** Fallo Sagardía TA2026CE00487 ya en seen.txt. Sin nuevas sentencias contributivas.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **JSF / RC 06-2026:** Sin certificación oficial publicada. Gobernadora González (c. 23-abr) indicó confianza en aprobación "la próxima semana" (27-abr al 3-may). Director Mujica (15-abr): "<2 semanas" → deadline ~29-abr.
+
+### IDs añadidos a seen.txt (+1):
+1. `b97f531d3a99ba67` — hacienda.pr.gov "desembolsa primera nómina de reintegros por más de $200 millones" — comunicado operacional, fecha probable anterior a 30 días, descartado
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M cheque alivio contributivo):** Sin certificación oficial al 27-abr 06:00 AST. Gobernadora González confía en aprobación semana del 27-abr. Director Mujica deadline ~29-abr. Monitorear corrida 10:00 AST. Buscar en oversightboard.pr.gov.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva:** En audiencias. No es ley. Esperar acción legislativa formal.
+- **[NOTA] REG-114499-25 (Impuesto Remesas / IRC §4475):** Aplica a PR explícitamente. Capturado en seen.txt (corrida #52) pero nunca reportado al digest. Considerar si debe re-examinarse en próxima corrida dado que IRB 2026-18 está oficialmente publicado hoy.
+
+---
+
 ## 2026-04-26 — CORRIDA #54 (22:21 AST)
 
 **Hora corrida:** 2026-04-26 22:21 AST
