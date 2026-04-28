@@ -2,6 +2,98 @@
 
 ---
 
+## 2026-04-28 — CORRIDA #60 (06:00 AST)
+
+**Hora corrida:** 2026-04-28 06:00 AST (UTC: 2026-04-28 10:00)
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (HTTP 403). En producción el envío funcionará normalmente.
+**seen.txt:** 109 IDs totales (sin cambios — 0 items nuevos esta corrida)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. Sin CC RI 26-08 publicada al 06:00 AST 28-abr. Fetch directo hacienda.pr.gov retorna 403.
+- **Hacienda PR BI/DA:** BI RI 26-01 a 26-03 en seen.txt. Sin BI RI 26-04. Sin nuevas DA en 2026.
+- **Hacienda PR comunicados:** Último comunicado verificado: cierre ciclo contributivo (21-abr, ya en seen.txt). Sin comunicados nuevos post 21-abr.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:**
+  - IRB 2026-19: No publicado al 06:00 AST 28-abr. Búsqueda retorna hasta IRB 2026-18 (ya en seen.txt).
+  - Sin nuevos Notices/Rev.Proc. con mención a PR/Section 933/Act 60.
+- **DDEC:** Sin nuevas órdenes/decretos dentro de 30 días. DDEC Certified Professional Program (Fases 1-4, oct-2025 a mar-2026) fuera de la ventana de 30 días.
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias. Sagardía fallo + confirmación 24-abr ya en seen.txt. Metro PR (27-abr): Rivera Schatz ultimátum — noticia legislativa, no sentencia formal.
+- **OCIF:** Noticia El Vocero (14-abr): reglamento sobre solicitudes de determinaciones administrativas ante OCIF — NO contributivo (reglamento procesal). Descartado por regla "solo si contributivo".
+
+### Items descartados por >30 días:
+- **GAO-26-107225** "Puerto Rico: IRS Should Improve Oversight of Taxpayers Claiming Exemption from Federal Taxes" — publicado 8-dic-2025. Más de 30 días. FILTRADO.
+
+### IDs añadidos a seen.txt: ninguno
+
+### Descartados esta corrida:
+- CC RI 26-01 a 26-07, BI RI 26-01 a 26-03: ya en seen.txt
+- IRB 2026-15 a 2026-18: ya en seen.txt; IRB 2026-19 no publicado
+- Comunicados Hacienda (cierre ciclo, reintegros): ya en seen.txt
+- Sagardía fallo + confirmación 24-abr: ya en seen.txt
+- GAO-26-107225: filtrado >30 días (dic-2025)
+- OCIF reglamento procesal 14-abr: no contributivo
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Plazo "dos semanas" de Mujica (desde 15-abr) vence HOY 28-abr. NotiCel (23-abr): "Continúan negociaciones Fortaleza-JSF." NotiCel (26-abr): "Gobierno rechaza argumento JSF" — URL bloqueada. Sin decisión oficial ni comunicado de Hacienda al 06:00 AST 28-abr. VERIFICAR corrida 10:00 AST con urgencia.
+- **[ALERTA] Rivera Schatz / Sagardía:** Metro PR (27-abr): Senado da ultimátum a Hacienda para entrega de datos contributivos de Sagardía. Acción legislativa; sin nueva sentencia del Tribunal.
+- **[NOTA] IRB 2026-19:** No publicado. Verificar corridas 10:00 y 15:00 AST 28-abr.
+- **[NOTA] Senado PS 912 — Reforma Contributiva:** En audiencias. No es ley.
+
+### Digest preparado (no enviado — sandbox):
+
+```
+PR TAX NEWS — Sin Novedades | Corrida #60
+Fecha: 2026-04-28 | Hora: 06:00 AST
+CPA Ricardo Aguirre
+==========================================
+
+Sin publicaciones nuevas verificadas de Hacienda PR,
+IRS-PR, DDEC, Tribunal Apelativo ni SURI en esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] JSF / RC 06-2026 — Cheque de Alivio $554M
+Plazo "dos semanas" de Mujica (desde 15-abr): VENCE HOY.
+NotiCel (23-abr): "Continuan negociaciones Fortaleza-JSF."
+NotiCel (26-abr): "Gobierno rechaza argumento JSF" — URL
+bloqueada, contenido no verificado. Sin decision oficial
+publicada al 06:00 AST 28-abr. VERIFICAR corrida 10:00 AST.
+
+[ALERTA] Sagardia / Senado
+Metro PR (27-abr): Rivera Schatz da ultimatum a Hacienda
+para entrega de datos contributivos de Sagardia. Caso
+activo en Senado. Sin nueva sentencia del Tribunal.
+
+[NOTA] IRB 2026-19: No publicado al 06:00 AST 28-abr.
+[NOTA] PS 912 Reforma Contributiva: En audiencias. No es ley.
+
+--- FUENTES REVISADAS ESTA CORRIDA ---
+
+Hacienda PR:
+- CC RI: Mas reciente confirmada 26-07 (20-abr). Sin 26-08.
+- BI RI: Mas reciente confirmada 26-03 (20-abr). Sin 26-04.
+- DA: Sin nuevas en 2026.
+- Comunicados: Sin nuevos post 21-abr.
+
+IRS-PR:
+- IRB 2026-19: No publicado al 06:00 AST 28-abr.
+- Sin nuevos Notices/Rev.Proc. con mencion PR/Sec.933/Act 60.
+
+Tribunal Apelativo: Sin nuevas sentencias tributarias.
+DDEC: Sin nuevas ordenes/decretos.
+SURI: Sin nuevos avisos.
+OCIF: Sin publicaciones contributivas.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 109 IDs totales
+Proxima corrida: 10:00 AST (28-abr-2026)
+```
+
+---
+
 ## 2026-04-27 — CORRIDA #59 (22:00 AST)
 
 **Hora corrida:** 2026-04-27 22:00 AST (UTC: 2026-04-28 02:20)
