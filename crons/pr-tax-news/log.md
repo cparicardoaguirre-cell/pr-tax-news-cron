@@ -2,6 +2,53 @@
 
 ---
 
+## 2026-04-28 — CORRIDA #62 (18:00 AST)
+
+**Hora corrida:** 2026-04-28 18:00 AST (UTC: 2026-04-28 22:00)
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (HTTP 403). En producción el envío funcionará normalmente.
+**seen.txt:** 118 IDs totales (+2 IDs nuevos esta corrida)
+
+### Resultado: 0 items nuevos
+
+### IDs añadidos a seen.txt (2 total):
+- `70ed1c49835df2fa` — Rivera Schatz ultimátum (metro.pr 27-abr) — seguimiento TA2026CE00487, NO nueva sentencia → DESCARTADO
+- `05594c01ec393c9a` — Sagardia autoriza entrega datos (metro.pr 28-abr) — seguimiento, NO nueva sentencia → DESCARTADO
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. Sin CC RI 26-08+ publicada al 18:00 AST 28-abr.
+- **Hacienda PR DA:** DA 26-01 ya en seen.txt.
+- **Hacienda PR BI RI:** BI RI 26-01, 26-02, 26-03 ya en seen.txt.
+- **Hacienda PR comunicados:** Comunicado cierre ciclo contributivo (1.2M planillas, $2B reintegros) ya en seen.txt. Sin comunicados nuevos post 21-abr.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-16 (13-abr, SIFL aircraft / APA) ya en seen.txt — sin contenido PR. IRB 2026-18 (27-abr, Section 224 "qualified tips" OBBBA + Notice 2026-26 yield curve) ya en seen.txt — no menciona PR/Section 933/Act 60 → descartado per filtro.
+- **Tribunal Apelativo PR:** Rivera Schatz ultimátum a Hacienda (27-abr) y Sagardía autoriza entrega (28-abr) son seguimientos del caso TA2026CE00487 ya reportado en Corrida #61. No son nuevas sentencias contributivas.
+- **DDEC:** DDEC 2026-002 ya en seen.txt.
+- **OCIF:** Sin novedades contributivas nuevas.
+
+### Digest enviado (no enviado — sandbox):
+
+```
+MONITOR NOVEDADES CONTRIBUTIVAS PR
+28 de abril de 2026 | 18:00 AST
+==========================================
+
+Sin novedades contributivas nuevas en esta corrida.
+
+Fuentes revisadas: Hacienda PR (CC RI, DA, BI RI, comunicados), SURI,
+IRS-PR (IRB 2026-15 a 2026-18 revisados), Tribunal Apelativo, DDEC, OCIF.
+
+IRB 2026-18 (27-abr-2026): Final regs Section 224 "qualified tips" (OBBBA)
+— sin mención a PR/Section 933/Act 60. Descartado per filtro.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 118 IDs totales
+Proxima corrida: 22:00 AST
+================================
+```
+
+---
+
 ## 2026-04-28 — CORRIDA #61 (15:00 AST)
 
 **Hora corrida:** 2026-04-28 15:00 AST (UTC: 2026-04-28 19:00)
