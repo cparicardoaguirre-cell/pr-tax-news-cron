@@ -2,6 +2,73 @@
 
 ---
 
+## 2026-04-28 — CORRIDA #61 (15:00 AST)
+
+**Hora corrida:** 2026-04-28 15:00 AST (UTC: 2026-04-28 19:00)
+**Items nuevos:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (HTTP 403 "Host not in allowlist"). En producción el envío funcionará normalmente.
+**seen.txt:** 116 IDs totales (+7 IDs nuevos esta corrida)
+
+### Items incluidos en digest:
+
+1. **[HACIENDA PR - DA]** DA 26-01 — Radicación electrónica del Informe Anual de Cumplimiento bajo Código de Incentivos (Ley 60)
+   - ID: `18470ab3236f82d5`
+   - Fecha: 2026 (fecha exacta no confirmada en fuentes disponibles; encontrada por primera vez en esta corrida)
+   - URL: https://hacienda.pr.gov/publicaciones/determinacion-administrativa-num-26-01
+
+2. **[TRIBUNAL APELATIVO - CONTRIBUTIVO]** TA2026CE00487 — Tribunal confirma entrega de datos contributivos de Sagardía al Senado
+   - ID: `8870f9737837a3ff`
+   - Fecha: 2026-04-24
+   - URL: https://www.notiuno.com/noticias/gobierno-y-politica/apelaciones-confirma-orden-para-que-hacienda-entregue-datos-contributivos-de-sagard-a-al-senado/article_cd4d4107-42f3-4098-b3fa-ab877d874f69.html
+
+### IDs añadidos a seen.txt (7 total):
+- `18470ab3236f82d5` — DA 26-01 (Hacienda) — EN DIGEST
+- `8870f9737837a3ff` — Notiuno Tribunal Sagardía — EN DIGEST
+- `342b6ae22be851a1` — IRB 2026-13 (no PR) — REVISADO, DESCARTADO
+- `e889f0d80bffc883` — IRB 2026-14 (no PR) — REVISADO, DESCARTADO
+- `3a6591f21f0945fe` — OCIF reglamento (changeflow) — NO CONTRIBUTIVO, DESCARTADO
+- `22ef1f7762642500` — OCIF homepage — NO CONTRIBUTIVO
+- `debe8768bf04a01b` — OCIF leyes-reglamentos — NO CONTRIBUTIVO
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** 26-01 a 26-07 en seen.txt. Sin CC RI 26-08+ publicada al 15:00 AST 28-abr. Directas hacienda.pr.gov retornan 403.
+- **Hacienda PR DA:** DA 26-01 NUEVA (primera vez encontrada). Fecha exacta no disponible. Incluida en digest con caveat.
+- **Hacienda PR comunicados:** Sin comunicados nuevos post 21-abr.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-13 (23-mar, digital assets/1099-DA — sin PR) y IRB 2026-14 (30-mar, tax-exempt bonds — sin PR) revisados y añadidos a seen.txt. Sin nuevos Notices/Rev.Proc. con mención a PR/Section 933/Act 60.
+- **Tribunal Apelativo PR:** TA2026CE00487 (24-abr-2026) — confirmación entrega datos contributivos Sagardía al Senado. NUEVO vía notiuno.com.
+- **DDEC:** Sin nuevas órdenes dentro de 30 días.
+- **OCIF:** Propuesta reglamento determinaciones administrativas (14-abr, plazo comentarios 14-may) — NO contributivo (reglamento procesal OCIF). Descartado per regla "solo si contributivo".
+
+### Digest preparado (no enviado — sandbox):
+
+```
+MONITOR NOVEDADES CONTRIBUTIVAS PR
+28 de abril de 2026 | 15:00 AST
+==========================================
+
+[HACIENDA PR - DA] Determinacion Administrativa Num. 26-01 — Radicacion electronica del Informe Anual de Cumplimiento bajo Codigo de Incentivos
+Fecha: 2026 (fecha exacta no confirmada en fuentes disponibles)
+El Departamento de Hacienda emite la DA 26-01, que establece el requisito de radicar electronicamente el Informe Anual de Cumplimiento de las Secciones 6020.10 (Servicios de Exportacion, ex-Act 20) y 6070.66 (Individuo Residente Inversionista, ex-Act 22) del Codigo de Incentivos de Puerto Rico (Ley 60-2019). El informe debe radicarse conjuntamente con la planilla de contribucion sobre ingresos del ano contributivo correspondiente. Aplica a todos los titulares de decretos activos bajo dichas categorias.
+https://hacienda.pr.gov/publicaciones/determinacion-administrativa-num-26-01
+---
+
+[TRIBUNAL APELATIVO - CONTRIBUTIVO] TA2026CE00487 — Tribunal confirma entrega de datos contributivos de contratista al Senado
+Fecha: 2026-04-24
+El Tribunal de Apelaciones confirmo la orden que requiere al Secretario de Hacienda entregar al Senado informacion contributiva de Antonio M. Sagardia de Jesus, contratista gubernamental, conforme a la Peticion de Informacion Legislativa 2026-0036. El Senado solicito confirmacion de si se radicaron formularios W-2 o 480.6SP para los anos contributivos 2024 y 2025. El tribunal sostuvo que el Senado ejercio su facultad constitucional de fiscalizacion de fondos publicos y que la confidencialidad contributiva cede ante el legitimo interes legislativo. Caso: TA2026CE00487.
+https://www.notiuno.com/noticias/gobierno-y-politica/apelaciones-confirma-orden-para-que-hacienda-entregue-datos-contributivos-de-sagard-a-al-senado/article_cd4d4107-42f3-4098-b3fa-ab877d874f69.html
+---
+
+================================
+Fuentes revisadas: 6 (Hacienda, SURI, IRS-PR, Tribunal, DDEC, OCIF) | Items: 2 | seen.txt: 116 IDs totales
+Proxima corrida: 18:00 AST
+IRS-PR: IRBs 2026-13 y 2026-14 revisados — sin contenido aplicable a PR.
+SURI / DDEC / OCIF: sin novedades contributivas nuevas.
+================================
+```
+
+---
+
 ## 2026-04-28 — CORRIDA #60 (06:00 AST)
 
 **Hora corrida:** 2026-04-28 06:00 AST (UTC: 2026-04-28 10:00)
