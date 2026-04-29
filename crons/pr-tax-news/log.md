@@ -2,6 +2,58 @@
 
 ---
 
+## 2026-04-29 — CORRIDA #63 (06:00 AST)
+
+**Hora corrida:** 2026-04-29 06:00 AST (UTC: 2026-04-29 10:00)
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (HTTP 403). En producción el envío funcionará normalmente.
+**seen.txt:** 118 IDs totales (sin cambios)
+
+### Resultado: 0 items nuevos
+
+### IDs añadidos a seen.txt: ninguno
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. Sin CC RI 26-08 publicada al 06:00 AST 29-abr.
+- **Hacienda PR DA:** DA 26-01 ya en seen.txt. Sin DA 26-02 publicada.
+- **Hacienda PR BI RI:** BI RI 26-01, 26-02, 26-03 ya en seen.txt. Sin BI RI 26-04 publicada.
+- **Hacienda PR comunicados:** Sin comunicados nuevos post 21-abr. Búsqueda directa del 29-abr no arroja nuevas publicaciones.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-15 a 2026-18 ya en seen.txt. IRB 2026-19 no publicado aún (previsto ~4-may-2026). Sin nuevos Notices/Rev.Proc./Anuncios que mencionen PR/Section 933/Act 60.
+- **Tribunal Apelativo PR:** Caso Sagardía TA2026CE00487 ya en seen.txt. Seguimientos (Rivera Schatz ultimátum 27-abr, Sagardía autoriza 28-abr) ya en seen.txt como descartados.
+- **DDEC:** DDEC 2026-002 ya en seen.txt. Artículo fiscalización decretos ya en seen.txt. Sin nuevas órdenes administrativas.
+- **OCIF:** Sin novedades contributivas nuevas.
+- **JSF/Cheque alivio RC 06-2026:** No se encontró anuncio formal de decisión JSF al 06:00 AST 29-abr. Último estado conocido: director Mujica (15-abr) estimaba decisión "en menos de dos semanas".
+
+### Digest enviado (no enviado — sandbox):
+
+```
+MONITOR NOVEDADES CONTRIBUTIVAS PR
+29 de abril de 2026 | 06:00 AST | Corrida #63
+==========================================
+
+Sin novedades contributivas nuevas en esta corrida.
+
+Fuentes revisadas: Hacienda PR (CC RI, DA, BI RI, comunicados), SURI,
+IRS-PR (IRB 2026-15 al 2026-18 ya revisados; IRB 2026-19 no publicado aun),
+Tribunal Apelativo, DDEC, OCIF.
+
+Estado de seguimiento:
+- [SEGUIMIENTO RC 06-2026] JSF: no se ha publicado decision formal
+  sobre el cheque de alivio contributivo ($554M) a la fecha de esta corrida.
+  Ultima informacion: director Mujica, 15-abr-2026, "decision en menos
+  de dos semanas".
+- CC RI 26-08: no publicada aun.
+- IRB 2026-19: se publicaria el 4-may-2026.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 118 IDs totales
+Proxima corrida: 10:00 AST
+================================
+```
+
+---
+
 ## 2026-04-28 — CORRIDA #62 (18:00 AST)
 
 **Hora corrida:** 2026-04-28 18:00 AST (UTC: 2026-04-28 22:00)
