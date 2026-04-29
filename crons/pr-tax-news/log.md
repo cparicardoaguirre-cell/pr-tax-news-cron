@@ -2,6 +2,58 @@
 
 ---
 
+## 2026-04-29 — CORRIDA #65 (15:00 AST)
+
+**Hora corrida:** 2026-04-29 15:00 AST (UTC: 2026-04-29 19:00)
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (HTTP 403). En producción el envío funcionará normalmente.
+**seen.txt:** 119 IDs totales (sin cambios)
+
+### Resultado: 0 items nuevos
+
+### IDs añadidos a seen.txt: ninguno
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 ya en seen.txt. Sin CC RI 26-08 publicada al 15:00 AST 29-abr.
+- **Hacienda PR DA:** DA 26-01 ya en seen.txt. Sin DA 26-02 publicada.
+- **Hacienda PR BI RI:** BI RI 26-01, 26-02, 26-03 ya en seen.txt. Sin BI RI 26-04 publicada.
+- **Hacienda PR comunicados:** Sin comunicados nuevos post 21-abr. Búsquedas del 29-abr no arrojan nuevas publicaciones.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-15 a 2026-18 ya en seen.txt. IRB 2026-18 (27-abr) contiene tips deduction (sec. 224) y remittance tax (sec. 4475) pero sin mención explícita de PR/Section 933/Act 60 — filtrado. IRB 2026-19 no publicado aún (previsto ~4-may-2026). Sin nuevos Notices/Rev.Proc. que mencionen PR.
+- **Tribunal Apelativo PR:** Sin nuevas sentencias contributivas. Caso Sagardía TA2026CE00487 ya en seen.txt.
+- **DDEC:** DDEC 2026-002 ya en seen.txt. Sin nuevas órdenes administrativas en abril.
+- **OCIF:** Sin novedades contributivas nuevas.
+- **JSF/Cheque alivio RC 06-2026:** Al 15:00 AST 29-abr, JSF aún no ha publicado decisión formal. Director Mujica había estimado "en menos de dos semanas" desde 15-abr (plazo vencería ~29-abr). Pendiente publicación oficial.
+
+### Digest enviado (no enviado — sandbox):
+
+```
+MONITOR NOVEDADES CONTRIBUTIVAS PR
+29 de abril de 2026 | 15:00 AST | Corrida #65
+==========================================
+
+Sin novedades contributivas nuevas en esta corrida.
+
+Fuentes revisadas: Hacienda PR (CC RI 26-01 a 26-07, BI RI 26-01
+a 26-03, DA 26-01, comunicados), SURI, IRS-PR (IRB 2026-15 a
+2026-18 sin items PR-relevantes; IRB 2026-19 no publicado aun),
+Tribunal Apelativo, DDEC, OCIF.
+
+Estado de seguimiento:
+- [PENDIENTE] RC 06-2026 / Cheque alivio contributivo $554M:
+  JSF estimaba decision "en menos de dos semanas" desde el 15-abr.
+  Al 29-abr 15:00 AST no se ha publicado decision formal. Pendiente.
+- CC RI 26-08: no publicada aun.
+- IRB 2026-19: se publicaria aprox. 4-may-2026.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 119 IDs totales
+Proxima corrida: 18:00 AST
+================================
+```
+
+---
+
 ## 2026-04-29 — CORRIDA #64 (10:00 AST)
 
 **Hora corrida:** 2026-04-29 10:00 AST (UTC: 2026-04-29 14:00)
