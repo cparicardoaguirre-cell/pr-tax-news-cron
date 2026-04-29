@@ -2,6 +2,59 @@
 
 ---
 
+## 2026-04-29 — CORRIDA #67 (18:22 AST)
+
+**Hora corrida:** 2026-04-29 18:22 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (HTTP 403). En producción el envío funcionará normalmente.
+**seen.txt:** 126 IDs totales (+2 descartados: END Enero-Feb sobre JSF plazo extensión)
+
+### Items en digest:
+Sin items nuevos en esta corrida.
+
+### IDs añadidos a seen.txt:
+- `77436b6b6f6c92e6` — END: "Extienden plazo para que el gobierno certifique alivio contributivo consistente con plan fiscal" — DESCARTADO (feb 2026, >30 días)
+- `575472d1d0709931` — END: "Conceden más tiempo al gobierno para certificar impacto fiscal del alivio contributivo único" — DESCARTADO (feb 2026, >30 días)
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 en seen.txt; CC RI 26-08 no publicada al 18:22 AST 29-abr
+- **Hacienda PR DA:** Sin nuevas DA en 2026 más allá de las ya vistas
+- **Hacienda PR BI RI:** BI RI 26-01 a 26-03 en seen.txt; sin BI RI 26-04 al corte
+- **Hacienda PR Comunicados:** Comunicados de ciclo contributivo en seen.txt; sin comunicados nuevos post-15-abr
+- **SURI:** Sin avisos indexados accesibles
+- **IRS-PR:** IRB 2026-15, 2026-16, 2026-17 revisados; sin contenido específico PR nuevo
+- **Tribunal Apelativo PR:** Caso Sagardía en seen.txt; sin nuevas sentencias contributivas
+- **DDEC:** DDEC 2026-002 en seen.txt; sin nuevas órdenes
+- **OCIF:** Sin novedades contributivas
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin decisión formal al 18:22 AST 29-abr. Mujica declaró "días" el 15-abr; negociaciones continuaban el 23-abr. MONITOREAR corrida 22:00 AST.
+- **IRS REG-114499-25 (1% remesas desde PR):** En período de comentarios hasta 12-jun-2026.
+- **BI RI 26-04 y subsiguientes:** No publicados aún.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+Monitor Contributivo PR — 2026-04-29 18:22 AST
+
+Sin novedades nuevas en esta corrida.
+
+Fuentes revisadas:
+• Hacienda PR (CC, DA, BI, Comunicados)
+• SURI (avisos del sistema)
+• IRS — IRB 2026-15, 2026-16, 2026-17
+• Tribunal Apelativo PR
+• DDEC Act 60
+• OCIF
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 126 IDs totales
+Proxima corrida: 22:00 AST
+================================
+```
+
+---
+
 ## 2026-04-29 — CORRIDA #66 (18:00 AST)
 
 **Hora corrida:** 2026-04-29 18:00 AST
