@@ -2,6 +2,74 @@
 
 ---
 
+## 2026-04-29 — CORRIDA #66 (18:00 AST)
+
+**Hora corrida:** 2026-04-29 18:00 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (HTTP 403). En producción el envío funcionará normalmente.
+**seen.txt:** 124 IDs totales (+5: 1 en digest + 4 descartados)
+
+### Items incluidos en digest:
+
+1. **[URGENTE][TRIBUNAL APELATIVO PR — CASO SAGARDÍA]** Hacienda entrega datos contributivos al Senado; Rivera Schatz revela 100% de incumplimiento en radicaciones de Sagardía 2024-2025
+   - Fecha: 2026-04-28
+   - URL: https://www.telemundopr.com/noticias/puerto-rico/rivera-schatz-senala-que-sagardia-rindio-tarde-sus-planillas/2806760/
+   - ID: fbf67c41798dbc3e
+
+### IDs añadidos a seen.txt:
+- `fbf67c41798dbc3e` — Telemundo: "Rivera Schatz: Sagardía rindió tarde sus planillas" — EN DIGEST
+- `f86487368db05a0c` — Foro Noticioso: "Sagardía incumplió 100%" — mismo evento que item #1, descartado por redundancia
+- `bcf3039808ffe98e` — El Vocero: "Rivera Schatz: Sagardía 'incumplió'" — mismo evento, descartado
+- `b2be6007e9b331ea` — Primera Hora: "Hacienda divulgará hoy información de Sagardía" — mismo evento, descartado
+- `5b5f6d7412ec8cc1` — El Nuevo Día: "Se los dije: Rivera Schatz señala incumplimiento" — análisis posterior, descartado
+
+### Nota sobre IRB 2026-18:
+Las corridas #62-#65 filtraron IRB 2026-18 (27-abr) como "sin mención explícita de PR." Sin embargo, la investigación en esta corrida confirma que el texto del REG-114499-25 (remittance transfer excise tax) SÍ menciona explícitamente Puerto Rico como jurisdicción de origen de remesas sujetas al impuesto: "a sender located in...the Commonwealth of Puerto Rico." El IRB-18 (ID: 4e6917a0ab453974) ya está en seen.txt como evaluado; no se puede reinsertar en digest. **MONITOREAR** publicaciones de análisis o guía sobre REG-114499-25 aplicado a PR en corridas futuras.
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 en seen.txt; CC RI 26-08 no publicada al 18:00 AST 29-abr
+- **Hacienda PR DA:** DA 26-01 ya en seen.txt (capturada corrida #61)
+- **Hacienda PR BI RI:** BI RI 26-01 a 26-03 en seen.txt; BI RI 26-04/05/06/07 no publicadas
+- **SURI:** Sin avisos nuevos
+- **IRS-PR:** IRB 2026-18 ya en seen.txt (evaluado corrida #65); sin nuevas notices PR-específicas post-25-abr
+- **Tribunal Apelativo PR:** Caso Sagardía — incumplimiento revelado el 28-abr, NUEVO en esta corrida (corridas #62-#65 lo perdieron)
+- **JSF / RC 06-2026:** NotiCel 26-abr (fff90c36f430ddfc) ya en seen.txt como descartado (corrida #64); sin decisión formal publicada al 18:00 AST 29-abr
+- **DDEC:** DDEC 2026-002 ya en seen.txt; sin nuevas órdenes
+- **OCIF:** Sin novedades contributivas
+
+### Seguimiento activo:
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Sin aprobación formal al 18:00 AST 29-abr. Plazo estimado de Mujica (~29-abr) venció. Impasse continúa. MONITOREAR corrida 22:00 AST.
+- **Caso Sagardía:** RESUELTO a nivel Apelativo — Hacienda entregó docs el 28-abr. Rivera Schatz confirmó incumplimiento 100%. Posible recurso al Tribunal Supremo de PR.
+- **IRS REG-114499-25 (remesas 1% PR):** ID en seen.txt pero requiere seguimiento — comentarios hasta 12-jun-2026.
+- **BI RI 26-04/05/06/07:** No publicados aún.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+[URGENTE] DIGEST — Novedades Contributivas PR
+Corrida #66 | Miercoles, 29 de abril de 2026 | 18:00 AST
+================================================
+
+[URGENTE][TRIBUNAL APELATIVO PR — CASO SAGARDIA] Hacienda entrega datos contributivos al Senado; Rivera Schatz revela 100% de incumplimiento en radicaciones 2024-2025
+Fecha: 2026-04-28
+Tras el ultimatum del Presidente del Senado Thomas Rivera Schatz (27-abr-2026, 24 horas bajo amenaza de citacion por desacato), el Secretario de Hacienda Angel Pantoja Rodriguez se presento personalmente en el Capitolio el 28-abr-2026 y entrego la informacion contributiva de Antonio Sagardia de Jesus conforme a la orden judicial del Tribunal de Apelaciones (TA2026CE00487). Los documentos revelaron que Sagardia incumplio el 100% de sus radicaciones de declaraciones informativas para los anos contributivos 2024 y 2025: las 4 radicaciones requeridas fueron tardias, resultando en multas de $500 c/u ($2,000 total), ya pagadas. Rivera Schatz declaro: "Incumplio en el 100 por ciento de sus radicaciones." El caso consolida el precedente de que el poder investigativo legislativo puede prevalecer sobre la confidencialidad contributiva (Cod. Rentas Internas PR 2011) cuando existe interes publico legitimo en la supervision de contratistas gubernamentales.
+https://www.telemundopr.com/noticias/puerto-rico/rivera-schatz-senala-que-sagardia-rindio-tarde-sus-planillas/2806760/
+---
+
+================================
+Fuentes revisadas: 7 | Items nuevos: 1 | seen.txt: 124 IDs totales
+Proxima corrida: 22:00 AST
+
+SEGUIMIENTO ACTIVO:
+[URGENTE] JSF/RC 06-2026 ($554M): SIN aprobacion formal al 18:00 AST 29-abr. Plazo Mujica vencio. MONITOREAR 22:00 AST.
+Caso Sagardia: RESUELTO nivel Apelativo. Precedente establecido re: acceso legislativo a info contributiva de contratistas.
+IRS REG-114499-25 (1% remesas desde PR): En periodo de comentarios hasta 12-jun-2026. ID en seen.txt; monitorear analisis futuros.
+BI RI 26-04/05/06/07: No publicados aun.
+================================
+```
+
+---
+
 ## 2026-04-29 — CORRIDA #65 (15:00 AST)
 
 **Hora corrida:** 2026-04-29 15:00 AST (UTC: 2026-04-29 19:00)
