@@ -2,6 +2,36 @@
 
 ---
 
+## 2026-04-30 — CORRIDA #71 (15:26 AST)
+
+**Hora corrida:** 2026-04-30 15:26 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 129 IDs totales (+1)
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC, DA, BI, Comunicados, Reglamentos):** Sin nuevas publicaciones formales. CC RI 26-08 y BI RI 26-04 no publicados aún. Índice hacienda.pr.gov devuelve 403 a WebFetch.
+- **SURI:** Sin avisos indexados.
+- **IRS-PR:** IRB 2026-19 no publicado. IRB 2026-18 ya en seen.txt. REG-114499-25 (impuesto 1% remesas desde PR): período de comentarios abierto hasta 12-jun-2026 (ya en seen.txt).
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias.
+- **DDEC Act 60:** Sin nuevas órdenes administrativas.
+- **OCIF:** Sin publicaciones contributivas.
+
+### Item nuevo (1):
+1. **[SEGUIMIENTO URGENTE]** "Gobierno alega cheque de alivio contributivo sigue dentro del calendario previsto" — Metro Puerto Rico, 2026-04-30. ID: 95428255698461c4. URL: https://www.metro.pr/noticias/2026/04/30/gobierno-alega-cheque-de-alivio-contributivo-sigue-dentro-del-calendario-previsto/
+
+### Encontrado pero descartado (URL devuelve 403, regla "si no carga descarta"):
+- El Nuevo Día: "Camino a La Fortaleza la resolución que viabiliza el alivio contributivo" — ID: e53ceddef0b7ab27. URL: https://www.elnuevodia.com/negocios/economia/notas/a-fortaleza-la-resolucion-que-viabiliza-el-cheque-de-incentivo/
+
+### Seguimiento activo:
+- **[VIGILAR URGENTE] JSF / Cheque de Alivio ($554M):** Al 30-abr 15:26 AST, JSF aún no certifica. Gobierno dice sigue en calendario. Estimado desembolso mayo-junio 2026. MONITOREAR 18:00 y 22:00 AST.
+- **IRS REG-114499-25 (1% remesas desde PR):** Comentarios cierran 12-jun-2026.
+- **OZ 2.0 / Rev. Proc. 2026-14:** Ventana nominación PR abre 1-jul-2026.
+- **Reforma Contributiva (2da fase):** Evaluación en Senado, sin aprobación formal.
+- **CC RI 26-08 y BI RI 26-04:** No publicados aún.
+
+---
+
 ## 2026-04-30 — CORRIDA #70 (10:09 AST)
 
 **Hora corrida:** 2026-04-30 10:09 AST
