@@ -2,6 +2,60 @@
 
 ---
 
+## 2026-04-30 — CORRIDA #69 (06:17 AST)
+
+**Hora corrida:** 2026-04-30 06:17 AST
+**Items nuevos:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code ("Host not in allowlist"). En producción el envío funcionará normalmente.
+**seen.txt:** 128 IDs totales (+2)
+
+### Items en digest:
+1. [IRS-PR - Revenue Procedure] Rev. Proc. 2026-14: Zonas de Oportunidad 2.0 — Cambio crítico para PR (2026-04-06)
+2. [IRS-PR - Notice] Notice 2026-22: Cifras de Población para Crédito de Vivienda y Bonos de Actividad Privada 2026 (2026-04-06)
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC, DA, BI, Comunicados, Reglamentos):** CC RI 26-02 al 26-07, BI RI 26-03, CC FP 1300-28-26, comunicados reintegros ciclo 2025 — todos ya en seen.txt. Reglamento 5718 descartado (contenido ambiguo, posible re-publicación de reg. 1997).
+- **SURI:** Sin avisos indexados accesibles.
+- **IRS-PR (IRBs 2026-15 a 2026-18, filtro PR/S933/Act 60):** Rev. Proc. 2026-14 y Notice 2026-22 identificados como items individuales nuevos dentro del IRB 2026-15 ya conocido. IRBs 2026-16/17/18 en seen.txt; sin nuevo contenido PR.
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias post-24-abr (Sagardía ya en seen.txt).
+- **DDEC Act 60:** DDEC 2026-002 en seen.txt; sin nuevas órdenes.
+- **OCIF:** Aviso propuesta de reglamento procedimental (no contributivo) — descartado.
+
+### Seguimiento activo (pasar a próxima corrida):
+- **[VIGILAR] JSF / Reforma Contributiva:** Mujica anunció "menos de dos semanas" el 15-abr (plazo ~29-abr expiró). Sin decisión formal publicada al 06:17 AST 30-abr. MONITOREAR corridas 10:00 y 15:00 AST.
+- **IRS REG-114499-25 (1% remesas desde PR):** En período de comentarios hasta 12-jun-2026.
+- **Nomination window OZ 2.0 (Rev. Proc. 2026-14):** Abre 1-jul-2026; cierra 28-sep-2026. PR pierde designación automática el 31-dic-2026.
+- **BI RI 26-04 y subsiguientes:** No publicados aún.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+DIGEST PR TAX NEWS - 2026-04-30 06:17 AST
+
+Se encontraron 2 publicaciones nuevas.
+
+[IRS-PR - Revenue Procedure] Rev. Proc. 2026-14: Zonas de Oportunidad 2.0 - Cambio critico para Puerto Rico
+Fecha: 2026-04-06
+Rev. Proc. 2026-14 (IRB 2026-15) establece el procedimiento para nominacion de Zonas de Oportunidad 2027.
+Para PR: la Sec. 70421(a)(3) del OBBBA elimina el 31-dic-2026 la designacion automatica de todos los LIC de PR.
+Ventana de nominacion: 1-jul-2026 al 28-sep-2026. QOZs vigentes en PR vencen 31-dic-2027.
+https://www.irs.gov/irb/2026-15_IRB#RP-2026-14
+
+[IRS-PR - Notice] Notice 2026-22: Cifras de Poblacion para Credito de Vivienda y Bonos de Actividad Privada 2026
+Fecha: 2026-04-06
+Publica cifras de poblacion del Censo (27-ene-2026) para calcular techos del credito de vivienda (IRC Sec. 42(h)),
+limite de bonos de actividad privada (IRC Sec. 146), y limite IRC Sec. 142(k) para 2026.
+PR incluido explicitamente. Base 2026: mayor entre $3.416/habitante o $3,953,600.
+https://www.irs.gov/irb/2026-15_IRB#NOT-2026-22
+
+================================
+Fuentes revisadas: 6 | Items: 2 | seen.txt: 128 IDs totales
+Proxima corrida: 10:00 AST
+================================
+```
+
+---
+
 ## 2026-04-29 — CORRIDA #68 (22:23 AST)
 
 **Hora corrida:** 2026-04-29 22:23 AST
