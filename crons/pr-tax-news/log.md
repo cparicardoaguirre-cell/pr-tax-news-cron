@@ -2,6 +2,53 @@
 
 ---
 
+## 2026-04-30 — CORRIDA #70 (10:09 AST)
+
+**Hora corrida:** 2026-04-30 10:09 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (proxy Anthropic devuelve 403; en producción el envío funcionará normalmente).
+**seen.txt:** 128 IDs totales (sin cambios)
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC, DA, BI, Comunicados, Reglamentos):** Última publicación: CC RI 26-07 y BI RI 26-03 (20-abr-2026) — ya en seen.txt. Sin nuevas publicaciones de la semana del 27-30 abr. Índice publicaciones (hacienda.pr.gov) devuelve 403 a WebFetch; validado por búsqueda directa.
+- **SURI:** Sin avisos indexados accesibles.
+- **IRS-PR:** IRBs 2026-16 (SIFL aeronaves, no PR), 2026-17 (Sec. 911 vivienda exterior / Sec. 987 QBU, no PR), 2026-18 (propinas regs finales, no PR) — todos en seen.txt y sin contenido aplicable a PR/Sec.933/bona fide resident/Act 60. Sin nuevos IRBs publicados post-2026-18.
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias. Caso Sagardía (ultimátum Rivera Schatz, 27-abr) ya en seen.txt; no hay nuevas decisiones formales contributivas.
+- **DDEC Act 60:** Sin nuevas órdenes administrativas. DDEC 2026-002 (11-mar) sigue siendo la más reciente.
+- **OCIF:** Sin publicaciones contributivas.
+
+### Seguimiento activo (trasladar a próxima corrida):
+- **[VIGILAR URGENTE] JSF / Reforma Contributiva / Alivio Cheque:** Director Mujica indicó "menos de dos semanas" el 15-abr (plazo ~29-abr expirado). Negociaciones Fortaleza-JSF continuaban al 23-abr. Al 10:09 AST 30-abr no hay decisión formal publicada. MONITOREAR corridas 15:00, 18:00 y 22:00 AST.
+- **IRS REG-114499-25 (1% remesas desde PR):** En período de comentarios hasta 12-jun-2026.
+- **Nomination window OZ 2.0 (Rev. Proc. 2026-14):** Abre 1-jul-2026; cierra 28-sep-2026. PR pierde designación automática el 31-dic-2026.
+- **BI RI 26-04 y CC RI 26-08:** No publicados aún.
+
+### Digest enviado (intento; fallo en sandbox — proxy bloquea api.telegram.org):
+
+```
+[Monitor Contributivo PR — 30 abr 2026 / 10:09 AST]
+
+No se encontraron publicaciones nuevas en esta corrida.
+
+Fuentes revisadas sin novedades:
+- Hacienda PR: CC, DA, BI, Comunicados — sin publicaciones nuevas desde BI RI 26-03 / CC RI 26-07 (20-abr).
+- SURI: sin avisos de mantenimiento/formularios nuevos.
+- IRS-PR: IRBs 2026-16/17/18 revisados — ninguno aplica a PR/Sec.933/bona fide resident/Act 60.
+- Tribunal Apelativo PR: sin nuevas sentencias tributarias.
+- DDEC: sin ordenes administrativas nuevas desde DDEC 2026-002 (marzo).
+- OCIF: sin publicaciones contributivas.
+
+[VIGILAR] JSF/Reforma Contributiva: plazo Mujica (~29-abr) expirado sin decision formal publicada.
+Negociaciones continuan. Proxima actualizacion: 15:00 AST.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 128 IDs totales
+Proxima corrida: 15:00 AST
+================================
+```
+
+---
+
 ## 2026-04-30 — CORRIDA #69 (06:17 AST)
 
 **Hora corrida:** 2026-04-30 06:17 AST
