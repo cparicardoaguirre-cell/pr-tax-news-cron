@@ -2,6 +2,57 @@
 
 ---
 
+## 2026-04-29 — CORRIDA #68 (22:23 AST)
+
+**Hora corrida:** 2026-04-29 22:23 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code ("Host not in allowlist"). En producción el envío funcionará normalmente.
+**seen.txt:** 126 IDs totales (sin cambios)
+
+### Items en digest:
+Sin items nuevos en esta corrida.
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR CC RI:** CC RI 26-01 a 26-07 en seen.txt; sin CC RI 26-08 publicada al corte
+- **Hacienda PR DA:** Sin nuevas DA de Hacienda en 2026 más allá de las ya vistas
+- **Hacienda PR BI RI:** BI RI 26-01 a 26-03 en seen.txt; sin BI RI 26-04 al corte
+- **Hacienda PR Comunicados:** Sin comunicados nuevos post-20-abr
+- **SURI:** Sin avisos indexados accesibles
+- **IRS-PR:** IRBs 2026-15 a 2026-18 revisados (IRB 26-18 del 27-abr ya en seen.txt); IRB 2026-19 no publicado aún; sin contenido específico PR nuevo
+- **Tribunal Apelativo PR:** Sin nuevas sentencias contributarias post-28-abr
+- **DDEC:** DDEC 2026-002 en seen.txt; sin nuevas órdenes; aviso EAR descartado (>30 días)
+- **OCIF:** Sin novedades contributivas
+- **JSF/RC 06-2026:** Todos los artículos recientes sobre JSF/alivio contributivo ya en seen.txt. Sin decisión formal publicada al 22:23 AST 29-abr.
+
+### Seguimiento activo (pasar a próxima corrida):
+- **[URGENTE] JSF / RC 06-2026 ($554M):** Mujica anunció el 15-abr decisión en "menos de dos semanas" (plazo vence ~29-abr). Sin anuncio oficial capturado aún. MONITOREAR corrida 06:00 AST 30-abr.
+- **IRS REG-114499-25 (1% remesas desde PR):** En período de comentarios hasta 12-jun-2026.
+- **BI RI 26-04 y subsiguientes:** No publicados aún.
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+Monitor Contributivo PR — Corrida 10:00 PM AST
+2026-04-29 22:23 AST
+
+Sin novedades en esta corrida.
+
+Fuentes revisadas (6):
+- Hacienda PR (CC, DA, BI, Comunicados) — sin publicaciones nuevas
+- SURI — sin avisos detectados
+- IRS-PR (IRBs 2026-15 a 2026-18, filtro PR/S933/Act 60) — sin items nuevos
+- Tribunal Apelativo PR — sin nuevas sentencias tributarias
+- DDEC Act 60 — sin nuevas ordenes administrativas
+- OCIF — sin publicaciones contributivas
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 126 IDs totales
+Proxima corrida: 06:00 AST (2026-04-30)
+================================
+```
+
+---
+
 ## 2026-04-29 — CORRIDA #67 (18:22 AST)
 
 **Hora corrida:** 2026-04-29 18:22 AST
