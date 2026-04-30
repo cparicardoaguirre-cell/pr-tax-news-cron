@@ -4585,3 +4585,27 @@ Tribunal Apelativo / OCIF: sin publicaciones tributarias recientes.
 ```
 
 ---
+
+---
+
+## Corrida: 2026-04-30 18:13 AST
+
+**Items nuevos:** 0  
+**seen.txt total:** 130 IDs  
+**Telegram:** FALLO (bot token retornó HTTP 403 — token inválido/revocado)
+
+### Fuentes revisadas
+
+| Fuente | Items encontrados | Items nuevos |
+|--------|------------------|--------------|
+| Hacienda PR (CC RI, BI RI, DA, Comunicados) | 16+ | 0 (todos ya en seen.txt) |
+| SURI | 0 indexados | 0 |
+| IRS-PR (IRBs 2026-16/17/18, Newsroom) | 3 IRBs + 1 aviso | 0 (sin contenido PR relevante o ya vistos) |
+| Tribunal Apelativo PR | Caso Sagardía TA2026CE00487 | 0 (ya registrado) |
+| DDEC | 0 nuevas | 0 |
+| OCIF | 0 nuevas | 0 |
+
+### Resumen
+
+Búsqueda exhaustiva completada. Todas las publicaciones de Hacienda PR (CC RI 26-02 a 26-07, BI RI 26-01 a 26-03, CC FP 1300-28-26, múltiples comunicados) ya estaban en seen.txt de corridas anteriores. IRBs 2026-16/17/18 no contienen contenido relevante a Puerto Rico. Act 38-2026 (extiende Ley 60-2019 hasta 2055) tiene fecha de firma ~10 de marzo 2026, fuera del filtro de 30 días. Próxima corrida: 22:00 AST.
+
