@@ -2,6 +2,99 @@
 
 ---
 
+## 2026-05-01 — CORRIDA #73 (10:00 AST)
+
+**Hora corrida:** 2026-05-01 10:08 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 129 IDs totales (sin cambios — 0 items nuevos esta corrida)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes. No se encontraron CC RI 26-08 ni BI RI 26-04. Páginas hacienda.pr.gov devuelven 403 a WebFetch directo. Índice de publicaciones oficiales tampoco indexa nuevos documentos desde 20-abr.
+- **SURI:** Sin avisos de mantenimiento o nuevos formularios. Sitio devuelve 403.
+- **IRS-PR:** IRB 2026-18 (27-abr-2026) ya en seen.txt. IRB 2026-19 NO publicado al 10:00 AST del 1-may-2026 (esperado ~5-may-2026). Sin nuevos Notices, Rev. Proc. o Announcements con mención a PR, Section 933, Act 60, bona fide resident, possessions o Section 937.
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias desde el caso Sagardía. LexJuris y poderjudicial.pr retornan 403 a WebFetch.
+- **DDEC Act 60:** Sin nuevas órdenes administrativas posteriores a DDEC-2026-002. Páginas DDEC devuelven 403.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt: ninguno
+
+### Descartados esta corrida:
+- Mismos items 403 de corrida #72 (JDSupra, Procopio, DDEC aceleración, IRS OZ OBBB): siguen sin cargar — descartados por regla estricta.
+- Artículo Metro PR 30-abr ("cheque de alivio sigue en calendario"): noticia de prensa, no publicación oficial — excluido de digest como item formal; incorporado en seguimiento activo.
+- Ley 38-2026 (Microjuris 21-mar-2026): publicado hace 41 días — supera filtro de 30 días.
+- Primera fase reforma contributiva (ene-2026): >90 días — filtrada.
+
+### Seguimiento activo:
+- **[VIGILAR URGENTE] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Al 30-abr-2026, la JSF aún no ha emitido certificación oficial. Metro PR (30-abr-2026) reporta que gobierno alega que el proceso "sigue dentro del calendario previsto." Hacienda estima distribución de pagos ~4-6 semanas post-15-abr-2026 (aprox. 13-27 mayo 2026). Monitorear certificación JSF.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva 2da Fase:** En evaluación en comisión del Senado. Establece tasas: 0% (<$12,500), 6% ($12,500-$25K), 12% hasta $50K, 24% hasta $100K, 29% hasta $150K, 33% (>$150K) para años tributables que comiencen después del 31-dic-2024. No es ley aún. Esperar acción legislativa formal.
+- **[NOTA] IRB 2026-19:** No publicado al 10:00 AST. Esperado lunes ~5-may-2026 (ciclo semanal de IRS).
+- **[NOTA] CC RI 26-08 / BI RI 26-04:** Próximas publicaciones esperadas de Hacienda; sin fecha conocida.
+- **[NOTA] Formulario SC 2745:** Versión anterior (oct-2016) permitida solo hasta 31-may-2026. Desde 1-jun-2026 obligatoria la nueva versión (rev. 27-mar-2026). Per BI RI 26-03 (ya en seen.txt).
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+PR TAX NEWS — Sin Novedades | Corrida #73
+Fecha: 2026-05-01 | Hora: 10:00 AST
+CPA Ricardo Aguirre
+==========================================
+
+Sin publicaciones nuevas de Hacienda PR, IRS-PR, DDEC,
+Tribunal Apelativo ni SURI en esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[VIGILAR URGENTE] JSF / RC 06-2026 — Cheque de Alivio $554M
+Al 30-abr-2026, la JSF aún no ha emitido certificación
+oficial de la RC 06-2026. Metro PR (30-abr) reporta que
+el gobierno alega el proceso "sigue dentro del calendario
+previsto." Hacienda estima desembolsos ~4-6 semanas post
+15-abr (aprox. mayo 13-27). Monitorear certificación JSF.
+Fuente: metro.pr (30-abr-2026)
+
+[ALERTA PENDIENTE] PS 912 — Reforma Contributiva (2da Fase)
+En evaluación en comisión senatorial. Establece nuevas
+tasas: 0% (<$12,500), 6% ($12,500-$25,000), 12% hasta
+$50,000, 24% hasta $100,000, 29% hasta $150,000, 33% >
+$150,000 para años que comiencen después del 31-dic-2024.
+No es ley. Esperar acción legislativa formal.
+
+--- FUENTES REVISADAS ---
+
+Hacienda PR:
+- CC RI: ultima es 26-07 (20-abr-2026). Sin 26-08.
+- BI RI: ultima es 26-03 (20-abr-2026). Sin 26-04.
+  [NOTA: SC 2745 nueva version obligatoria desde 1-jun-2026]
+- DA: Sin nuevas en 2026 post-DA 26-01.
+- Comunicados: sin nuevos comunicados oficiales post-27-abr.
+- Hacienda devuelve 403 a consultas directas.
+
+SURI: Sin avisos de mantenimiento o nuevos formularios.
+
+IRS-PR:
+- IRB 2026-18 (27-abr-2026): ya en seen.txt.
+- IRB 2026-19: NO publicado. Esperado ~5-may-2026.
+- Sin nuevos Notices/Rev.Proc. con mencion PR/Sec.933/
+  Act 60/bona fide resident/possessions.
+
+Tribunal Apelativo PR:
+- Sin nuevas sentencias tributarias desde Sagardia.
+
+DDEC Act 60:
+- Sin nuevas ordenes administrativas post-DDEC-2026-002.
+
+OCIF: Sin publicaciones contributivas nuevas.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 129 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-01 — CORRIDA #72 (06:00 AST)
 
 **Hora corrida:** 2026-05-01 06:00 AST
