@@ -2,6 +2,74 @@
 
 ---
 
+## 2026-05-01 — CORRIDA #75 (06:00 AST)
+
+**Hora corrida:** 2026-05-01 06:00 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 130 IDs totales (+1 esta corrida)
+
+### Items nuevos esta corrida:
+
+1. **[TRIBUNAL APELATIVO] Sagardía v. Hacienda / Senado — Datos Contributivos**
+   - Fecha decisión: 2026-04-24
+   - Panel: Rivera Marchand, Mateu Meléndez, Boria Vizcarrondo, Robles Adorno (4-0 unánime)
+   - Tema: Confirmación de orden al Secretario de Hacienda de entregar al Senado información contributiva (formularios W-2 / 480.6SP años 2024-2025) del contratista gubernamental Antonio Sagardía. El Tribunal reafirmó el poder investigativo de la Asamblea Legislativa y estableció que la confidencialidad tributaria cede ante la fiscalización legislativa con propósito legítimo (Solicitud de Información 2026-0036).
+   - ID: a4ed52805e66aa72
+   - URL: https://noticel.com/ultima-hora/20260424/victoria-del-senado-en-el-apelativo-en-caso-de-antonio-sagardia/
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 (20-abr-2026) y CC RI 26-06 (13-abr-2026) ya en seen.txt. Todas las comunicados de reintegros ya en seen.txt. Páginas hacienda.pr.gov retornan 403 a WebFetch directo.
+- **SURI:** Sin avisos nuevos.
+- **IRS-PR:** IRBs 2026-15, 2026-17, 2026-18 ya en seen.txt. Notice 2026-22 (IRB 2026-15) sobre caps LIHTC — no aplica directamente a PR tributación individual/corporativa. Sin nuevos Notices con mención a Section 933, Act 60, bona fide resident o possessions.
+- **Tribunal Apelativo PR:** 1 item nuevo — decisión unánime 4-0 en caso Sagardía sobre confidencialidad contributiva y poder investigativo legislativo (24-abr-2026).
+- **DDEC Act 60:** Sin nuevas órdenes administrativas. DDEC 2026-002 (11-mar-2026) supera filtro 30 días — descartada.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt:
+- `a4ed52805e66aa72` — Noticel/Tribunal Apelativo: Sagardía datos contributivos (24-abr-2026)
+
+### Descartados esta corrida:
+- Reglamento 5718 (hacienda.pr.gov/sites/default/files/5718.pdf): PDF retorna 403, contenido no verificable — descartado por Regla 1.
+- DDEC 2026-002: fecha 11-mar-2026, 51 días atrás — supera filtro 30 días.
+- GAO-26-107225: fecha dic-2025, supera filtro 30 días.
+- "Hacienda continúa avanzando en el envío de reintegros" (ID: 5db5a39520f43066): fecha ~10-mar-2026, supera filtro 30 días; además es actualización operacional no regulatoria.
+
+### Seguimiento activo (actualizado):
+- **[VIGILAR URGENTE] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Al 01-may-2026, JSF aún NO ha emitido su determinación oficial. Se esperan pagos junio 2026.
+- **[ALERTA PRÓXIMO — 31 días] Formulario SC 2745:** Versión anterior (oct-2016) válida solo hasta 31-may-2026. Desde 1-jun-2026 obligatoria nueva versión (rev. 27-mar-2026). Per BI RI 26-03.
+- **[NOTA] CC RI 26-08 / BI RI 26-04:** Sin fecha conocida de publicación.
+
+### Digest para Telegram (no enviado — sandbox):
+
+```
+📋 DIGEST - Novedades Contributivas PR
+01-may-2026 | 06:00 AST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[TRIBUNAL APELATIVO - SENTENCIA] Apelativo confirma orden de entrega de datos contributivos de Sagardía al Senado (4-0)
+Fecha: 2026-04-24
+
+El Tribunal de Apelaciones de Puerto Rico confirmó por unanimidad (4-0) la orden del Tribunal de Primera Instancia que obligaba al Secretario de Hacienda a entregar al Senado la información contributiva del contratista gubernamental Antonio Sagardía de Jesús. El tribunal determinó que la Solicitud de Información 2026-0036 del Senado responde a un propósito legítimo de fiscalización pública y no viola derechos constitucionales del contribuyente. Se reafirmó el amplio poder investigativo de la Asamblea Legislativa sobre el cumplimiento contributivo de contratistas del gobierno, incluyendo datos de formularios W-2 o 480.6SP para años 2024-2025. La decisión resalta que la confidencialidad tributaria cede ante el interés público de fiscalización legislativa cuando existe un propósito legítimo y concreto.
+Panel: Rivera Marchand, Mateu Meléndez, Boria Vizcarrondo, Robles Adorno.
+URL: https://noticel.com/ultima-hora/20260424/victoria-del-senado-en-el-apelativo-en-caso-de-antonio-sagardia/
+---
+
+--- SEGUIMIENTO ACTIVO ---
+
+[PENDIENTE] RC 06-2026 — Cheque de Alivio Contributivo $554M
+Al 01-may-2026 (06:00 AST): JSF aún NO ha emitido determinación oficial. Ciclo contributivo cerró el 15-abr con 1,221,122 planillas y $2,208M en reintegros. Se esperan pagos principios de junio 2026.
+
+[NOTA] BI RI 26-03 — Formulario SC 2745
+La versión nueva (27-mar-2026) será la ÚNICA aceptada a partir del 1 de junio de 2026. Quedan 31 días para la transición.
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 130 IDs totales
+Próxima corrida: 10:00 AST (01-may-2026)
+```
+
+---
+
 ## 2026-05-01 — CORRIDA #74 (15:00 AST)
 
 **Hora corrida:** 2026-05-01 15:18 AST
