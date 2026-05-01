@@ -4609,3 +4609,81 @@ Tribunal Apelativo / OCIF: sin publicaciones tributarias recientes.
 
 Búsqueda exhaustiva completada. Todas las publicaciones de Hacienda PR (CC RI 26-02 a 26-07, BI RI 26-01 a 26-03, CC FP 1300-28-26, múltiples comunicados) ya estaban en seen.txt de corridas anteriores. IRBs 2026-16/17/18 no contienen contenido relevante a Puerto Rico. Act 38-2026 (extiende Ley 60-2019 hasta 2055) tiene fecha de firma ~10 de marzo 2026, fuera del filtro de 30 días. Próxima corrida: 22:00 AST.
 
+---
+
+## Corrida: 2026-04-30 22:15 AST
+
+**Items nuevos:** 0  
+**seen.txt total:** 129 IDs  
+**Telegram:** FALLO (red sandbox bloquea api.telegram.org — "Host not in allowlist"; en producción funcionaría)
+
+### Fuentes revisadas
+
+| Fuente | Items encontrados | Items nuevos |
+|--------|------------------|--------------|
+| Hacienda PR (CC RI, BI RI, DA, Comunicados) | 16+ | 0 (todos ya en seen.txt) |
+| SURI | 0 indexados | 0 |
+| IRS-PR (IRBs 2026-15/18, Newsroom) | IRB 2026-18 ya en seen.txt | 0 |
+| Tribunal Apelativo PR | Caso Sagardía TA2026CE00487 | 0 (URL devuelve 403, descartado R1; ya registrado según corrida 18:13) |
+| DDEC | 0 nuevas OA | 0 |
+| OCIF | 0 nuevas | 0 |
+
+### Descartados esta corrida
+
+- CC RI 26-02 a 26-06: ya en seen.txt.
+- CC FP 1300-28-26, BI RI 26-03: ya en seen.txt.
+- IRB 2026-18 (IRS, 27-abr): ya en seen.txt (hash 4e6917a0ab453974). Contiene REG-114499-25 (remesas Sec. 4475, PR explícitamente incluida) — ya reportado en corridas anteriores.
+- Fed. Register REG-114499-25 (13-abr): ya en seen.txt (hash 6d46527e3d78d822).
+- Tribunal TA2026CE00487 (Sagardía/Hacienda, ~24-abr): lexjuris URL devuelve 403 — descartado por Regla 1. Caso versa sobre obligación de Hacienda de divulgar información de formularios 480.6SP/W-2 de contratista al Senado; doctrina relevante para confidencialidad contributiva CPA.
+- SURI / OCIF / DDEC OA nueva: sin publicaciones nuevas indexadas.
+
+### Seguimiento activo
+
+- **JSF/RC 06-2026 (Cheque Alivio $554M):** Al 30-abr-2026 22:00 AST, JSF NO ha emitido determinación oficial. Gobierno confirma proceso "dentro del calendario previsto"; pagos esperados principios de junio (4-6 semanas tras cierre ciclo 15-abr). Sin acción requerida por contribuyente.
+- **BI RI 26-03 / SC 2745:** Deadline 1-jun-2026 (32 días). Nueva versión obligatoria desde esa fecha.
+
+### Digest
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-04-30 | Hora: 22:15 AST | Corrida: 2026-04-30 22:15 AST
+Fuentes: Hacienda PR, SURI, IRS-PR, Tribunal, DDEC, OCIF
+=========================================
+
+Sin novedades oficiales nuevas en esta corrida.
+
+Busqueda exhaustiva completada para corrida de las 22:00 AST (30-abr-2026).
+Todas las publicaciones de Hacienda PR y demas fuentes ya estaban registradas
+en corridas anteriores. Ninguna nueva CC RI, DA, BI RI, comunicado ni IRB
+aplicable a PR fue encontrada.
+
+--- DESCARTADOS ESTA CORRIDA ---
+
+- CC RI 26-02 a 26-06 (Hacienda): ya en seen.txt de corridas anteriores.
+- CC FP 1300-28-26 (Hacienda): ya en seen.txt.
+- BI RI 26-03 (Hacienda): ya en seen.txt (nueva version SC 2745, deadline 1-jun).
+- IRB 2026-18 (IRS, 27-abr): ya en seen.txt. Contiene REG-114499-25 (remesas,
+  Sec. 4475) — ya reportado corridas anteriores. Sin nuevo contenido PR-especifico.
+- Tribunal Apelativo TA2026CE00487 (Sagardia/Hacienda, 24-abr): URL oficial
+  devuelve 403 — descartado por Regla 1.
+- SURI / OCIF: sin avisos nuevos indexados.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[PENDIENTE] JSF/RC 06-2026 — Cheque de Alivio Contributivo $554 Millones
+Al 30-abr-2026 (22:00 AST), la Junta de Supervision Fiscal (JSF) aun NO ha
+emitido su determinacion oficial sobre RC 06-2026. El gobierno confirmo hoy
+que el proceso sigue dentro del calendario previsto. El ciclo contributivo
+cerro el 15 de abril; se esperan pagos 4-6 semanas despues = principios de
+junio de 2026. La JSF continua evaluando el impacto fiscal.
+
+[NOTA] BI RI 26-03 — Formulario SC 2745 (Poder de Representacion)
+La nueva version del formulario SC 2745 (revision 27-mar-2026) sera la UNICA
+aceptada a partir del 1 de junio de 2026. Quedan 32 dias para la transicion.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 129 IDs totales
+Proxima corrida: 06:00 AST (01-may-2026)
+```
+
