@@ -2,6 +2,39 @@
 
 ---
 
+## 2026-05-01 — CORRIDA #72 (06:00 AST)
+
+**Hora corrida:** 2026-05-01 06:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 129 IDs totales (sin cambios)
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC, DA, BI, Comunicados, Reglamentos):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes en seen.txt. No se encontraron CC RI 26-08 ni BI RI 26-04. Índice hacienda.pr.gov devuelve 403 a WebFetch.
+- **SURI:** Sin avisos indexados. Sitio devuelve 403 a WebFetch.
+- **IRS-PR:** No hay IRB 2026-19 ni 2026-20 publicados aún. IRB 2026-18 (27-abr-2026) ya en seen.txt. No se encontraron Rev. Proc. ni Notices nuevos con relevancia PR (Sec. 933, bona fide resident, Act 60, Section 937, remesas). IRS OZ/OBBB pages devuelven 403.
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias. lexjuris.com devuelve 403 a WebFetch.
+- **DDEC Act 60:** Sin nuevas órdenes administrativas posteriores a DDEC 2026-002/003. Página oficial devuelve 403.
+- **OCIF:** Sin publicaciones contributivas.
+
+### Items descartados (URLs no cargan — regla estricta):
+- JDSupra: "La gobernadora de Puerto Rico firma varias enmiendas sobre disposiciones contributivas" — ID: 88bdc8087d11c2f1. 403.
+- Procopio: "Puerto Rico Extends Act 60 Resident Investor Program to 2055" — ID: cd3d0a8d4e28da07. 403.
+- DDEC oficial: "DDEC acelera procesos de incentivos contributivos con Registro de Profesional Certificado" — ID: dfb7a82e7779bf13. 403.
+- IRS: "Guidance for Opportunity Zone investments in rural areas (OBBB)" — ID: 192f254cd8153a26. 403.
+- IRS: "One Big Beautiful Bill provisions" — ID: 8494bd2d6d6a2055. 403.
+- IRS: "Tax inflation adjustments for tax year 2026 (OBBB)" — ID: e59cfeef9030ce80. 403.
+- El Vocero: "Cuánto pagarás en contribuciones bajo la nueva reforma contributiva" — ID: 996c9b6e44d2117a. 403.
+
+### Seguimiento activo:
+- **[VIGILAR URGENTE] JSF / Cheque de Alivio ($554M):** Al 01-may-2026 06:00 AST, JSF aún no ha certificado. Gobierno mantiene que el desembolso está en calendario. Estimado: mayo-junio 2026.
+- **IRS REG-114499-25 (1% remesas desde PR):** Comentarios cierran 12-jun-2026.
+- **Act 38-2026 (Act 60 extendido al 2055):** En vigor. Deadline 0% para aplicaciones: 31-dic-2026.
+- **Reforma Contributiva PR (2da fase):** Evaluación en Senado, sin aprobación formal.
+- **CC RI 26-08 y BI RI 26-04:** Pendientes de publicación por Hacienda.
+
+---
+
 ## 2026-04-30 — CORRIDA #71 (15:26 AST)
 
 **Hora corrida:** 2026-04-30 15:26 AST
