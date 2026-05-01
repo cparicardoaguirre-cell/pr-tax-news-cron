@@ -2,6 +2,78 @@
 
 ---
 
+## 2026-05-01 — CORRIDA #74 (15:00 AST)
+
+**Hora corrida:** 2026-05-01 15:18 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 129 IDs totales (sin cambios — 0 items nuevos esta corrida)
+
+### Resultado: 0 items nuevos
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-01 encontrada como NUEVO en deduplicacion pero fecha 09-feb-2026 supera filtro de 30 dias — descartada. DA 26-02 no existe. CC RI 26-08 y BI RI 26-04 no publicadas. Paginas hacienda.pr.gov devuelven 403 a WebFetch directo.
+- **SURI:** Sin avisos de mantenimiento o nuevos formularios.
+- **IRS-PR:** IRBs 2026-16, 2026-17, 2026-18 ya en seen.txt. IRB 2026-19 NO publicado al 15:18 AST (esperado ~5-may-2026). Sin nuevos Notices, Rev. Proc. o Announcements con mencion a PR, Section 933, Act 60, bona fide resident, possessions o Section 937.
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias. LexJuris y poderjudicial.pr retornan 403 a WebFetch.
+- **DDEC Act 60:** Sin nuevas ordenes administrativas posteriores a DDEC-2026-002 (24-mar-2026).
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt: ninguno
+
+### Descartados esta corrida:
+- CC RI 26-01: ID=05be7281a3ebff41, fecha 09-feb-2026, 81 dias atras — supera filtro 30 dias.
+- DA 26-02: URL candidata no existe en hacienda.pr.gov — descartada por regla estricta.
+
+### Seguimiento activo (actualizado):
+- **[VIGILAR URGENTE] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Al 30-abr-2026, gobierno alega que distribucion "sigue dentro del calendario previsto." Director Mujica habia prometido decision JSF "en menos de dos semanas" el 15-abr-2026; plazo vencio ~29-abr sin publicacion oficial de certificacion. Hacienda estima inicio de pagos mayo-junio 2026. Monitorear oversightboard.pr.gov.
+- **[ALERTA PENDIENTE] Senado PS 912 — Reforma Contributiva 2da Fase:** Aun en evaluacion en comision del Senado. Sin votacion formal ni publicacion en Registro Oficial. No es ley.
+- **[NOTA] IRB 2026-19:** No publicado al 15:18 AST del 1-may-2026. Esperado ~5-may-2026.
+- **[NOTA] CC RI 26-08 / BI RI 26-04:** Sin fecha conocida de publicacion.
+- **[ALERTA PROXIMO — 30 dias] Formulario SC 2745:** Version anterior (oct-2016) valida solo hasta 31-may-2026. Desde 1-jun-2026 obligatoria nueva version (rev. 27-mar-2026). Per BI RI 26-03 (ya en seen.txt).
+
+### Digest enviado (intento; fallo en sandbox):
+
+```
+PR TAX NEWS — Sin Novedades | Corrida #74
+Fecha: 2026-05-01 | Hora: 15:00 AST
+CPA Ricardo Aguirre
+==========================================
+
+Sin publicaciones nuevas de Hacienda PR, IRS-PR, DDEC,
+Tribunal Apelativo ni SURI en esta corrida.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[VIGILAR URGENTE] JSF / RC 06-2026 — Cheque Alivio $554M
+Al 30-abr-2026 (ayer): Gobierno alega que distribucion
+"sigue dentro del calendario previsto." JSF aun no ha
+emitido certificacion formal post-15-abr-2026. Director
+Mujica habia indicado decision en "menos de dos semanas"
+el 15-abr; plazo vencio ~29-abr sin publicacion oficial.
+Hacienda estima inicio de pagos entre mayo-junio 2026.
+Monitorear oversightboard.pr.gov y hacienda.pr.gov.
+
+[PENDIENTE] PS 912 — Reforma Contributiva 2da Fase
+Aun en evaluacion en comision del Senado. Sin votacion
+formal. Tasas propuestas: 0% (<$12,500), 6% (hasta $25K),
+12% (hasta $50K), 24% (hasta $100K), 29% (hasta $150K),
+33% (>$150K). No es ley. Monitorear senado.pr.gov.
+
+[NOTA] IRB 2026-19 — No publicado al 15:00 AST.
+Esperado ~5-may-2026 (ciclo semanal IRS, lunes).
+
+[ALERTA PROXIMO] Formulario SC 2745: Version anterior
+(oct-2016) valida solo hasta 31-may-2026. Desde 1-jun-2026
+obligatoria nueva version (rev. 27-mar-2026). Per BI RI 26-03.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 129 IDs totales
+Proxima corrida: 18:00 AST
+```
+
+---
+
 ## 2026-05-01 — CORRIDA #73 (10:00 AST)
 
 **Hora corrida:** 2026-05-01 10:08 AST
