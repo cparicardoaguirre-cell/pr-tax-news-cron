@@ -2,6 +2,75 @@
 
 ---
 
+## 2026-05-02 — CORRIDA #78 (3:00 PM AST)
+
+**Hora corrida:** 2026-05-02 19:00 UTC / 3:00 PM AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 130 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+
+Ninguno. Se revisaron todas las fuentes y no se encontraron publicaciones nuevas no registradas anteriormente, o que superen todos los filtros (30 días, relevancia PR).
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes. CC RI 26-08 y BI RI 26-04 no encontradas — no publicadas aún. Páginas hacienda.pr.gov continúan retornando 403 a WebFetch directo.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-19 (04-may-2026) ya revisado y descartado en corrida #77 (sin mención a PR, sec. 933, Act 60 ni posesiones). IRB 2026-20 no publicado aún. Sin nuevos Notices o Revenue Procedures específicos para PR.
+- **Tribunal Apelativo PR:** Sin nuevas decisiones contributivas en abril-mayo 2026. Decisión Sagardía (24-abr-2026) ya en seen.txt.
+- **DDEC Act 60:** Sin nuevas órdenes administrativas. Act 38-2026 (extensión Act 60 a 2055, firmada ~mar-2026): ~43 días — supera filtro 30 días. Descartada. GAO-26-107225 (IRS oversight Act 60/PR): publicado dic-2025 — supera filtro 30 días. Descartado.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **JSF / RC 06-2026:** Al 30-abr-2026, JSF sin determinación oficial. Gobierno reafirma que pagos están dentro del calendario (junio 2026). JSF director dijo el 15-abr-2026 que habría decisión en "menos de dos semanas", pero al 30-abr no se ha formalizado. Artículo operacional — no en scope de digest regulatorio.
+- **P del S 912:** En proceso legislativo. Sin firma de gobernadora al 02-may-2026.
+
+### IDs añadidos a seen.txt:
+Ninguno.
+
+### Descartados esta corrida:
+- Act 38-2026 (ext. Act 60 a 2055, ~20-mar-2026): ~43 días — filtro 30 días.
+- GAO-26-107225 "IRS Should Improve Oversight of PR Taxpayers" (dic-2025): ~141 días — filtro 30 días.
+- Leyes reforma contributiva 178/179/180-2025: firmadas en 2025 — filtro 30 días.
+- CC RI 26-04, 26-05, 26-06, 26-07; BI RI 26-03; comunicados reintegros: todos ya en seen.txt.
+- IRB 2026-19 (04-may-2026): sin contenido específico de PR — Regla 3 (revisado en corrida #77).
+- IRB 2026-18: ya en seen.txt (ID 4e6917a0ab453974).
+- IRB 2026-15 (06-abr-2026): ya en seen.txt (ID db227ba305f789da).
+
+### Seguimiento activo (actualizado):
+- **[ALERTA — 29 días] Formulario SC 2745:** Versión anterior (oct-2016) válida solo hasta 31-may-2026. Desde 1-jun-2026 obligatoria nueva versión (rev. 27-mar-2026). Per BI RI 26-03.
+- **[VIGILAR] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Al 30-abr-2026, JSF aún sin determinación oficial. Gobierno reafirma pagos en junio 2026. Se esperaba decisión ~29-abr per declaración del director JSF (15-abr). Pendiente certificación Sec. 204 del gobierno para iniciar reloj JSF.
+- **[NOTA] CC RI 26-08 / BI RI 26-04:** Sin fecha conocida de publicación.
+- **[NOTA] P del S 912 (reforma contributiva):** Nuevas tasas individuales propuestas. En proceso legislativo. Sin firma confirmada.
+
+### Digest enviado a Telegram:
+```
+DIGEST - Sin Novedades Contributivas PR
+02-may-2026 | 3:00 PM AST — Corrida #78
+===================================
+
+Sin publicaciones nuevas esta corrida.
+
+Fuentes revisadas:
+- Hacienda PR (CC RI, DA, BI RI, Comunicados): Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes. CC RI 26-08 y BI RI 26-04 no publicadas aún.
+- SURI: Sin avisos nuevos indexados.
+- IRS-PR: IRB 2026-19 (04-may-2026) ya revisado y descartado (sin contenido PR). IRB 2026-20 no publicado aún.
+- Tribunal Apelativo PR: Sin nuevas decisiones contributivas.
+- DDEC / Act 60: Sin nuevas órdenes administrativas. Act 38-2026 (ext. Act 60 a 2055, mar-2026) supera filtro 30 días.
+- OCIF: Sin publicaciones contributivas nuevas.
+
+SEGUIMIENTO ACTIVO:
+[ALERTA - 29 días] SC 2745: versión anterior válida solo hasta 31-may-2026. Obligatoria nueva versión desde 1-jun-2026. Per BI RI 26-03.
+[VIGILAR] JSF / RC 06-2026: Al 30-abr-2026, JSF sin determinación oficial. Gobierno reafirma pagos en junio 2026. Se esperaba decisión ~29-abr-2026 per JSF director.
+[NOTA] P del S 912 (reforma contributiva): En proceso legislativo. Sin firma de gobernadora.
+[NOTA] CC RI 26-08 / BI RI 26-04: Sin fecha conocida de publicación.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 130 IDs totales
+Próxima corrida: 06:00 PM AST
+```
+*(Telegram no enviado — api.telegram.org bloqueado en sandbox Claude Code; en producción el envío funcionará normalmente.)*
+
+---
+
 ## 2026-05-02 — CORRIDA #77 (10:00 AM AST)
 
 **Hora corrida:** 2026-05-02 14:00 UTC / 10:00 AM AST
