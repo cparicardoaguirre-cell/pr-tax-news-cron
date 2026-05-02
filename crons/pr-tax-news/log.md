@@ -2,6 +2,73 @@
 
 ---
 
+## 2026-05-02 — CORRIDA #77 (10:00 AM AST)
+
+**Hora corrida:** 2026-05-02 14:00 UTC / 10:00 AM AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 130 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+
+Ninguno. Todas las publicaciones recientes confirmadas ya estaban registradas en corridas anteriores, o no cumplen los filtros (30 días, relevancia PR).
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) ya en seen.txt. CC RI 26-08 y BI RI 26-04 no encontrados — no publicados aún o no indexados. Páginas hacienda.pr.gov retornan 403 a WebFetch directo.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-19 (04-may-2026) revisado. Contenido: Rev. Proc. 2026-19 (porcentajes activo/pasivo para compañías de seguros extranjeras, sec. 842(b)), tasas federales ajustadas mayo 2026, porcentajes LIHTC sec. 42(b)(1) mayo 2026, TD actualizaciones regs. retención (secs. 1.6041-1/-2/-7/-10). Sin mención a Puerto Rico, sec. 933, Act 60, bona fide resident, IRC 937 ni posesiones. **Descartado por Regla 3.**
+- **IRS TD 10044 "No Tax on Tips" (13-abr-2026):** Regulaciones finales IRC sec. 224. Sin guía específica para PR. **Descartado por Regla 3** (no verifica aplicabilidad a PR).
+- **Tribunal Apelativo PR:** Decisión Sagardía 4-0 (24-abr-2026) ya en seen.txt. Sagardía radicó reconsideración (fecha no confirmada). Hacienda entregó información al Senado (cumplimiento operacional, no publicación regulatoria).
+- **DDEC Act 60:** Sin nuevas órdenes. DDEC 2026-002 (11-mar-2026): 52 días — supera filtro 30 días. Descartada.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **Reforma Contributiva:** P del S 912 aún en proceso legislativo — sin firma de Gobernadora. Leyes 178-2025, 179-2025, 180-2025 (segunda fase, 2025): superan filtro 30 días, descartadas. Sector privado (CCPA, CCPR, CUD, AIPR) impulsa reforma integral (mayo 2026): declaración no oficial, no en scope.
+
+### IDs añadidos a seen.txt:
+Ninguno.
+
+### Descartados esta corrida:
+- IRB 2026-19 (04-may-2026): sin contenido específico de PR — Regla 3.
+- TD 10044 "No Tax on Tips" / Sec. 224 final regs (13-abr-2026): no verifica aplicación a PR — Regla 3.
+- DDEC 2026-002 (11-mar-2026): 52 días — filtro 30 días.
+- Leyes reforma 178/179/180-2025: firmadas en 2025, filtro 30 días.
+- Sagardía-cumplimiento (Hacienda entrega información): evento operacional, no publicación regulatoria.
+
+### Seguimiento activo (actualizado):
+- **[ALERTA — 29 días] Formulario SC 2745:** Versión anterior (oct-2016) válida solo hasta 31-may-2026. Desde 1-jun-2026 obligatoria nueva versión (rev. 27-mar-2026). Per BI RI 26-03.
+- **[VIGILAR] JSF / RC 06-2026 ($554M cheque de alivio contributivo):** Al 02-may-2026, JSF aún NO ha emitido su determinación oficial. Se esperan pagos junio 2026.
+- **[NOTA] CC RI 26-08 / BI RI 26-04:** Sin fecha conocida de publicación.
+- **[NOTA] P del S 912 (reforma contributiva):** Nuevas tasas individuales (0%/$12.5K → 33%/>$150K). En proceso legislativo. Sin firma confirmada.
+
+### Digest enviado a Telegram:
+```
+DIGEST - Sin Novedades Contributivas PR
+02-may-2026 | 10:00 AM AST - Corrida #77
+===================================
+
+Sin publicaciones nuevas esta corrida.
+
+Fuentes revisadas:
+- Hacienda PR (CC RI, DA, BI RI, Comunicados): Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) ya en seen.txt. No se encontró CC RI 26-08 ni BI RI 26-04.
+- SURI: Sin avisos nuevos.
+- IRS-PR: IRB 2026-19 (04-may-2026) revisado — sin mención a PR, sec. 933, Act 60 ni posesiones. Descartado.
+- TD 10044 "No Tax on Tips": sin guía específica para PR. Descartado.
+- Tribunal Apelativo PR: Decisión Sagardía (24-abr-2026) ya en seen.txt.
+- DDEC: Sin nuevas órdenes. DDEC 2026-002 supera filtro 30 días.
+- OCIF: Sin publicaciones contributivas nuevas.
+
+SEGUIMIENTO ACTIVO:
+[ALERTA - 29 días] SC 2745: versión anterior válida solo hasta 31-may-2026. Obligatoria nueva versión desde 1-jun-2026.
+[VIGILAR] JSF / RC 06-2026: aún sin determinación. Pagos esperados junio 2026.
+[NOTA] P del S 912 (reforma contributiva): sin firma confirmada.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 130 IDs totales
+Próxima corrida: 03:00 PM AST
+```
+*(Telegram no enviado — api.telegram.org bloqueado en sandbox Claude Code; en producción el envío funcionará normalmente.)*
+
+---
+
 ## 2026-05-02 — CORRIDA #76 (10:20 PM AST 2026-05-01)
 
 **Hora corrida:** 2026-05-02 02:20 UTC / 10:20 PM AST 2026-05-01
