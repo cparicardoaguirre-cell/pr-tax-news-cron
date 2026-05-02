@@ -2,6 +2,70 @@
 
 ---
 
+## 2026-05-02 — CORRIDA #79 (6:00 PM AST)
+
+**Hora corrida:** 2026-05-02 22:15 UTC / 6:15 PM AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 130 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+
+Ninguno. Se revisaron todas las fuentes y no se encontraron publicaciones nuevas no registradas anteriormente, o que superen todos los filtros (30 días, relevancia PR).
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes. CC RI 26-08 y BI RI 26-04 no encontradas — no publicadas aún. Hacienda.pr.gov continúa retornando 403 a WebFetch directo.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-19 (04-may-2026) previamente descartado en corrida #77 (sin contenido PR específico). IRB 2026-20 no publicado aún. Sin nuevos Notices o Revenue Procedures para PR.
+- **Tribunal Apelativo PR:** Sin nuevas decisiones contributivas. Decisión Sagardía (24-abr-2026) ya en seen.txt.
+- **DDEC Act 60:** Sin nuevas órdenes. DDEC 2026-002 (11-mar-2026, ~52 días): supera filtro 30 días. Confirmado en seen.txt (ID 113cec13597525de).
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### Nueva Información — SEGUIMIENTO ACTIVO:
+- **JSF / RC 06-2026 (ACTUALIZACIÓN):** El Nuevo Día y Primera Hora (~may 2026) reportan que la JSF emitió determinación rechazando los proyectos de reforma contributiva/alivio. Titulares: "Junta Fiscal rechaza los proyectos de alivio contributivo" (El Nuevo Día) y "Junta de Supervisión Fiscal le corta el paso a la reforma contributiva de Jenniffer González" (Primera Hora). Gobierno discrepa formalmente. Sin número de resolución oficial confirmado en oversightboard.pr.gov al momento de esta corrida. Cheque $554M en situación incierta.
+- **P del S 912:** Vinculado al rechazo JSF. Sin firma de gobernadora.
+
+### IDs añadidos a seen.txt:
+Ninguno.
+
+### Descartados esta corrida:
+- CC RI 26-08: No existe en hacienda.pr.gov (página no encontrada/403).
+- BI RI 26-04: No existe en hacienda.pr.gov (página no encontrada/403).
+- IRB 2026-19: Ya revisado en corrida #77; sin contenido PR — no se añade a seen.txt.
+- IRB 2026-20: No publicado aún.
+- DDEC 2026-002: Ya en seen.txt (ID 113cec13597525de); además supera filtro 30 días (~52 días).
+- Comunicados reintegros/cierra ciclo: Todos ya en seen.txt.
+
+### Digest enviado a Telegram:
+```
+DIGEST — Sin Novedades Contributivas PR
+02-may-2026 | 6:00 PM AST — Corrida #79
+===================================
+
+Sin publicaciones nuevas esta corrida.
+
+Fuentes revisadas:
+- Hacienda PR (CC RI, DA, BI RI, Comunicados): Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes.
+- SURI: Sin avisos nuevos.
+- IRS-PR: IRB 2026-19 (04-may-2026) previamente descartado (sin contenido PR). IRB 2026-20 no publicado. Sin nuevos Notices especificos para PR.
+- Tribunal Apelativo PR: Sin nuevas decisiones contributivas.
+- DDEC / Act 60: Sin nuevas ordenes administrativas. DDEC 2026-002 ya en seen.txt.
+- OCIF: Sin publicaciones contributivas.
+
+SEGUIMIENTO ACTIVO:
+[ALERTA - 29 dias] SC 2745: version anterior valida solo hasta 31-may-2026. Obligatoria nueva version desde 1-jun-2026. Per BI RI 26-03.
+[VIGILAR - ACTUALIZACION] JSF / RC 06-2026: El Nuevo Dia y Primera Hora (~may-2026) reportan que la JSF rechazo formalmente los proyectos de reforma contributiva/alivio. Gobierno discrepa. Sin numero de resolucion oficial confirmado en oversightboard.pr.gov. Cheque $554M en situacion incierta — pendiente documento oficial JSF.
+[VIGILAR] P del S 912: Primera Hora reporta "JSF le corta el paso a la reforma contributiva." Sin firma de gobernadora. Situacion vinculada al rechazo JSF.
+[NOTA] CC RI 26-08 / BI RI 26-04: Sin fecha de publicacion conocida.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 130 IDs totales
+Proxima corrida: 10:00 PM AST
+```
+*(Telegram no enviado — api.telegram.org bloqueado en sandbox Claude Code; en producción el envío funcionará normalmente.)*
+
+---
+
 ## 2026-05-02 — CORRIDA #78 (3:00 PM AST)
 
 **Hora corrida:** 2026-05-02 19:00 UTC / 3:00 PM AST
