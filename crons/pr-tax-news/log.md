@@ -2,6 +2,31 @@
 
 ---
 
+## 2026-05-02 — CORRIDA #76 (10:20 PM AST 2026-05-01)
+
+**Hora corrida:** 2026-05-02 02:20 UTC / 10:20 PM AST 2026-05-01
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 130 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+
+Ninguno. Todas las publicaciones recientes confirmadas ya estaban registradas en corridas anteriores.
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026), comunicado cierre ciclo (21-abr-2026) ya en seen.txt. Páginas hacienda.pr.gov retornan 403 a WebFetch directo. No se encontró CC RI 26-08, BI RI 26-04 ni DA 26-02.
+- **SURI:** Sin avisos nuevos.
+- **IRS-PR:** IRBs 2026-15 a 2026-18 revisados; Rev. Proc. 2026-14 (Opportunity Zones PR, 06-abr-2026) ya en seen.txt. Sin nuevos Notices con mención a Section 933, Act 60, bona fide resident o possessions. "No Tax on Tips" (IR-2026-49, 10-abr-2026) descartado por no aplicar específicamente a contribuyentes PR.
+- **Tribunal Apelativo PR:** Sin nuevas decisiones tributarias confirmadas. Artículo Senado sobre reforma contributiva (senado.pr.gov/article.cfm?nwsid=2684) descartado por no poder confirmar fecha (403 error).
+- **DDEC Act 60:** Sin nuevas órdenes administrativas.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **Reforma Contributiva (P del S 912):** En proceso legislativo, aún sin firma de Gobernadora confirmada.
+
+### IDs añadidos a seen.txt:
+Ninguno.
+
+---
+
 ## 2026-05-01 — CORRIDA #75 (06:00 AST)
 
 **Hora corrida:** 2026-05-01 06:00 AST
