@@ -4978,3 +4978,73 @@ Fuentes revisadas: 6 | Items: 0 | seen.txt: 129 IDs totales
 Proxima corrida: 06:00 AST (01-may-2026)
 ```
 
+
+
+---
+
+## Corrida: 2026-05-02 06:03 AST
+
+**Items nuevos:** 0  
+**seen.txt total:** 130 IDs (sin cambios)  
+**Telegram:** FALLO (api.telegram.org HTTP 403 — red sandbox bloqueada; en producción funciona)
+
+### Fuentes revisadas
+
+| Fuente | Items encontrados | Items nuevos |
+|--------|------------------|--------------|
+| Hacienda PR (CC RI, BI RI, DA, Comunicados) | CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, varios comunicados | 0 (todos ya en seen.txt) |
+| SURI | 0 indexados | 0 |
+| IRS-PR (IRB 2026-15/17/18, Newsroom) | IRB 2026-18 (ya seen), tips OBBBA, remesas REG-114499-25 (ya seen) | 0 |
+| Tribunal Apelativo PR | Caso Sagardía TA2026CE00487 (ya seen) | 0 |
+| DDEC | OA DDEC 2026-002 (ya seen) | 0 |
+| OCIF | 0 nuevas | 0 |
+
+### Descartados esta corrida
+
+- Todas las CC RI (26-01 a 26-07), BI RI (26-01 a 26-03), CC FP 1300-28-26: ya en seen.txt.
+- IRB 2026-18 (IRS, 28-abr-2026): ya en seen.txt (ID: 4e6917a0ab453974). REG-114499-25 (remesas Sec. 4475) ya reportado.
+- IRS qualified tips OBBBA (T.D. 10040): no menciona explicitamente PR / Sec. 933 / Sec. 937 / Act 60 — descartado por Regla 3.
+- IRB 2026-19: no publicado aun (se esperaba ~05-may-2026).
+- "Hacienda continua avanzando en el envio de reintegros": articulo de febrero 2025 — descartado por antiguedad (>30 dias).
+- GAO-26-107225 (dic-2025): ya en seen.txt (ID: 20d6ab1fa15cb748).
+- Tribunal Apelativo Sagardia (24-abr-2026): ya en seen.txt (ID: 108f2a9b80949b20).
+- DDEC OA 2026-002 (11-mar-2026): ya en seen.txt.
+- SURI / OCIF: sin publicaciones nuevas indexadas.
+
+### Seguimiento activo
+
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (30 dias). Nueva version del formulario SC 2745 sera la unica aceptada. Formularios en version anterior seran rechazados post-1-jun.
+- **JSF/RC 06-2026 (Cheque Alivio $554M):** Al 02-may-2026 06:00 AST, JSF aun NO ha emitido determinacion oficial. Gobierno confirmo el 30-abr que sigue en calendario previsto. Pagos esperados principios de junio 2026. Sin accion requerida por contribuyente.
+
+### Digest (no enviado — red sandbox)
+
+```
+DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-05-02 | Hora: 06:03 AST | Corrida: 2026-05-02 06:03 AST
+Fuentes: Hacienda PR, SURI, IRS-PR, Tribunal, DDEC, OCIF
+=========================================
+
+Sin novedades oficiales nuevas en esta corrida.
+
+Revision exhaustiva completada: Hacienda (CC RI, BI RI, DA, Comunicados), SURI,
+IRS-PR (IRB hasta 2026-18), Tribunal Apelativo, DDEC, OCIF. Ninguna publicacion
+nueva desde la corrida anterior (30-abr 22:15 AST).
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 (Poder y Declaracion de Representacion) — 30 DIAS
+La nueva version del formulario SC 2745 (rev. 27-mar-2026) sera la UNICA aceptada
+a partir del 1 de junio de 2026. Quedan 30 dias. Formularios con version anterior
+presentados despues del 1-jun seran rechazados por Hacienda.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[PENDIENTE] JSF/RC 06-2026 — Cheque de Alivio Contributivo $554 Millones
+Al 02-may-2026 (06:00 AST), la JSF aun NO ha emitido su determinacion oficial
+sobre RC 06-2026. El gobierno confirmo el 30-abr que el proceso sigue en el
+calendario previsto. Pagos esperados: principios de junio 2026 (4-6 semanas
+tras cierre ciclo 15-abr). Sin accion requerida por el contribuyente en este momento.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 130 IDs totales
+Proxima corrida: 10:00 AST (02-may-2026)
+```
