@@ -2,6 +2,59 @@
 
 ---
 
+## 2026-05-03 — CORRIDA #83 (10:00 AM AST)
+
+**Hora corrida:** 2026-05-03 14:00 UTC / 10:00 AM AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 134 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+
+Ninguno. Se revisaron todas las fuentes; no se encontraron publicaciones nuevas no registradas que superen todos los filtros (30 días, relevancia PR, URL confirmada).
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes. No existe CC RI 26-08 ni BI RI 26-04. WebFetch directo sigue retornando 403.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-15 a 2026-19 revisados. IRB 2026-17 (sec. 911 housing) no aplica a PR (sec. 933). IRB 2026-18 (qualified tips, One Big Beautiful Bill) — sin confirmación de aplicabilidad directa a residentes PR; descartado per regla #3. IRB 2026-19 ya en seen.txt desde corrida #81.
+- **Tribunal Apelativo PR:** Sin nuevas decisiones contributivas. Caso Sagardía (TA2026CE00487) ya en seen.txt.
+- **DDEC Act 60:** Sin nuevas órdenes administrativas. Ley 38-2026 (21-mar-2026) fuera del filtro de 30 días.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt:
+Ninguno.
+
+### Descartados esta corrida:
+- IRS IRB 2026-17 (sec. 911 housing, abr-2026): Sec. 911 no aplica a residentes bona fide de PR (aplica sec. 933). Descartado.
+- IRS IRB 2026-18 (qualified tips, 27-abr-2026): Sin confirmación de aplicabilidad a residentes PR bajo código contributivo local. Descartado per regla #3.
+- Ley 38-2026 (Act 60, 21-mar-2026): 43 días — fuera del filtro de 30 días; ya procesada en corrida anterior.
+
+### Seguimiento activo (sin cambios):
+- **[ALERTA - 28 DÍAS] SC 2745:** Nueva versión obligatoria desde 1-jun-2026 per BI RI 26-03 (ya en seen.txt). Versión anterior (oct-2016) válida solo hasta 31-may-2026.
+- **[URGENTE] JSF / RC 06-2026:** FOMB sin aprobar los $554M del Cheque de Alivio Contributivo. Pendiente Certificación 204 bajo PROMESA. Sin documento oficial en oversightboard.pr.gov.
+
+### Digest preparado para Telegram:
+```
+PR TAX NEWS — Corrida #83 | 2026-05-03 10:00 AM AST
+
+Sin publicaciones nuevas en esta corrida.
+
+Fuentes revisadas (6): Hacienda PR, SURI, IRS-PR (IRBs 2026-17/18 sin contenido PR),
+Tribunal Apelativo, DDEC, OCIF — sin novedades.
+
+SEGUIMIENTO ACTIVO:
+[ALERTA - 28 dias] SC 2745: version anterior valida solo hasta 31-may-2026.
+Nueva version obligatoria desde 1-jun-2026 per BI RI 26-03.
+[VIGILAR] JSF / RC 06-2026: FOMB sin aprobar $554M cheque alivio contributivo.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 134 IDs totales
+Proxima corrida: 3:00 PM AST
+```
+*(Nota: Telegram bloqueado en sandbox — mensaje no entregado. En producción funcionará.)*
+
+---
+
 ## 2026-05-03 — CORRIDA #82 (6:23 AM AST)
 
 **Hora corrida:** 2026-05-03 10:23 UTC / 6:23 AM AST
