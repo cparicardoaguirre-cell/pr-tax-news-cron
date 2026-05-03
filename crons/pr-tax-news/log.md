@@ -2,6 +2,35 @@
 
 ---
 
+## 2026-05-03 — CORRIDA #84 (6:00 PM AST)
+
+**Hora corrida:** 2026-05-03 22:15 UTC / 18:15 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — Bot token revocado (api.telegram.org retorna 403 Forbidden en getMe).
+**seen.txt:** 134 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+Ninguno. Se revisaron 18 candidatos de todas las fuentes; todos ya estaban en seen.txt o tenían más de 30 días.
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, DA 26-01 — todos ya registrados. WebFetch retorna 403.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** GAO-26-107225, Rev Proc 2026-14 (OZ 2.0/PR), Notice 2026-22 — todos ya registrados.
+- **DDEC Act 60:** DDEC 2026-002 (fondos capital privado) — ya registrado; fuera de 30d.
+- **Tribunal Apelativo PR:** TA2026CE00487 (Sagardía) — ya registrado.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt:
+Ninguno.
+
+### Descartados por filtro de 30 días:
+- CC RI 26-01 (09-feb-2026): 83 días.
+- Notice 2026-22 (02-ene-2026): 121 días.
+- DDEC 2026-002 (11-mar-2026): 53 días.
+- RC 06-2026 cheque alivio (03-feb-2026): 89 días.
+
+---
+
 ## 2026-05-03 — CORRIDA #83 (10:00 AM AST)
 
 **Hora corrida:** 2026-05-03 14:00 UTC / 10:00 AM AST
