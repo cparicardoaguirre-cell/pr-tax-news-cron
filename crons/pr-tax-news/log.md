@@ -5369,3 +5369,84 @@ tras cierre ciclo 15-abr). Sin accion requerida por el contribuyente en este mom
 Fuentes revisadas: 6 | Items: 0 | seen.txt: 130 IDs totales
 Proxima corrida: 10:00 AST (02-may-2026)
 ```
+
+
+---
+
+## Corrida: 2026-05-03 10:20 AST
+
+**Items nuevos:** 0  
+**seen.txt total:** 134 IDs (133 previos + 1 nuevo: IRB 2026-19)  
+**Telegram:** FALLO (api.telegram.org HTTP 403 — Host not in allowlist; red sandbox bloqueada; en produccion funcionaria normalmente)
+
+### Fuentes revisadas
+
+| Fuente | Items encontrados | Items nuevos |
+|--------|------------------|--------------|
+| Hacienda PR (CC RI, BI RI, DA, Comunicados) | CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, comunicados hasta 21-abr | 0 (todos ya en seen.txt) |
+| SURI | 0 indexados | 0 |
+| IRS-PR (IRB 2026-18/19, Newsroom) | IRB 2026-19 (04-may-2026) nuevo | 0 (sin contenido PR relevante) |
+| Tribunal Apelativo PR | TA2026CE00487 Sagardia ya en seen.txt | 0 |
+| DDEC | OA 2026-002 ya en seen.txt; sin OA nueva | 0 |
+| OCIF | 0 nuevas | 0 |
+
+### Descartados esta corrida
+
+- **IRB 2026-19 (IRS, 04-may-2026):** Tasas federales aplicables mayo 2026 (AFR tablas 1-4), credito vivienda baja contribucion Sec. 42, propuesta reglamento umbrales informacion 1099-MISC/NEC ($600→$2,000) y perdidas juego. NO menciona Puerto Rico, Sec. 933, Act 60, bona fide resident ni IRC 937. Descartado por Regla 3. ID: df544114d10dc0e0 → agregado a seen.txt.
+- CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, CC FP: todos ya en seen.txt.
+- IRB 2026-18 (4e6917a0ab453974): ya en seen.txt.
+- OA DDEC 2026-002: ya en seen.txt.
+- GAO-26-107225: ya en seen.txt.
+- Tribunal TA2026CE00487 (108f2a9b80949b20): ya en seen.txt.
+- Comunicados Hacienda hasta 21-abr-2026: todos ya en seen.txt.
+- JSF/RC 06-2026: sin decision oficial nueva; pagos esperados principios de junio.
+
+### Seguimiento activo
+
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (29 dias). Nueva version del formulario SC 2745 (rev. 27-mar-2026) sera la unica aceptada. Formularios en version anterior seran rechazados post-1-jun.
+- **[PENDIENTE] JSF/RC 06-2026 ($554M):** Al 03-may-2026 10:20 AST, JSF aun NO ha emitido determinacion oficial. Pagos esperados principios de junio 2026.
+
+### Digest (no enviado — red sandbox)
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-05-03 | Hora: 10:20 AST | Corrida: 2026-05-03 10:20 AST
+Fuentes: Hacienda PR, SURI, IRS-PR, Tribunal, DDEC, OCIF
+URGENTE: BI RI 26-03 — SC 2745 nuevo formulario obligatorio en 29 dias (1-jun-2026)
+=========================================
+
+Sin novedades oficiales nuevas en esta corrida.
+
+Revision exhaustiva completada: Hacienda (CC RI, BI RI, DA, Comunicados), SURI,
+IRS-PR (IRB hasta 2026-19), Tribunal Apelativo, DDEC, OCIF. Ninguna publicacion
+nueva con relevancia contributiva para PR encontrada desde la corrida anterior
+(02-may-2026, 06:03 AST).
+
+--- DESCARTADOS ESTA CORRIDA ---
+
+- IRB 2026-19 (IRS, 04-may-2026): Tasas federales aplicables para mayo 2026 (AFR
+  tablas 1-4), credito vivienda baja contribucion Sec. 42, propuesta reglamento
+  umbrales informacion 1099-MISC/NEC ($600->$2,000) y perdidas juego. NO menciona
+  Puerto Rico, Sec. 933, Act 60, bona fide resident ni IRC 937 — DESCARTADO R3.
+  https://www.irs.gov/irb/2026-19_IRB
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 (Poder y Declaracion de Representacion) — 29 DIAS
+La nueva version del formulario SC 2745 (revision 27-mar-2026) sera la UNICA
+aceptada por Hacienda a partir del 1 de junio de 2026. Quedan 29 dias. Formularios
+en version anterior presentados despues del 1-jun seran rechazados. CPAs y abogados
+deben actualizar sus formularios de representacion.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[PENDIENTE] JSF/RC 06-2026 — Cheque de Alivio Contributivo $554 Millones
+Al 03-may-2026 (10:20 AST), la Junta de Supervision Fiscal (JSF) aun NO ha emitido
+su determinacion oficial sobre RC 06-2026. El ciclo contributivo cerro el 15 de
+abril. Fuentes estiman pagos a principios de junio 2026 (4-6 semanas tras cierre
+ciclo). Sin accion requerida por el contribuyente en este momento.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 134 IDs totales
+Proxima corrida: 15:00 AST (03-may-2026)
+```
+
