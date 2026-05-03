@@ -2,6 +2,59 @@
 
 ---
 
+## 2026-05-03 — CORRIDA #81 (6:00 AM AST)
+
+**Hora corrida:** 2026-05-03 10:00 UTC / 6:00 AM AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 130 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+
+Ninguno. Se revisaron todas las fuentes; no se encontraron publicaciones nuevas no registradas, o que superen todos los filtros (30 días, relevancia PR).
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** Sin nuevas publicaciones. CC RI 26-07 y BI RI 26-03 (20-abr-2026) siguen siendo las más recientes. No existe CC RI 26-08 ni BI RI 26-04 en hacienda.pr.gov. WebFetch directo sigue retornando 403.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-19 (04-may-2026) es NUEVO en seen.txt pero no contiene contenido PR/possession/Sec.933/Act 60 — descartado por filtro. IRB 2026-20 no publicado aún.
+- **Tribunal Apelativo PR:** Sin nuevas decisiones contributivas encontradas.
+- **DDEC Act 60:** Sin nuevas órdenes administrativas. DDEC 2026-002 (11-mar-2026) ya en seen.txt y supera filtro 30 días.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt:
+Ninguno.
+
+### Descartados esta corrida:
+- IRB 2026-19: Nuevo en seen.txt pero sin contenido PR específico (RR 2026-9 tasas federales mayo; Rev. Proc. 2026-19 aseguradoras extranjeras; REG-113229-25 umbrales información). No se añade a seen.txt.
+- CC RI 26-08 / BI RI 26-04: No existen en hacienda.pr.gov aún.
+- Comunicado Bayamón (cierre oficina, 01-may-2026): Noticia operativa sin número oficial CC/DA/BI ni URL confirmada en comunicados de hacienda.pr.gov. Descartado per reglas estrictas.
+
+### Seguimiento activo (sin cambios):
+- **[ALERTA - 29 DÍAS] SC 2745:** Nueva versión obligatoria desde 1-jun-2026 per BI RI 26-03 (ya en seen.txt). Versión anterior (oct-2016) válida solo hasta 31-may-2026.
+- **[VIGILAR] JSF / RC 06-2026:** Medios reportan rechazo JSF a reforma permanente (~mayo 2026). Sin número de resolución oficial en oversightboard.pr.gov. Cheque $554M en situación incierta — pendiente documento oficial.
+
+### Digest enviado a Telegram:
+```
+PR TAX NEWS — Corrida #81 | 2026-05-03 6:00 AM AST
+
+Sin publicaciones nuevas en esta corrida.
+
+Fuentes revisadas (6): Hacienda PR, SURI, IRS-PR (IRB 2026-19 sin contenido PR),
+Tribunal Apelativo, DDEC, OCIF — sin novedades.
+
+SEGUIMIENTO ACTIVO:
+[ALERTA - 29 dias] SC 2745: version anterior valida solo hasta 31-may-2026.
+Nueva version obligatoria desde 1-jun-2026 per BI RI 26-03.
+[VIGILAR] JSF rechazo reforma contributiva permanente — sin doc. oficial aun.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 130 IDs totales
+Proxima corrida: 10:00 AM AST
+```
+*(Nota: Telegram bloqueado en sandbox — mensaje no entregado. En producción funcionará.)*
+
+---
+
 ## 2026-05-02 — CORRIDA #79 (6:00 PM AST)
 
 **Hora corrida:** 2026-05-02 22:15 UTC / 6:15 PM AST
