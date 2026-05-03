@@ -2,6 +2,74 @@
 
 ---
 
+## 2026-05-03 — CORRIDA #82 (6:23 AM AST)
+
+**Hora corrida:** 2026-05-03 10:23 UTC / 6:23 AM AST
+**Items nuevos:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado en sandbox Claude Code (en producción el envío funcionará normalmente).
+**seen.txt:** 133 IDs totales (+3 añadidos: 2 digest + 1 descartado por fecha)
+
+### Items nuevos esta corrida:
+
+1. **[URGENTE] Cheque de Alivio Contributivo (RC 06-2026): FOMB no aprueba dentro del plazo**
+   - Fecha: 2026-05-02
+   - Fuente: Primera Hora (noticias)
+   - Resumen: La Junta de Control Fiscal (FOMB) no cumplió el plazo de dos semanas prometido por el director Robert Mujica para decidir sobre el desembolso de $554 millones. El plazo venció el 29-abr-2026. La portavoz Sylvette Santiago indicó que el gobierno debe someter Certificación 204 bajo PROMESA. ~700,000 contribuyentes en espera; distribución estimada mayo–junio 2026.
+   - URL: https://www.primerahora.com/noticias/gobierno-politica/notas/pasado-el-tiempo-para-decidir-que-paso-con-el-cheque-de-alivio-contributivo/
+   - ID: 480b316754e6d309
+
+2. **Sector privado impulsa reforma contributiva integral (CCPA + CCPR + CUD + AIPR)**
+   - Fecha: 2026-05-01
+   - Fuente: Metro Puerto Rico (noticias)
+   - Resumen: CCPA, CCPR, CUD y AIPR presentaron posición conjunta para reforma contributiva bajo principio "base amplia, tasa baja." No es legislación aprobada; es posicionamiento ante proyectos legislativos en discusión.
+   - URL: https://www.metro.pr/noticias/2026/05/01/sector-privado-impulsa-reforma-contributiva-integral-para-puerto-rico/
+   - ID: f19f38a3762732eb
+
+### Descartados esta corrida:
+
+- Primera Hora "Sigue incierto el futuro del Cheque de Alivio Contributivo" — Fecha confirmada: 2026-02-12 (>30 días). ID: 7031546a5788673b — Añadido a seen.txt para no re-procesar.
+- BI RI 26-04 (URL conjeturada) — No existe en hacienda.pr.gov. No añadido a seen.txt.
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC, DA, BI):** Sin nuevas publicaciones en mayo-2026. Último: CC RI 26-07 (20-abr-2026).
+- **SURI:** Sin avisos nuevos.
+- **IRS-PR:** IRBs 2026-15 a 2026-18 revisados; ninguno con contenido PR específico no procesado previamente.
+- **Tribunal Apelativo PR:** Decisiones Sagardía (21 y 24 abr) ya en seen.txt.
+- **DDEC Act 60:** DDEC 2026-002 (11-mar-2026) ya en seen.txt y fuera de 30 días.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **Noticias PR (Meta-fuente):** Encontradas 2 novedades contributivas vía búsqueda.
+
+### Seguimiento activo:
+- **[ALERTA - 28 DÍAS] SC 2745:** Nueva versión obligatoria desde 1-jun-2026 per BI RI 26-03. Versión anterior (oct-2016) válida solo hasta 31-may-2026.
+- **[URGENTE] JSF / RC 06-2026:** FOMB aún no aprueba los $554M del Cheque de Alivio Contributivo. Gobierno debe someter Certificación 204 bajo PROMESA. Sin documento oficial en oversightboard.pr.gov aún.
+
+### Digest preparado para Telegram:
+```
+[URGENTE] PR Tax News — 2026-05-03 06:23 AST
+Corrida: #82 | Items nuevos: 2
+================================================
+
+[URGENTE]
+[GOV PR - NOVEDAD FISCAL URGENTE] Cheque de Alivio Contributivo: FOMB no aprueba dentro del plazo — Resolución Conjunta 06-2026
+Fecha: 2026-05-02
+La Junta de Control Fiscal (FOMB) no cumplió el plazo de dos semanas prometido por su director Robert Mujica para decidir sobre el desembolso de $554 millones en cheques de alivio (Resolución Conjunta 06-2026). El plazo venció el 29 de abril de 2026 sin resolución. La portavoz Sylvette Santiago indicó que el gobierno debe someter la Certificación 204 bajo PROMESA antes de que la Junta complete su evaluación. Aproximadamente 700,000 contribuyentes con ingresos netos ≤$150,000 y residentes de PR durante 2025 esperan el pago; se estimaba distribución mayo–junio 2026.
+https://www.primerahora.com/noticias/gobierno-politica/notas/pasado-el-tiempo-para-decidir-que-paso-con-el-cheque-de-alivio-contributivo/
+---
+
+[CCPA/SECTOR PRIVADO - PROPUESTA POLITICA CONTRIBUTIVA] Sector privado impulsa reforma contributiva integral para Puerto Rico
+Fecha: 2026-05-01
+El Colegio de CPA de Puerto Rico (CCPA), la Camara de Comercio (CCPR), el Centro Unido de Detallistas (CUD) y la Asociacion de Industriales de Puerto Rico (AIPR) presentaron una posicion conjunta para reforma contributiva bajo el principio de "base amplia, tasa baja." La iniciativa busca ampliar la base contributiva y reducir tasas, con el objetivo de eficiencia recaudatoria sin desincentivar inversion ni empleo. No constituye legislacion aprobada; es posicionamiento de politica publica ante proyectos legislativos en discusion.
+https://www.metro.pr/noticias/2026/05/01/sector-privado-impulsa-reforma-contributiva-integral-para-puerto-rico/
+---
+
+================================
+Fuentes revisadas: 7 | Items: 2 | seen.txt: 133 IDs totales
+Proxima corrida: 10:00 AST
+```
+*(Nota: Telegram bloqueado en sandbox — mensaje no entregado. En producción funcionará.)*
+
+---
+
 ## 2026-05-03 — CORRIDA #81 (6:00 AM AST)
 
 **Hora corrida:** 2026-05-03 10:00 UTC / 6:00 AM AST
