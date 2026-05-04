@@ -2,6 +2,55 @@
 
 ---
 
+## 2026-05-04 — CORRIDA #87 (6:00 PM AST)
+
+**Hora corrida:** 2026-05-04 22:13 UTC / 18:13 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org no está en el allowlist del entorno (403 Forbidden). Sin novedades; no se requería digest.
+**seen.txt:** 135 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+_Ninguno._
+
+### Digest (texto que se enviaría / pendiente Telegram):
+
+```
+Monitor Contributivo PR — 2026-05-04 18:13 AST
+Corrida #87 — 18:00 (6pm)
+
+Sin novedades en esta corrida.
+
+Fuentes revisadas: Hacienda PR (CC RI, DA, BI RI, Comunicados), SURI,
+IRS-PR (IRB 2026-01 a 26-19), DDEC, Tribunal Apelativo PR, OCIF.
+
+Todas las publicaciones encontradas ya estaban registradas en seen.txt.
+No se identificaron publicaciones nuevas de los últimos 30 días en
+ninguna fuente.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 135 IDs totales
+Próxima corrida: 22:00 AST
+```
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, comunicados de reintegros — todos ya en seen.txt. WebFetch retorna 403.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-14 a 2026-19 — todos ya en seen.txt. IRB 2026-19 (mayo 4) publicado hoy: Rev Ruling 2026-9 (tasas federales mayo) y propuesta de reglamentos info reporting — sin contenido específico de PR.
+- **DDEC Act 60:** DDEC OA 2026-002, DDEC 2026-003 (Industrias Creativas) — ya en seen.txt.
+- **Tribunal Apelativo PR:** Caso Sagardía (info contributiva, abr-2026) — búsqueda no retornó URL verificable de fuente oficial. WebFetch a lexjuris.com retornó 403.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt:
+_Ninguno._
+
+### Descartados esta corrida:
+- IRB 2026-19 HTML (df544114d10dc0e0 — ya en seen.txt desde corrida anterior)
+- DDEC 2026-003 PDF URL (0ec428a04365dfb3 — ya en seen.txt)
+- Caso Sagardía/Tribunal Apelativo (sin URL oficial verificable — Regla 1)
+- IRS "One Big Beautiful Bill" page (retorna 403, sin contenido PR específico confirmado)
+
+---
+
 ## 2026-05-04 — CORRIDA #86 (3:00 PM AST)
 
 **Hora corrida:** 2026-05-04 19:21 UTC / 15:21 AST
