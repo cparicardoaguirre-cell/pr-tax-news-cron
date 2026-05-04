@@ -5584,3 +5584,74 @@ Fuentes revisadas: 6 | Items: 0 | seen.txt: 134 IDs totales
 Proxima corrida: 15:00 AST (03-may-2026)
 ```
 
+
+---
+
+## Corrida: 2026-05-04 06:00 AST
+
+**Items nuevos:** 0  
+**seen.txt total:** 135 IDs (sin cambios — 0 nuevos esta corrida)  
+**Telegram:** FALLO (api.telegram.org HTTP 403 — red sandbox bloqueada; en produccion funcionaria normalmente)
+
+### Fuentes revisadas
+
+| Fuente | Items encontrados | Items nuevos |
+|--------|------------------|--------------|
+| Hacienda PR (CC RI, BI RI, DA, Comunicados) | CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, comunicados hasta 15-abr | 0 (todos ya en seen.txt) |
+| SURI | 0 indexados | 0 |
+| IRS-PR (IRB hasta 2026-19, Newsroom) | IRB 2026-19 ya en seen.txt; IRB 2026-20 no publicado aun | 0 |
+| Tribunal Apelativo PR | Sagardía TA2026CE00487 ya en seen.txt; confirmacion apr-24 sin URL oficial verificable | 0 |
+| DDEC | OA 2026-002 ya en seen.txt; sin OA nueva | 0 |
+| OCIF | 0 nuevas | 0 |
+
+### Descartados esta corrida
+
+- **CC RI 26-01 a 26-07:** Todos ya en seen.txt.
+- **BI RI 26-01 a 26-03:** Todos ya en seen.txt.
+- **CC FP 1300-28-26:** Ya en seen.txt.
+- **DDEC OA 2026-002:** Ya en seen.txt.
+- **IRB 2026-19:** Ya en seen.txt; no relevante para PR.
+- **IRB 2026-20:** No publicado al momento de esta corrida.
+- **Tribunal Apelativo — Apelativo confirma orden vs Hacienda (Sagardía, ~24-abr-2026):** Noticia confirmada por multiples medios (El Nuevo Dia, Notiuno, Metro PR, WAPA, Telemundo). El Apelativo confirmo la orden del TPI que obliga a Hacienda a entregar informacion de W-2/480.6SP de Sagardia de Jesus al Senado (Peticion 2026-0036). URL oficial de la sentencia del Tribunal de Apelaciones no accesible — descartado por Regla 1.
+- **JSF — "rechaza proyectos alivio contributivo" (El Nuevo Dia):** Rechazo original de enero 2026 a proyectos de reforma; NOT la RC 06-2026. Ya visto en runs anteriores.
+
+### Seguimiento activo
+
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (28 dias). Nueva version del formulario SC 2745 (rev. 27-mar-2026) sera la unica aceptada. Formularios en version anterior seran rechazados post-1-jun.
+- **[PENDIENTE] JSF/RC 06-2026 ($554M):** Al 04-may-2026 06:00 AST, JSF aun NO ha emitido determinacion oficial. Deadline prometido por director JSF (29-abr) ya pasado. Gobierno alega calendario vigente para inicio de junio 2026.
+
+### Digest (no enviado — red sandbox)
+
+```
+[URGENTE] DIGEST PR TAX NEWS — CPA Ricardo Aguirre
+Fecha: 2026-05-04 | Hora: 06:00 AST
+Fuentes: Hacienda PR, SURI, IRS-PR, Tribunal, DDEC, OCIF
+URGENTE: BI RI 26-03 — SC 2745 — FALTAN 28 DIAS (deadline 1-jun-2026)
+=========================================
+
+Sin novedades oficiales nuevas en esta corrida.
+
+Revision exhaustiva: Hacienda (CC RI 26-01 a 26-07, BI RI 26-01 a 26-03,
+DA, Comunicados), SURI, IRS-PR (IRB hasta 2026-19), Tribunal Apelativo,
+DDEC (OA 2026-002), OCIF. Ninguna publicacion nueva con relevancia
+contributiva para PR desde la corrida anterior (03-may-2026, 10:20 AST).
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 — 28 DIAS RESTANTES
+Nueva version del formulario SC 2745 (Poder y Declaracion de Representacion,
+rev. 27-mar-2026) sera la UNICA aceptada por Hacienda a partir del 1-jun-2026.
+Formularios en version anterior seran rechazados. Deadline: 1 de junio 2026.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[PENDIENTE] JSF/RC 06-2026 — Cheque de Alivio $554M
+Al 04-may-2026 (06:00 AST), la JSF aun NO ha emitido determinacion oficial
+sobre RC 06-2026. Deadline prometido por director JSF: 29-abr (ya pasado).
+Gobierno alega calendario vigente para inicio de junio 2026. Sin accion
+requerida por el contribuyente en este momento.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 135 IDs totales
+Proxima corrida: 10:00 AST (04-may-2026)
+```
+
