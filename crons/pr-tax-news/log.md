@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-05-04 — CORRIDA #86 (3:00 PM AST)
+
+**Hora corrida:** 2026-05-04 19:21 UTC / 15:21 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org no está en el allowlist del entorno (403 Forbidden). Sin novedades; no se requería digest.
+**seen.txt:** 135 IDs totales (sin cambios esta corrida)
+
+### Items nuevos esta corrida:
+_Ninguno._
+
+### Digest (texto que se enviaría / pendiente Telegram):
+
+```
+📋 Monitor Contributivo PR — 2026-05-04 15:21 AST
+
+Sin novedades en esta corrida. Todas las publicaciones encontradas
+en Hacienda PR (CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, DDEC OA
+2026-002), IRS-PR (IRB 2026-14 a 26-19, GAO-26-107225) ya estaban
+registradas en seen.txt. No se identificaron publicaciones nuevas
+de los últimos 30 días en ninguna fuente.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 135 IDs totales
+Próxima corrida: 18:00 AST
+```
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** CC RI 26-01 a 26-07, BI RI 26-01 a 26-03 — todos ya en seen.txt. DA 25-04 (nueva en seen.txt pero de 2025, >30 días → descartada). WebFetch retorna 403.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-14 a 2026-19 — todos ya en seen.txt. IRB 2026-20 no existe aún. SECURE 2.0 Final Regs (TD publicado en IRB 2025-40, oct-2025, >30 días → descartado).
+- **DDEC Act 60:** DDEC OA 2026-002 — ya en seen.txt.
+- **Tribunal Apelativo PR:** Sin sentencias tributarias nuevas indexadas (lexjuris.com retornó 403).
+- **OCIF:** Sin publicaciones contributivas nuevas.
+
+### IDs añadidos a seen.txt:
+_Ninguno._
+
+### Descartados esta corrida:
+- DA 25-04 (publicada en 2025, >30 días de antigüedad — Regla de filtro de 30 días)
+- SECURE 2.0 Final Regs newsroom page (regulación publicada IRB 2025-40, >30 días)
+- IRB 2026-20 (no existe aún en irs.gov)
+
+---
+
 ## 2026-05-03 — CORRIDA #85 (10:00 PM AST)
 
 **Hora corrida:** 2026-05-04 02:08 UTC / 22:08 AST
