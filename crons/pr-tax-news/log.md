@@ -2,6 +2,58 @@
 
 ---
 
+## 2026-05-03 — CORRIDA #85 (10:00 PM AST)
+
+**Hora corrida:** 2026-05-04 02:08 UTC / 22:08 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org no está en el allowlist del entorno (403 Forbidden). Digest documentado en log.
+**seen.txt:** 135 IDs totales (+1 esta corrida)
+
+### Items nuevos esta corrida:
+
+1. **[IRS-PR - AVISO CONGRESIONAL]** Senado EE.UU. pide investigación IRS sobre Act 60 y residencia en Puerto Rico
+   - Fecha: 2026-04-30
+   - Fuente: U.S. Senate Finance Committee (Sen. Ron Wyden)
+   - ID seen.txt: 86fcd26867b2bf33
+   - URL: https://www.finance.senate.gov/ranking-members-news/wyden-calls-for-full-irs-investigation-of-tax-shelter-involving-puerto-rico-residency-unveils-new-findings-in-ongoing-investigation
+
+### Digest (texto enviado / pendiente Telegram):
+
+```
+DIGEST TRIBUTARIO PR — 3 mayo 2026 | 22:08 AST
+Corrida: 10pm | Fecha de corte: 30 dias (desde 3 abril 2026)
+
+[IRS-PR - AVISO CONGRESIONAL] Senado EE.UU. pide investigacion plena del IRS sobre Act 60 y residencia en Puerto Rico
+Fecha: 2026-04-30
+El Senador Ron Wyden (Comite de Finanzas del Senado, EE.UU.) emitio un comunicado exigiendo al IRS abrir una investigacion completa sobre el uso indebido de la residencia bona fide en Puerto Rico como mecanismo de planificacion contributiva federal bajo el Codigo de Incentivos (Act 60 / Ley 60-2019). Wyden revelo hallazgos sobre abogados y clientes de alto patrimonio que presuntamente evadieron mas de $100 millones en contribuciones federales mediante reclamaciones de residencia en PR. El informe identifica opiniones legales cuestionables emitidas por los abogados Jeffrey Rubinger y Summer LePree, y menciona especificamente a Dan Morehead (Pantera Capital) en relacion con ganancias de capital de mas de $1,000 millones. El IRS mantiene la Campana 685 de cumplimiento (Campaign 685) activa para beneficiarios del incentivo de inversionista residente. Este desarrollo sigue al informe GAO-26-107225 publicado en diciembre 2025, que recomendo al IRS mejorar la supervision de contribuyentes que reclaman exencion de contribuciones federales bajo IRC Seccion 933.
+https://www.finance.senate.gov/ranking-members-news/wyden-calls-for-full-irs-investigation-of-tax-shelter-involving-puerto-rico-residency-unveils-new-findings-in-ongoing-investigation
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 135 IDs totales
+Proxima corrida: 06:00 AST
+```
+
+### Fuentes revisadas esta corrida:
+- **Hacienda PR (CC RI, DA, BI RI, Comunicados):** CC RI 26-01 a 26-07, BI RI 26-01 a 26-03, DA 26-01, comunicados — todos ya en seen.txt o >30 días. WebFetch retorna 403.
+- **SURI:** Sin avisos nuevos indexados.
+- **IRS-PR:** IRB 2026-15 a 2026-19 — todos ya en seen.txt. IRB 2026-19 (mayo 4) sin contenido PR-específico (RR 2026-9 tasas mayo, Rev Proc 2026-19 seguros foráneos).
+- **DDEC Act 60:** DDEC 2026-002 — ya en seen.txt.
+- **Tribunal Apelativo PR:** Sin sentencias tributarias nuevas indexadas.
+- **OCIF:** Sin publicaciones contributivas nuevas.
+- **Senate Finance Committee (IRS-PR):** Wyden/Act 60 investigation — NUEVO ✓
+
+### IDs añadidos a seen.txt:
+- 86fcd26867b2bf33 (Senate Finance Committee — Wyden Act 60 investigation, 2026-04-30)
+
+### Descartados esta corrida:
+- DA 26-01 (URL no verificada en hacienda.pr.gov — Regla 1, descartar si URL ambigua)
+- Microjuris BI RI 26-03 secondary article (fuente secundaria, ítem primario ya en seen.txt)
+- Holland & Knight Act 60 article (análisis de firma legal, no fuente oficial)
+- IRB 2026-20, 2026-21 (no existen aún, no añadir a seen.txt)
+
+---
+
 ## 2026-05-03 — CORRIDA #84 (6:00 PM AST)
 
 **Hora corrida:** 2026-05-03 22:15 UTC / 18:15 AST
