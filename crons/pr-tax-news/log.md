@@ -2,6 +2,43 @@
 
 ---
 
+## 2026-05-05 — CORRIDA #90 (10:02 AST)
+
+**Hora corrida:** 2026-05-05 14:02 UTC / 10:02 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 135 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI 26-02 al 26-07, BI RI 26-02/26-03, DA 26-01, Comunicados (ciclo contributivo, reintegros, AAFAF 4 leyes) — todos ya en seen.txt
+- SURI: sin avisos de mantenimiento o formularios nuevos indexados
+- IRS: IRB 2026-15 (Rev. Proc. 2026-14, OZ 2.0 con disposición PR), IRB 2026-16/17 — sin contenido contributivo PR-específico nuevo; ya en seen.txt
+- Tribunal Apelativo PR: sin decisiones tributarias nuevas (abr-may 2026)
+- DDEC: OA 2026-002 (mar 11) ya en seen.txt
+- OCIF: sin publicaciones contributivas
+- Reforma Contributiva: Ley 38-2026 (Act 60 extendida a 2055, 4% para nuevos aplicantes 2027+) ya en seen.txt; 4 nuevas leyes AAFAF ya en seen.txt; SB 912 (2da fase) en proceso legislativo — sin ley promulgada
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-02 al 26-07 | Ya en seen.txt |
+| BI RI 26-02 y 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| DDEC OA 2026-002 | Ya en seen.txt |
+| Ley 38-2026 (Act 60 → 2055) | Ya en seen.txt |
+| AAFAF — 4 leyes Reforma Contributiva | Ya en seen.txt |
+| IRS IRB 2026-15/16/17 | Sin contenido PR-específico nuevo / ya en seen.txt |
+| GAO-26-107225 | Ya en seen.txt (>30 días) |
+| SB 912 — Reforma 2da Fase | En proceso legislativo; sin ley promulgada |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (27 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado desde junio 1. Formularios anteriores rechazados.
+
+### Digest enviado:
+Sin novedades. Mensaje corto enviado (FALLO sandbox).
+
+---
+
 ## 2026-05-04 — CORRIDA #87 (6:00 PM AST)
 
 **Hora corrida:** 2026-05-04 22:13 UTC / 18:13 AST
