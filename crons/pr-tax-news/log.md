@@ -5824,6 +5824,72 @@ Próxima corrida: 06:00 AST
 ```
 
 
+## 2026-05-05 — CORRIDA #90 (10:00 AST)
+
+**Hora corrida:** 2026-05-05 14:00 UTC / 2026-05-05 10:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (+1 artículo Metro PR evaluado)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI hasta 26-07 (abr 20), BI RI hasta 26-03 (abr 20), DA, CC FP, Comunicados — sin publicaciones nuevas desde corrida #89
+- IRS: IRB 2026-19 ya cubierto; no hay IRB 2026-20 ni publicaciones nuevas PR-específicas
+- SURI: página principal — sin avisos públicos indexados post abr-20
+- Tribunal Apelativo PR (LexJuris, poderjudicial.pr): sin decisiones tributarias nuevas abr-may 2026
+- DDEC: sin nuevas órdenes administrativas ni cartas circulares post 26-003 (feb 2026)
+- OCIF: sin publicaciones contributivas
+- JSF/RC 06-2026 (NUEVO): Metro PR 04-may-2026 confirma que Gobierno no entregó informe presupuestario a tiempo; JSF otorgó extensión. RC 06-2026 (cheque $554M) sigue sin autorización oficial JSF.
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-02–26-07 | Ya en seen.txt (corridas previas) |
+| BI RI 26-01–26-03 | Ya en seen.txt |
+| IRB 2026-17/18/19 | Ya en seen.txt |
+| Rev Proc 2026-14 (QOZ/OZ 2.0) | Ya en seen.txt |
+| DDEC OA 2026-002 / CC 2026-003 | Ya en seen.txt |
+| GAO-26-107225 | Ya en seen.txt, publicado dic-2025 |
+| Ley 38-2026 (LexJuris) | Act firmada mar-2026, >30 días |
+| GAO-26-108642 (español) | Fecha no confirmable, sin número oficial tributario |
+| Metro PR may-4 (JSF/presupuesto) | No es publicación oficial; evaluado como actualización JSF |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (26 días al 10:00 AST). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado por Hacienda a partir de esa fecha.
+- **[PENDIENTE] JSF/RC 06-2026 ($554M):** JSF rechazó previamente proyectos de alivio contributivo. Al 04-may-2026, Gobierno no entregó informe presupuestario; JSF otorgó extensión. Sin autorización oficial para los cheques al 05-may-2026 10:00 AST.
+
+### Digest (no enviado — red sandbox):
+
+```
+PR Tax News Monitor — CPA Ricardo Aguirre
+Corrida #90 | 2026-05-05 10:00 AST
+
+Sin novedades contributivas nuevas en esta corrida.
+Revision exhaustiva de: Hacienda PR, SURI, IRS-PR, Tribunal Apelativo PR,
+DDEC, OCIF. No se encontraron publicaciones oficiales nuevas desde la
+corrida #89 (06:00 AST).
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 — 26 DIAS RESTANTES
+Deadline: 1 de junio 2026
+La nueva version del formulario SC 2745 "Poder y Declaracion de
+Representacion" (rev. 27-mar-2026) sera la UNICA aceptada por Hacienda
+a partir del 1-jun-2026. Versiones anteriores seran rechazadas.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[PENDIENTE] JSF/RC 06-2026 — Cheque de Alivio $554M
+La JSF rechazo previamente los proyectos de alivio contributivo por
+inconsistencia con el plan fiscal. Al 04-may-2026, el Gobierno no entrego
+el informe presupuestario a tiempo; JSF otorgo extension. La RC 06-2026
+(cheque $554M) continua sin autorizacion oficial de la JSF.
+Sin accion requerida por el contribuyente en este momento.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+
 ## 2026-05-05 — CORRIDA #89 (06:00 AST)
 
 **Hora corrida:** 2026-05-05 10:00 UTC / 2026-05-05 06:00 AST
