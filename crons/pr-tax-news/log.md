@@ -5786,3 +5786,66 @@ Fuentes revisadas: 4 | Items: 0 | seen.txt: 135 IDs totales
 Próxima corrida: 06:00 AST
 ```
 
+
+## 2026-05-05 — CORRIDA #89 (06:00 AST)
+
+**Hora corrida:** 2026-05-05 10:00 UTC / 2026-05-05 06:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 135 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI hasta 26-07 (abr 20), BI RI hasta 26-03 (abr 20), DA — sin publicaciones nuevas post abr-20
+- IRS: IRB 2026-19 (may 4) — contiene tasas federales mayo 2026 y enmiendas propuestas a umbrales de información; sin contenido PR-específico confirmado
+- Tribunal Apelativo PR: sin decisiones tributarias en abr-may 2026
+- DDEC: OA 2026-002 (mar 11) ya en seen.txt y fuera de ventana 30 días
+- GAO-26-107225 (IRS oversight PR/Section 933): publicado dic 2025, fuera de ventana 30 días — DESCARTADO
+- OCIF: aviso de procedimiento administrativo (abr 14), no es materia contributiva — DESCARTADO
+- JSF/RC 06-2026: sin determinación oficial al 05-may-2026 06:00 AST
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-01–26-07 | Ya en seen.txt |
+| BI RI 26-01–26-03 | Ya en seen.txt |
+| IRS IRB 2026-19 | Sin contenido PR-específico |
+| GAO-26-107225 | Publicado dic-2025, >30 días |
+| DDEC OA 2026-002 | Ya en seen.txt, >30 días |
+| OCIF abr-14 | No es materia contributiva |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (27 días). Formulario SC 2745 rev. 27-mar-2026 sera el único aceptado. Formularios anteriores serán rechazados post-1-jun.
+- **[PENDIENTE] JSF/RC 06-2026 ($554M):** Deadline prometido (29-abr) ya pasado. Sin determinación oficial al 05-may-2026 06:00 AST.
+
+### Digest (no enviado — red sandbox):
+
+```
+PR Tax News Monitor — CPA Ricardo Aguirre
+Corrida #89 | 2026-05-05 06:00 AST
+
+[URGENTE] BI RI 26-03 — SC 2745 — 27 DIAS RESTANTES
+Deadline: 1 de junio 2026
+
+Sin novedades contributivas nuevas en esta corrida.
+Revision exhaustiva: Hacienda PR (CC RI hasta 26-07, BI RI hasta 26-03,
+DA, Comunicados), SURI, IRS IRB 2026-19, Tribunal Apelativo PR, DDEC, OCIF.
+Ninguna publicacion nueva con relevancia contributiva para PR.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 — 27 DIAS RESTANTES
+Nueva version del formulario SC 2745 (Poder y Declaracion de
+Representacion, rev. 27-mar-2026) sera la UNICA aceptada por Hacienda
+a partir del 1-jun-2026. Formularios anteriores seran rechazados.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[PENDIENTE] JSF/RC 06-2026 — Cheque de Alivio $554M
+Al 05-may-2026 (06:00 AST), JSF aun NO ha emitido determinacion oficial
+sobre RC 06-2026. Deadline prometido (29-abr) ya paso. Sin accion
+requerida por el contribuyente en este momento.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 135 IDs totales
+Proxima corrida: 10:00 AST
+```
+
