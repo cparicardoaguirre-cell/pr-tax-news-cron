@@ -5748,3 +5748,41 @@ Fuentes revisadas: 6 | Items: 0 | seen.txt: 135 IDs totales
 Proxima corrida: 10:00 AST (04-may-2026)
 ```
 
+
+## 2026-05-05 — CORRIDA #88 (10:00 PM AST)
+
+**Hora corrida:** 2026-05-05 02:07 UTC / 2026-05-04 22:07 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org no está en el allowlist del entorno (sandbox bloquea salidas a Telegram). Sin novedades; no se requería digest.
+**seen.txt:** 135 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI 26-07 (abr 20), BI RI 26-03 (abr 20), Comunicado ciclo contributivo (abr 21) — todos YA en seen.txt
+- IRS: Notice 2026-22 en IRB 2026-15 (abr 6), IRB 2026-16/17/18 sin contenido PR-específico
+- Tribunal Apelativo PR: sin decisiones tributarias en abr-may 2026
+- DDEC: OA 2026-002 (mar 11) fuera de ventana 30 días
+- OCIF: sin publicaciones contributivas relevantes
+
+### Items nuevos esta corrida:
+_Ninguno. Los 4 candidatos encontrados (CC RI 26-07, BI RI 26-03, Comunicado Hacienda abr-21, Notice 2026-22) ya estaban registrados en seen.txt._
+
+### Digest (mensaje que se habría enviado):
+
+```
+📋 PR Tax News Monitor — 2026-05-04 22:07 AST
+
+Sin novedades contributivas en esta corrida.
+Todas las publicaciones recientes de Hacienda PR e IRS-PR
+ya fueron reportadas en corridas anteriores.
+
+Fuentes revisadas:
+• Hacienda PR (CC, DA, BI, Comunicados)
+• IRS — Internal Revenue Bulletins 2026-15 al 2026-18
+• Tribunal Apelativo PR
+• DDEC / Act 60
+
+================================
+Fuentes revisadas: 4 | Items: 0 | seen.txt: 135 IDs totales
+Próxima corrida: 06:00 AST
+```
+
