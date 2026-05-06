@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #99 (06:00 AST)
+
+**Hora corrida:** 2026-05-07 10:00 UTC / 06:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI hasta 26-07 confirmado en seen.txt; CC RI 26-08 no encontrada (no publicada o no indexada)
+- **Hacienda PR — BI RI:** BI RI hasta 26-03 en seen.txt; BI RI 26-04 no encontrada
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no encontrada
+- **Hacienda PR — Comunicados:** Todos los comunicados previos ya en seen.txt; Microjuris abr-20 sobre formulario SC 2745 corresponde a BI RI 26-03 (ya en seen.txt)
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-19 (may-04) ya en seen.txt; IRB 2026-20 no publicado aún; IRS Notice 2026-20 (digital assets) — no aplica a PR → descartado (Regla 3)
+- **DDEC Act 60:** OA 2026-002/003 ya en seen.txt; sin nuevas órdenes
+- **Tribunal Apelativo PR:** Sin sentencias tributarias nuevas (may-2026)
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-02 al 26-07 | Ya en seen.txt |
+| BI RI 26-03 (y anteriores) | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| IRB 2026-19 | Ya en seen.txt |
+| IRS Notice 2026-20 (digital assets) | No aplica a PR — Regla 3 |
+| DDEC OA 2026-002/003 | Ya en seen.txt |
+| Microjuris abr-20 "formulario representación" | Corresponde a BI RI 26-03 (ya en seen.txt) |
+| Tribunal Apelativo — sentencias tributarias | Sin resultados verificables |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (25 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado desde junio 1. Versión 2016 inválida desde esa fecha.
+
+### Digest enviado:
+Sin novedades. Mensaje corto preparado (FALLO sandbox — Telegram 403).
+
+---
+
 ## 2026-05-06 — CORRIDA #98 (22:03 AST)
 
 **Hora corrida:** 2026-05-06 02:03 UTC / 22:03 AST
