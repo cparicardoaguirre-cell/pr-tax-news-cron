@@ -2,6 +2,77 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #100 (10:00 AST)
+
+**Hora corrida:** 2026-05-07 14:00 UTC / 10:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI hasta 26-07 en seen.txt; CC RI 26-08 no encontrada (no publicada)
+- **Hacienda PR — BI RI:** BI RI hasta 26-03 en seen.txt; BI RI 26-04 no encontrada
+- **Hacienda PR — DA:** DA hasta 26-01 en seen.txt; DA 26-02 no encontrada
+- **Hacienda PR — Comunicados:** Todos los de abril-mayo 2026 ya en seen.txt; sin nuevos comunicados desde may-06
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-18 y 2026-19 ya en seen.txt; IRB 2026-20 no publicado aún; sin Notices PR-específicos nuevos
+- **DDEC Act 60:** OA 2026-002 y 2026-003 ya en seen.txt; sin nuevas órdenes administrativas
+- **Tribunal Apelativo PR:** Sin sentencias tributarias nuevas (may-2026)
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-01 al 26-07 | Ya en seen.txt |
+| BI RI 26-01 al 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| Act 38-2026 (Grant Thornton alert) | Ya en seen.txt (ad204d1c) |
+| CC FP 1300-21-26 (ene-16-2026) | No en seen.txt pero >30 días — descartado |
+| Procopio Act 38-2026 article | No en seen.txt pero >30 días — descartado |
+| IRB 2026-15, 2026-18, 2026-19 | Ya en seen.txt |
+| IRB 2026-20 | No publicado aún |
+| DDEC OA 2026-002 | Ya en seen.txt (>30 días) |
+| DDEC guías fondos capital privado (mar-24) | Ya en seen.txt (d1ddd10e) |
+| DDEC fiscalización decretos | Ya en seen.txt |
+| Comunicados reintegros y cierre ciclo | Ya en seen.txt |
+| Tribunal Apelativo — sentencias tributarias | Sin resultados verificables |
+| OCIF abr-14 | No es materia contributiva — descartado |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (25 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado por Hacienda desde junio 1. Formularios anteriores serán rechazados.
+- **RC 06-2026 ($554M):** Ley firmada en febrero 2026. Pagos en distribución a partir de mayo 2026 para contribuyentes con ingresos ≤$150,000 que radicaron planilla ACS 2025. Sin acción adicional requerida.
+
+### Digest preparado (no enviado — red sandbox):
+```
+PR Tax News Monitor - CPA Ricardo Aguirre
+Corrida #100 | 2026-05-07 10:00 AST
+
+Sin novedades contributivas nuevas en esta corrida.
+Revision exhaustiva: Hacienda PR (CC RI 26-01–26-07, BI RI 26-01–26-03,
+DA 26-01, Comunicados), SURI, IRS (IRBs 2026-01 al 2026-19), Tribunal
+Apelativo PR, DDEC, OCIF. Ninguna publicacion nueva sin procesar.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 - SC 2745 - 25 DIAS RESTANTES
+Deadline: 1 de junio de 2026
+A partir del 1-jun-2026, Hacienda aceptara UNICAMENTE el formulario
+SC 2745 con fecha de revision 27-mar-2026 (Poder y Declaracion de
+Representacion). Formularios anteriores seran rechazados.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+RC 06-2026 - Cheque de Alivio Contributivo ($554M)
+Ley firmada en febrero 2026. Pagos en distribucion a partir de
+mayo 2026. Contribuyentes con ingresos <=150,000 que radicaron
+planilla ano contributivo 2025. Accion requerida: ninguna adicional.
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-06 — CORRIDA #95 (10:09 AST)
 
 **Hora corrida:** 2026-05-06 14:09 UTC / 10:09 AST
