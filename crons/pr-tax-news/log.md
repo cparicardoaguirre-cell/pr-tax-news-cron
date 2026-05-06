@@ -2,6 +2,69 @@
 
 ---
 
+## 2026-05-06 — CORRIDA #95 (10:09 AST)
+
+**Hora corrida:** 2026-05-06 14:09 UTC / 10:09 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI hasta 26-07 en seen.txt; CC RI 26-08 no encontrada (no publicada)
+- **Hacienda PR — BI RI:** BI RI hasta 26-03 en seen.txt; BI RI 26-04 no encontrada
+- **Hacienda PR — DA:** DA hasta 26-01 en seen.txt; DA 26-02 no encontrada
+- **Hacienda PR — Comunicados:** Todos los de abril-mayo 2026 ya en seen.txt; sin nuevos desde may-05
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-18 y 2026-19 ya en seen.txt; IRB 2026-20 no publicado; sin contenido PR-específico nuevo
+- **DDEC Act 60:** OA 2026-002 ya en seen.txt; sin nuevas órdenes
+- **Tribunal Apelativo PR:** Caso TA2026CE00487 (Sagardía) ya en seen.txt; sin sentencias nuevas
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-01 al 26-07 | Ya en seen.txt |
+| BI RI 26-01 al 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| Comunicado "Cierra ciclo contributivo" | Ya en seen.txt (b18ef078) |
+| IRB 2026-18 y 2026-19 | Ya en seen.txt |
+| IRS IRB 2026-18 (tips income) | Sin contenido PR-específico — Regla 3 |
+| IRS IRB 2026-19 (fed rates may-2026) | Sin contenido PR-específico — Regla 3 |
+| DDEC OA 2026-002 | Ya en seen.txt |
+| Tribunal Apelativo Sagardía (7b7b5d61) | Ya en seen.txt |
+| JSF/RC 06-2026 artículos (3 URLs) | Ya en seen.txt |
+| El Nuevo Día "en veremos" (f8bdf8b4) | Ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (26 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado por Hacienda desde junio 1. Formularios anteriores rechazados.
+- **[PENDIENTE] JSF/RC 06-2026 ($554M):** Al 06-may-2026 (10:09 AST), JSF aún NO ha emitido determinación formal. Gobierno afirma "dentro del calendario" (Metro, 30-abr). Pagos estimados inicio junio si JSF aprueba. Sin acción requerida por el contribuyente.
+
+### Digest preparado (no enviado — red sandbox):
+```
+PR Tax News Monitor — CPA Ricardo Aguirre
+Corrida #95 | 2026-05-06 10:09 AST
+
+Sin novedades contributivas nuevas en esta corrida.
+Revision: Hacienda PR (CC RI 26-01–26-07, BI RI 26-01–26-03, DA, Comunicados),
+SURI, IRS IRB 2026-18/19, Tribunal Apelativo PR, DDEC, OCIF.
+Ninguna publicacion nueva sin procesar.
+
+[URGENTE] BI RI 26-03 — SC 2745 — 26 DIAS RESTANTES
+Deadline: 1 de junio 2026
+SC 2745 (rev. 27-mar-2026) = unica version valida desde jun-1.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[PENDIENTE] JSF/RC 06-2026 — Cheque Alivio $554M
+JSF sin determinacion formal al 06-may-2026.
+Gobierno: "dentro del calendario." Pagos: inicio junio si aprueba.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-07 — CORRIDA #99 (06:00 AST)
 
 **Hora corrida:** 2026-05-07 10:00 UTC / 06:00 AST
