@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-05-06 — CORRIDA #98 (22:03 AST)
+
+**Hora corrida:** 2026-05-06 02:03 UTC / 22:03 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-02 al 26-07 confirmados en seen.txt; CC RI 26-08 no encontrada; CC FP 1300-28-26 ya en seen.txt (enero 2026)
+- **Hacienda PR — BI RI / DA:** BI RI 26-01 al 26-03, DA 26-01 — todos ya en seen.txt; BI RI 26-04 y DA 26-02 no encontradas
+- **Hacienda PR — Comunicados:** "Cierra ciclo contributivo" (apr-15), reintegros múltiples, "alivio contributivo cheque" (ene-30) — todos ya en seen.txt o >30 días
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-19 (may-04) ya en seen.txt; IRB 2026-20 no publicado aún; sin contenido PR-específico nuevo en IRB 2026-15 al 2026-19
+- **DDEC Act 60:** OA 2026-002 (mar-11) y 2026-003 ya en seen.txt; "Registro Profesional Certificado" — URL 403, sin núm. oficial, probable >30 días → descartado (Regla 1)
+- **Tribunal Apelativo PR:** Sin sentencias tributarias nuevas (abr-may 2026)
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-02 al 26-07 | Ya en seen.txt |
+| CC FP 1300-28-26 | Ya en seen.txt (enero 2026) |
+| BI RI 26-01 al 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| Comunicado "Cierra ciclo contributivo" (abr-15) | Ya en seen.txt |
+| Comunicados reintegros (múltiples) | Ya en seen.txt |
+| Comunicado "Alivio contributivo cheque" (ene-30) | Ya en seen.txt / >30 días |
+| IRB 2026-19 (may-04) | Ya en seen.txt |
+| IRB 2026-20 | No publicado aún |
+| DDEC OA 2026-002 y 2026-003 | Ya en seen.txt |
+| DDEC Registro Profesional Certificado | URL retorna 403, sin núm. oficial → Regla 1 |
+| Tribunal Apelativo — sentencias tributarias | Sin resultados verificables |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (26 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado desde junio 1. Formularios anteriores rechazados.
+
+### Corridas sin log (estimado #91–#97, may-05 3pm a may-06 6pm):
+Push/commit probablemente falló en corridas anteriores desde #90. seen.txt local tiene 136 IDs (log de #90 decía 135 — una ID fue añadida pero commit no se registró en log).
+
+### Digest enviado:
+Sin novedades. Mensaje corto preparado (FALLO sandbox — Telegram 403).
+
+---
+
 ## 2026-05-05 — CORRIDA #90 (10:02 AST)
 
 **Hora corrida:** 2026-05-05 14:02 UTC / 10:02 AST
