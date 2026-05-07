@@ -2,6 +2,74 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #105 (15:07 AST)
+
+**Hora corrida:** 2026-05-07 19:07 UTC / 15:07 AST
+**Items nuevos:** 0 publicaciones oficiales nuevas
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-01 al 26-07 en seen.txt; CC RI 26-08 no publicada
+- **Hacienda PR — BI RI:** BI RI 26-01 al 26-03 en seen.txt; BI RI 26-04 no publicada
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no publicada
+- **Hacienda PR — Comunicados:** Sin comunicados nuevos publicados hoy
+- **SURI:** Sin avisos nuevos indexados (acceso 403)
+- **IRS-PR:** IRB 2026-19 (may-04) ya en seen.txt; IRB 2026-20 no publicado aún
+- **DDEC Act 60:** OA 2026-002/003 ya en seen.txt; sin nuevas órdenes administrativas
+- **Tribunal Apelativo PR:** Sin sentencias tributarias nuevas
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-01 al 26-07 | Ya en seen.txt |
+| BI RI 26-01 al 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| IRB 2026-15 al 2026-19 | Ya en seen.txt |
+| DDEC OA 2026-002/003 | Ya en seen.txt |
+| Comunicados de prensa Hacienda | Ya en seen.txt |
+| Metro PR / Noticel — JSF approval | Medios de comunicación, no publicación oficial; seguimiento activo actualizado |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (25 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado. Formularios anteriores rechazados post-1-jun.
+- **[ACTUALIZACION HOY] JSF/RC 06-2026 — Cheque Alivio $554M:** La JSF/FOMB otorgó el visto bueno el 7-may-2026 (Metro PR, AAFAF). Pagos estimados en 4-5 semanas (~segunda semana junio 2026). Pendiente comunicado oficial de Hacienda con cronograma de distribución.
+
+### Digest (no enviado — red sandbox):
+```
+PR Tax News Monitor — CPA Ricardo Aguirre
+Corrida #105 | 2026-05-07 15:07 AST
+
+Sin publicaciones oficiales nuevas en esta corrida.
+Revision: Hacienda PR (CC RI hasta 26-07, BI RI hasta 26-03, DA 26-01,
+Comunicados), IRS IRBs hasta 2026-19, DDEC, Tribunal Apelativo, OCIF.
+Ninguna publicacion nueva con numero oficial detectada.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 — 25 DIAS RESTANTES
+Deadline: 1 de junio de 2026
+A partir del 1-jun-2026 Hacienda solo aceptara SC 2745 rev. 27-mar-2026.
+Formularios anteriores seran rechazados. Accion requerida: actualizar
+version del SC 2745 en todos los tramites de representacion.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[ACTUALIZACION HOY] JSF/RC 06-2026 — Cheque Alivio Contributivo $554M
+La JSF/FOMB otorgo el visto bueno al incentivo contributivo el
+7-may-2026. Esto despeja el camino para la distribucion de $554M
+bajo la Resolucion Conjunta 06-2026. Beneficiarios: ~700,000
+contribuyentes con ingreso neto <= $150,000 que radicaron AY2025.
+Estimado inicio distribucion: 4-5 semanas (~jun 2026).
+PENDIENTE: Comunicado oficial de Hacienda con cronograma exacto.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 18:00 AST
+================================
+```
+
+---
+
 ## 2026-05-07 — CORRIDA #104 (10:09 AST)
 
 **Hora corrida:** 2026-05-07 14:09 UTC / 10:09 AST
