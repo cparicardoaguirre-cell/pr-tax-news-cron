@@ -2,6 +2,75 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #103 (06:12 AST)
+
+**Hora corrida:** 2026-05-07 10:12 UTC / 06:12 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-01 al 26-07 confirmados en seen.txt; CC RI 26-08 no encontrada (no publicada)
+- **Hacienda PR — BI RI:** BI RI 26-01 al 26-03 en seen.txt; BI RI 26-04 no encontrada
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no encontrada
+- **Hacienda PR — Comunicados:** Todos los comunicados de abril-mayo 2026 ya en seen.txt
+- **SURI:** Sin avisos nuevos indexados (acceso bloqueado)
+- **IRS-PR:** IRB 2026-19 (may-04) ya en seen.txt; IRB 2026-20 no publicado aún; sin Notices PR-específicos nuevos
+- **DDEC Act 60:** OA 2026-002/003 ya en seen.txt; sin nuevas órdenes administrativas
+- **Tribunal Apelativo PR:** Caso Sagardía (04/24) ya en seen.txt; sin sentencias tributarias nuevas
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-02 al 26-07 | Ya en seen.txt |
+| BI RI 26-01 al 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| IRB 2026-15 al 2026-19 | Ya en seen.txt |
+| IRB 2026-20 | No publicado aún (~11-may-2026) |
+| Notice 2026-22 (poblacion PR) | Ya en seen.txt |
+| DDEC OA 2026-002/003 | Ya en seen.txt |
+| Ley 39-2026 | Electoral (no contributivo) — descartado |
+| Ley 38-2026 (Act 60) | >30 dias (21-mar-2026) — descartado |
+| Reforma Contributiva PS 912 | En evaluacion legislativa — no ley aun |
+| Sagardía / Tribunal Apelativo | Ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (25 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado por Hacienda desde junio 1.
+- **PS 912 Reforma Contributiva:** Reduccion tasas individuales (0%-33%), en evaluacion publica en Senado. Pendiente aprobacion final.
+
+### Digest preparado (no enviado — red sandbox):
+```
+PR Tax News Monitor - CPA Ricardo Aguirre
+Corrida #103 | 2026-05-07 06:12 AST
+
+Sin novedades contributivas nuevas en esta corrida.
+Revision exhaustiva: Hacienda PR (CC RI 26-01 al 26-07, BI RI 26-01 al
+26-03, DA 26-01, Comunicados abril-mayo 2026), SURI, IRS (IRBs 2026-01
+al 2026-19, Notice 2026-22), DDEC (OA 2026-002/003), Tribunal Apelativo
+PR, OCIF. Ninguna publicacion nueva sin procesar.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 - SC 2745 - 25 DIAS RESTANTES
+Deadline: 1 de junio de 2026
+A partir del 1-jun-2026, Hacienda aceptara UNICAMENTE el formulario
+SC 2745 (revision 27-mar-2026). Formularios anteriores seran rechazados.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+PS 912 - Reforma Contributiva 2da Fase - EN EVALUACION
+El Senado continua vistas publicas sobre PS 912 que propone:
+0% hasta $12,500 | 6% hasta $25,000 | 12% hasta $50,000 |
+24% hasta $100,000 | 29% hasta $150,000 | 33% sobre $150,000
+No aprobado aun. Se monitoreara en proximas corridas.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 10:00 AST
+```
+
+---
+
 ## 2026-05-07 — CORRIDA #102 (10:00 AST)
 
 **Hora corrida:** 2026-05-07 14:00 UTC / 10:00 AST
