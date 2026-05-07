@@ -2,6 +2,81 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #102 (10:00 AST)
+
+**Hora corrida:** 2026-05-07 14:00 UTC / 10:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-01 al 26-07 confirmados en seen.txt; CC RI 26-08 no encontrada (no publicada)
+- **Hacienda PR — BI RI:** BI RI 26-01 al 26-03 en seen.txt; BI RI 26-04 no encontrada
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no encontrada
+- **Hacienda PR — Comunicados:** Todos los comunicados de abril-mayo 2026 ya en seen.txt; sin nuevos desde may-06
+- **SURI:** Sin avisos nuevos indexados (403 en suri.hacienda.pr.gov)
+- **IRS-PR:** IRB 2026-19 (may-4-2026) ya en seen.txt; IRB 2026-20 no publicado aún; Notice 2026-22 ya en seen.txt; RP 2026-12 ya en seen.txt; OBBBA QOZ guidance PR ya en seen.txt; sin Notices PR-específicos nuevos
+- **DDEC Act 60:** OA 2026-002 y CC DDEC 2026-003 ya en seen.txt; sin nuevas órdenes administrativas
+- **Tribunal Apelativo PR:** Caso TA2026CE00487 (Sagardía) ya en seen.txt; sin sentencias tributarias nuevas
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-01 al 26-07 | Ya en seen.txt |
+| BI RI 26-01 al 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| CF 1300-28-26 | Ya en seen.txt |
+| IRS IRB 2026-01 | >30 días (dic-2025) — descartado |
+| IRS IRB 2026-15 al 2026-19 | Ya en seen.txt |
+| IRB 2026-20 | No publicado aún |
+| Notice 2026-22 (pob. PR) | Ya en seen.txt |
+| Notice 2026-23 (Priority Guidance) | No menciona PR específicamente — Regla 3 |
+| RP 2026-12 (QOZ-PR OBBBA) | Ya en seen.txt |
+| OBBBA IRS provisions page | Sin contenido PR exclusivo — Regla 3 |
+| DDEC OA 2026-002 / CC 2026-003 | Ya en seen.txt |
+| DDEC "acelera procesos" (dfb7a82e) | 403 sin contenido verificable — descartado |
+| Leyes 177/178/179-2025 | >30 días (dic-19-2025) — descartado |
+| El Vocero — cuentas retiro | 403 sin contenido verificable — descartado |
+| Tribunal Apelativo Sagardía | Ya en seen.txt |
+| SURI URLs | 403 sin contenido verificable — descartado |
+| Pension Policy Intl article | 403 sin contenido verificable — descartado |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (25 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado por Hacienda desde junio 1. Formularios anteriores serán rechazados.
+- **RC 06-2026 ($554M):** Pagos en distribución a partir de mayo 2026 para contribuyentes con ingresos ≤$150,000 que radicaron planilla 2025. Sin acción adicional requerida.
+
+### Digest preparado (no enviado — red sandbox):
+```
+PR Tax News Monitor - CPA Ricardo Aguirre
+Corrida #102 | 2026-05-07 10:00 AST
+
+Sin novedades contributivas nuevas en esta corrida.
+Revision exhaustiva: Hacienda PR (CC RI 26-01 al 26-07, BI RI 26-01 al
+26-03, DA 26-01, Comunicados abril-mayo 2026), SURI, IRS (IRBs 2026-01
+al 2026-19, Notice 2026-22, RP 2026-12), DDEC, Tribunal Apelativo PR,
+OCIF. Ninguna publicacion nueva sin procesar.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 - SC 2745 - 25 DIAS RESTANTES
+Deadline: 1 de junio de 2026
+A partir del 1-jun-2026, Hacienda aceptara UNICAMENTE el formulario
+SC 2745 (revision 27-mar-2026). Formularios anteriores seran rechazados.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+RC 06-2026 - Cheque de Alivio Contributivo ($554M)
+Ley firmada en febrero 2026. Pagos en distribucion a partir de
+mayo 2026 para contribuyentes con ingresos <=150,000 que radicaron
+planilla ano contributivo 2025. Sin accion adicional requerida.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-06 — CORRIDA #101 (18:08 AST)
 
 **Hora corrida:** 2026-05-06 22:08 UTC / 18:08 AST
