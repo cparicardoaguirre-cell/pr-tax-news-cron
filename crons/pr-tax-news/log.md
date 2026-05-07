@@ -2,6 +2,65 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #106 (18:10 AST)
+
+**Hora corrida:** 2026-05-07 22:10 UTC / 18:10 AST
+**Items nuevos:** 0 publicaciones oficiales nuevas
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** Hasta 26-07 en seen.txt; CC RI 26-08 no publicada aún
+- **Hacienda PR — BI RI:** Hasta 26-03 en seen.txt; BI RI 26-04 no publicada aún
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no publicada aún
+- **Hacienda PR — Comunicados:** Sin comunicados nuevos (cierre ciclo y alivio ya en seen.txt)
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-19 ya en seen.txt; IRB 2026-20 no publicado aún; sin Notices/Announcements PR-relevantes nuevos
+- **DDEC Act 60:** OA 2026-002/003 ya en seen.txt; sin nuevas órdenes administrativas
+- **Tribunal Apelativo PR:** Sagardía TA2026CE00487 ya en seen.txt; sin nuevas sentencias tributarias
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|----------------|
+| Hacienda — cierre ciclo contributivo 1.2M planillas | b18ef078d5cae33f | Ya en seen.txt |
+| Hacienda — Gobernadora envía alivio a Legislatura | b5f8212d8f3e4c42 | Ya en seen.txt |
+| Hacienda — CC FP 1300-28-26 | 26344408c3f0d6cf | Ya en seen.txt |
+| Hacienda — reintegros $200M / $270M / $156M / $144M | varios | Ya en seen.txt |
+| Tribunal Apelativo — Sagardía TA2026CE00487 | d55244c1c12b5902 | Ya en seen.txt |
+| DDEC — guías fondos capital privado Ley 60 (mar-2026) | d1ddd10ef194ea50 | Ya en seen.txt |
+| Metro PR — JSF respalda alivio $554M (7-may-2026) | N/A | Medio de comunicación, no publicación oficial |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (25 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado. Formularios anteriores rechazados post-1-jun.
+- **[ACTUALIZACION HOY] JSF/RC 06-2026 — Cheque Alivio $554M:** La JSF otorgó visto bueno el 7-may-2026 (Metro PR, AAFAF). Pagos estimados en 4-5 semanas (~segunda semana junio 2026). Pendiente comunicado oficial de Hacienda con cronograma de distribución.
+
+### Digest (no enviado — red sandbox):
+```
+PR Tax News Monitor — CPA Ricardo Aguirre
+Corrida #106 | 2026-05-07 18:10 AST
+
+Sin publicaciones oficiales nuevas en esta corrida.
+Revision: Hacienda PR (CC RI, BI RI, DA, Comunicados), IRS IRBs,
+DDEC, Tribunal Apelativo, SURI, OCIF.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 — 25 DIAS RESTANTES
+Deadline: 1-jun-2026. Solo se acepta SC 2745 rev. 27-mar-2026.
+Formularios anteriores rechazados post-1-jun.
+
+[ACTUALIZACION HOY] JSF/RC 06-2026 — Cheque Alivio $554M
+JSF dio visto bueno hoy 7-may-2026. Pagos en ~4-5 semanas
+(~segunda semana junio). Pendiente comunicado oficial Hacienda.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-05-07 — CORRIDA #105 (15:07 AST)
 
 **Hora corrida:** 2026-05-07 19:07 UTC / 15:07 AST
