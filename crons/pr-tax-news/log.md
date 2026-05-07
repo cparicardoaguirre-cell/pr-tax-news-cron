@@ -2,6 +2,58 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #104 (10:09 AST)
+
+**Hora corrida:** 2026-05-07 14:09 UTC / 10:09 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-01 al 26-07 confirmados en seen.txt; CC RI 26-08 no encontrada (no publicada)
+- **Hacienda PR — BI RI:** BI RI 26-01 al 26-03 en seen.txt; BI RI 26-04 no encontrada
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no encontrada
+- **Hacienda PR — Comunicados:** Todos los comunicados de abril-mayo 2026 ya en seen.txt; sin nuevos comunicados publicados hoy
+- **SURI:** Sin avisos nuevos indexados (acceso 403)
+- **IRS-PR:** IRB 2026-19 (may-04) ya en seen.txt; IRB 2026-20 no publicado aún; sin Notices PR-específicos nuevos
+- **DDEC Act 60:** OA 2026-002 ya en seen.txt; sin nuevas órdenes administrativas
+- **Tribunal Apelativo PR:** Sin sentencias tributarias nuevas indexadas
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-01 al 26-07 | Ya en seen.txt |
+| BI RI 26-01 al 26-03 | Ya en seen.txt |
+| DA 26-01 | Ya en seen.txt |
+| IRB 2026-15 al 2026-19 | Ya en seen.txt |
+| IRB 2026-19 (PDF) | Mismo contenido que HTML ya visto |
+| GAO-26-107225 | Ya en seen.txt |
+| DDEC OA 2026-002 | Ya en seen.txt |
+| Reforma Contributiva PS 912 | En evaluación legislativa — no ley aún |
+| Comunicados de prensa (8 URLs) | Ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (25 días). Formulario SC 2745 rev. 27-mar-2026 será el único aceptado desde junio 1.
+- **PS 912 Reforma Contributiva:** Reducción tasas individuales (0%-33%), en vistas públicas en Senado. Pendiente aprobación.
+
+### Digest (no enviado — red sandbox):
+```
+PR Tax News Monitor - CPA Ricardo Aguirre
+Corrida #104 | 2026-05-07 10:09 AST
+
+Sin novedades contributivas nuevas en esta corrida.
+Revision exhaustiva: Hacienda PR (CC/BI/DA/Comunicados), IRS-PR (IRBs,
+Notices), DDEC, Tribunal Apelativo, GAO. Todos los candidatos ya
+procesados en corridas anteriores (136 IDs en seen.txt).
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-07 — CORRIDA #103 (06:12 AST)
 
 **Hora corrida:** 2026-05-07 10:12 UTC / 06:12 AST
