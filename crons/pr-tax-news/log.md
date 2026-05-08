@@ -2,6 +2,87 @@
 
 ---
 
+## 2026-05-08 — CORRIDA #109 (10:06 AST)
+
+**Hora corrida:** 2026-05-08 14:06 UTC / 10:06 AST
+**Items nuevos:** 0 publicaciones oficiales nuevas (1 actualización de seguimiento)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 141 IDs totales (+5 IDs esta corrida: JSF aprobación art. medios + CC RI 26-01 URL web)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-07 (20-abr-2026) más reciente; CC RI 26-08 no publicada aún
+- **Hacienda PR — BI RI:** BI RI 26-03 (20-abr-2026) más reciente; BI RI 26-04 no publicada aún
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no publicada
+- **Hacienda PR — Comunicados:** Todos los comunicados indexados ya en seen.txt; hacienda.pr.gov retorna 403 en fetches directos
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-19 ya en seen.txt; IRB 2026-20 no publicado (esperado ~12-may-2026); IRBs 2026-17/18 sin contenido PR-específico confirmado
+- **DDEC Act 60:** OA 2026-002 ya en seen.txt; sin nuevas órdenes
+- **Tribunal Apelativo PR:** Caso Sagardía (político, no tributario); sin nuevas sentencias contributivas puras
+- **OCIF:** Sin publicaciones contributivas
+
+### Actualización de seguimiento — NOVEDAD 7-may-2026:
+**JSF aprueba RC 06-2026 "Cheque para Ti" — $554M**
+La Junta de Supervisión Fiscal respaldó el 7-may-2026 el alivio contributivo único de la RC 06-2026. Desembolso: antes del 31-may-2026. ~690,000 contribuyentes con ingresos ≤$150,000 (ATE 2025). Fuente verificada: Metro PR / El Nuevo Día (7-may-2026). Comunicado oficial de Hacienda pendiente de indexación. IDs añadidos a seen.txt: a186d5c53bd1d727, e6a1b133c1fced25, 1881617b9ec823d9, dc3d64caf5b26d65.
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|----------------|
+| CC RI 26-01 (web URL) | 05be7281a3ebff41 | Mismo doc que PDF ID 2ad378cf62694f1e ya en seen.txt |
+| CC RI 26-02 a 26-07 | varios | Ya en seen.txt |
+| BI RI 26-01 a 26-03 | varios | Ya en seen.txt |
+| DA 26-01 | 18470ab3236f82d5 | Ya en seen.txt |
+| IRB 2026-15 a 2026-19 | varios | Ya en seen.txt |
+| IRB 2026-20 | 07c101a18876f0e9 | No publicado aún (~12-may-2026) |
+| DDEC OA 2026-002 | d1ddd10ef194ea50 | Ya en seen.txt |
+| GAO-26-107225 | b2b44d1f88e880f3 | Ya en seen.txt |
+| OCIF aviso abr-14 | — | No es materia contributiva |
+| Tribunal Sagardía | — | Caso político/constitucional, no tributario puro |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (24 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[INMINENTE] RC 06-2026 — Cheque Alivio $554M:** JSF aprobó 7-may-2026. Desembolso automático antes fin de mayo. Pendiente comunicado oficial de Hacienda con cronograma exacto.
+
+### Digest preparado (no enviado — red sandbox):
+```
+PR Tax News Monitor — CPA Ricardo Aguirre
+Corrida #109 | 2026-05-08 10:06 AST
+
+--- ACTUALIZACION DE SEGUIMIENTO ---
+
+[RC 06-2026 — APROBADO] JSF respalda "Cheque para Ti" — $554M
+Fecha: 2026-05-07
+La Junta de Supervision Fiscal respaldo el 7 de mayo de 2026 el alivio
+contributivo unico autorizado por la RC 06-2026. Los cheques comenzaran
+a emitirse antes del fin de mayo 2026 a aprox. 690,000 contribuyentes
+con ingresos netos tributables de $150,000 o menos (ano contributivo
+2025). El desembolso se financia con fondos no recurrentes de la Ley
+52-2022. El Gobierno tambien anuncio legislacion para un Fondo de
+Estabilizacion Presupuestaria de $729M para AF 2027.
+Nota: Pendiente comunicado oficial de Hacienda. Fuente verificada:
+Metro PR / El Nuevo Dia (7-mayo-2026).
+URL ref: https://www.metro.pr/noticias/2026/05/07/jsf-respalda-alivio-contributivo-de-554-millones-y-nuevas-reservas-fiscales
+---
+
+--- PUBLICACIONES OFICIALES NUEVAS ---
+Ninguna. No se encontraron CC, DA, BI, IRS Notice u otras publicaciones
+contributivas nuevas desde la corrida #108 (2026-05-08 06:06 AST).
+
+--- URGENTE — RECORDATORIO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — Formulario SC 2745 — 24 DIAS RESTANTES
+Deadline: 1 de junio 2026
+La nueva version del formulario SC 2745 "Poder y Declaracion de
+Representacion" (rev. 27-mar-2026) sera la UNICA version aceptada por
+Hacienda a partir del 1-jun-2026. Versiones anteriores seran rechazadas.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+================================
+Fuentes revisadas: 6 | Items: 0 nuevos (1 actualizacion) | seen.txt: 141 IDs
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-08 — CORRIDA #108 (06:06 AST)
 
 **Hora corrida:** 2026-05-08 10:06 UTC / 06:06 AST
