@@ -2,6 +2,66 @@
 
 ---
 
+## 2026-05-07 — CORRIDA #107 (22:04 AST)
+
+**Hora corrida:** 2026-05-08 02:04 UTC / 2026-05-07 22:04 AST
+**Items nuevos:** 0 publicaciones oficiales nuevas
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-07 (más reciente en seen.txt); CC RI 26-08 no publicada aún
+- **Hacienda PR — BI RI:** BI RI 26-03 en seen.txt; BI RI 26-04 no publicada aún
+- **Hacienda PR — Comunicados:** "continua-avanzando-en-el-envio-de-reintegros" — descartado (fecha no verificable, posiblemente >30 días)
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-19 (4-may-2026) ya en seen.txt; IRB 2026-20 no publicado aún; sin Notices PR-relevantes nuevos
+- **DDEC Act 60:** OA 2026-002 ya en seen.txt; Ley 38-2026 ya en seen.txt
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados:
+| Item | ID | Razón descarte |
+|------|----|----------------|
+| CC RI 26-07 (20-abr-2026) | d93bc80580f7b2d4 | Ya en seen.txt |
+| IRB 2026-19 (4-may-2026) | df544114d10dc0e0 | Ya en seen.txt |
+| IRB 2026-15 (6-abr-2026) | db227ba305f789da | Ya en seen.txt |
+| DDEC OA 2026-002 (microjuris) | d1ddd10ef194ea50 | Ya en seen.txt |
+| DLA Piper — Act 38-2026 | 1c2c5893806d2a64 | Ya en seen.txt |
+| MZLS — Act 38-2026 | 6b6b61c0d78e06ca | Ya en seen.txt |
+| Comunicado "continua avanzando" | 5db5a39520f43066 | Fecha ambigua (no verificable) — descartado per reglas |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (24 días). Solo se acepta SC 2745 rev. 27-mar-2026. Formularios anteriores rechazados post-1-jun.
+- **[INMINENTE] RC 06-2026 — Cheque Alivio $554M:** JSF aprobó el 7-may-2026. Pagos automáticos antes del fin de mayo 2026 (~$800 por contribuyente elegible). Pendiente comunicado oficial de Hacienda con cronograma específico.
+
+### Digest preparado (no enviado — red sandbox):
+```
+Monitor Contributivo PR — CPA Ricardo Aguirre
+Corrida #107 | 2026-05-07 22:04 AST
+
+Sin publicaciones oficiales nuevas en esta corrida.
+Revision: Hacienda PR (CC RI, BI RI, DA, Comunicados), IRS IRBs,
+DDEC, Tribunal Apelativo, SURI, OCIF.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 — 24 DIAS RESTANTES
+Deadline: 1-jun-2026. Solo se acepta SC 2745 rev. 27-mar-2026.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[INMINENTE] RC 06-2026 — Cheque Alivio $554M
+JSF dio visto bueno el 7-may-2026. Desembolso antes fin de mayo 2026.
+~690,000 contribuyentes elegibles (ingreso neto ≤$150,000, 2025).
+Pago automatico por deposito directo (SURI) o correo postal.
+Pendiente comunicado oficial de Hacienda con cronograma.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 06:00 AST — Vie 8 mayo 2026
+```
+
+---
+
 ## 2026-05-07 — CORRIDA #106 (18:10 AST)
 
 **Hora corrida:** 2026-05-07 22:10 UTC / 18:10 AST
