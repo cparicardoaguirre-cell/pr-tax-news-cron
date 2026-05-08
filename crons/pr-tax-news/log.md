@@ -2,6 +2,72 @@
 
 ---
 
+## 2026-05-08 — CORRIDA #108 (06:06 AST)
+
+**Hora corrida:** 2026-05-08 10:06 UTC / 06:06 AST
+**Items nuevos:** 0 publicaciones oficiales nuevas
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 136 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- **Hacienda PR — CC RI:** CC RI 26-07 (20-abr-2026) más reciente en seen.txt; CC RI 26-08 no publicada aún
+- **Hacienda PR — BI RI:** BI RI 26-03 (20-abr-2026) en seen.txt; BI RI 26-04 no publicada aún
+- **Hacienda PR — DA:** DA 26-01 en seen.txt; DA 26-02 no publicada aún
+- **Hacienda PR — Comunicados:** Todos los comunicados indexados ya en seen.txt
+- **SURI:** Sin avisos nuevos indexados
+- **IRS-PR:** IRB 2026-19 (4-may-2026) ya en seen.txt; IRB 2026-20 (bulletin) no publicado aún (esperado ~12-may)
+- **DDEC Act 60:** OA 2026-002 ya en seen.txt; sin nuevas órdenes administrativas
+- **Tribunal Apelativo PR:** Sin nuevas sentencias tributarias
+- **OCIF:** Sin publicaciones contributivas
+
+### Candidatos evaluados:
+| Item | ID | Razón descarte |
+|------|----|----------------|
+| IRB 2026-18 | 4e6917a0ab453974 | Ya en seen.txt |
+| IRB 2026-19 (4-may-2026) | df544114d10dc0e0 | Ya en seen.txt |
+| Comunicado "144M reintegros" | d0c51ec9f8b1653f | Ya en seen.txt |
+| Comunicado "200M reintegros" | aa982e965c190e67 | Ya en seen.txt |
+| Comunicado "cierre ciclo" | b18ef078d5cae33f | Ya en seen.txt |
+| CC FP 1300-28-26 | 26344408c3f0d6cf | Ya en seen.txt |
+| CC RI 26-08 (URL anticipada) | 70167f7182155f94 | No publicada — no encontrada en búsquedas |
+| BI RI 26-04 (URL anticipada) | 968f420c033b47cf | No publicada — no encontrada en búsquedas |
+| DA 26-02 (URL anticipada) | 2c3a6dd53f4d791a | No publicada — no encontrada en búsquedas |
+| IRB 2026-20 (bulletin anticipado) | 07c101a18876f0e9 | No publicado — no encontrado en búsquedas |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (24 días). Solo se acepta SC 2745 rev. 27-mar-2026. Formularios anteriores rechazados post-1-jun.
+- **[INMINENTE] RC 06-2026 — Cheque Alivio $554M:** JSF aprobó el 7-may-2026. Pagos automáticos antes del fin de mayo 2026 (~$800 por contribuyente elegible). Pendiente comunicado oficial de Hacienda con cronograma específico.
+
+### Digest preparado (no enviado — red sandbox):
+```
+Monitor Contributivo PR — CPA Ricardo Aguirre
+Corrida #108 | 2026-05-08 06:06 AST
+
+Sin publicaciones oficiales nuevas en esta corrida.
+Revision: Hacienda PR (CC RI, BI RI, DA, Comunicados), IRS IRBs,
+DDEC, Tribunal Apelativo, SURI, OCIF.
+
+--- SEGUIMIENTO ACTIVO ---
+
+[URGENTE] BI RI 26-03 — SC 2745 — 24 DIAS RESTANTES
+Deadline: 1-jun-2026. Solo se acepta SC 2745 rev. 27-mar-2026.
+Formularios anteriores rechazados post-1-jun-2026.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[INMINENTE] RC 06-2026 — Cheque Alivio $554M
+JSF dio visto bueno el 7-may-2026. Desembolso antes fin de mayo 2026.
+~690,000 contribuyentes elegibles (ingreso neto <=150,000 ATE 2025).
+Pago: deposito directo (SURI) o correo postal.
+Pendiente comunicado oficial de Hacienda con cronograma.
+Ref: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/gobernadora-envia-la-legislatura-medida-de-alivio-contributivo-por-cheque-la-clase-trabajadora
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 136 IDs totales
+Proxima corrida: 10:00 AST
+```
+
+---
+
 ## 2026-05-07 — CORRIDA #107 (22:04 AST)
 
 **Hora corrida:** 2026-05-08 02:04 UTC / 2026-05-07 22:04 AST
