@@ -2,6 +2,34 @@
 
 ---
 
+## 2026-05-09 — CORRIDA #113 (18:03 AST)
+
+**Hora corrida:** 2026-05-09 22:03 UTC / 18:03 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 143 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (hasta 26-07), BI RI (hasta 26-04), DA, Comunicados de prensa, Reglamentos
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-15 a 2026-19, notices — sin items nuevos PR-específicos
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas
+- DDEC/Act 60: sin ordenes administrativas nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| "Secretario Hacienda defiende alivios" | Contenido ambiguo / posible fecha >30 días (Regla 1) |
+| "Ingresos Fondo General acumulados a mayo $864.1M" | De agosto 2024 (AÑO FISCAL 2023-24), >30 días |
+| IRB 2026-18, 2026-19 | Ya en seen.txt |
+| CC/BI/Comunicados Hacienda 2026 | Ya en seen.txt |
+
+### Digest enviado:
+Sin items nuevos — mensaje de estado enviado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-09 — CORRIDA #112 (15:00 AST)
 
 **Hora corrida:** 2026-05-09 19:00 UTC / 15:00 AST
