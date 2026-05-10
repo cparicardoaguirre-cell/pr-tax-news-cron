@@ -2,6 +2,47 @@
 
 ---
 
+## 2026-05-10 — CORRIDA #115 (15:00 AST)
+
+**Hora corrida:** 2026-05-10 19:00 UTC / 15:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente, 26-05 sin publicar), DA (26-01 más reciente, 26-02 sin publicar), Comunicados de prensa
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-20 (más reciente), IRB 2026-21 sin publicar, news releases mayo 2026 (IR-2026-60 a 63, ninguno PR-relevante)
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas
+- DDEC/Act 60: DDEC 2026-002 (11-mar-2026, >30 días, descartado); sin ordenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-08 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+| DA 26-02 | No publicada aún |
+| IRB 2026-21 | No publicado aún |
+| DDEC 2026-002 (fondos capital privado) | Publicada 11-mar-2026, >30 días |
+| IRS IR-2026-60 a 63 (mayo) | Sin mención a Puerto Rico |
+| IRS OBBBA/Rev. Proc. 2025-32 | Oct-2025, >30 días; QOZ PR capturado en corrida #114 |
+| Wyden Senate Finance | Ya en seen.txt (ID 86fcd26867b2bf33) |
+| GAO-26-107225 | Ya en seen.txt (ID 20d6ab1fa15cb748) |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (22 días). Solo SC 2745 rev. 27-mar-2026.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI link activo desde 11-may-2026 hasta 30-oct-2026. Primeros pagos antes de fin de mayo.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** Rev. Proc. 2026-14/OBBBA: Gobernador PR debe nominar QOZs antes del plazo IRS (vigente 1-jul-2026).
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-10 — CORRIDA #114 (10:00 AST)
 
 **Hora corrida:** 2026-05-10 14:00 UTC / 10:00 AST
