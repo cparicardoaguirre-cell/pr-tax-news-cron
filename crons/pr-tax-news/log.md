@@ -2,6 +2,49 @@
 
 ---
 
+## 2026-05-10 — CORRIDA #116 (18:00 AST)
+
+**Hora corrida:** 2026-05-10 22:00 UTC / 18:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente, 26-05 sin publicar), DA (26-01 publicada Feb-2026 >30 días, 26-02 sin publicar), Comunicados de prensa (reintegros ya en seen.txt)
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-20 (más reciente, ya en seen.txt); IRB 2026-21 sin publicar; news releases mayo 2026 sin items PR-relevantes
+- Tribunal Apelativo PR: caso Sagardía (providencia preliminar abr-21 foronoticioso.com descartada — fuente secundaria/previa al fallo final ya capturado en corrida #111)
+- DDEC/Act 60: DDEC 2026-002 (11-mar-2026, >30 días, descartado); sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-08 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+| DA 26-01 (hacienda, Feb-2026) | >30 días; sin URL directa verificable |
+| DA 26-02 | No publicada aún |
+| IRB 2026-21 | No publicado aún |
+| DDEC 2026-002 (fondos capital privado) | Publicada 11-mar-2026, >30 días |
+| Foronoticioso — Apelativo paraliza Sagardía (21-abr) | Fuente secundaria; providencia provisional previa al fallo final ya en seen.txt (ID 96aa4854f527c747) |
+| Reintegros comunicados Hacienda ($200M, $144M, $270M, $1,000M) | Ya en seen.txt (IDs verificados) |
+| Junta Fiscal aprueba alivio contributivo (elnuevodia, 7-may) | Ya en seen.txt (ID 1881617b9ec823d9) |
+| AAFAF cuatro nuevas leyes reforma contributiva | Ya en seen.txt (ID 360fdb855be89a3e) |
+| Metro RC 06-2026 Junta aprueba (7-may) | Ya en seen.txt (ID e6a1b133c1fced25) |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (22 días). Solo SC 2745 rev. 27-mar-2026.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI link activo hasta 30-oct-2026. Pagos cada dos semanas.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** Rev. Proc. 2026-14/OBBBA: Gobernador PR debe nominar QOZs antes del plazo IRS (vigente 1-jul-2026).
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-10 — CORRIDA #115 (15:00 AST)
 
 **Hora corrida:** 2026-05-10 19:00 UTC / 15:00 AST
