@@ -2,6 +2,54 @@
 
 ---
 
+## 2026-05-10 — CORRIDA #114 (10:00 AST)
+
+**Hora corrida:** 2026-05-10 14:00 UTC / 10:00 AST
+**Items nuevos:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (+2 IDs esta corrida)
+
+### Items del Digest:
+
+**[URGENTE] Hacienda PR — Enlace SURI habilitado: actualizar cuenta banco para Cheque de Alivio RC 06-2026**
+- Publicado: 2026-05-10
+- Contenido: Hacienda habilitó en SURI enlace para contribuyentes que cambiaron cuenta bancaria desde planilla 2025 puedan actualizarla y recibir el pago RC 06-2026 ("Cheque para Ti", $554M) por depósito directo. Enlace disponible hasta 30-oct-2026. Pagos cada dos semanas hasta fin de mayo.
+- URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/disponible-enlace-en-suri-para-los-que-cambiaron-su-cuenta-banco-puedan-actualizarla-y-recibir-los-600-por-deposito-directo
+- ID: `2a7116c416db9283`
+
+**[IRS - REVENUE PROCEDURE] Rev. Proc. 2026-14 — IRB 2026-20: Nuevas Zonas de Oportunidad (incluye PR como territorio)**
+- Publicado: 2026-05-11 (IRB 2026-20)
+- Contenido: Rev. Proc. 2026-14 establece procedimiento para que ejecutivos de estados y territorios (incluyendo Gobernador de PR) nominen census tracts como QOZ vigentes al 1-ene-2027, según §§1400Z-1 y 1400Z-2 enmendados por "One, Big, Beautiful Bill Act" (OBBBA). Requiere acción del Gobernador de PR antes del plazo que fije el IRS.
+- URL: https://www.irs.gov/irb/2026-20_IRB
+- ID: `07c101a18876f0e9`
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (sin 26-08 aún), BI RI (sin 26-05 aún), DA, Comunicados de prensa
+- SURI: enlace cheque alivio habilitado (comunicado nuevo)
+- IRS: IRB 2026-20 (11-may-2026) — Rev. Proc. 2026-14 PR-relevante (territorios/QOZ)
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas
+- DDEC/Act 60: DDEC Certified Professional Registry (Carta Circular oct-2025, >30 días, descartado)
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-08 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+| IRB 2026-19 | Ya en seen.txt |
+| "Hacienda cierra ciclo contributivo" | Ya en seen.txt (ID b18ef078d5cae33f) |
+| DDEC Carta Circular OIN 2025-015 (Reg. Profesional Certificado) | Publicada oct-2025, >30 días |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (22 días). Solo SC 2745 rev. 27-mar-2026.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI link activo desde 11-may-2026 hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** Rev. Proc. 2026-14/OBBBA: Gobernador PR debe nominar QOZs antes del plazo IRS.
+
+---
+
 ## 2026-05-09 — CORRIDA #113 (18:03 AST)
 
 **Hora corrida:** 2026-05-09 22:03 UTC / 18:03 AST
