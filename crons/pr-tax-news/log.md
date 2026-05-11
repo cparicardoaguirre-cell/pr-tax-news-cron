@@ -2,6 +2,48 @@
 
 ---
 
+## 2026-05-11 — CORRIDA #119 (10:00 AST)
+
+**Hora corrida:** 2026-05-11 14:04 UTC / 10:04 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente, 26-05 sin publicar), DA (26-01 más reciente, 26-02 sin publicar), Comunicados de prensa (sin novedades desde corrida #114)
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-20 más reciente (ya en seen.txt); IRB 2026-21 sin publicar; news releases sin items PR-relevantes nuevos
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas (LexJuris 403)
+- DDEC/Act 60: DDEC 2026-002 (11-mar-2026, >30 días, descartado); sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-08 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+| DA 26-02 | No publicada aún |
+| IRB 2026-21 | No publicado aún |
+| Rev. Proc. 2026-14 (QOZ PR) | Publicada 06-abr-2026, >30 días; en seguimiento activo |
+| DDEC 2026-002 (fondos capital privado) | Publicada 11-mar-2026, >30 días |
+| CC FP 1300-58-25 | Carta de Finanzas Públicas 2025, no contributiva directa |
+| Comunicado "Gobernador somete proyecto alivio" | Enero/Feb 2026, >30 días |
+| Comunicados Hacienda alivio contributivo mayo | Ya en seen.txt (IDs 2a7116c416db9283, 968f420c033b47cf) |
+| JSF aprueba alivio (7-may) | Ya en seen.txt (ID 1881617b9ec823d9, e6a1b133c1fced25) |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (21 días). Solo SC 2745 rev. 27-mar-2026.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI link activo desde 11-may-2026 hasta 30-oct-2026. Pagos cada dos semanas, antes fin de mayo.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** Rev. Proc. 2026-14/OBBBA: Gobernador PR puede nominar QOZs desde 1-jul-2026 (51 días). Ventana de 90 días (máx. con extensión: 28-oct-2026).
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-11 — CORRIDA #118 (06:00 AST)
 
 **Hora corrida:** 2026-05-11 10:00 UTC / 06:00 AST
@@ -239,6 +281,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Digest enviado:
 Sin items nuevos — mensaje de estado enviado (intento fallido por sandbox).
+
 
 ---
 
