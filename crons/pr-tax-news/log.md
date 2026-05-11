@@ -2,6 +2,46 @@
 
 ---
 
+## 2026-05-11 — CORRIDA #118 (06:00 AST)
+
+**Hora corrida:** 2026-05-11 10:00 UTC / 06:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente, 26-05 sin publicar), DA (26-02 sin publicar), Comunicados (sin novedades desde corrida #114)
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-20 más reciente (ya en seen.txt); IRB 2026-21 sin publicar; news releases sin items PR-relevantes
+- Tribunal Apelativo PR: Saint Mary Investments LLC (Tribunal Supremo, 2026tspr35, 09-abr-2026) descartado por ser >30 días; sin otras sentencias contributivas nuevas
+- DDEC/Act 60: DDEC 2026-002 (11-mar-2026, >30 días, descartado); sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-08 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+| DA 26-02 | No publicada aún |
+| IRB 2026-21 | No publicado aún (IRB 2026-20 es el más reciente) |
+| DDEC 2026-002 (fondos capital privado) | Publicada 11-mar-2026, >30 días |
+| IRS news releases mayo 2026 | Sin mención a Puerto Rico / possessions |
+| Saint Mary Investments LLC — TSPR 2026 | Tribunal Supremo (no Apelativo); fecha 09-abr-2026, >30 días |
+| Cheque para Ti / SURI (mayo 2026) | Ya en seen.txt (IDs 2a7116c416db9283, 968f420c033b47cf) |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (21 días). Solo SC 2745 rev. 27-mar-2026.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Pagos en proceso cada dos semanas. SURI activo hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** Rev. Proc. 2026-14/OBBBA: Gobernador PR debe nominar QOZs antes del plazo IRS (vigente 1-jul-2026).
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-10 — CORRIDA #117 (22:00 AST)
 
 **Hora corrida:** 2026-05-11 02:00 UTC / 22:00 AST
