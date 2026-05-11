@@ -2,6 +2,48 @@
 
 ---
 
+## 2026-05-11 — CORRIDA #120 (18:00 AST)
+
+**Hora corrida:** 2026-05-11 22:01 UTC / 18:01 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente, 26-05 sin publicar), DA (26-02 sin publicar), Comunicados de prensa (notificación correo alivio = Metro PR artículo secundario, sin comunicado oficial nuevo en hacienda.pr.gov)
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-20 más reciente (ya en seen.txt); IRB 2026-21 sin publicar; IR-2025-103 (inflation adj.) publicado oct-2025 >30 días; Notice 2025-55 (remittance relief) oct-2025 >30 días; Notice 2025-69 (tips) nov-2025 >30 días
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas
+- DDEC/Act 60: DDEC 2026-002 (11-mar-2026, >30 días, descartado); sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-08 | No publicada aún (CC RI 26-07 = 20-abr-2026 más reciente) |
+| BI RI 26-05 | No publicada aún |
+| DA 26-02 | No publicada aún |
+| IRB 2026-21 | No publicado aún |
+| Notice 2025-55 (remittance transfer penalty relief) | Publicada 07-oct-2025, >30 días |
+| IR-2025-103 (inflation adjustments 2026 + OBBBA) | Publicado oct-2025, >30 días |
+| Notice 2025-69 (tips/overtime deduction) | Publicada 21-nov-2025, >30 días |
+| IRS prop. regs remittance transfer (Fed. Reg. 13-abr-2026) | Ya en seen.txt (ID 6d46527e3d78d822) |
+| Metro PR — Hacienda envía notificaciones correo alivio (11-may) | Fuente secundaria; sin comunicado oficial en hacienda.pr.gov; info subyacente (BI RI 26-04) ya en seen.txt |
+| DDEC 2026-002 (fondos capital privado) | Publicada 11-mar-2026, >30 días |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (21 días). Solo SC 2745 rev. 27-mar-2026.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Hacienda inició envío de notificaciones por correo el 12-may-2026. SURI activo hasta 30-oct-2026. Pagos cada dos semanas.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** Rev. Proc. 2026-14/OBBBA: Gobernador PR puede nominar QOZs desde 1-jul-2026 (51 días). Ventana de 90 días (máx. con extensión: 28-oct-2026).
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-11 — CORRIDA #119 (10:00 AST)
 
 **Hora corrida:** 2026-05-11 14:04 UTC / 10:04 AST
