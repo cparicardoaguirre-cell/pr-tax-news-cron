@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-12 — CORRIDA #122 (15:09 AST)
+
+**Hora corrida:** 2026-05-12 19:09 UTC / 15:09 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-01 a 26-07), BI RI (26-02 a 26-04), DA (26-01), Comunicados de prensa — todos ya en seen.txt
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-20 (Rev. Proc. 2026-14 QOZ PR) ya en seen.txt; IRB 2026-21 sin publicar
+- Tribunal Apelativo PR: Sagardía v. Hacienda ya en seen.txt
+- DDEC/Act 60: Ley 38-2026 ya en seen.txt; sin órdenes nuevas indexadas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-01 a 26-07 | Ya en seen.txt |
+| BI RI 26-02 a 26-04 | Ya en seen.txt |
+| IRB 2026-20 / Rev. Proc. 2026-14 (QOZ PR) | Ya en seen.txt (ID 07c101a18876f0e9, añadido corrida #114) |
+| Sagardía v. Hacienda (Apelativo) | Ya en seen.txt |
+| Ley 38-2026 Act 60 ext. | Ya en seen.txt (>30 días, firmada 19-mar-2026) |
+| IRS bona fide resident PR (Pub. 1321 oct-2025) | >30 días |
+| DDEC Certified Professional registry | Ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (20 días). Solo SC 2745 rev. 27-mar-2026 desde esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo. Pagos en progreso.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR/OBBBA: ventana nominación abre 1-jul-2026 (50 días).
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-12 — CORRIDA #121 (10:00 AST)
 
 **Hora corrida:** 2026-05-12 14:02 UTC / 10:02 AST
