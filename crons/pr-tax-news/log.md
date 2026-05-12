@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-05-12 — CORRIDA #121 (10:00 AST)
+
+**Hora corrida:** 2026-05-12 14:02 UTC / 10:02 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI 26-07 más reciente (20-abr-2026), BI RI 26-04 más reciente (08-may-2026). Sin CC RI 26-08 aún.
+- SURI: sin avisos nuevos. Enlace Alivio Contributivo activo desde 11-may, ya reportado via BI RI 26-04.
+- IRS: IRS Notice 2026-23 evaluado — NO aplica a PR (solicitud de recomendaciones para PGP 2026-2027, deadline 29-may-2026). IRB 2026-21 sin publicar. IRB 2026-19 y 2026-20 ya en seen.txt.
+- Tribunal Apelativo PR: Caso Sagardia (TA2026CE00487) — entrega info contributiva al Senado. No es sentencia de politica contributiva; descartado.
+- DDEC/Act 60: DDEC 2026-002 y Ley 38-2026 ya en seen.txt. Sin ordenes nuevas.
+- OCIF: sin publicaciones contributivas.
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|---------------|
+| CC RI 26-08 | No publicada aún (prometida en BI RI 26-04 para Alivio Contributivo) |
+| IRS Notice 2026-23 | No aplica a PR — solicitud recomendaciones PGP |
+| TA2026CE00487 Sagardia | Asunto procedimental/político, no política contributiva |
+| IRS OBBBA Notices page | Referencia a OBBBA (jul-2025) ya cubierto en corridas previas via IRB 2026-20 |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (20 días desde hoy).
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo. Pagos inician mediados de mayo-2026.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún (eligibilidad Alivio Contributivo).
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (OBBBA §70421(a)(3)): ventana nominación desde 1-jul-2026.
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox).
+
+---
+
 ## 2026-05-11 — CORRIDA #120 (18:00 AST)
 
 **Hora corrida:** 2026-05-11 22:01 UTC / 18:01 AST
