@@ -2,6 +2,52 @@
 
 ---
 
+## 2026-05-12 — CORRIDA #123 (18:04 AST)
+
+**Hora corrida:** 2026-05-12 22:04 UTC / 18:04 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente de 08-may-2026, 26-05 sin publicar), DA (26-02 sin publicar), Comunicados de prensa (9 comunicados de ciclo contributivo, todos en seen.txt)
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-15 e IRB 2026-20 ya en seen.txt; IRB 2026-21 sin publicar
+- Tribunal Apelativo PR: Sagardía v. Hacienda (TA2026CE00487) ya en seen.txt; sin sentencias tributarias nuevas
+- DDEC/Act 60: Ley 38-2026 y DDEC 2026-002 ya en seen.txt; sin órdenes administrativas nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados (26 total):
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| CC RI 26-02 a 26-07 (6 items) | ver seen.txt | Ya en seen.txt |
+| CC FP 1300-28-26 | 26344408c3f0d6cf | Ya en seen.txt |
+| BI RI 26-01 a 26-04 (4 items) | ver seen.txt | Ya en seen.txt |
+| IRB 2026-15 | db227ba305f789da | Ya en seen.txt |
+| IRB 2026-20 (QOZ PR/OBBBA) | 07c101a18876f0e9 | Ya en seen.txt |
+| Tribunal Apelativo Sagardía | 108f2a9b80949b20 | Ya en seen.txt |
+| DDEC Certified Professional registry | 3644b6ad03bf8b03 | Ya en seen.txt |
+| Act 38-2026 (Grant Thornton) | ad204d1c9d9be45f | Ya en seen.txt (>30 días, firmada 19-mar-2026) |
+| 9 comunicados hacienda.pr.gov | ver seen.txt | Ya en seen.txt |
+| URL construida rivera-schatz/hacienda | 0cf30933c0a8d481 | Descartada — URL no verificada en hacienda.pr.gov; fuente real es metro.pr |
+| CC RI 26-08 | — | No publicada aún |
+| BI RI 26-05 | — | No publicada aún |
+| DA 26-02 | — | No publicada aún |
+| IRB 2026-21 | — | No publicado aún |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (20 días). Solo formulario SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Hacienda inició envío de notificaciones por correo el 12-may-2026. SURI activo. Pagos cada dos semanas.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún (relacionada con Cheque para Ti / elegibilidad).
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (OBBBA §70421(a)(3)): ventana nominación desde 1-jul-2026 (50 días).
+
+### Digest enviado:
+Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sandbox: api.telegram.org no está en la allowlist de red del entorno de ejecución).
+
+---
+
 ## 2026-05-12 — CORRIDA #122 (15:09 AST)
 
 **Hora corrida:** 2026-05-12 19:09 UTC / 15:09 AST
@@ -19,7 +65,7 @@
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-01 a 26-07 | Ya en seen.txt |
 | BI RI 26-02 a 26-04 | Ya en seen.txt |
 | IRB 2026-20 / Rev. Proc. 2026-14 (QOZ PR) | Ya en seen.txt (ID 07c101a18876f0e9, añadido corrida #114) |
@@ -57,7 +103,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún (prometida en BI RI 26-04 para Alivio Contributivo) |
 | IRS Notice 2026-23 | No aplica a PR — solicitud recomendaciones PGP |
 | TA2026CE00487 Sagardia | Asunto procedimental/político, no política contributiva |
@@ -92,7 +138,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún (CC RI 26-07 = 20-abr-2026 más reciente) |
 | BI RI 26-05 | No publicada aún |
 | DA 26-02 | No publicada aún |
@@ -134,7 +180,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún |
 | BI RI 26-05 | No publicada aún |
 | DA 26-02 | No publicada aún |
@@ -176,7 +222,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún |
 | BI RI 26-05 | No publicada aún |
 | DA 26-02 | No publicada aún |
@@ -216,7 +262,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún |
 | BI RI 26-05 | No publicada aún |
 | DA 26-02 | No publicada aún |
@@ -256,7 +302,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún |
 | BI RI 26-05 | No publicada aún |
 | DA 26-01 (hacienda, Feb-2026) | >30 días; sin URL directa verificable |
@@ -299,7 +345,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún |
 | BI RI 26-05 | No publicada aún |
 | DA 26-02 | No publicada aún |
@@ -354,7 +400,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-08 | No publicada aún |
 | BI RI 26-05 | No publicada aún |
 | IRB 2026-19 | Ya en seen.txt |
@@ -388,7 +434,7 @@ Sin publicaciones nuevas — mensaje de estado preparado (intento fallido por sa
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | "Secretario Hacienda defiende alivios" | Contenido ambiguo / posible fecha >30 días (Regla 1) |
 | "Ingresos Fondo General acumulados a mayo $864.1M" | De agosto 2024 (AÑO FISCAL 2023-24), >30 días |
 | IRB 2026-18, 2026-19 | Ya en seen.txt |
@@ -417,7 +463,7 @@ Sin items nuevos — mensaje de estado enviado (intento fallido por sandbox).
 
 ### Candidatos evaluados y descartados:
 | Item | Razón descarte |
-|------|---------------|
+|------|--------------|
 | CC RI 26-07 | Ya en seen.txt |
 | BI RI 26-03, 26-04 | Ya en seen.txt |
 | IRS IRB 2026-16 a 26-19 | Ya en seen.txt |
