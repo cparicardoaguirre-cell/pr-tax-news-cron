@@ -2,6 +2,62 @@
 
 ---
 
+## 2026-05-13 — CORRIDA #126 (15:00 AST)
+
+**Hora corrida:** 2026-05-13 19:00 UTC / 15:00 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 146 IDs totales (+1 ID esta corrida)
+
+### Items del Digest:
+
+**[URGENTE] HACIENDA PR — COMUNICADO DE PRENSA: Enlace SURI para contribuyentes sin cuenta bancaria — Cheque de Alivio RC 06-2026**
+- Publicado: 2026-05-12
+- Contenido: Hacienda habilitó en SURI el enlace "Alivio Contributivo 2025 – Añadir cuenta bancaria" para contribuyentes que NO incluyeron información bancaria en su Planilla 2025. Acceso: SURI → Individuo → Contribución sobre Ingresos → Alivio Contributivo 2025 – Añadir cuenta bancaria. Requiere número de ruta, número y tipo de cuenta, nombre del titular. Quienes no registren antes del 30-oct-2026 recibirán cheque impreso. Elegibilidad según RC 6-2026 ($554M; ingresos $12,501–$150,000; ~700,000 contribuyentes). NOTA: Este comunicado es DISTINTO del capturado en corrida #114 (ID 2a7116c416db9283), que era para quienes *cambiaron* su cuenta bancaria. Este cubre a quienes *nunca registraron* cuenta en su Planilla 2025.
+- URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/hacienda-habilita-enlace-en-suri-para-que-contribuyentes-sin-cuenta-bancaria-registrada-en-la-planilla-2025-reciban-electronicamente-el-cheque-de-alivio
+- ID: `fb62656d7ae22c59`
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente, 26-05 sin publicar), DA (26-01 más reciente, 26-02 sin publicar), Comunicados de prensa (1 nuevo: fb62656d7ae22c59)
+- SURI: comunicado del 12-may (contribuyentes sin cuenta bancaria) capturado como nuevo
+- IRS: IRB 2026-20 el más reciente (ya en seen.txt); IRB 2026-21 sin publicar; sin notices nuevos PR-relevantes
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas (LexJuris 403)
+- DDEC/Act 60: sin órdenes administrativas nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados:
+| Item | ID | Resultado |
+|------|----|----------|
+| Comunicado Hacienda "sin cuenta bancaria" SURI (12-may-2026) | fb62656d7ae22c59 | **NUEVO — incluido** |
+| CC RI 26-07 (20-abr-2026) | d93bc80580f7b2d4 | Ya en seen.txt |
+| CC RI 26-08 | — | Sin publicar aún |
+| BI RI 26-04 (08-may-2026) | 968f420c033b47cf | Ya en seen.txt |
+| BI RI 26-05 | — | Sin publicar aún |
+| DA 26-02 | — | Sin publicar aún |
+| IRB 2026-20 (11-may-2026) | 07c101a18876f0e9 | Ya en seen.txt |
+| IRB 2026-21 | — | Sin publicar aún |
+| IRS bona fide resident / Section 933 2026 | — | Sin items nuevos |
+| DDEC órdenes mayo 2026 | — | Sin publicaciones nuevas |
+| Tribunal Apelativo contributivo mayo 2026 | — | Sin sentencias nuevas |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (19 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Dos enlaces SURI activos: (1) quienes cambiaron cuenta (corrida #114), (2) quienes nunca registraron cuenta (esta corrida). Pagos cada dos semanas. Plazo para depósito directo: 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (49 días).
+
+### Digest preparado (no enviado — sandbox):
+```
+[URGENTE] HACIENDA PR - COMUNICADO DE PRENSA: Enlace SURI para contribuyentes sin cuenta bancaria — Cheque Alivio RC 06-2026 | Fecha: 2026-05-12 | [ver URL]
+[RECORDATORIO URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (19 días)
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 146 IDs totales | Próxima corrida: 18:00 AST
+```
+
+---
+
 ## 2026-05-13 — CORRIDA #125 (10:06 AST)
 
 **Hora corrida:** 2026-05-13 14:06 UTC / 10:06 AST
