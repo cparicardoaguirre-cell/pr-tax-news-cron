@@ -2,6 +2,35 @@
 
 ---
 
+## 2026-05-13 — CORRIDA #127 (18:00 AST)
+
+**Hora corrida:** 2026-05-13 22:06 UTC / 18:06 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 146 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI (26-02 a 26-07), DA, BI (26-02 a 26-04): todos ya en seen.txt
+- Hacienda PR — Comunicados de prensa mayo 2026: todos ya en seen.txt
+- SURI — Cheque Alivio RC 06-2026 (SURI link abierto 11-may): ya en seen.txt
+- IRS — IRB 2026-19 y 2026-20: ya en seen.txt
+- IRS — Notices/RP PR-relacionados: sin nuevos
+- Tribunal Apelativo PR — sin nuevas sentencias tributarias confirmadas
+- DDEC — DDEC 2026-002 ya en seen.txt
+- OCIF — sin publicaciones contributivas nuevas
+
+### Pendiente sin publicar:
+- CC RI 26-08: no publicada aún
+- BI RI 26-05: no publicada aún
+- DA 26-02: no publicada aún
+- IRB 2026-21: no disponible aún
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-04 — RC 06-2026:** Cheque Alivio. SURI link activo desde 11-may-2026 hasta 30-oct-2026. Pagos inician antes de fin de mayo 2026.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (19 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+
+---
+
 ## 2026-05-13 — CORRIDA #126 (15:00 AST)
 
 **Hora corrida:** 2026-05-13 19:00 UTC / 15:00 AST
