@@ -2,6 +2,45 @@
 
 ---
 
+## 2026-05-13 — CORRIDA #125 (10:06 AST)
+
+**Hora corrida:** 2026-05-13 14:06 UTC / 10:06 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente), DA (26-01 más reciente, 26-02 sin publicar), Comunicados — todos ya en seen.txt
+- SURI: landing page /alivio-contributivo evaluada — no es publicación formal; info subyacente ya reportada via BI RI 26-04 y comunicado SURI (corrida #114)
+- IRS: IRB 2026-20 más reciente (ya en seen.txt); IRB 2026-21 sin publicar aún
+- Tribunal Apelativo PR: sin sentencias contributivas nuevas indexadas
+- DDEC/Act 60: sin órdenes nuevas; DDEC 2026-002 ya en seen.txt
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| hacienda.pr.gov/alivio-contributivo | 44e450cb09f0c49d | Landing page operacional, no CC/DA/BI formal; info subyacente ya en seen.txt (BI RI 26-04 + comunicado SURI, corrida #114) |
+| CC FP 1300-19-26 | 7c5d27ba31e46b7a | Publicada 13-ene-2026, >30 días; Finanzas Públicas (no contributiva para clientes) |
+| CC FP 1300-20-26 | 9773ed3db1e43af6 | Finanzas Públicas (no contributiva para clientes) |
+| IRB 2026-21 | 2dbf1b7e7f3b4229 | Sin publicar aún (IRB 2026-20 = 11-may-2026 es el más reciente) |
+| DA 26-02 | 9bf7117566fd6317 | Sin publicar aún |
+| CC RI 26-08 | — | Sin publicar aún |
+| BI RI 26-05 | — | Sin publicar aún |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (19 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo hasta 30-oct-2026. Pagos en proceso (cada dos semanas).
+- **[PENDIENTE]** CC RI 26-08: sin publicar aún.
+- **[PENDIENTE]** BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (49 días).
+
+### Digest preparado (no enviado — sandbox):
+Sin publicaciones nuevas. Recordatorio activo: SC 2745 deadline 1-jun-2026 (19 días). Próxima corrida: 15:00 AST.
+
+---
+
 ## 2026-05-12 — CORRIDA #124 (22:05 AST)
 
 **Hora corrida:** 2026-05-13 02:05 UTC / 22:05 AST
