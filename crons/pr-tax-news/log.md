@@ -1,4 +1,45 @@
-# PR Tax News Cron Log
+# PR Tax News Log
+
+---
+
+## 2026-05-12 — CORRIDA #124 (22:05 AST)
+
+**Hora corrida:** 2026-05-13 02:05 UTC / 22:05 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 145 IDs totales (sin cambios esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR: CC RI (26-07 más reciente, 26-08 sin publicar), BI RI (26-04 más reciente), DA (26-01 más reciente), Comunicados — todos ya en seen.txt
+- SURI: sin avisos nuevos indexados
+- IRS: IRB 2026-20 el más reciente; IRB 2026-21 sin publicar
+- Tribunal Apelativo PR: Sagardía v. Hacienda (TA2026CE00487) ya en seen.txt; sin sentencias nuevas
+- DDEC/Act 60: DDEC 2026-002 ya en seen.txt; sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados (14 total):
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| CC RI 26-02 a 26-07 (6 items) | ver seen.txt | Ya en seen.txt |
+| CC FP 1300-28-26 | 26344408c3f0d6cf | Ya en seen.txt |
+| BI RI 26-04 | 968f420c033b47cf | Ya en seen.txt |
+| IRB 2026-15, 2026-18, 2026-19, 2026-20 | ver seen.txt | Ya en seen.txt |
+| Tribunal Apelativo Sagardía | 108f2a9b80949b20 | Ya en seen.txt |
+| DDEC Microjuris (DDEC 2026-002) | d1ddd10ef194ea50 | Ya en seen.txt |
+| CC RI 26-08 | — | No publicada aún |
+| BI RI 26-05 | — | No publicada aún |
+| DA 26-02 | — | No publicada aún |
+| IRB 2026-21 | — | No publicado aún |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (19 días). Solo formulario SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo desde 11-may-2026. Pagos cada dos semanas antes del 31-may-2026.
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (OBBBA §70421(a)(3)): ventana nominación desde 1-jul-2026 (49 días).
+
+### Digest preparado (no enviado — sandbox):
+Sin publicaciones nuevas. Recordatorios: BI RI 26-03 SC 2745 deadline 1-jun (19 días); RC 06-2026 Cheque para Ti pagos iniciando. Próxima corrida: 06:00 AST 2026-05-13.
 
 ---
 
