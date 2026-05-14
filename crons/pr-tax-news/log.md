@@ -2,6 +2,52 @@
 
 ---
 
+## 2026-05-14 — CORRIDA #128 (10:00 AST)
+
+**Hora corrida:** 2026-05-14 14:00 UTC / 10:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 146 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI (26-07 más reciente; CC RI 26-08: no publicada aún)
+- Hacienda PR — BI RI (26-04 más reciente; BI RI 26-05: no publicada aún)
+- Hacienda PR — DA (26-01 más reciente; DA 26-02: no publicada aún)
+- Hacienda PR — Comunicados de prensa mayo 2026: sin nuevos desde fb62656d7ae22c59 (corrida #126)
+- SURI: sin avisos nuevos indexados
+- IRS — IRB 2026-21: no disponible aún (IRB 2026-20 sigue siendo el más reciente)
+- IRS — Notices/RP PR-relacionados: sin items nuevos (bona fide resident, Section 933, Act 60)
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas (Sagardía ya en seen.txt)
+- DDEC: DDEC 2026-002 ya en seen.txt (>30 días, 11-mar-2026); sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| CC RI 26-08 | — | Sin publicar aún |
+| BI RI 26-05 | — | Sin publicar aún |
+| DA 26-02 | — | Sin publicar aún |
+| IRB 2026-21 | — | Sin publicar aún |
+| H&K Act 60 / residency (abril 2026) | — | Fuente secundaria (law firm), no publicación oficial |
+| DDEC 2026-002 (fondos capital privado) | d1ddd10ef194ea50 | Ya en seen.txt; >30 días (11-mar-2026) |
+| Tribunal Sagardía v. Hacienda | 96aa4854f527c747 | Ya en seen.txt |
+| IRS bona fide resident / Section 933 2026 | — | Sin nuevas guidance publicadas |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (18 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo hasta 30-oct-2026. Pagos cada dos semanas. Dos enlaces activos: cambio de cuenta (corrida #114) y registro inicial de cuenta (corrida #126).
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (48 días).
+
+### Digest preparado (no enviado — sandbox):
+```
+Sin publicaciones nuevas. Recordatorios: SC 2745 deadline 1-jun-2026 (18 días); RC 06-2026 SURI activo hasta 30-oct-2026.
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 146 IDs totales | Próxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-13 — CORRIDA #127 (18:00 AST)
 
 **Hora corrida:** 2026-05-13 22:06 UTC / 18:06 AST
