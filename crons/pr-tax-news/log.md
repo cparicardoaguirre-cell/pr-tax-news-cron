@@ -2,6 +2,66 @@
 
 ---
 
+## 2026-05-14 — CORRIDA #129 (10:01 AST)
+
+**Hora corrida:** 2026-05-14 14:01 UTC / 10:01 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 146 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI (26-07 más reciente; CC RI 26-08: no publicada aún)
+- Hacienda PR — BI RI (26-04 más reciente; BI RI 26-05: no publicada aún)
+- Hacienda PR — DA (26-01 más reciente; DA 26-02: no publicada aún)
+- Hacienda PR — Comunicados de prensa: sin nuevos (fb62656d7ae22c59 y 2a7116c416db9283 siguen siendo los más recientes)
+- SURI: sin avisos nuevos indexados (suridrs.hacienda.pr.gov retorna 403)
+- IRS — IRB 2026-21: no disponible aún (IRB 2026-20 del 11-may-2026 sigue siendo el más reciente)
+- IRS — Notices/RP PR-relacionados: sin items nuevos; Rev. Proc. 2026-12 confirmada como renumeración de Rev. Proc. 2026-14 (ya en seen.txt)
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas (LexJuris 403)
+- DDEC: DDEC 2026-002 ya en seen.txt (>30 días, 11-mar-2026); sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| CC RI 26-08 | — | Sin publicar aún |
+| BI RI 26-05 | — | Sin publicar aún |
+| DA 26-02 | — | Sin publicar aún |
+| IRB 2026-21 | — | Sin publicar aún |
+| Rev. Proc. 2026-12 (rp-26-12.pdf) | 07c101a18876f0e9 | Misma que Rev. Proc. 2026-14, ya en seen.txt (renumerada) |
+| DDEC 2026-002 | d1ddd10ef194ea50 | Ya en seen.txt; >30 días (11-mar-2026) |
+| IRS newsroom mayo 2026 | — | Sin noticias PR-relevantes (IR-2026-XX sin mención PR) |
+| Tribunal Apelativo PR mayo 2026 | — | Sin sentencias tributarias nuevas indexadas |
+| OCIF mayo 2026 | — | Sin publicaciones contributivas |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (18 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo hasta 30-oct-2026. Dos enlaces: (1) quienes cambiaron cuenta; (2) quienes nunca registraron cuenta en planilla 2025. Pagos cada dos semanas.
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún (esperado ~19-may-2026).
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (48 días).
+
+### Digest preparado (no enviado — sandbox):
+```
+PR Tax News — Corrida #129 | 2026-05-14 10:01 AST
+Sin publicaciones nuevas.
+
+[URGENTE] BI RI 26-03 — SC 2745
+Deadline: 1-jun-2026 (18 días). A partir de esa fecha solo se acepta el formulario SC 2745 rev. 27-mar-2026.
+
+[URGENTE] RC 06-2026 — Cheque para Ti
+SURI activo hasta 30-oct-2026. Dos enlaces disponibles.
+
+[SEGUIMIENTO] Rev. Proc. 2026-14 / OBBBA — QOZ Puerto Rico
+Gobernador PR puede nominar desde 1-jul-2026 (48 días).
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 146 IDs totales
+Próxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-14 — CORRIDA #128 (10:00 AST)
 
 **Hora corrida:** 2026-05-14 14:00 UTC / 10:00 AST
