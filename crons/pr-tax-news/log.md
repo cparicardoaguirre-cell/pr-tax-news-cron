@@ -1543,6 +1543,65 @@ Sin items nuevos — mensaje de estado enviado (intento fallido por sandbox).
 
 ---
 
+## 2026-05-14 — CORRIDA #131 (22:05 AST)
+
+**Hora corrida:** 2026-05-14 22:05 AST / 2026-05-15 02:05 UTC
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 146 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: 26-07 más reciente; CC RI 26-08: no publicada aún
+- Hacienda PR — BI RI: 26-04 más reciente; BI RI 26-05: no publicada aún
+- Hacienda PR — DA: 26-01 más reciente; DA 26-02: no publicada aún
+- Hacienda PR — Comunicados de prensa: último conocido 12-may-2026 (enlace SURI, ya en seen.txt)
+- SURI: sin avisos nuevos indexados
+- IRS — IRB 2026-20: más reciente (ya en seen.txt); IRB 2026-21: no publicado aún (~19-may-2026)
+- IRS — IRBs 2026-18 y 2026-19: ya en seen.txt, sin contenido PR-relevante
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: 2026-002 ya en seen.txt (>30 días); sin órdenes nuevas
+- OCIF: sin publicaciones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| CC FP 1300-19-26 | 7c5d27ba31e46b7a | NUEVO pero categoría incorrecta: CC Finanzas Públicas (agencias gubernamentales), no CC RI ni CC PC |
+| CC RI 26-08 | — | Sin publicar aún |
+| BI RI 26-05 | — | Sin publicar aún |
+| DA 26-02 | — | Sin publicar aún |
+| IRB 2026-21 | — | Sin publicar aún (esperado ~19-may-2026) |
+| Comunicados Hacienda mayo 2026 | ya en seen.txt | Todos los URLs del ciclo ya procesados |
+| JSF aprobación alivio (7-may-2026) | — | Noticias de medios, no publicación oficial Hacienda |
+| Tribunal Apelativo PR | — | Sin sentencias tributarias nuevas indexadas |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (18 días). Solo SC 2745 rev. 27-mar-2026 válido.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** JSF aprobó el 7-may-2026. Pagos antes de fin de mayo. SURI hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: esperado ~19-may-2026.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): nominación Gobernador PR abre 1-jul-2026 (48 días).
+
+### Digest preparado (no enviado — sandbox):
+```
+PR Tax News — Corrida #131 | 2026-05-14 22:05 AST
+Sin publicaciones nuevas en esta corrida.
+
+[URGENTE] BI RI 26-03 — SC 2745
+Deadline 1-jun-2026 (18 días). Solo SC 2745 rev. 27-mar-2026 aceptado.
+
+[URGENTE] RC 06-2026 — Cheque para Ti
+JSF aprobó $554M el 7-may-2026. Pagos antes de fin de mayo. Enlace SURI disponible.
+
+[SEGUIMIENTO] Rev. Proc. 2026-14 / OBBBA — QOZ Puerto Rico
+Gobernador PR puede nominar desde 1-jul-2026 (48 días).
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 146 IDs totales
+Próxima corrida: 06:00 AST (2026-05-15)
+```
+
+---
+
 ## 2026-05-09 — CORRIDA #112 (15:00 AST)
 
 **Hora corrida:** 2026-05-09 19:00 UTC / 15:00 AST
