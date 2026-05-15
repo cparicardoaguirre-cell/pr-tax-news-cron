@@ -2,6 +2,46 @@
 
 ---
 
+## 2026-05-15 — CORRIDA #134 (18:00 AST)
+
+**Hora corrida:** 2026-05-15 22:00 UTC / 18:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 148 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (ya en seen.txt); 26-08 sin publicar aún
+- Hacienda PR — BI RI: hasta 26-04 (ya en seen.txt); 26-05 sin publicar aún
+- Hacienda PR — DA: hasta 26-01 (ya en seen.txt); 26-02 sin publicar aún
+- Hacienda PR — Comunicados: todos los URLs recientes ya en seen.txt (incluyendo activación enlace SURI 11-may fb62656d7ae22c59)
+- SURI: sin avisos nuevos (activación enlace bancario RC 06-2026 del 11-may ya en seen.txt)
+- IRS — IRB 2026-21: sin publicar aún (esperado ~19-may-2026); máximo publicado: IRB 2026-20 (ya en seen.txt)
+- IRS — Notices/RP PR-relacionados: ninguno nuevo
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas; caso Sagardía ya cubierto
+- DDEC: DDEC 2026-002 ya en seen.txt; sin órdenes nuevas
+- OCIF: sin emisiones contributivas nuevas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| Microjuris 13-may: orientacion SURI cheque alivio | 7b4d20051d57062c | Duplicado — cubre mismo evento que comunicado oficial Hacienda (fb62656d7ae22c59, ya en seen.txt) |
+| Metro PR 11-may: Hacienda habilita enlace SURI | 926d14f0b6f01327 | Duplicado — mismo evento, fuente secundaria |
+| PrimeraHora: miles entran a SURI | 5e464cf1def6adb4 | Duplicado — mismo evento, fuente secundaria |
+| Telemundo: pendiente a SURI alivio | 2467abf50bde6b9b | Duplicado — mismo evento, fuente secundaria |
+| Microjuris Ley 38-2026 (21-mar) | a95d6806ef62018e | Ya en seen.txt |
+| GAO-26-107225 gao.gov/products | fbc80951186cbf25 | Publicado dic-2025, >30 dias; files.gao.gov ya en seen.txt |
+| TA PDF TA2025CE00830 (11-feb-2026) | 48ca1fb0f92b7500 | Publicado hace 93 dias, >30 dias — descartado |
+| IRB 2026-21 | 2dbf1b7e7f3b4229 | Sin publicar aún |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (17 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Pagos iniciando antes del 31-may-2026 (16 días). Enlace SURI activo para registro bancario (plazo: 30-oct-2026).
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún (esperado ~19-may-2026).
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (47 días).
+
+---
+
 ## 2026-05-15 — CORRIDA #133 (15:00 AST)
 
 **Hora corrida:** 2026-05-15 19:00 UTC / 15:00 AST
