@@ -2,6 +2,67 @@
 
 ---
 
+## 2026-05-15 — CORRIDA #132 (10:00 AST)
+
+**Hora corrida:** 2026-05-15 14:00 UTC / 10:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 146 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: 26-07 más reciente (ya en seen.txt); CC RI 26-08: no publicada aún
+- Hacienda PR — BI RI: 26-04 más reciente (ya en seen.txt); BI RI 26-05: no publicada aún
+- Hacienda PR — DA: 26-01 más reciente (ya en seen.txt); DA 26-02: no publicada aún
+- Hacienda PR — Comunicados de prensa: todos los URLs recientes ya en seen.txt
+- SURI: sin avisos oficiales nuevos (enlace bancario cubierto por BI RI 26-04 en seen.txt)
+- IRS — IRB 2026-21: sin publicar aún (esperado ~19-may-2026); IRB 2026-20 ya en seen.txt
+- IRS — Notices/RP PR-relacionados: sin items nuevos
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+- DDEC: DDEC 2026-002 ya en seen.txt (vía Microjuris); IANE reminder URL retorna 403 → descartado (Regla #1)
+- OCIF: reglamento administrativo (no contributivo) → descartado
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| CC RI 26-08 | — | Sin publicar aún |
+| BI RI 26-05 | — | Sin publicar aún |
+| DA 26-02 | — | Sin publicar aún |
+| IRB 2026-21 | 2dbf1b7e7f3b4229 | Sin publicar aún (esperado ~19-may-2026) |
+| DDEC IANE reminder (desarrollo.pr.gov) | 6d4ca94a26c0fbc5 | URL retorna 403 — contenido no verificable (Regla #1); probable fecha ~ene-2026 (>30 días) |
+| DDEC 2026-002 PDF oficial | 201821b33dccc5ea | Mismo contenido que d1ddd10ef194ea50 ya en seen.txt (Microjuris) |
+| OCIF reglamento administrativo (abr-2026) | — | No contributivo |
+| Comunicados Hacienda (reintegros, ciclo) | varios | Ya en seen.txt |
+| IRB 2026-20 | 07c101a18876f0e9 | Ya en seen.txt |
+| IRB 2026-15 | db227ba305f789da | Ya en seen.txt |
+| GAO-26-107225 | 20d6ab1fa15cb748 | Ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (17 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo. Pagos comenzando antes del 31-may-2026.
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún (esperado ~19-may-2026).
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (47 días).
+
+### Digest preparado (no enviado — sandbox):
+```
+PR Tax News — Corrida #132 | 2026-05-15 10:00 AST
+Sin publicaciones nuevas en esta corrida.
+
+[URGENTE] BI RI 26-03 — Formulario SC 2745
+Deadline: 1-jun-2026 (17 días restantes)
+A partir del 1 de junio de 2026 solo se acepta la versión rev. 27-mar-2026 del Formulario SC 2745. La versión anterior quedará inválida.
+
+[URGENTE] RC 06-2026 — Cheque para Ti / Alivio Contributivo
+SURI activo. Pagos comenzando antes del 31-may-2026.
+Beneficio de hasta $1,000 para trabajadores de bajos y medianos ingresos (año contributivo 2025).
+
+================================
+Fuentes revisadas: 7 | Items nuevos: 0 | seen.txt: 146 IDs totales
+Próxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-15 — CORRIDA #131 (06:02 AST)
 
 **Hora corrida:** 2026-05-15 10:02 UTC / 06:02 AST
