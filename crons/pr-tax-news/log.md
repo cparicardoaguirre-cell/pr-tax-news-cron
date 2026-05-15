@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-15 — CORRIDA #133 (15:00 AST)
+
+**Hora corrida:** 2026-05-15 19:00 UTC / 15:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 148 IDs totales (+2 descartados añadidos para dedup)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (ya en seen.txt); 26-08 sin publicar aún
+- Hacienda PR — BI RI: hasta 26-04 (ya en seen.txt); 26-05 sin publicar aún
+- Hacienda PR — DA: hasta 26-01 (ya en seen.txt); 26-02 sin publicar aún
+- Hacienda PR — Comunicados: todos los URLs recientes ya en seen.txt (403 en fetch directo)
+- SURI: sin avisos nuevos detectados
+- IRS — IRB 2026-21: sin publicar aún (403 → no disponible; esperado ~19-may-2026)
+- IRS — Notices PR-relacionados: ninguno nuevo (Pub 570/1321 son de 2025)
+- Tribunal Apelativo PR: fallo Sagardía ya cubierto (Telemundo+NotiUno en seen.txt); NuevoDia=nuevo URL mismo caso → ID añadido a seen.txt, sin digest
+- DDEC: sin órdenes administrativas nuevas indexadas (desarrollo.pr.gov → 403)
+- OCIF: sin emisiones contributivas nuevas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| IRS Criminal: La Familia Nunca Muere (PR) | 93698906c3d23d2a | Investigación criminal — no contributivo/política fiscal; descartado |
+| TA Sagardía / ElNuevoDia | 762d4862123c51c0 | Mismo fallo ya en seen.txt vía Telemundo (d6fb57ccc3c77c74) y NotiUno (8870f9737837a3ff); duplicado de historia |
+| CC RI 26-08 | — | Sin publicar aún |
+| BI RI 26-05 | — | Sin publicar aún |
+| DA 26-02 | — | Sin publicar aún |
+| IRB 2026-21 | — | Sin publicar aún (esperado ~19-may-2026) |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (17 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** SURI activo. Pagos comenzando antes del 31-may-2026.
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún (esperado ~19-may-2026).
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (47 días).
+
+---
+
 ## 2026-05-15 — CORRIDA #132 (10:00 AST)
 
 **Hora corrida:** 2026-05-15 14:00 UTC / 10:00 AST
