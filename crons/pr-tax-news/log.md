@@ -2,6 +2,39 @@
 
 ---
 
+## 2026-05-16 — CORRIDA #136 (06:00 AST)
+
+**Hora corrida:** 2026-05-16 10:00 UTC / 2026-05-16 06:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest preparado pero no entregado.
+**seen.txt:** 149 IDs totales (+1 IRB 2026-21)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (ya en seen.txt); 26-08 sin publicar aún
+- Hacienda PR — BI RI: hasta 26-04 (ya en seen.txt); 26-05 sin publicar aún
+- Hacienda PR — DA: hasta 26-01 (ya en seen.txt); 26-02 sin publicar aún
+- Hacienda PR — Comunicados: hacienda.pr.gov devuelve 403 en fetches; búsqueda muestra URLs ya conocidas + 1 candidato ambiguo (403)
+- SURI: sin avisos nuevos; BI RI 26-04 (SURI enlace bancario) ya en seen.txt
+- IRS — IRB 2026-21: **PUBLICADO** (antes de lo esperado); sin contenido PR-relevante (trata sobre tarifas EA SEE) — descartado, ID agregado a seen.txt
+- IRS — Notices/RP PR-relacionados: ninguno nuevo en mayo 2026
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas
+- DDEC: DDEC 2026-002 ya en seen.txt; sin órdenes nuevas en mayo 2026
+- OCIF: sin emisiones contributivas nuevas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| IRB 2026-21 (EA SEE user fees) | 2dbf1b7e7f3b4229 | Publicado; sin contenido PR-relevante (solo tarifas examen enrolled agents) — ID agregado a seen.txt |
+| "Hacienda continúa avanzando en el envío de reintegros" | 5db5a39520f43066 | URL 403; contenido ambiguo (actualización operacional, no política contributiva) — NO agregado a seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (16 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Pagos iniciando antes del 31-may-2026 (15 días). Enlace SURI activo para registro bancario (plazo: 30-oct-2026).
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (46 días).
+
+---
+
 ## 2026-05-15 — CORRIDA #135 (22:00 AST)
 
 **Hora corrida:** 2026-05-16 02:05 UTC / 2026-05-15 22:05 AST
