@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-05-16 — CORRIDA #139 (18:00 AST)
+
+**Hora corrida:** 2026-05-16 22:14 UTC / 2026-05-16 18:14 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest no entregado.
+**seen.txt:** 150 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (ya en seen.txt); 26-08 sin publicar aún
+- Hacienda PR — DA: 26-01 ya en seen.txt; 26-02 sin publicar aún
+- Hacienda PR — BI RI: hasta 26-04 (ya en seen.txt); 26-05 sin publicar aún
+- Hacienda PR — Comunicados: último 12-may-2026 (ya en seen.txt); hacienda.pr.gov devuelve 403 en fetches directos
+- SURI: sin avisos nuevos indexados públicamente
+- IRS — IRB 2026-19 a 2026-21: todos en seen.txt; IRB 2026-22 aún no publicado
+- IRS — OBBBA: IRB 2026-20 contiene QOZ-PR guidance (ya en seen.txt); sin nuevos notices PR
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas más allá de Sagardía (ya visto)
+- DDEC: sin órdenes nuevas detectadas en mayo 2026; DDEC 2026-001 y 2026-002 en seen.txt
+- OCIF: sin emisiones contributivas
+- Reforma Contributiva PR Fase 2: en evaluación en Senado; sin ley aprobada confirmada
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|----------------|
+| IRB 2026-22 | 086fac25660e5525 | Sin publicar aún |
+| Reforma Contributiva Fase 2 (Senado PR) | N/A | Fuente legislativa; sin ley firmada confirmada |
+| OBBBA + PR QOZ (DLA Piper Jul-2025) | N/A | Fuente secundaria; cobertura primaria IRB 2026-20 ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (16 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[URGENTE] BI RI 26-04 — Cheque Para Ti RC 06-2026:** SURI link activo. Registro bancario hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08 / DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-22: esperado ~18-may-2026 (lunes).
+- **[PENDIENTE]** OBBBA QOZ-PR: ventana 90 días Governor inicia 1-jul-2026 para nominar nuevas zonas.
+
+---
+
 ## 2026-05-16 — CORRIDA #138 (15:00 AST)
 
 **Hora corrida:** 2026-05-16 19:02 UTC / 2026-05-16 15:02 AST
