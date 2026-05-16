@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-16 — CORRIDA #137 (10:00 AST)
+
+**Hora corrida:** 2026-05-16 14:02 UTC / 2026-05-16 10:02 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 Forbidden). Digest preparado pero no entregado.
+**seen.txt:** 149 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (ya en seen.txt); 26-08 sin publicar aún
+- Hacienda PR — BI RI: hasta 26-04 (ya en seen.txt); 26-05 sin publicar aún
+- Hacienda PR — DA: hasta 26-01 (ya en seen.txt); 26-02 sin publicar aún
+- Hacienda PR — Comunicados: todos los candidatos ya en seen.txt (hacienda.pr.gov devuelve 403 en fetches directos)
+- SURI: sin avisos nuevos; BI RI 26-04 (enlace bancario) ya en seen.txt
+- IRS — IRB 2026-21: ya en seen.txt (EA SEE user fees, sin contenido PR-relevante); IRB 2026-22 sin publicar aún
+- IRS — Notice 2026-22 (Priority Guidance Plan, en IRB 2026-15): ya en seen.txt, sin relevancia PR
+- IRS — Rev. Proc. 2026-12 (QOZ PR): ya en seen.txt (85ac0b58ddf6b63b)
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas
+- DDEC: DDEC 2026-002 ya en seen.txt; sin órdenes nuevas en mayo 2026
+- OCIF: sin emisiones contributivas nuevas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| Comunicados reintegros (cierre ciclo $2B, $156M, tercera ronda $270M, $100M, $1B+) | b18ef078d5cae33f / 9779bc595a0c236c / b346422112977010 / eef6335d66c47ea7 / 37e8b2930fffc5a1 | Ya en seen.txt |
+| Notice 2026-22 (Priority Guidance Plan) | db227ba305f789da (IRB 2026-15, ya en seen) | Sin relevancia PR — solicitud pública de recomendaciones, no política contributiva |
+| IRB 2026-22 | 086fac25660e5525 | Sin publicar aún |
+| CC RI 26-08 | 70167f7182155f94 | Sin publicar aún |
+| BI RI 26-05 | 8ba1238132925398 | Sin publicar aún |
+| DA 26-02 | 9bf7117566fd6317 | Sin publicar aún |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (16 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Pagos iniciando antes del 31-may-2026 (15 días). Enlace SURI activo para registro bancario (plazo: 30-oct-2026).
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-12/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (46 días).
+
+---
+
 ## 2026-05-16 — CORRIDA #136 (06:00 AST)
 
 **Hora corrida:** 2026-05-16 10:00 UTC / 2026-05-16 06:00 AST
