@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-05-16 — CORRIDA #138 (15:00 AST)
+
+**Hora corrida:** 2026-05-16 19:02 UTC / 2026-05-16 15:02 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Host not in allowlist"). Digest no entregado.
+**seen.txt:** 150 IDs totales (+1: DA 26-01, descartada por antigüedad)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (ya en seen.txt); 26-08 sin publicar aún
+- Hacienda PR — DA: 26-01 detectada por primera vez (ID 35264db882c36dca), pero publicada 06-feb-2026 (99 días) → descartada por regla >30 días; añadida a seen.txt. 26-02 sin publicar.
+- Hacienda PR — BI RI: hasta 26-04 (ya en seen.txt)
+- Hacienda PR — Comunicados: candidatos mayo 2026 ya en seen.txt (hacienda.pr.gov devuelve 403 en fetches directos)
+- SURI: sin avisos nuevos indexados públicamente
+- IRS — IRB 2026-21: ya en seen.txt; IRB 2026-22 aún no publicada (confirmado)
+- IRS — Notices/RR/RP mayo 2026 con relevancia PR: ninguna detectada
+- GAO-26-107225 (PR IRS oversight): ya en seen.txt
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas
+- DDEC: sin órdenes nuevas en mayo 2026
+- OCIF: sin emisiones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|----------------|
+| DA 26-01 / DDEC 2026-01 (prórroga IANE Ley 60) | 35264db882c36dca | Publicada 06-feb-2026 (99 días > límite 30 días). Añadida a seen.txt. |
+| Microjuris 13-may (cheque SURI orientación) | 7b4d20051d57062c | Fuente secundaria; cobertura primaria (BI RI 26-04 + comunicado Hacienda) ya en seen.txt |
+| IRB 2026-22 | 086fac25660e5525 | Sin publicar aún |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (16 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[URGENTE] BI RI 26-04 — Cheque Para Ti RC 06-2026:** SURI link activo. Registro bancario hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08 / DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-22: sin publicar aún.
+
+---
+
 ## 2026-05-16 — CORRIDA #137 (10:00 AST)
 
 **Hora corrida:** 2026-05-16 14:02 UTC / 2026-05-16 10:02 AST
