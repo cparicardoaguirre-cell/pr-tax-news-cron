@@ -2,6 +2,47 @@
 
 ---
 
+## 2026-05-15 — CORRIDA #135 (22:00 AST)
+
+**Hora corrida:** 2026-05-16 02:05 UTC / 2026-05-15 22:05 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 "Forbidden"). Digest preparado pero no entregado.
+**seen.txt:** 148 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (ya en seen.txt); 26-08 sin publicar aún
+- Hacienda PR — BI RI: hasta 26-04 (ya en seen.txt); 26-05 sin publicar aún
+- Hacienda PR — DA: hasta 26-01 (ya en seen.txt); 26-02 sin publicar aún
+- Hacienda PR — Comunicados: todos los URLs recientes ya en seen.txt (hacienda.pr.gov devuelve 403 en fetches directos)
+- SURI: sin avisos nuevos para mayo 2026; BI RI 26-04 (enlace bancario cheque) ya en seen.txt
+- IRS — IRB 2026-21: sin publicar aún (esperado ~19-may-2026, 3 días); máximo publicado: IRB 2026-20 (ya en seen.txt)
+- IRS — Notices/RP PR-relacionados: Rev. Proc. 2026-14 (QOZ PR) ya en seen.txt; ninguno nuevo
+- Tribunal Apelativo PR: lexjuris.com devuelve 403; búsqueda sin sentencias tributarias nuevas en mayo 2026
+- DDEC: DDEC 2026-002 ya en seen.txt (11-mar-2026); sin órdenes nuevas
+- OCIF: propuesta reglamento abr-2026 (>30 días + no contributivo); sin emisiones relevantes nuevas
+
+### Candidatos evaluados y descartados:
+| Item | ID | Razón descarte |
+|------|----|---------------|
+| CC FP 1300-28-26 | 26344408c3f0d6cf | Ya en seen.txt |
+| Ley 38-2026 (Microjuris 21-mar) | a95d6806ef62018e | Ya en seen.txt |
+| CC FP 1300-19-26 (13-ene-2026) | 7c5d27ba31e46b7a | >30 días; además es Finanzas Públicas (gov), no política contributiva |
+| Comunicados reintegros $144M, $200M | d0c51ec9f8b1653f / aa982e965c190e67 | Ya en seen.txt |
+| SURI enlace bancario (11-may) | fb62656d7ae22c59 | Ya en seen.txt |
+| "Cierre de operaciones" Hacienda | 0cba58d595a50371 | Fecha no verificable (URL 403); contexto sugiere COVID-era — descartado por ambigüedad |
+| PH: cambios fechas planilla (primerahora) | 62986cfa99c5f24c | Fuente secundaria; artículo 403; "contempla" = no oficial aún — descartado |
+| IRS La Familia Nunca Muere | — | Caso criminal, no política fiscal |
+| IRB 2026-21 | 2dbf1b7e7f3b4229 | Sin publicar aún |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (16 días). Solo SC 2745 rev. 27-mar-2026 válido a partir de esa fecha.
+- **[URGENTE] RC 06-2026 — Cheque para Ti:** Pagos iniciando antes del 31-may-2026 (15 días). Enlace SURI activo para registro bancario (plazo: 30-oct-2026).
+- **[PENDIENTE]** CC RI 26-08, BI RI 26-05, DA 26-02: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-21: sin publicar aún (esperado ~19-may-2026, 3 días).
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): ventana nominación Gobernador PR abre 1-jul-2026 (46 días).
+
+---
+
 ## 2026-05-15 — CORRIDA #134 (18:00 AST)
 
 **Hora corrida:** 2026-05-15 22:00 UTC / 18:00 AST
