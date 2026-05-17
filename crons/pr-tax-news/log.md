@@ -2,6 +2,43 @@
 
 ---
 
+## 2026-05-16 — CORRIDA #140 (22:00 AST)
+
+**Hora corrida:** 2026-05-17 02:12 UTC / 2026-05-16 22:12 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 Forbidden). Digest preparado pero no entregado.
+**seen.txt:** 150 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: Confirmado hasta CC RI 26-07 (20-abr-2026, en seen.txt); CC RI 26-08 sin publicar aún
+- Hacienda PR — DA: DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar; hacienda.pr.gov devuelve 403 en fetches directos
+- Hacienda PR — BI RI: Hasta BI RI 26-04 en seen.txt; BI RI 26-05 sin publicar/indexar
+- Hacienda PR — Comunicados: Sin nuevos comunicados detectados post-12-may-2026; hacienda.pr.gov devuelve 403 en fetches directos
+- SURI: Sin avisos nuevos indexados públicamente
+- IRS — IRB 2026-22: Sin publicar (esperado lunes 18-may-2026); IRB 2026-19 a 26-21 ya en seen.txt
+- IRS — Notices/RR/RP mayo 2026 con relevancia PR: Ninguna detectada
+- Tribunal Apelativo PR: Sin sentencias tributarias nuevas en mayo 2026
+- DDEC: Sin órdenes nuevas; DDEC 2026-001 y 2026-002 ya en seen.txt
+- OCIF: Sin emisiones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| Act 38-2026 (Extensión Act 60 hasta 2055, firmada ~20-mar-2026) | >30 días (58 días); buscar en seen.txt |
+| Reforma Contributiva — Leyes 177-180/2025 (firmadas dic-2025) | >30 días |
+| PS 912 Senado (Reforma Contributiva Fase 2) | No confirmada aprobación; Senado aún evaluando; fuente no accesible (403) |
+| DDEC 2026-002 (guías PE funds, 11-mar-2026) | Ya en seen.txt |
+| Comunicados Hacienda reintegros (may-2026) | Informativos operacionales, no política contributiva; ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (15 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[URGENTE] BI RI 26-04 — Cheque Para Ti RC 06-2026:** SURI link activo. Registro bancario hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08 / DA 26-02 / BI RI 26-05: Sin publicar aún.
+- **[PENDIENTE]** IRB 2026-22: Esperado lunes 18-may-2026.
+- **[PENDIENTE]** Act 38-2026 QOZ-PR / OBBBA: Ventana 90 días Governor para nominar nuevas zonas inicia 1-jul-2026.
+
+---
+
 ## 2026-05-16 — CORRIDA #139 (18:00 AST)
 
 **Hora corrida:** 2026-05-16 22:14 UTC / 2026-05-16 18:14 AST
