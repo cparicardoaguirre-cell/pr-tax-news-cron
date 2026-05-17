@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-05-17 — CORRIDA #142 (10:00 AST)
+
+**Hora corrida:** 2026-05-17 14:00 UTC / 2026-05-17 10:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 Forbidden). Digest preparado pero no entregado.
+**seen.txt:** 150 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (en seen.txt); CC RI 26-08 sin publicar aún
+- Hacienda PR — DA: DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar
+- Hacienda PR — BI RI: hasta 26-04 (en seen.txt); BI RI 26-05 sin publicar
+- Hacienda PR — Comunicados: último 12-may-2026 (en seen.txt); sin nuevos comunicados post-12-may detectados
+- SURI: sistema en mantenimiento genérico; sin aviso nuevo indexado públicamente
+- IRS — IRB 2026-21: existe pero sin contenido PR confirmable; IRB 2026-22 sin publicar (esperado 18-may-2026)
+- IRS — Notices/RR/RP con relevancia PR: ninguna detectada
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas en mayo 2026
+- DDEC: sin órdenes nuevas; DDEC 2026-001 y 2026-002 ya en seen.txt
+- OCIF: sin emisiones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| Comunicados reintegros Hacienda (Feb-Abr 2026: $200M, $144M, $156M, $200M+) | Informativos operacionales, no política contributiva; todos >30 días o ya en seen.txt |
+| SURI mantenimiento genérico | Sin aviso formal publicado |
+| IRB 2026-21 | Sin contenido Puerto Rico verificable |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (15 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[URGENTE] BI RI 26-04 — Cheque Para Ti RC 06-2026:** Enlace SURI activo desde 11-may-2026. Registro bancario hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08 / DA 26-02 / BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-22: esperado lunes 18-may-2026.
+- **[PENDIENTE]** Act 38-2026 QOZ-PR: ventana 90 días Governor para nominar nuevas zonas inicia 1-jul-2026.
+
+---
+
 ## 2026-05-17 — CORRIDA #141 (06:00 AST)
 
 **Hora corrida:** 2026-05-17 10:00 UTC / 2026-05-17 06:00 AST
