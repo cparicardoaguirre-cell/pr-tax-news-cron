@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-17 — CORRIDA #144 (18:00 AST)
+
+**Hora corrida:** 2026-05-17 22:07 UTC / 2026-05-17 18:07 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 Forbidden). Digest preparado pero no entregado.
+**seen.txt:** 150 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: hasta 26-07 (en seen.txt); CC RI 26-08 sin publicar aún
+- Hacienda PR — DA: DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar
+- Hacienda PR — BI RI: hasta 26-04 (08-may-2026, en seen.txt); BI RI 26-05 sin publicar
+- Hacienda PR — Comunicados: último 12-may-2026 (en seen.txt); sin nuevos comunicados post-12-may detectados (13-17 may verificado)
+- SURI: sin avisos nuevos indexados públicamente
+- IRS — IRB 2026-21 (en seen.txt); IRB 2026-22 sin publicar (esperado lunes 18-may-2026)
+- IRS — Sin Notices/Revenue Rulings/Announcements nuevos aplicables a PR detectados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas mayo 2026
+- DDEC: DDEC 2026-002 (11-mar-2026) >30 días, descartado; sin órdenes nuevas
+- OCIF: sin emisiones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| Hacienda — "Exitoso cierre de Ciclo Contributivo" (99%) | Abril 15, 2026 — >30 días (32 días) |
+| Hacienda — "Hacienda cierra ciclo contributivo" (1.2M planillas) | Abril 15, 2026 — >30 días (32 días) |
+| CC RI 26-08 / DA 26-02 / BI RI 26-05 | Sin publicar aún — no existe URL verificable |
+| IRB 2026-22 | Sin publicar aún — esperado 18-may-2026 |
+| DDEC 2026-002 (fondos capital privado Act 60) | Publicado 11-mar-2026, >30 días (67 días) |
+| Comunicados Hacienda reintegros (may-12 en adelante) | Ya en seen.txt |
+
+### Seguimiento activo:
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (15 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[URGENTE] BI RI 26-04 — Cheque Para Ti RC 06-2026:** Enlace SURI activo desde 11-may-2026. Desembolsos iniciando antes de fin de mayo. Registro bancario hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-08 / DA 26-02 / BI RI 26-05: sin publicar aún.
+- **[PENDIENTE]** IRB 2026-22: esperado lunes 18-may-2026.
+- **[PENDIENTE]** Act 38-2026 / RP 2026-12 QOZ-PR: deadline nominación zonas — 28-oct-2026 (Gov. PR).
+
+---
+
 ## 2026-05-17 — CORRIDA #143 (15:00 AST)
 
 **Hora corrida:** 2026-05-17 19:09 UTC / 2026-05-17 15:09 AST
