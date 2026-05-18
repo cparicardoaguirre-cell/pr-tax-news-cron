@@ -2,6 +2,45 @@
 
 ---
 
+## 2026-05-18 — CORRIDA #146 (~15:00 AST)
+
+**Hora corrida:** 2026-05-18 UTC / ~15:00 AST
+**Items nuevos:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 Forbidden). Mismo comportamiento que corrida #145.
+**seen.txt:** 152 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta 26-08 en seen.txt |
+| Hacienda PR — DA | Sin nuevas; DA 26-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin comunicados nuevos hoy; todos en seen.txt |
+| SURI | Enlace alivio contributivo/cuentas (11-may) ya en seen.txt; sin nuevos |
+| IRS — IRB | IRB 2026-21 en seen.txt; IRB 2026-22 sin publicar |
+| IRS — Notices/RP PR | RP 2026-14 (QOZ/PR) ya en seen.txt; nada nuevo |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas; Sagardía = constitucional |
+| DDEC | Sin nuevas órdenes post-DDEC 2026-01 |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados y descartados:
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| SURI enlace cuenta bancaria alivio (11-may) | fb62656d7ae22c59 | Ya en seen.txt |
+| SURI enlace actualizar cuenta $600 | 2a7116c416db9283 | Ya en seen.txt |
+| IRS RP 2026-14 PDF (QOZ PR) | c8284271cb54ba4a | Ya en seen.txt |
+| IRS IRB 2026-15 | db227ba305f789da | Ya en seen.txt |
+| IRS IRB 2026-20 | 07c101a18876f0e9 | Ya en seen.txt |
+| IRS IRB 2026-21 | 2dbf1b7e7f3b4229 | Ya en seen.txt |
+| Comunicado cierre ciclo contributivo (15-abr) | b18ef078d5cae33f | Ya en seen.txt |
+| Comunicado reintegros $144M | d0c51ec9f8b1653f | Ya en seen.txt |
+| Comunicado reintegros $200M | aa982e965c190e67 | Ya en seen.txt |
+| IRS CTC Puerto Rico "May 14" | — | Contenido de 2022, no 2026 |
+
+---
+
 ## 2026-05-18 — CORRIDA #145 (~10:00 AST)
 
 **Hora corrida:** 2026-05-18 UTC / ~10:00 AST
