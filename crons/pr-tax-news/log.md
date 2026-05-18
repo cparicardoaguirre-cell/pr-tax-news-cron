@@ -2,6 +2,69 @@
 
 ---
 
+## 2026-05-18 — CORRIDA #149 (~18:00 AST)
+
+**Hora corrida:** 2026-05-18 ~22:00 UTC / ~18:00 AST
+**Items nuevos:** 0 (sin publicaciones nuevas encontradas)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). 5to fallo consecutivo para CC RI 26-08.
+**seen.txt:** 152 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; última publicada es CC RI 26-08 (en seen.txt línea 151) |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin comunicados nuevos post-12-may-2026; todos ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado) |
+| IRS — IRB 2026-22 | Sin publicar aún (403 / no indexado) |
+| IRS — Notices/RP PR | Sin nuevos que apliquen a PR |
+| DDEC — Órd. Adm. 2026-002 | Publicada ~24-mar-2026 (~55 días) → filtrada por regla 30 días |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados y descartados:
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-08 (re-envío) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (5to intento) |
+| BI RI 26-04 | 968f420c033b47cf | Ya en seen.txt (línea 142) |
+| DA 26-01 | 35264db882c36dca | Ya en seen.txt (línea 150) |
+| IRB 2026-15 | db227ba305f789da | Ya en seen.txt (línea 24) |
+| DDEC Ord. Adm. 2026-002 | — | Sin URL oficial verificable; ~55 días de publicado (>30 días) |
+| Comunicados reintegros (múltiples) | varios | Ya en seen.txt |
+| CC RI 26-09 | — | Sin publicar |
+| BI RI 26-05 | — | Sin publicar |
+| DA 26-02 | — | Sin publicar |
+| IRB 2026-22 | — | Sin publicar |
+
+### Digest preparado (no entregado — Telegram bloqueado en sandbox):
+
+```
+[URGENTE] CC RI 26-08 — Sin IVU: Preparación Temporada Ciclónica 2026
+(Re-envío corrida #149 — 5to intento de entrega)
+
+Período sin IVU: vie. 22-may (medianoche) — lun. 25-may-2026 (11:59pm AST)
+Hacienda PR establece período libre de IVU para artículos de preparación
+ante la temporada ciclónica 2026. QUEDAN 4 DÍAS.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+
+================================
+Fuentes revisadas: 9 | Items: 0 | seen.txt: 152 IDs totales
+Próxima corrida: 22:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026 (QUEDAN 4 DÍAS). Telegram nunca entregado (5 intentos: #145, #146, #147, #148, #149). Delivery pendiente. api.telegram.org bloqueado por sandbox (HTTPError 403).
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09: sin publicar.
+- **[PENDIENTE]** BI RI 26-05: sin publicar.
+
+---
+
 ## 2026-05-18 — CORRIDA #148 (~15:00 AST)
 
 **Hora corrida:** 2026-05-18 ~19:00 UTC / ~15:00 AST
