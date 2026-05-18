@@ -2,6 +2,60 @@
 
 ---
 
+## 2026-05-18 — CORRIDA #147 (10:02 AST)
+
+**Hora corrida:** 2026-05-18 14:02 UTC / 10:02 AST
+**Items nuevos:** 0 (sin items nuevos; re-envío CC RI 26-08 no entregado corridas #145/#146)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 Forbidden). Corrida #147 de 3 fallos consecutivos para CC RI 26-08.
+**seen.txt:** 152 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin comunicados nuevos hoy post-17-may |
+| SURI | Sin avisos nuevos |
+| IRS — IRB | IRB 2026-22: sin publicar aún; hasta 2026-21 en seen.txt |
+| IRS — Notices/RP PR | Nada nuevo aplica a PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas |
+| DDEC | Sin nuevas órdenes post-DDEC 2026-001 |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados y descartados:
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-08 | 70167f7182155f94 | Ya en seen.txt (nuevo corrida #145); Telegram pendiente |
+| CC RI 26-09 | — | Sin publicar |
+| BI RI 26-05 | — | Sin publicar |
+| DA 26-02 | — | Sin publicar |
+| IRB 2026-22 | — | Sin publicar |
+| DDEC 2026-002 (PEF Act 60) | — | Publicado 11-mar-2026, >30 días |
+
+### Digest preparado (no entregado — Telegram bloqueado en sandbox):
+
+```
+[URGENTE] CC RI 26-08 — Ventas sin IVU: Preparación Temporada Ciclónica 2026
+Periodo: vie. 22-may (medianoche) a lun. 25-may-2026 (11:59pm AST)
+Artículos: generadores ≤$3,000, equipos solares emergencia, tanques/cisterna combustible/agua,
+alimentos no perecederos, tormenteras, materiales construcción (lonas/madera/zinc),
+linternas, baterías, radios portátiles, extintores, botiquines.
+Reglas: lay-away OK si pago final en período; internet/teléfono solo si pago Y entrega en período.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+```
+
+### Seguimiento activo:
+
+- **[URGENTE] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026. Telegram nunca entregado (3 intentos: #145, #146, #147). Delivery pendiente.
+- **[PENDIENTE]** IRB 2026-22: esperado ~19-may-2026.
+- **[PENDIENTE]** CC RI 26-09: sin publicar.
+- **[PENDIENTE]** BI RI 26-05: sin publicar.
+
+---
+
 ## 2026-05-18 — CORRIDA #146 (~15:00 AST)
 
 **Hora corrida:** 2026-05-18 UTC / ~15:00 AST
