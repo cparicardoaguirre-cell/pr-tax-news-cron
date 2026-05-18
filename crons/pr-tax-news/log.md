@@ -2,6 +2,53 @@
 
 ---
 
+## 2026-05-18 — CORRIDA #145 (~10:00 AST)
+
+**Hora corrida:** 2026-05-18 UTC / ~10:00 AST
+**Items nuevos:** 1 (+ 1 comunicado asociado → 2 IDs agregados a seen.txt)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403 Forbidden / Host not in allowlist). Digest preparado pero no entregado.
+**seen.txt:** 152 IDs totales (era 150, +2)
+
+### Items nuevos detectados:
+
+| # | ID | Tipo | Número | Fecha | Urgente |
+|---|-----|------|--------|-------|---------|
+| 1 | 70167f7182155f94 | CC RI | 26-08 | 2026-05-17 | SI — periodo 22-25 may |
+| 2 | 3906bcee4f9cc3bd | Comunicado Hacienda | (relativo a CC RI 26-08) | 2026-05-17 | — |
+
+### Digest preparado (no enviado):
+
+```
+[URGENTE] CC RI 26-08 — Ventas sin IVU para articulos de preparacion ante la
+temporada ciclonica (22-25 mayo 2026).
+Periodo: viernes 22 de mayo (medianoche) al lunes 25 de mayo (11:59pm) AST.
+Articulos: generadores hasta $3,000, equipos solares, tanques gas/agua, linternas,
+baterias, tormenteras, alimentos no perecederos, extintores, botiquines, radios
+portátiles, materiales de construccion para proteccion (lonas, madera, zinc).
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+```
+
+### Fuentes revisadas:
+- Hacienda PR — CC RI: **26-08 NUEVA** (publicada 17-may-2026); 26-07 y anteriores en seen.txt
+- Hacienda PR — DA: DA 26-01/DDEC 2026-01 en seen.txt; sin nuevas
+- Hacienda PR — BI RI: hasta 26-04 en seen.txt; BI RI 26-05 sin publicar
+- Hacienda PR — Comunicados: **comunicado IVU 26-08 NUEVO** (17-may-2026); anteriores en seen.txt
+- SURI: sin avisos nuevos indexados públicamente
+- IRS — IRB hasta 2026-21 en seen.txt; IRB 2026-22 sin publicar
+- IRS — Sin Notices/Revenue Rulings/Announcements nuevos aplicables a PR detectados
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas (caso Sagardía = info contributiva, no resolución de fondo)
+- DDEC: sin nuevas órdenes en 2026 detectadas post-002
+- OCIF: sin emisiones contributivas
+
+### Candidatos evaluados y descartados:
+| Item | Razón descarte |
+|------|----------------|
+| Microjuris 13-may "orientan sobre SURI Alivio" | Artículo noticioso secundario; BI RI 26-04 (fuente oficial) ya en seen.txt |
+| IRB 2026-22 | Sin publicar aún |
+| BI RI 26-05 | Sin publicar aún |
+
+---
+
 ## 2026-05-17 — CORRIDA #144 (18:00 AST)
 
 **Hora corrida:** 2026-05-17 22:07 UTC / 2026-05-17 18:07 AST
