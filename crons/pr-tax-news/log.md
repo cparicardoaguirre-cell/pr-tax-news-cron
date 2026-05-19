@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-05-19 — CORRIDA #153 (~15:07 AST)
+
+**Hora corrida:** 2026-05-19 19:07 UTC / 15:07 AST
+**Items nuevos:** 0 (sin publicaciones nuevas desde corrida #152)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **9no fallo consecutivo.** CRÍTICO: IVU holiday inicia en 3 días y el CPA nunca ha recibido el alerta.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01 / DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Último: 17-may-2026 (ff46669b0e03db0d, en seen.txt). Sin nuevos hoy. |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado) |
+| IRS — IRB 2026-21 | Ya en seen.txt (2dbf1b7e7f3b4229); sin relevancia PR |
+| IRS — IRB 2026-22 | No publicado aún |
+| IRS — Notices/RP PR | Sin nuevos que apliquen a PR |
+| DDEC | DDEC 2026-002 en seen.txt (>30 días) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados:
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-08 (9no re-envío Telegram) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (9no intento) |
+| Comunicado IVU temporada ciclónica | ff46669b0e03db0d | Ya en seen.txt; Telegram bloqueado (9no intento) |
+| CC RI 26-09 | — | No publicada |
+| BI RI 26-05 | — | No publicada |
+| DA 26-02 | — | No publicada |
+| IRB 2026-22 | — | No publicado |
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026. **QUEDAN 3 DÍAS. Telegram NUNCA entregado (9 intentos: #145–#153). api.telegram.org bloqueado por sandbox (HTTPError 403). ACCIÓN REQUERIDA: el bloqueo de red del sandbox impide cualquier entrega.** El CPA nunca ha recibido esta alerta crítica.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09: sin publicar.
+- **[PENDIENTE]** BI RI 26-05: sin publicar.
+- **[PENDIENTE]** DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-19 — CORRIDA #152 (~10:08 AST)
 
 **Hora corrida:** 2026-05-19 14:08 UTC / 10:08 AST
