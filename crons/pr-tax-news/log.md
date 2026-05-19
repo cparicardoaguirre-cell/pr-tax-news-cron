@@ -2,6 +2,55 @@
 
 ---
 
+## 2026-05-19 — CORRIDA #151 (~06:00 AST)
+
+**Hora corrida:** 2026-05-19 ~10:00 UTC / ~06:00 AST
+**Items nuevos:** 0 (sin publicaciones nuevas encontradas)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). 7mo fallo consecutivo para CC RI 26-08.
+**seen.txt:** 152 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; CC RI 26-07 y 26-08 ya en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01 / DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Último comunicado: 12-may-2026 (en seen.txt). Sin nuevos post-18-may-2026 |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado) |
+| IRS — IRB 2026-22 | Sin publicar aún (403 / no indexado) |
+| IRS — IRB 2026-21 | Ya en seen.txt (2dbf1b7e7f3b4229); EA SEE fees / dyed fuel, sin relevancia PR |
+| IRS — Notices/RP PR | Sin nuevos que apliquen a PR |
+| DDEC — Órd. Adm. 2026-002 | Publicada ~mar-2026 (~56 días) → filtrada (>30 días) |
+| Tribunal Apelativo PR | Sagardía (constitucional-contributivo) ya en seen.txt; sin nuevas sentencias tributarias |
+| OCIF | Sin emisiones contributivas |
+| SURI | Enlace Alivio Contributivo activo hasta 30-oct-2026; sin avisos de mantenimiento nuevos |
+
+### Candidatos evaluados y descartados:
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-09 | 9f55e75af4dc33f2 | URL no publicada (sin resultados en búsqueda) |
+| CC RI 26-07 | d93bc80580f7b2d4 | Ya en seen.txt |
+| CC RI 26-08 (reintento) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (7mo intento) |
+| IRB 2026-22 | 086fac25660e5525 | No publicado (403) — Regla 1: descartar |
+| Comunicado IVU uniformes escolares | 9665e3b16402320b | URL nueva, pero publicado ~dic-2025 → >30 días |
+| Hacienda PDF recaudos mayo | 0cf8e3a604ea5220 | No es publicación normativa; 403 Forbidden |
+| IRS Form 1040-SS instrucciones 2025 | 6e01e7257ff9faf9 | Formulario estático, no publicación normativa 2026 |
+| DA 26-01 / DDEC 2026-01 | 35264db882c36dca | Ya en seen.txt |
+| DDEC 2026-002 | — | >30 días (publicada ~mar-2026); ya en log anterior |
+| IRS IRB 2026-15 (LIHTC) | db227ba305f789da | Ya en seen.txt |
+
+### Seguimiento activo:
+
+- **[URGENTE] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026 (QUEDAN ~3 DÍAS). Telegram NUNCA entregado (7 intentos: #145–#151). api.telegram.org bloqueado por sandbox (HTTPError 403). CRÍTICO: si el sandbox no permite conexiones salientes a Telegram, este mensaje no llegará antes del inicio del período.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09: sin publicar.
+- **[PENDIENTE]** BI RI 26-05: sin publicar.
+- **[PENDIENTE]** DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-18 — CORRIDA #150 (~22:00 AST)
 
 **Hora corrida:** 2026-05-19 02:05 UTC / 2026-05-18 ~22:05 AST
