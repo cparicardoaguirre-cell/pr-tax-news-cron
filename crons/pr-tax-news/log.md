@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-05-19 — CORRIDA #154 (~18:17 AST)
+
+**Hora corrida:** 2026-05-19 22:16 UTC / 18:16 AST
+**Items nuevos:** 0 (sin publicaciones nuevas desde corrida #153)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **10mo fallo consecutivo.** CRÍTICO: IVU holiday inicia en 4 días (23-may) y el CPA NUNCA ha recibido el alerta.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas (búsqueda exhaustiva esta corrida):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 ya en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA | DA 26-01 / DDEC 2026-01 en seen.txt; DA 26-02 sin publicar |
+| Hacienda PR — BI RI | BI RI 26-03, 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Hasta 17-may-2026 indexados. Sin nuevos hoy. |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado) |
+| SURI | Sin avisos nuevos de mantenimiento o formularios |
+| IRS — IRB 2026-21 | 2dbf1b7e7f3b4229 en seen.txt; sin relevancia PR |
+| IRS — IRB 2026-22 | No publicado aún |
+| IRS — Notices/RP/Rev.Rul. PR | Sin nuevos aplicables a PR en IRB 2026-19/20/21 |
+| DDEC | DDEC 2026-001, 002 en seen.txt |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados (NUEVO hash, finalmente descartados por edad o ambigüedad):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| AAFAF — Ley Act 60 tasa 4% | 12a46082480ac280 | Firmada 10-mar-2026 (>30 días) |
+| IRS — Ajustes inflación 2026 + OBBBA | 4a9718a8554eeaab | Publicado oct-2025 (>30 días) |
+| IRS — OBBBA Provisions page | 8494bd2d6d6a2055 | OBBBA firmado jul-2025 (>30 días) |
+| Senado aprueba Reforma Contributiva | 3e93a2a974b49a3f | Fecha incierta; página 403, contenido ambiguo — DESCARTADO (regla 1) |
+| Hacienda CP — Gobernador somete proyecto | 20cbaf8075f619db | Era Pierluisi (>30 días, fuera de alcance) |
+| CC FP 1300-19-26 (Finanzas Públicas) | 7c5d27ba31e46b7a | Ene-2026 (>30 días); no Rentas Internas |
+| IRS — IRB 2026-21 | 2dbf1b7e7f3b4229 | En seen.txt; sin relevancia PR |
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 23-26 mayo 2026. **QUEDAN 4 DÍAS. Telegram NUNCA entregado (10 intentos: #144–#154). api.telegram.org bloqueado por sandbox (HTTPError 403). ACCIÓN REQUERIDA: activar acceso de red o configurar webhook alternativo.**
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-19 — CORRIDA #153 (~15:07 AST)
 
 **Hora corrida:** 2026-05-19 19:07 UTC / 15:07 AST
