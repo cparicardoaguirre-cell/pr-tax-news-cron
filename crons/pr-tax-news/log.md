@@ -2,6 +2,53 @@
 
 ---
 
+## 2026-05-18 — CORRIDA #150 (~22:00 AST)
+
+**Hora corrida:** 2026-05-19 02:05 UTC / 2026-05-18 ~22:05 AST
+**Items nuevos:** 0 (sin publicaciones nuevas encontradas)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). 6to fallo consecutivo para CC RI 26-08.
+**seen.txt:** 152 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin comunicados nuevos post-18-may-2026; todos ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado) |
+| IRS — IRB 2026-19 | Ya en seen.txt (df544114d10dc0e0); solo AFR rates, sin contenido PR-específico |
+| IRS — IRB 2026-20 (Rev. Proc. 2026-14) | Ya en seen.txt (07c101a18876f0e9, c8284271cb54ba4a); QOZ PR provisions verificadas en corrida anterior |
+| IRS — IRB 2026-21 | Ya en seen.txt (2dbf1b7e7f3b4229); EA SEE fees / dyed fuel, sin relevancia PR |
+| DDEC — Ley 38-2026 / Act 60 ext. 2055 | Publicada ~mar-2026 (~60 días) → filtrada por regla 30 días; ya en seen.txt |
+| GAO-26-107225 (IRS/Act 60 oversight) | Publicada dic-2025 (>150 días) → filtrada |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados y descartados:
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| IRB 2026-20 (Rev. Proc. 2026-14 QOZ PR) | 07c101a18876f0e9 | Ya en seen.txt |
+| IRB 2026-19 (AFR rates) | df544114d10dc0e0 | Ya en seen.txt; sin contenido PR-específico |
+| IRB 2026-21 (EA SEE / dyed fuel) | 2dbf1b7e7f3b4229 | Ya en seen.txt |
+| CC RI 26-08 (re-envío Telegram) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (6to intento) |
+| Hacienda comunicados (múltiples) | varios | Ya en seen.txt |
+| DA 26-01 | 35264db882c36dca | Ya en seen.txt |
+| DDEC Ley 38-2026 | — | >30 días (publicada ~mar-2026) |
+| GAO-26-107225 | — | >150 días (publicada dic-2025) |
+
+### Seguimiento activo:
+
+- **[URGENTE] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026 (QUEDAN ~3.5 DÍAS). Telegram nunca entregado (6 intentos: #145–#150). Delivery pendiente. api.telegram.org bloqueado por sandbox (HTTPError 403).
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09: sin publicar.
+- **[PENDIENTE]** BI RI 26-05: sin publicar.
+- **[PENDIENTE]** DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-18 — CORRIDA #149 (~18:00 AST)
 
 **Hora corrida:** 2026-05-18 ~22:00 UTC / ~18:00 AST
