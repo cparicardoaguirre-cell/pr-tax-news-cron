@@ -2,6 +2,58 @@
 
 ---
 
+## 2026-05-19 — CORRIDA #152 (~10:08 AST)
+
+**Hora corrida:** 2026-05-19 14:08 UTC / 10:08 AST
+**Items nuevos:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). 8vo fallo consecutivo.
+**seen.txt:** 153 IDs totales
+
+### Items nuevos encontrados:
+
+| Item | Hash SHA256 (16c) | Fecha | Estado Telegram |
+|------|-------------------|-------|-----------------|
+| [URGENTE] Hacienda PR — Comunicado IVU holiday temporada ciclónica 22-25 may-2026 | ff46669b0e03db0d | 2026-05-17 | NO ENTREGADO (sandbox bloquea Telegram) |
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; últimas conocidas: 26-08 (seen.txt), 26-07 (seen.txt) |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Comunicado IVU temporada ciclónica (17-may-2026) → NUEVO (ff46669b0e03db0d) |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado) |
+| IRS — IRB 2026-20 (QOZ/Rev.Proc.2026-14) | 07c101a18876f0e9 ya en seen.txt |
+| IRS — IRB 2026-21 | No publicado aún |
+| IRS — Notices/RP PR | Sin nuevos que apliquen a PR |
+| DDEC | DDEC 2026-002 en seen.txt (>30 días) |
+| Tribunal Apelativo PR | Sagardía (constitucional-contributivo) ya en seen.txt; sin nuevas sentencias tributarias |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados:
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| SURI comunicado — cuentas bancarias Alivio Contributivo (may-8) | fb62656d7ae22c59 | Ya en seen.txt |
+| IRB 2026-20 / Rev. Proc. 2026-14 (QOZ PR) | 07c101a18876f0e9 | Ya en seen.txt |
+| CC RI 26-08 página oficial (IVU holiday) | 70167f7182155f94 | Ya en seen.txt |
+| CC RI 26-09 | — | No publicada |
+| BI RI 26-05 | — | No publicada |
+| DA 26-02 | — | No publicada |
+| IRB 2026-21 | — | No publicado |
+
+### Seguimiento activo:
+
+- **[URGENTE] Comunicado Hacienda — IVU holiday temporada ciclónica (22-25 may-2026):** Período IVU-libre inicia en 3 DÍAS. Item nuevo en este ciclo (ff46669b0e03db0d), pero Telegram NO entregado (8vo fallo del sandbox). CC RI 26-08 es la circular de referencia.
+- **[URGENTE] CC RI 26-08 — IVU holiday:** ID 70167f7182155f94, en seen.txt desde corrida anterior. Telegram NUNCA entregado (8 intentos: #144–#152).
+- **[PENDIENTE]** IRB 2026-21: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09: sin publicar.
+- **[PENDIENTE]** BI RI 26-05: sin publicar.
+- **[PENDIENTE]** DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-19 — CORRIDA #151 (~06:00 AST)
 
 **Hora corrida:** 2026-05-19 ~10:00 UTC / ~06:00 AST
