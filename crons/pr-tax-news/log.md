@@ -2,6 +2,51 @@
 
 ---
 
+## 2026-05-19 — CORRIDA #155 (~22:09 AST)
+
+**Hora corrida:** 2026-05-19 ~22:09 AST (slot 10pm)
+**Items nuevos:** 0 (sin publicaciones nuevas)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **11mo fallo consecutivo.** CRÍTICO: IVU holiday inicia en 2 días (22-may-2026). El CPA NUNCA ha recibido el alerta.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas (búsqueda exhaustiva esta corrida):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01 / DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin nuevos post-17-may-2026; todos ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado) |
+| SURI | Sin avisos nuevos de mantenimiento o formularios |
+| IRS — IRB 2026-22 | No publicado aún (IRB 2026-21 sigue siendo el más reciente) |
+| IRS — Notices/RP/Rev.Rul. PR | Sin nuevos aplicables a PR |
+| DDEC | DDEC 2026-001 y 2026-002 en seen.txt; sin órdenes nuevas en mayo 2026 |
+| Tribunal Apelativo PR | Caso Sagardía (ya en seen.txt); sin sentencias tributarias nuevas |
+| OCIF | Sin emisiones contributivas |
+| Colegio CPA | 403 Forbidden; búsquedas indirectas: hasta CC RI 26-08 confirmado |
+
+### Candidatos evaluados (descartados):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-09 | — | No publicada (sin resultados en búsqueda) |
+| BI RI 26-05 | — | No publicada (sin resultados en búsqueda) |
+| DA 26-02 | — | No publicada (sin resultados en búsqueda) |
+| IRB 2026-22 | — | No publicado; IRB 2026-21 sigue siendo el último |
+| IRS Rev.Proc. 2026-14 (QOZ/PR) | 07c101a18876f0e9 | Ya en seen.txt |
+| DDEC 2026-002 (fondos capital privado) | — | Publicado 11-mar-2026 (>30 días) |
+| Caso Sagardía / Junta Fiscal - Tribunal | — | Ya en seen.txt; no es resolución contributiva nueva |
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026. **QUEDAN 2 DÍAS. Telegram NUNCA entregado (11 intentos: #145–#155). api.telegram.org bloqueado por sandbox (HTTPError 403). ACCIÓN REQUERIDA: activar acceso de red o configurar webhook alternativo.**
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (12 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-19 — CORRIDA #154 (~18:17 AST)
 
 **Hora corrida:** 2026-05-19 22:16 UTC / 18:16 AST
