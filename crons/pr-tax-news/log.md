@@ -2,6 +2,74 @@
 
 ---
 
+## 2026-05-20 — CORRIDA #160 (~22:09 AST)
+
+**Hora corrida:** 2026-05-20 22:09 AST (slot 10pm)
+**Items nuevos:** 0 (sin publicaciones nuevas)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **16° fallo consecutivo.** CRÍTICO: IVU holiday inicia MAÑANA (22-may-2026). El CPA NUNCA ha recibido el alerta.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01/DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin nuevos post-17-may-2026; ambos comunicados IVU (ff46669b0e03db0d, 3906bcee4f9cc3bd) ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin avisos nuevos de mantenimiento o formularios indexados |
+| IRS — IRB 2026-22 | No publicado (más reciente confirmado: 2026-21) |
+| IRS — Bona fide residency enforcement | Tax Court caso Karakashian v. Commissioner (petición 27-abr-2026): no es documento oficial IRS publicado; sin número Notice asignable → DESCARTADO (Regla 1/2) |
+| DDEC | DDEC 2026-001 y 2026-002 en seen.txt (>30 días); sin órdenes nuevas |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas; caso Sagardía ya en seen.txt |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados (todos ya en seen.txt o descartados):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| Comunicado IVU holiday — "ventas-exentas" | 3906bcee4f9cc3bd | Ya en seen.txt |
+| Comunicado IVU holiday — "para-fin-de-mes" | ff46669b0e03db0d | Ya en seen.txt |
+| CC RI 26-09 | — | No publicada (sin resultados) |
+| BI RI 26-05 | — | No publicada (sin resultados) |
+| DA 26-02 | — | No publicada (sin resultados) |
+| IRB 2026-22 | — | No publicado (no aparece indexado; último confirmado: 2026-21) |
+| Karakashian v. Commissioner / IRS enforcement Act 60 | — | Caso de Tax Court y deficiency notice privada; sin número oficial de Notice IRS publicable; sin URL oficial IRS → DESCARTADO (Reglas 1 y 2) |
+
+### Digest preparado (no entregado — Telegram bloqueado en sandbox):
+
+```
+[URGENTE] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+MANANA (vie. 22-may-2026 medianoche) inicia periodo SIN IVU.
+Periodo: vie. 22-may-2026 (12:00am) -- lun. 25-may-2026 (11:59pm AST)
+Articulos elegibles: generadores hasta $3,000, equipos solares emergencia,
+tanques agua/combustible, alimentos no perecederos, tormenteras,
+materiales construccion (lonas/madera/zinc), linternas, baterias,
+radios portatiles, extintores, botiquines, herramientas asegurar propiedad.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 -- SC 2745: Deadline 1-jun-2026 (12 dias).
+Solo se acepta SC 2745 rev. 27-mar-2026.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+CORRIDA #160 -- Sin publicaciones nuevas (20-may-2026 22:09 AST)
+================================
+Fuentes revisadas: 9 | Items: 0 | seen.txt: 153 IDs totales
+Proxima corrida: 06:00 AST (21-may-2026)
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026. **COMIENZA MAÑANA (vie. 22-may). Telegram NUNCA entregado (16 intentos: #145–#160). api.telegram.org bloqueado por sandbox (HTTPError 403). ACCIÓN REQUERIDA.**
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (12 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[INFO] IRS enforcement Act 60:** Caso Tax Court Karakashian v. Commissioner (petición 27-abr-2026) — tendencia de enforcement en residencia bona fide PR. Pendiente publicación de IRS guidance oficial (notice/rev.rul.) para incluir en digest.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-20 — CORRIDA #159 (~18:00 AST)
 
 **Hora corrida:** 2026-05-20 18:00 AST (slot 6pm)
