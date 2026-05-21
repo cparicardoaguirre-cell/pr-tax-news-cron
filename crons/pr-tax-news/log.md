@@ -2,6 +2,81 @@
 
 ---
 
+## 2026-05-21 — CORRIDA #162 (~10:08 AST)
+
+**Hora corrida:** 2026-05-21 10:08 AST (slot 10am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox ("Host not in allowlist"). **18° fallo consecutivo.** CRÍTICO: IVU holiday COMIENZA MAÑANA (22-may-2026 medianoche). CPA AÚN NO HA RECIBIDO NINGÚN ALERTA.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01/DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin nuevos comunicados verificables post-17-may-2026 en hacienda.pr.gov |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Fallas operacionales 20-may-2026 por balances Alivio Contributivo; sin aviso formal nuevo en seen |
+| IRS — IRB 2026-22 | No publicado (último confirmado: 2026-21, ya en seen.txt) |
+| IRS — Notices PR | Sin nuevos applicables; Notice 2026-22 (Priority Guidance) sin relevancia PR → DESCARTADA |
+| DDEC | Sin órdenes nuevas (>30 días); DDEC 2026-001/002 en seen.txt |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas; caso Sagardía ya en seen.txt |
+| Tribunal Supremo PR | Sin decisiones tributarias nuevas |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados (todos ya en seen.txt o descartados):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-08 (IVU holiday) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (18° intento) |
+| Comunicado IVU holiday v1 "ventas-exentas" | 3906bcee4f9cc3bd | Ya en seen.txt |
+| Comunicado IVU holiday v2 "para-fin-de-mes" | ff46669b0e03db0d | Ya en seen.txt |
+| DDEC OA 2026-002 (fondos capital privado) | 6ebc986dff173b8a | 11-mar-2026 = >30 días → DESCARTADO |
+| SURI IVU no-penalidades sec. Pantoja | — | Solo declaraciones escritas a prensa; sin URL hacienda.pr.gov verificable → DESCARTADO (Regla 1) |
+| "secretario-interino" no-penalidades | b496893b92009617 | Ambiguo — URL posiblemente de era integración SURI (no may-2026) → DESCARTADO (Regla 1) |
+| "secretario hacienda nuevas fechas" | b9e3ea32577b7fc2 | Ambiguo — podría ser COVID-era → DESCARTADO (Regla 1) |
+| CC RI 26-09 | — | Sin publicar |
+| BI RI 26-05 | — | Sin publicar |
+| DA 26-02 | — | Sin publicar |
+| IRB 2026-22 | — | Sin publicar |
+
+### Digest preparado (no entregado — api.telegram.org en allowlist del sandbox, HTTPError 403):
+
+```
+[URGENTE] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+MANANA comienza (vie. 22-may-2026 12:00am AST)
+Periodo: vie 22-may → lun 25-may 2026 (11:59pm AST)
+Articulos elegibles: generadores hasta $3,000, equipos solares emergencia,
+tanques agua/combustible, alimentos no perecederos, tormenteras,
+zinc/madera, linternas, baterias, radios portatiles, extintores, botiquines.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (11 dias)
+Solo se acepta SC 2745 rev. 27-mar-2026. Versiones anteriores rechazadas.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+SURI (operacional, 20-may-2026): Fallas portal por balances Alivio Contributivo.
+Sec. Pantoja: comerciantes tienen hasta 29-may-2026 sin penalidades para planilla IVU abril.
+---
+CORRIDA #162 — Sin publicaciones nuevas (21-may-2026 10:08 AST)
+================================
+Fuentes revisadas: 9 | Items nuevos: 0 | seen.txt: 153 IDs totales
+Proxima corrida: 15:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. COMIENZA MAÑANA (medianoche).** Telegram NUNCA entregado (18 intentos: #145–#162). api.telegram.org bloqueado en sandbox ("Host not in allowlist"). ACCIÓN REQUERIDA: configurar allowlist o usar webhook alternativo.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (11 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[OPERACIONAL]** SURI fallas 20-may: IVU abril extendido a 29-may-2026 sin penalidades (dec. escritas Sec. Pantoja, no publicación formal).
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-21 — CORRIDA #161 (~06:00 AST)
 
 **Hora corrida:** 2026-05-21 06:00 AST (slot 6am)
