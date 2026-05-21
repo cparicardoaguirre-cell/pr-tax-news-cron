@@ -2,6 +2,75 @@
 
 ---
 
+## 2026-05-21 — CORRIDA #161 (~06:00 AST)
+
+**Hora corrida:** 2026-05-21 06:00 AST (slot 6am)
+**Items nuevos:** 0 (sin publicaciones nuevas)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **17mo fallo consecutivo.** CRÍTICO: IVU holiday COMIENZA HOY (22-may-2026 medianoche → lun. 25-may-2026). El CPA NUNCA ha recibido el alerta.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01/DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin nuevos post-17-may-2026; último: comunicados IVU ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Mantenimiento por balances Alivio Contributivo; sin aviso formal nuevo |
+| IRS — IRB 2026-22 | No publicado (confirmado: último indexado es 2026-21) |
+| IRS — Notices PR | Sin nuevos aplicables a PR (Notice 2026-22: Priority Guidance; Notice 2026-23: energía — sin relevancia PR) |
+| DDEC | DDEC 2026-001 y 2026-002 en seen.txt (>30 días); sin órdenes nuevas |
+| Tribunal Apelativo PR | Caso Sagardía (constitucional, no tributario) ya evaluado; sin sentencias nuevas |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados (todos ya en seen.txt o descartados):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-08 (IVU holiday) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (17mo intento) |
+| Comunicado IVU holiday v1 | ff46669b0e03db0d | Ya en seen.txt |
+| Comunicado IVU holiday v2 | 3906bcee4f9cc3bd | Ya en seen.txt |
+| CC RI 26-09 | — | No publicada (sin resultados en búsqueda) |
+| BI RI 26-05 | — | No publicada |
+| DA 26-02 | — | No publicada |
+| IRS IRB 2026-22 | — | No publicado (403 en WebFetch; no indexado en búsquedas) |
+| IRS Notice 2026-22 | — | Priority Guidance Plan; sin relevancia PR → DESCARTADA (Regla 3) |
+| IRS Notice 2026-23 | — | Energía/PFE; sin relevancia PR → DESCARTADA (Regla 3) |
+| SURI fallas/mantenimiento (may-2026) | — | Operacional, no publicación normativa → DESCARTADO (Regla 1) |
+| DDEC 2026-002 (fondos capital privado) | — | Publicado 11-mar-2026 (>30 días); ya evaluado |
+
+### Digest preparado (no entregado — Telegram bloqueado en sandbox):
+
+```
+[URGENTE] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+HOY INICIA (vie. 22-may-2026 12:00am) — lun. 25-may-2026 11:59pm AST
+Articulos elegibles: generadores hasta $3,000, equipos solares emergencia,
+tanques agua/combustible, alimentos no perecederos, tormenteras,
+materiales construccion (lonas/madera/zinc), linternas, baterias,
+radios portatiles, extintores, botiquines.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (11 dias).
+Solo se acepta SC 2745 rev. 27-mar-2026.
+---
+CORRIDA #161 — Sin publicaciones nuevas (21-may-2026 06:00 AST)
+================================
+Fuentes revisadas: 9 | Items: 0 | seen.txt: 153 IDs totales
+Proxima corrida: 10:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. COMIENZA HOY (medianoche).** Telegram NUNCA entregado (17 intentos: #145–#161). api.telegram.org bloqueado por sandbox (HTTPError 403). ACCIÓN REQUERIDA INMEDIATA.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (11 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-20 — CORRIDA #160 (~22:09 AST)
 
 **Hora corrida:** 2026-05-20 22:09 AST (slot 10pm)
