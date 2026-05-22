@@ -2,6 +2,72 @@
 
 ---
 
+## 2026-05-22 — CORRIDA #169 (~18:12 AST)
+
+**Hora corrida:** 2026-05-22 22:12 UTC / 18:12 AST (slot 6pm)
+**Items nuevos:** 1 (comunicado IVU ciclónica — URL distinta al CC RI 26-08 ya en seen.txt)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox ("Host not in allowlist"). **25° fallo consecutivo.** CRÍTICO: IVU holiday **ACTIVO HOY (Días 1-4: 22-25 may-2026)**. CPA AÚN NO HA RECIBIDO NINGUNA ALERTA VÍA TELEGRAM.
+**seen.txt:** 154 IDs totales (+1: `0d3caeb89daa24fd`)
+
+### Fuentes revisadas (9 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01/DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | 1 nuevo: comunicado IVU ciclónica (URL distinta a CC RI 26-08) |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin avisos nuevos; fallas operacionales mayo 20-22 por Alivio Contributivo |
+| IRS — IRB 2026-21 | No relevante PR (dyed fuel); IRB 2026-22 aún no publicado |
+| DDEC / OCIF | Sin órdenes nuevas >30 días |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| Comunicado Hacienda IVU ciclónica (may-17) | `0d3caeb89daa24fd` | **NUEVO** — añadido a seen.txt |
+| CC RI 26-08 (IVU holiday, base legal) | `70167f7182155f94` | Ya en seen.txt |
+| BI RI 26-04 | `968f420c033b47cf` | Ya en seen.txt |
+| IRS IRB 2026-20 (QOZ PR) | `07c101a18876f0e9` | Ya en seen.txt |
+| Act 38-2026 (Procopio art.) | `cd3d0a8d4e28da07` | Ley firmada ~mar-2026 (>30 días) → DESCARTADO |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[URGENTE] — MONITOR NOVEDADES CONTRIBUTIVAS PR
+Corrida: 22 mayo 2026 | 18:12 AST
+
+[URGENTE] HACIENDA PR — COMUNICADO
+Período libre de IVU: Artículos preparación temporada ciclónica
+Fecha: 2026-05-17 | Base legal: CC RI 26-08
+Período exento: 22–25 mayo 2026 (HOY hasta lunes 11:59pm AST)
+Secretario Ángel Pantoja Rodríguez anunció exención IVU para artículos
+y equipo de preparación para temporada huracanes 2026. Artículos elegibles:
+generadores portátiles (hasta $3,000), baterías, linternas, alimentos
+no perecederos, equipos mantenimiento solar, tormenteras.
+Impacto fiscal estimado: $7.1 millones.
+NOTA: Comerciantes sin domicilio en PR (Amazon et al.) NO aplican.
+⚠ DEADLINE: Vence lunes 25 mayo 2026 23:59 AST (3 días)
+URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/hacienda-anuncia-ventas-sin-ivu-para-articulos-de-preparacion-ante-la-temporada-ciclonica
+---
+================================
+Fuentes: 9 | Items: 1 | seen.txt: 154 IDs
+Proxima corrida: 22:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday:** Período **22-25 mayo 2026 (ACTIVO HOY, Día 1)**. Telegram nunca entregado (25 intentos: #145–#169). ACCIÓN REQUERIDA: agregar `api.telegram.org` al allowlist de red del entorno Claude Code web.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (10 días). Solo se acepta SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+- **[PENDIENTE]** Act 38-2026: extensión Act 60 a 2055, tasa 4% desde ene-2027. Requiere acción antes dic-2026.
+
+---
+
 ## 2026-05-22 — CORRIDA #168 (~15:00 AST)
 
 **Hora corrida:** 2026-05-22 15:00 AST (slot 3pm)
