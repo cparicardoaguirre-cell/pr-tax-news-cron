@@ -2,6 +2,77 @@
 
 ---
 
+## 2026-05-22 — CORRIDA #168 (~15:00 AST)
+
+**Hora corrida:** 2026-05-22 15:00 AST (slot 3pm)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **24° fallo consecutivo.** CRÍTICO: IVU holiday **ACTIVO HOY (Día 1)** (22-25 may-2026). CPA AÚN NO HA RECIBIDO NINGÚN ALERTA.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01/DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin nuevos post-17-may-2026; todos los comunicados IVU ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB 2026-22 | No publicado (403/no indexado; último confirmado: 2026-21) |
+| IRS — Notices PR | Sin nuevos aplicables a PR |
+| DDEC | DDEC 2026-001/002 en seen.txt (>30 días); sin órdenes nuevas |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas; Sagardía ya en seen.txt |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados (todos ya en seen.txt o sin publicar):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-08 (IVU holiday) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (24° intento) |
+| BI RI 26-04 (Cheque Alivio) | 968f420c033b47cf | Ya en seen.txt |
+| BI RI 26-03 (SC 2745) | 95eac451c9f2ca38 | Ya en seen.txt |
+| IRS IRB 2026-20 (QOZ PR) | 07c101a18876f0e9 | Ya en seen.txt |
+| CC RI 26-09 | 9f55e75af4dc33f2 | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | 8ba1238132925398 | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | 9bf7117566fd6317 | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-22 | 086fac25660e5525 | Sin publicar (403/no indexado) → DESCARTADO (Regla 1) |
+| IRS Notice 2026-23 (Priority Guidance) | 28f3136bcb579ba9 | Sin relevancia PR → DESCARTADO (Regla 3) |
+| Tribunal Apelativo — Sagardía | 7b7b5d61c2b748da | Ya en seen.txt; no es resolución tributaria nueva |
+| DDEC OA 2026-002 | 6ebc986dff173b8a | 11-mar-2026 (>30 días) → DESCARTADO |
+
+### Digest (entregado en chat de Claude Code — Telegram bloqueado):
+
+```
+[URGENTE] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+ACTIVO HOY — Dia 1 de 4 (22-may-2026 hasta lun. 25-may-2026 11:59pm AST)
+Articulos elegibles: generadores hasta $3,000, equipos solares emergencia,
+tanques agua/combustible, alimentos no perecederos, tormenteras,
+materiales construccion (lonas/madera/zinc), linternas, baterias,
+radios portatiles, extintores, botiquines.
+NOTA: Amazon y comerciantes remotos SIN domicilio en PR NO aplican.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (10 dias)
+Solo se acepta SC 2745 rev. 27-mar-2026. Versiones anteriores rechazadas.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+CORRIDA #168 — Sin publicaciones nuevas (22-may-2026 15:00 AST)
+================================
+Fuentes revisadas: 9 | Items: 0 | seen.txt: 153 IDs totales
+Proxima corrida: 18:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. ACTIVO HOY (Día 1).** Telegram NUNCA entregado (24 intentos: #145–#168). api.telegram.org bloqueado en sandbox ("Host not in allowlist"). ACCIÓN REQUERIDA: configurar allowlist de red para api.telegram.org.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (10 días). Solo se acepta SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-22 — CORRIDA #167 (~10:05 AST) [MANUAL]
 
 **Hora corrida:** 2026-05-22 10:05 AST (disparo manual por CPA)
