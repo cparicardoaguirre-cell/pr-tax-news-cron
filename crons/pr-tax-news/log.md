@@ -2,6 +2,76 @@
 
 ---
 
+## 2026-05-22 — CORRIDA #167 (~10:05 AST) [MANUAL]
+
+**Hora corrida:** 2026-05-22 10:05 AST (disparo manual por CPA)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403 "Host not in allowlist"). **23° fallo consecutivo.** CRÍTICO: IVU holiday **ACTIVO HOY (Día 1)** (22-25 may-2026). Digest entregado directamente en chat de Claude Code.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01/DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin nuevos post-17-may-2026; todos los comunicados IVU ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB 2026-20 | En seen.txt (07c101a18876f0e9); Puerto Rico QOZ nominations |
+| IRS — IRB 2026-22 | No publicado (más reciente indexado: 2026-20) |
+| IRS — Notices PR | Sin nuevos aplicables a PR |
+| DDEC | DDEC 2026-001/002 en seen.txt; sin órdenes nuevas |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados (todos ya en seen.txt):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| CC RI 26-08 (IVU holiday) | 70167f7182155f94 | Ya en seen.txt; Telegram bloqueado (23° intento) |
+| BI RI 26-04 (Cheque Alivio) | 968f420c033b47cf | Ya en seen.txt |
+| IRS IRB 2026-20 (QOZ PR) | 07c101a18876f0e9 | Ya en seen.txt |
+| Comunicado cierra ciclo (12-may) | b18ef078d5cae33f | Ya en seen.txt |
+| BI RI 26-03 (SC 2745) | 95eac451c9f2ca38 | Ya en seen.txt |
+| CC RI 26-09 | — | Sin publicar |
+| BI RI 26-05 | — | Sin publicar |
+| DA 26-02 | — | Sin publicar |
+| IRB 2026-22 | — | Sin publicar |
+| OA DDEC 2026-002 | 6ebc986dff173b8a | 11-mar-2026 (>30 días) → DESCARTADO |
+
+### Digest (entregado en chat de Claude Code — Telegram bloqueado):
+
+```
+[URGENTE] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+PERIODO ACTIVO HOY (22-may-2026) — hasta lun. 25-may-2026 11:59pm AST
+Generadores hasta $3,000, equipos solares emergencia, tanques agua/combustible,
+alimentos no perecederos, tormenteras, materiales construccion (lonas/madera/zinc),
+linternas, baterias, radios portatiles, extintores, botiquines.
+NOTA: Amazon y comerciantes remotos SIN domicilio en PR NO aplican.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (10 dias)
+Solo se acepta SC 2745 rev. 27-mar-2026. Versiones anteriores rechazadas.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+CORRIDA #167 (manual) — Sin publicaciones nuevas (22-may-2026 10:05 AST)
+================================
+Fuentes revisadas: 11 | Items: 0 | seen.txt: 153 IDs totales
+Proxima corrida: 15:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. ACTIVO HOY (Día 1).** Telegram NUNCA entregado (23 intentos: #145–#167). api.telegram.org bloqueado en sandbox ("Host not in allowlist"). Digest entregado directamente en chat de Claude Code en corrida #167. ACCIÓN REQUERIDA: configurar allowlist de red para api.telegram.org.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (10 días). Solo se acepta SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-22 — CORRIDA #166 (~10:00 AST)
 
 **Hora corrida:** 2026-05-22 10:00 AST (slot 10am)
