@@ -2,6 +2,77 @@
 
 ---
 
+## 2026-05-22 — CORRIDA #165 (~06:00 AST)
+
+**Hora corrida:** 2026-05-22 06:00 AST (slot 6am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **21° fallo consecutivo.** CRÍTICO: IVU holiday **HA COMENZADO HOY** (22-25 may-2026). CPA AÚN NO HA RECIBIDO NINGÚN ALERTA.
+**seen.txt:** 153 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09: sin publicar; hasta CC RI 26-08 en seen.txt |
+| Hacienda PR — DA | DA 26-02: sin publicar; DA 26-01/DDEC 2026-01 en seen.txt |
+| Hacienda PR — BI RI | BI RI 26-05: sin publicar; hasta BI RI 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Sin nuevos post-17-may-2026; todos los comunicados IVU ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin avisos formales nuevos; fallas de sistema por Alivio Contributivo ya documentadas en corrida #162 |
+| IRS — IRB 2026-22 | No publicado (más reciente indexado: 2026-21, ya en seen.txt) |
+| IRS — Notices PR | Sin nuevos aplicables a PR |
+| DDEC | DDEC 2026-001/002 en seen.txt; sin órdenes nuevas |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas; LexJuris 403 |
+| OCIF | Sin emisiones contributivas |
+
+### Candidatos evaluados (todos ya en seen.txt o descartados):
+
+| Item | Hash SHA256 (16c) | Razón descarte |
+|------|-------------------|----------------|
+| Comunicado reintegros $200M "más" | aa982e965c190e67 | Ya en seen.txt |
+| Comunicado reintegros $144M "adicionales" | d0c51ec9f8b1653f | Ya en seen.txt |
+| Comunicado reintegros "primera nómina" (-0) | b97f531d3a99ba67 | Ya en seen.txt |
+| Comunicado reintegros "primera nómina" (sin -0) | 829074ef263032a5 | Mismo contenido que b97f531d3a99ba67; Feb/Mar-2026 → >30 días → DESCARTADO |
+| CC FP 1300-28-26 (Finanzas Públicas) | 26344408c3f0d6cf | Ya en seen.txt; además: FP, no RI; ene-2026 → >30 días |
+| CC RI 26-09 | — | Sin publicar (búsquedas sin resultados) |
+| BI RI 26-05 | — | Sin publicar |
+| DA 26-02 | — | Sin publicar |
+| IRB 2026-22 | — | Sin publicar (no indexado; más reciente: IRB 2026-21) |
+| DDEC 2026-003+ | — | Sin publicar (no encontrado) |
+| Tribunal Apelativo (mayo 2026) | — | Sin sentencias tributarias nuevas (LexJuris 403; búsquedas sin resultados) |
+
+### Digest preparado (no entregado — api.telegram.org bloqueado en sandbox):
+
+```
+[URGENTE] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+HOY ES EL PRIMER DIA (22-may-2026 — lun. 25-may-2026 11:59pm AST)
+Periodo libre de IVU ACTIVO. Articulos elegibles: generadores hasta $3,000,
+equipos solares emergencia, tanques agua/combustible, alimentos no perecederos,
+tormenteras, materiales construccion (lonas/madera/zinc), linternas, baterias,
+radios portatiles, extintores, botiquines.
+NOTA: Amazon y comerciantes remotos SIN domicilio en PR NO aplican.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (10 dias)
+Solo se acepta SC 2745 rev. 27-mar-2026. Versiones anteriores rechazadas.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+CORRIDA #165 — Sin publicaciones nuevas (22-may-2026 06:00 AST)
+================================
+Fuentes revisadas: 9 | Items: 0 | seen.txt: 153 IDs totales
+Proxima corrida: 10:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. ACTIVO HOY.** Telegram NUNCA entregado (21 intentos: #145–#165). api.telegram.org bloqueado en sandbox ("Host not in allowlist"). ACCIÓN REQUERIDA INMEDIATA: configurar allowlist de red o usar webhook alternativo.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (10 días). Solo se acepta SC 2745 rev. 27-mar-2026.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-21 — CORRIDA #164 (~18:00 AST)
 
 **Hora corrida:** 2026-05-21 18:00 AST (slot 6pm)
