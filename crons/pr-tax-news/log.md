@@ -2,6 +2,36 @@
 
 ---
 
+## 2026-05-22 — CORRIDA #170 (~22:09 AST)
+
+**Hora corrida:** 2026-05-23 02:09 UTC / 22:09 AST (slot 10pm)
+**Items nuevos (filtrados, enviables):** 0
+**Items descartados por antigüedad >30 días:** 1 (DDEC OA 2026-002)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox ("Host not in allowlist"). **26° fallo consecutivo.**
+**seen.txt:** 155 IDs totales (+1: `6ebc986dff173b8a` — DDEC OA 2026-002, añadido para evitar re-detección)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | Hasta CC RI 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA | DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar |
+| Hacienda PR — BI RI | BI RI 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Sin nuevos (cierre ciclo contributivo ya en seen.txt) |
+| IRS-PR | IRB 2026-20 y 2026-21 ya en seen.txt; 2026-22 aún no publicado |
+| DDEC | OA 2026-002 (fondos capital privado Ley 60) — publicado 11-mar-2026 (73 días) → DESCARTADO por >30 días |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| DDEC OA 2026-002 (fondos capital privado Ley 60) | `6ebc986dff173b8a` | NUEVO en seen.txt — DESCARTADO (73 días) |
+
+### ⚠️ PROBLEMA CRÍTICO PERSISTENTE:
+`api.telegram.org` bloqueado por la política de red del sandbox de Claude Code on the Web. CPA **no ha recibido ningún digest por Telegram** desde el inicio de las corridas remotas. Requiere configurar la política de red del entorno para incluir `api.telegram.org` en el allowlist, o migrar el cron a un entorno con acceso de red irrestricto (GitHub Actions, servidor propio, etc.).
+
+---
+
 ## 2026-05-22 — CORRIDA #169 (~18:12 AST)
 
 **Hora corrida:** 2026-05-22 22:12 UTC / 18:12 AST (slot 6pm)
