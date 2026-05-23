@@ -2,6 +2,88 @@
 
 ---
 
+## 2026-05-23 — CORRIDA #174 (~18:00 AST)
+
+**Hora corrida:** 2026-05-23 22:00 UTC / 18:00 AST (slot 6pm)
+**Items nuevos:** 1 (Comunicado Hacienda — Cuarto Informe Gastos Tributarios 2024)
+**IDs añadidos a seen.txt:** 1 (`2a1e3afe0ccfc02d`)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **30° fallo consecutivo.**
+**seen.txt:** 161 IDs totales (+1)
+
+### Fuentes revisadas (9 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | Hasta CC RI 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA | DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar |
+| Hacienda PR — BI RI | BI RI 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | **1 NUEVO:** PRTER-2024 (cuarto informe gastos tributarios, cobertura media ~5-may-2026) |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin aviso formal nuevo |
+| IRS — IRB 2026-22 | No publicado (no indexado; último confirmado: IRB 2026-21); esperado ~26-may-2026 |
+| IRS — Notices PR | Sin nuevos con relevancia PR (Section 933/Act 60/bona fide resident) |
+| DDEC / Tribunal / OCIF | DDEC OA 2026-002 en seen.txt (>30 días); sin sentencias tributarias nuevas |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| Hacienda — Cuarto Informe Gastos Tributarios 2024 | `2a1e3afe0ccfc02d` | **NUEVO** — añadido seen.txt; ~18 días (≤30 días) ✅ |
+| CC RI 26-09 | — | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | — | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-22 | `086fac25660e5525` | Sin publicar (no indexado) → DESCARTADO (Regla 1) |
+| DDEC OA 2026-002 | `6ebc986dff173b8a` | Ya en seen.txt (73+ días) |
+| Tribunal Apelativo PR — mayo 2026 | — | Sin sentencias tributarias nuevas |
+| IRS — Notices PR (Section 933 / Act 60) | — | Sin nuevos aplicables a PR |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[URGENTE] MONITOR NOVEDADES CONTRIBUTIVAS PR
+Corrida #174 | 23 mayo 2026 | ~18:00 AST
+
+=== 1 PUBLICACION NUEVA ===
+
+[HACIENDA PR - COMUNICADO] Cuarto Informe de Gastos Tributarios para Año Contributivo 2024 (PRTER-2024)
+Fecha: ~2026-05-01 (cobertura media: 5-may-2026)
+Hacienda PR publicó el Cuarto Informe de Gastos Tributarios para el Año Contributivo 2024,
+requerido por el Plan Fiscal certificado por la Junta de Supervisión Fiscal. El informe
+identifica 431 gastos contributivos activos y sus costos; los gastos tributarios en 2025
+ascendieron a $30,927 millones (~35.3% del PNB), casi triplicando el Presupuesto del Fondo
+General. Incluye proyecciones 2022-2026 y analiza exenciones, créditos y tasas preferenciales
+sin mecanismos formales de evaluación de impacto.
+URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/departamento-de-hacienda-publica-cuarto-informe-de-gastos-tributarios-2024
+---
+[URGENTE - Dia 2/4] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+Periodo libre de IVU HOY Y MANANA (vence lun. 25-may-2026 23:59 AST — 2 dias).
+Articulos elegibles: generadores (hasta $3,000), equipos solares emergencia,
+tanques agua/combustible, alimentos no perecederos, tormenteras,
+materiales construccion (lonas/madera/zinc), linternas, baterias,
+radios portatiles, extintores, botiquines.
+NOTA: Comerciantes sin domicilio en PR (Amazon et al.) NO aplican.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (9 dias)
+Solo se acepta formulario SC 2745 revision 27-mar-2026.
+Versiones anteriores rechazadas por SURI/Hacienda.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+================================
+Fuentes revisadas: 9 | Items: 1 | seen.txt: 161 IDs totales
+Proxima corrida: 22:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. ACTIVO HOY (Día 2/4). Vence lunes 25-may-2026 23:59 AST (2 días).** Telegram NUNCA entregado (30 intentos: #145–#174). api.telegram.org bloqueado en sandbox ("Host not in allowlist"). ACCIÓN REQUERIDA.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (9 días). Solo se acepta SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026 (lunes próximo).
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-23 — CORRIDA #173 (~15:00 AST)
 
 **Hora corrida:** 2026-05-23 19:00 UTC / 15:00 AST (slot 3pm)
