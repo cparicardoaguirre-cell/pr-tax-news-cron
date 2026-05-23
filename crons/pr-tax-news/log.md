@@ -2,6 +2,72 @@
 
 ---
 
+## 2026-05-23 — CORRIDA #171 (~06:04 AST)
+
+**Hora corrida:** 2026-05-23 10:04 UTC / 06:04 AST (slot 6am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **27° fallo consecutivo.**
+**seen.txt:** 155 IDs totales (sin cambios)
+
+### Fuentes revisadas (9 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | Hasta CC RI 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA | DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar |
+| Hacienda PR — BI RI | BI RI 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Sin nuevos post-22-may-2026; IVU holiday comunicados ya en seen.txt |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Fallas mayo anteriores documentadas; sin aviso nuevo formal |
+| IRS — IRB 2026-22 | No publicado (403 en irs.gov/irb/2026-22_IRB; no indexado) |
+| DDEC | OA 2026-001/002 en seen.txt (>30 días); sin órdenes nuevas |
+| Tribunal Apelativo PR | Sagardía (constitucional, no tributario nuevo) ya en seen.txt; sin sentencias nuevas |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | — | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | — | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-22 | — | Sin publicar (403 Forbidden) → DESCARTADO (Regla 1) |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[URGENTE] MONITOR NOVEDADES CONTRIBUTIVAS PR
+Corrida #171 | 23 mayo 2026 | 06:04 AST
+
+=== SIN PUBLICACIONES NUEVAS ===
+
+[URGENTE - Dia 2 de 4] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+Periodo libre de IVU ACTIVO HOY (Dia 2/4). Vence: lun. 25-may-2026 23:59 AST (2 dias).
+Articulos elegibles: generadores (hasta $3,000), equipos solares emergencia,
+tanques agua/combustible, alimentos no perecederos, tormenteras,
+materiales construccion (lonas/madera/zinc), linternas, baterias,
+radios portatiles, extintores, botiquines.
+NOTA: Comerciantes remotos sin domicilio en PR (Amazon et al.) NO aplican.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (9 dias)
+Solo se acepta formulario SC 2745 revision 27-mar-2026.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+================================
+Fuentes revisadas: 9 | Items: 0 | seen.txt: 155 IDs totales
+Proxima corrida: 10:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. ACTIVO HOY (Día 2/4). Vence lunes 25-may-2026.** Telegram NUNCA entregado (27 intentos: #145–#171). api.telegram.org bloqueado en sandbox ("Host not in allowlist"). ACCIÓN REQUERIDA.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (9 días). Solo se acepta SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-22 — CORRIDA #170 (~22:09 AST)
 
 **Hora corrida:** 2026-05-23 02:09 UTC / 22:09 AST (slot 10pm)
