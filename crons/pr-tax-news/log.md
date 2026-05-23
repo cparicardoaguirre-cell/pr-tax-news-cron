@@ -2,6 +2,80 @@
 
 ---
 
+## 2026-05-23 — CORRIDA #172 (~10:08 AST)
+
+**Hora corrida:** 2026-05-23 14:08 UTC / 10:08 AST (slot 10am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**IDs añadidos a seen.txt:** 1 (`b9a1b403b0055395` — comunicado IVU holiday URL variante "del-22-al-25-de-mayo", mismo contenido que `0d3caeb89daa24fd`; descartado del digest)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **28° fallo consecutivo.**
+**seen.txt:** 156 IDs totales (+1)
+
+### Fuentes revisadas (9 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | Hasta CC RI 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA | DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar |
+| Hacienda PR — BI RI | BI RI 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | 1 URL variante IVU holiday encontrada (slug "del-22-al-25-de-mayo"); mismo contenido → descartada del digest |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin aviso formal nuevo; mantenimiento documentado previo sin aviso indexado |
+| IRS — IRB 2026-21 | Más reciente confirmado (May 18, 2026; no relevante PR — dyed fuel); IRB 2026-22 sin publicar |
+| IRS — Notices PR | Notice 2026-23 (Priority Guidance/energía) sin relevancia PR; IRB 2026-13 (Sec. 911 foreign) sin relevancia PR |
+| DDEC / Tribunal / OCIF | DDEC OA 2026-002 ya en seen.txt (>30 días); Sagardía ya en seen.txt; sin sentencias tributarias nuevas |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| Comunicado IVU "del-22-al-25-de-mayo" (URL variante) | `b9a1b403b0055395` | **NUEVO** — añadido seen.txt; DESCARTADO del digest (duplicado de `0d3caeb89daa24fd`) |
+| CC RI 26-09 | — | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | — | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-22 | `086fac25660e5525` | Sin publicar (IRB más reciente: 2026-21) → DESCARTADO (Regla 1) |
+| IRS Notice 2026-23 | `28f3136bcb579ba9` | Sin relevancia PR → DESCARTADO (Regla 3) |
+| IRB 2026-15 (Credit Ceiling/Volume Cap) | — | Publicado ~6-abr-2026 (47 días) → DESCARTADO (>30 días) |
+| CC FP 1300-19-26 (Finanzas Públicas) | `7c5d27ba31e46b7a` | Fuera de scope (CC FP, no RI/PC) → DESCARTADO |
+| DDEC OA 2026-002 | `6ebc986dff173b8a` | Ya en seen.txt (73 días) |
+| Sagardía (Tribunal Apelativo) | `7b7b5d61c2b748da` | Ya en seen.txt; caso constitucional, no tributario nuevo |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[URGENTE] MONITOR NOVEDADES CONTRIBUTIVAS PR
+Corrida #172 | 23 mayo 2026 | 10:08 AST
+
+=== SIN PUBLICACIONES NUEVAS ===
+
+[URGENTE - Dia 2 de 4] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+Periodo libre de IVU ACTIVO HOY (Dia 2/4). Vence: lun. 25-may-2026 23:59 AST (2 dias).
+Articulos elegibles: generadores (hasta $3,000), equipos solares emergencia,
+tanques agua/combustible, alimentos no perecederos, tormenteras,
+materiales construccion (lonas/madera/zinc), linternas, baterias,
+radios portatiles, extintores, botiquines.
+NOTA: Comerciantes remotos sin domicilio en PR (Amazon et al.) NO aplican.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (9 dias)
+Solo se acepta formulario SC 2745 revision 27-mar-2026.
+Versiones anteriores rechazadas por SURI/Hacienda.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+================================
+Fuentes revisadas: 9 | Items: 0 | seen.txt: 156 IDs totales
+Proxima corrida: 15:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período **22-25 mayo 2026. ACTIVO HOY (Día 2/4). Vence lunes 25-may-2026 23:59 AST (2 días).** Telegram NUNCA entregado (28 intentos: #145–#172). api.telegram.org bloqueado en sandbox ("Host not in allowlist"). ACCIÓN REQUERIDA.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (9 días). Solo se acepta SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026 (próximo lunes).
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-23 — CORRIDA #171 (~06:04 AST)
 
 **Hora corrida:** 2026-05-23 10:04 UTC / 06:04 AST (slot 6am)
