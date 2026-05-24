@@ -2,6 +2,81 @@
 
 ---
 
+## 2026-05-23 — CORRIDA #175 (~22:00 AST)
+
+**Hora corrida:** 2026-05-24 02:06 UTC / 2026-05-23 22:06 AST (slot 10pm)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**IDs añadidos a seen.txt:** 1 (`2643a4e75b4f1bb9` — comunicado cuatrienio descartado, fecha ambigua)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTPError 403). **31° fallo consecutivo.**
+**seen.txt:** 162 IDs totales (+1)
+
+### Fuentes revisadas (9 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-08 en seen.txt (última); CC RI 26-09 sin publicar |
+| Hacienda PR — DA | DA 26-01/DDEC 2026-01 en seen.txt; DA 26-02 sin publicar |
+| Hacienda PR — BI RI | BI RI 26-04 en seen.txt (última); BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | "Informe resultados cuatrienio": URL nueva pero fecha ambigua/contenido previo a 2025 → DESCARTADO (Regla 1) |
+| Hacienda PR — Página índice | 403 Forbidden (WebFetch bloqueado por hacienda.pr.gov) |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB 2026-21 | En seen.txt; sin contenido PR-relevante (EA SEE fees / dyed fuel) |
+| IRS — IRB 2026-22 | No publicado (esperado ~26-may-2026) |
+| DDEC / Tribunal / OCIF | Sin publicaciones nuevas; OA 2026-002 ya en seen.txt |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| Comunicado "Informe resultados cuatrienio" | `2643a4e75b4f1bb9` | **NUEVO** en seen.txt — DESCARTADO (Regla 1: fecha ambigua, contenido parece ser de transición 2024, >30 días) |
+| IRB 2026-21 | `2dbf1b7e7f3b4229` | Ya en seen.txt; sin contenido PR-relevante → DESCARTADO |
+| IRB 2026-22 | — | Sin publicar (no indexado) → DESCARTADO (Regla 1) |
+| CC RI 26-09 | — | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | — | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| DDEC / Tribunal | — | Sin publicaciones nuevas |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+PR Tax News — Corrida #175 | 23 mayo 2026 | 22:06 AST
+
+Sin publicaciones nuevas en esta corrida.
+
+[URGENTE - Dia 4/4 HORAS FINALES] CC RI 26-08 — IVU HOLIDAY TEMPORADA CICLONICA
+Periodo libre de IVU vence manana lunes 25-may-2026 23:59 AST (2 dias restantes).
+Articulos elegibles: generadores (hasta $3,000), equipos solares emergencia, tanques agua/combustible,
+alimentos no perecederos, tormenteras, materiales construccion, linternas, baterias, radios portatiles,
+extintores, botiquines. NOTA: Comerciantes sin domicilio en PR (Amazon, etc.) NO aplican.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+---
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (9 dias)
+Solo se acepta formulario SC 2745 revision 27-mar-2026.
+Versiones anteriores rechazadas automaticamente por SURI/Hacienda.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+[HACIENDA PR - COMUNICADO] Cuarto Informe de Gastos Tributarios 2024 (PRTER-2024)
+Fecha: ~2026-05-01
+Hacienda PR publico el Cuarto Informe de Gastos Tributarios para Ano Contributivo 2024 (requerido por
+Plan Fiscal de la JSF). Identifica 431 gastos contributivos activos. Gastos tributarios 2025:
+$30,927 millones (~35.3% del PNB), casi triplicando el Presupuesto del Fondo General.
+URL: https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/departamento-de-hacienda-publica-cuarto-informe-de-gastos-tributarios-2024
+---
+================================
+Fuentes revisadas: 9 | Items nuevos: 0 | seen.txt: 162 IDs totales
+Proxima corrida: 06:00 AST (2026-05-24)
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE ⚠️⚠️⚠️] CC RI 26-08 — IVU holiday temporada ciclónica:** Período 22-25 mayo 2026. **VENCE MAÑANA lunes 25-may-2026 23:59 AST.** Telegram NUNCA entregado (31 intentos: #145–#175). api.telegram.org bloqueado en sandbox. ACCIÓN REQUERIDA.
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (9 días). Solo SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[PENDIENTE]** IRB 2026-22: esperado ~26-may-2026 (lunes).
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-23 — CORRIDA #174 (~18:00 AST)
 
 **Hora corrida:** 2026-05-23 22:00 UTC / 18:00 AST (slot 6pm)
