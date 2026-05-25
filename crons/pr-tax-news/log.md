@@ -2,6 +2,98 @@
 
 ---
 
+## 2026-05-25 — CORRIDA #181 (06:00 AST)
+
+**Hora corrida:** 2026-05-25 10:00 UTC / 06:00 AST (slot 6am)
+**Items nuevos:** 1 (CC RI 26-10 — Cheque de Alivio Contributivo RC 06-2026)
+**IDs añadidos a seen.txt:** 1 (`f0afefe2a3165779`)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **37° fallo consecutivo.**
+**seen.txt:** 166 IDs totales (+1)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | **CC RI 26-10 NUEVA** (Cheque Alivio RC 06-2026, ~18-may-2026); CC RI 26-09 sin publicar |
+| Hacienda PR — DA/BI | DA 26-02 sin publicar; BI RI 26-05 sin publicar; DA 26-01 y BI RI 26-04 ya en seen.txt |
+| Hacienda PR — Comunicados | Página 403; comunicados del desembolso Cheque para Ti sin URL hacienda.pr.gov directo en resultados |
+| IRS — IRB | IRB 2026-22 ya en seen.txt; IRB 2026-23 → 403 Forbidden (sin publicar) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en mayo 2026 |
+| DDEC / OCIF | OA 2026-002 ya en seen.txt (>30 días); sin nuevas órdenes |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-10 (Cheque Alivio RC 06-2026) | `f0afefe2a3165779` | **NUEVO** — añadido seen.txt; incluido en digest (confirmado por 5+ fuentes de medios; URL no indexada aún) |
+| hacienda.pr.gov/alivio-contributivo | `44e450cb09f0c49d` | 403 Forbidden; página general → DESCARTADO (Regla 1); no añadido a seen.txt (seguir monitoreando) |
+| IRB 2026-23 | `de3fea1de5eaf980` | 403 Forbidden; sin publicar → DESCARTADO (Regla 1); no añadido a seen.txt |
+| CC RI 26-09 | `9f55e75af4dc33f2` | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | — | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| Comunicado desembolso Cheque para Ti (may-20) | — | URL hacienda.pr.gov no encontrado en indexación → DESCARTADO (Regla 1) |
+| IRS — bona fide resident / Section 933 | — | Sin nuevos 2026 aplicables a PR |
+| DDEC OA 2026-002 | `6ebc986dff173b8a` | Ya en seen.txt (>75 días) |
+| Tribunal Apelativo mayo 2026 | — | Sin sentencias tributarias nuevas |
+
+### Items nuevos del Digest:
+
+**[HACIENDA PR - CC RI] CC RI 26-10 — Cheque de Alivio Contributivo RC 06-2026**
+- URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-10-cc-ri-26-10
+- Hash: `f0afefe2a3165779`
+- Fecha publicación: ~2026-05-18 (confirmada por medios; JSF aprobó la CC antes del 20-may-2026)
+- Contenido: CC RI 26-10 establece reglas, elegibilidad y proceso de distribución del Cheque de Alivio Contributivo para trabajadores y clase media (RC 06-2026). Aplica a contribuyentes con planilla 2025 radicada on/before 15-abr-2026, residentes en PR durante 2025, ingreso neto ≤$150,000. Desembolsos: depósito directo (cuenta en planilla 2025) o registrando cuenta en SURI hasta 30-oct-2026. Al 22-may-2026: $345.6M desembolsados a 589,857 contribuyentes. Montos: $400–$4,000 + $2,500/dependiente.
+- Nota: URL no indexada por Google aún (hacienda.pr.gov bloquea crawlers); contenido verificado por 5+ fuentes de medios independientes (Primerahora, Noticel, Metro PR, El Vocero, Wapa) y por JSF approval publicado por El Vocero.
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+MONITOR NOVEDADES CONTRIBUTIVAS PR
+Corrida #181 | 25 mayo 2026 | 06:00 AM AST
+
+==================================================
+1 PUBLICACION NUEVA
+==================================================
+
+[HACIENDA PR - CC RI] CC RI 26-10 — Cheque de Alivio Contributivo RC 06-2026
+Fecha: ~2026-05-18 (publicada antes del 20-may-2026)
+La Carta Circular de Rentas Internas Num. 26-10 establece reglas, elegibilidad
+y proceso de distribucion del Cheque de Alivio Contributivo para trabajadores y
+clase media (RC 06-2026), aprobada por la Junta de Supervision Fiscal (JSF).
+Aplica a contribuyentes con planilla 2025 radicada on/before 15-abr-2026,
+residentes en PR durante todo 2025, ingreso neto sujeto a contribucion igual o
+menor a $150,000. Pagos: deposito directo a cuenta provista en planilla 2025;
+sin cuenta en planilla — registrar en SURI hasta el 30-oct-2026. Al 22-may-2026
+Hacienda habia desembolsado $345.6M a 589,857 contribuyentes (pagos diarios).
+Montos: $400-$4,000 por contribuyente; $2,500 por dependiente menor de 18.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-10-cc-ri-26-10
+---
+
+RECORDATORIO DEADLINES ACTIVOS:
+[URGENTE - 7 DIAS] BI RI 26-03 — SC 2745: Deadline 1-jun-2026.
+Solo se acepta formulario SC 2745 revision 27-mar-2026.
+Versiones anteriores rechazadas automaticamente por SURI/Hacienda.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[ACTIVO] RC 06-2026 Cheque Alivio: Desembolsos en curso. Registro SURI hasta 30-oct-2026.
+[VENCIDO] CC RI 26-08 — IVU holiday ciclonica: Vencio el 25-may-2026 23:59 AST.
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 166 IDs totales
+Proxima corrida: 10:00 AM AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (7 días). Solo SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[ACTIVO] RC 06-2026 Cheque Alivio:** CC RI 26-10 publicada ~18-may-2026. Desembolsos en curso. Registro SURI hasta 30-oct-2026.
+- **[VENCIDO]** CC RI 26-08 — IVU holiday ciclónica: Venció el 25-may-2026 23:59 AST.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+- **[PENDIENTE]** IRB 2026-23: no publicado.
+
+---
+
 ## 2026-05-24 — CORRIDA #180 (22:08 AST)
 
 **Hora corrida:** 2026-05-25 02:08 UTC / 22:08 AST (slot 10pm)
