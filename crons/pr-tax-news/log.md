@@ -2,6 +2,86 @@
 
 ---
 
+## 2026-05-25 — CORRIDA #184 (18:00 AST)
+
+**Hora corrida:** 2026-05-25 22:00 UTC / 18:00 AST (slot 6pm)
+**Items nuevos:** 1
+**IDs añadidos a seen.txt:** 1 (`44e450cb09f0c49d`)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **40° fallo consecutivo.** Digest preparado pero no entregado.
+**seen.txt:** 167 IDs totales
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-08 a 26-10 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; DA 26-02 sin publicar; BI RI 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados/Páginas | hacienda.pr.gov/alivio-contributivo NUEVO — inicio de pagos RC 06-2026 verificado vía múltiples fuentes de medios |
+| IRS — IRB | IRB 2026-22 en seen.txt; IRB 2026-23 sin publicar |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas confirmadas para mayo 2026 |
+| DDEC / OCIF | Sin órdenes nuevas (última: OA 2026-002, >75 días); OCIF sin publicaciones contributivas |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| hacienda.pr.gov/alivio-contributivo | `44e450cb09f0c49d` | **NUEVO** — inicio de pagos RC 06-2026 confirmado (20-may-2026): $100.3M + $245M + $200M ≈ $545M desembolsados |
+| CC RI 26-09 | `9f55e75af4dc33f2` | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | `8ba1238132925398` | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar → DESCARTADO (Regla 1) |
+| CC RI 26-10 (Cheque Alivio RC 06-2026) | `f0afefe2a3165779` | Ya en seen.txt |
+| IRB 2026-22 | `086fac25660e5525` | Ya en seen.txt |
+| DDEC OA 2026-002 | `6ebc986dff173b8a` | Ya en seen.txt (>75 días) |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+🇵🇷 PR TAX NEWS — Corrida #184 | 2026-05-25 | 18:00 AST
+
+[URGENTE] CC RI 26-08 — IVU Exención Preparación Huracanes
+VENCE HOY 25-may-2026 a las 11:59 p.m. La exención aplica a artículos
+y equipos de preparación para huracanes. IVU aplica normalmente desde mañana.
+https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-08-cc-ri-26-08
+
+[URGENTE] BI RI 26-03 — SC 2745: Deadline 1-jun-2026 (7 días)
+Solo se acepta el formulario SC 2745 revisado del 27-mar-2026 a partir del 1-jun.
+https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+---
+
+[HACIENDA PR - ACTUALIZACIÓN] RC 06-2026 — "Cheque para Ti": Inicio de pagos
+Fecha: 2026-05-20
+El Departamento de Hacienda inició el desembolso del Alivio Contributivo
+(RC 06-2026) el 20-may-2026. Primera nómina: $100.3M a 221,381 contribuyentes.
+Rondas adicionales: ~$245M y ~$200M adicionales. Total aproximado desembolsado:
+~$545M de los $554M asignados, beneficiando a 589,857+ contribuyentes. El portal
+SURI experimentó fallas momentáneas el 20-may por alto tráfico; operativo ahora.
+Contribuyentes sin cuenta bancaria pueden registrarse en SURI hasta 30-oct-2026.
+https://hacienda.pr.gov/alivio-contributivo
+
+---
+
+[SEGUIMIENTO] Rev. Proc. 2026-14 / OBBBA — QOZ Puerto Rico
+Gobernador PR puede nominar nuevas QOZs a partir del 1-jul-2026 (37 días).
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 167 IDs totales
+Próxima corrida: 22:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE - 7 DÍAS]** BI RI 26-03 — SC 2745: Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[ACTIVO]** RC 06-2026 "Cheque para Ti": Pagos iniciados 20-may-2026. ~$545M de $554M desembolsados. Enlace SURI hasta 30-oct-2026.
+- **[VENCIDO HOY]** CC RI 26-08 — IVU holiday ciclónica: Vence 25-may-2026 23:59 AST.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+- **[PENDIENTE]** IRB 2026-23: sin publicar.
+- **[SEGUIMIENTO]** QOZ PR (OBBBA): Gobernador puede nominar desde 1-jul-2026 (37 días).
+
+---
+
 ## 2026-05-25 — CORRIDA #183 (15:00 AST)
 
 **Hora corrida:** 2026-05-25 19:00 UTC / 15:00 AST (slot 3pm)
