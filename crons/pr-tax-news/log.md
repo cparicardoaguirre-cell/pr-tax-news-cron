@@ -2,6 +2,78 @@
 
 ---
 
+## 2026-05-25 — CORRIDA #182 (10:00 AST)
+
+**Hora corrida:** 2026-05-25 14:00 UTC / 10:00 AST (slot 10am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**IDs añadidos a seen.txt:** 0 (sin cambios)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **38° fallo consecutivo.**
+**seen.txt:** 166 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-10 ya en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA/BI | DA 26-02 sin publicar; BI RI 26-05 sin publicar; todos anteriores ya en seen.txt |
+| Hacienda PR — Comunicados | Página 403; comunicados "SURI enlace" (`fb62656d7ae22c59`) y "$144M reintegros" (`d0c51ec9f8b1653f`) ya en seen.txt |
+| IRS — IRB | IRB 2026-22 ya en seen.txt; IRB 2026-23 → 403 Forbidden (sin publicar) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en mayo 2026 (Sagardía ya en seen.txt) |
+| DDEC / OCIF | OA 2026-002 ya en seen.txt (>75 días); sin nuevas órdenes |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | `9f55e75af4dc33f2` | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | `8ba1238132925398` | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-23 | `de3fea1de5eaf980` | 403 Forbidden; sin publicar → DESCARTADO (Regla 1) |
+| Comunicado "SURI enlace alivio" | `fb62656d7ae22c59` | Ya en seen.txt |
+| Comunicado "$144M reintegros" | `d0c51ec9f8b1653f` | Ya en seen.txt |
+| CC FP 1300-28-26 | `26344408c3f0d6cf` | Ya en seen.txt |
+| DDEC OA 2026-002 | `6ebc986dff173b8a` | Ya en seen.txt (>75 días) |
+| Tribunal Apelativo — Sagardía | `7b7b5d61c2b748da` | Ya en seen.txt; constitucional, no tributario nuevo |
+| IRS bona fide resident / Section 933 | — | Sin nuevos notices aplicables a PR |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+MONITOR NOVEDADES CONTRIBUTIVAS PR
+Corrida #182 | 25 mayo 2026 | 10:00 AM AST
+
+=== SIN PUBLICACIONES NUEVAS ===
+
+[URGENTE - 7 DIAS] BI RI 26-03 - SC 2745: Deadline 1-jun-2026
+Solo se acepta formulario SC 2745 revision 27-mar-2026.
+Versiones anteriores rechazadas automaticamente por SURI/Hacienda.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+---
+[ACTIVO] RC 06-2026 Cheque de Alivio Contributivo
+CC RI 26-10 vigente. Desembolsos en curso (ciclos quincenales).
+Registro cuenta bancaria en SURI disponible hasta 30-oct-2026.
+Montos: $400-$4,000 por contribuyente + $2,500 por dependiente menor de 18.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-10-cc-ri-26-10
+---
+[VENCIDO] CC RI 26-08 - IVU Holiday Temporada Ciclonica
+Periodo libre de IVU VENCIO hoy 25-may-2026 23:59 AST.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 166 IDs totales
+Proxima corrida: 15:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE - 7 DIAS]** BI RI 26-03 — SC 2745: Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[ACTIVO]** RC 06-2026 Cheque Alivio: CC RI 26-10 vigente. Desembolsos en curso. Registro SURI hasta 30-oct-2026.
+- **[VENCIDO]** CC RI 26-08 — IVU holiday ciclónica: Venció 25-may-2026 23:59 AST.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+- **[PENDIENTE]** IRB 2026-23: no publicado.
+
+---
+
 ## 2026-05-25 — CORRIDA #181 (06:00 AST)
 
 **Hora corrida:** 2026-05-25 10:00 UTC / 06:00 AST (slot 6am)
