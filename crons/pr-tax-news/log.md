@@ -2,6 +2,93 @@
 
 ---
 
+## 2026-05-24 — CORRIDA #180 (22:08 AST)
+
+**Hora corrida:** 2026-05-25 02:08 UTC / 22:08 AST (slot 10pm)
+**Items nuevos:** 2
+**IDs añadidos a seen.txt:** 2 (503dc14078d85f25, 086fac25660e5525) + corrección bug línea 155
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **36° fallo consecutivo.**
+**seen.txt:** 165 IDs totales (+2 IDs esta corrida, línea 155 corregida)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC/DA/BI | CC RI 26-08, DA 26-01, BI RI 26-04 ya en seen.txt; sin nuevas CC/DA/BI |
+| Hacienda PR — Guías/Operacional | Guía Cheque Alivio rev. 5.20.2026 → **NUEVA** |
+| Hacienda PR — Comunicados | Comunicado SURI enlace (fb62656d7ae22c59) ya en seen.txt |
+| IRS — IRB | IRB 2026-22 (25-may-2026) → **NUEVO** con Rev. Proc. 2026-23 (PR mortgage bonds) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas |
+| DDEC / OCIF | OA 2026-002 (>30 días, descartado); sin otros nuevos |
+
+### Items nuevos del Digest:
+
+**[HACIENDA PR - GUÍA] Guía Cheque de Alivio Contributivo RC 06-2026 (rev. 5.20.2026)**
+- URL: https://hacienda.pr.gov/sites/default/files/guia_sobre_el_alivio_contributivo_2025_rev._5.20.2026_final_0.pdf
+- Hash: `503dc14078d85f25`
+- Fecha revisión: 2026-05-20
+- Contenido: 5ª revisión guía operacional RC 06-2026. Confirma inicio desembolsos semana del 18-may-2026 (depósito directo y cheque). Elegibles: planilla 2025 radicada ≤15-abr-2026, ingreso neto ≤$150K, residente PR 2025. Enlace SURI hasta 30-oct-2026. Montos: $400–$4,000 + $2,500/dependiente.
+
+**[IRS - IRB] IRB 2026-22 / Rev. Proc. 2026-23**
+- URL: https://www.irs.gov/irb/2026-22_IRB
+- Hash: `086fac25660e5525`
+- Fecha publicación: 2026-05-25
+- Contenido: IRB 2026-22 incluye Rev. Proc. 2026-23 (safe harbors precio compra para qualified mortgage bonds bajo IRC §§143/25(c), áreas estadísticas PR). Tasa sobrepago/deficiencia 7% Q3-2026.
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[URGENTE] NOVEDAD CON EFECTO INMEDIATO — Desembolsos activos esta semana
+
+==================================================
+DIGEST CONTRIBUTIVO PR — 24 MAY 2026 | 10:08 PM AST
+Corrida #180 | Periodo: 09-may-2026 → 24-may-2026
+==================================================
+
+[HACIENDA PR - GUIA] Cheque de Alivio Contributivo RC 06-2026 — Guia rev. 5.20.2026
+Fecha: 2026-05-20
+La quinta revision (rev. 5) de la guia operacional del programa RC 06-2026 actualiza el
+proceso de registro en SURI y confirma el inicio de desembolsos. Elegibles: contribuyentes
+que radicaron planilla 2025 on/before 15-abr-2026, con ingreso neto sujeto a contribucion
+menor o igual a $150,000, y que residieron en Puerto Rico durante todo el 2025.
+Desembolsos por deposito directo y cheque fisico en ciclos quincenales; primer ciclo inicio
+semana del 18-may-2026. Enlace en SURI para anadir cuenta bancaria disponible hasta el
+30-oct-2026. Montos estimados: $400-$4,000 por contribuyente, mas $2,500 por dependiente
+menor de 18 anos. Nota: SURI presento congestion el 20-may-2026 tras aparecer balances
+preliminares; Hacienda recomendo limitar acceso.
+https://hacienda.pr.gov/sites/default/files/guia_sobre_el_alivio_contributivo_2025_rev._5.20.2026_final_0.pdf
+---
+
+[IRS - IRB] Rev. Proc. 2026-23 — Safe harbors precio compra bonos hipotecarios (incl. PR)
+Fecha: 2026-05-25
+IRB 2026-22 (25-may-2026) publica Rev. Proc. 2026-23, que establece el precio promedio
+nacional de compra de residencias ($553,900) y safe harbors por area estadistica para
+qualified mortgage bonds y certificados de credito hipotecario bajo IRC §§143 y 25(c).
+Incluye areas estadisticas de Puerto Rico. Safe harbors basados en limites FHA del 11-dic-2025.
+Aplica a emisores de bonos hipotecarios cualificados en PR. El mismo IRB contiene la tasa de
+sobrepago/deficiencia de contribuciones del 7% para Q3-2026.
+https://www.irs.gov/irb/2026-22_IRB
+---
+
+RECORDATORIO DEADLINES ACTIVOS (ya reportados anteriormente):
+[HOY - ULTIMO DIA] CC RI 26-08: IVU holiday temporada ciclonica VENCE HOY 25-may-2026 23:59 AST
+[8 DIAS] BI RI 26-03 — SC 2745: deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026.
+
+================================
+Fuentes revisadas: 6 | Items: 2 | seen.txt: 165 IDs totales
+Proxima corrida: 06:00 AM AST (25-may-2026)
+================================
+```
+
+### Seguimiento activo:
+
+- **[HOY - VENCE 23:59 AST] CC RI 26-08 — IVU holiday temporada ciclónica:** Vence hoy 25-may-2026 23:59 AST. Telegram nunca entregado (36 intentos).
+- **[URGENTE] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026 (8 días). Solo SC 2745 rev. 27-mar-2026.
+- **[ACTIVO] RC 06-2026 Cheque Alivio:** Desembolsos iniciaron semana 18-may-2026. Registro SURI hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+
+---
+
 ## 2026-05-24 — CORRIDA #179 (~18:00 AST)
 
 **Hora corrida:** 2026-05-24 22:00 UTC / 18:00 AST (slot 6pm)
