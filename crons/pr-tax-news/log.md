@@ -2,6 +2,79 @@
 
 ---
 
+## 2026-05-26 — CORRIDA #185 (06:00 AST)
+
+**Hora corrida:** 2026-05-26 10:00 UTC / 06:00 AST (slot 6am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**IDs añadidos a seen.txt:** 0 (sin cambios)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **41° fallo consecutivo.**
+**seen.txt:** 167 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-08 a 26-10 en seen.txt; CC RI 26-09 sin publicar aún; CC RI 26-08 IVU holiday expiró 25-may-2026 23:59 AST |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; DA 26-02 sin publicar; BI RI 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Página 403 en fetch directo; SURI en mantenimiento esta mañana (por volumen cheque alivio); todos los comunicados conocidos en seen.txt |
+| IRS — IRB/Guidance | IRB 2026-21/22 en seen.txt; IRB 2026-23 sin publicar; OBBBA articles >30 días o sin mención explícita PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en mayo 2026; Sagardía (96aa4854f527c747) ya en seen.txt |
+| DDEC / OCIF | Sin órdenes nuevas (última: OA 2026-002, >76 días); OCIF sin publicaciones contributivas |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| hacienda.pr.gov/alivio-contributivo | `44e450cb09f0c49d` | Ya en seen.txt (corrida #184) |
+| CC RI 26-09 | `9f55e75af4dc33f2` | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | `8ba1238132925398` | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar → DESCARTADO (Regla 1) |
+| OBBBA Individual Tax Provisions script | `2da2c79e5f5a58cf` | Publicado 24-mar-2026 (>30 días) → DESCARTADO |
+| IRS Notice 2026-23 (Priority Guidance Plan) | `28f3136bcb579ba9` | Sin mención explícita PR → DESCARTADO (Regla 3) |
+| IRS Inflation Adjustments 2026 + OBBBA | `4a9718a8554eeaab` | Publicado oct-2025 (>30 días) → DESCARTADO |
+| OBBBA Provisions – Individuals/Workers | `0c7a3d5ebe102c73` | Sin fecha <30 días confirmada → DESCARTADO |
+| Act 38-2026 / Act 60 rate change | — | Sin URL oficial primaria verificada → DESCARTADO (Regla 1) |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+PR TAX NEWS - Corrida #185 | 2026-05-26 | 06:00 AST
+
+Sin publicaciones nuevas en esta corrida.
+
+--- ALERTAS ACTIVAS ---
+
+[URGENTE - 6 DIAS] BI RI 26-03 - SC 2745
+Deadline 1-jun-2026. Solo se acepta SC 2745 rev. 27-mar-2026 a partir del 1 de junio.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[ACTIVO] RC 06-2026 "Cheque para Ti" - Pagos en curso
+~$545M de $554M desembolsados. Registro SURI hasta 30-oct-2026.
+NOTA: SURI en mantenimiento temporal esta mañana (por volumen de pagos).
+URL: https://hacienda.pr.gov/alivio-contributivo
+
+[PENDIENTE] CC RI 26-09, BI RI 26-05, DA 26-02, IRB 2026-23 sin publicar.
+
+[SEGUIMIENTO] QOZ PR (OBBBA): Gobernador puede nominar desde 1-jul-2026 (36 días).
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 167 IDs totales
+Proxima corrida: 10:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE - 6 DÍAS]** BI RI 26-03 — SC 2745: Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[ACTIVO]** RC 06-2026 "Cheque para Ti": ~$545M de $554M desembolsados. Enlace SURI hasta 30-oct-2026.
+- **[VENCIDO]** CC RI 26-08 — IVU holiday ciclónica: Venció 25-may-2026 23:59 AST.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+- **[PENDIENTE]** IRB 2026-23: sin publicar.
+- **[SEGUIMIENTO]** QOZ PR (OBBBA/IRB 2026-20): Gobernador puede nominar nuevas zonas desde 1-jul-2026 (36 días).
+
+---
+
 ## 2026-05-25 — CORRIDA #184 (18:00 AST)
 
 **Hora corrida:** 2026-05-25 22:00 UTC / 18:00 AST (slot 6pm)
