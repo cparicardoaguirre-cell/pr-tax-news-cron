@@ -2,6 +2,83 @@
 
 ---
 
+## 2026-05-26 — CORRIDA #186 (10:00 AST)
+
+**Hora corrida:** 2026-05-26 14:00 UTC / 10:00 AST (slot 10am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**IDs añadidos a seen.txt:** 0 (sin cambios)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **42° fallo consecutivo.**
+**seen.txt:** 167 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 sin publicar; CC RI 26-08 IVU holiday expiró 25-may-2026 23:59 AST |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; DA 26-02 sin publicar; BI RI 26-01 a 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Todos los comunicados conocidos en seen.txt (último: 05/12/2026 cierre ciclo contributivo); SURI mantenimiento intermitente por volumen cheque alivio |
+| IRS — IRB/Guidance | IRB 2026-22 en seen.txt (Rev. Proc. 2026-23 tablas precios hipotecas — no acción directa PR); IRB 2026-23 sin publicar; 2026-22 es el último publicado |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en mayo 2026 |
+| DDEC / OCIF | Sin órdenes nuevas; OA DDEC 2026-002 en seen.txt (>76 días) |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | `9f55e75af4dc33f2` | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | `8ba1238132925398` | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar (IRS solo muestra hasta 2026-22) → DESCARTADO (Regla 1) |
+| Rev. Proc. 2026-23 (IRB 2026-22) | `086fac25660e5525` | Ya en seen.txt (vía IRB 2026-22); contenido sobre precios hipotecas, no acción directa PR |
+| Notice 2026-24 (IRB 2026-17) | `04e952b5d528ed7e` | Ya en seen.txt (vía IRB 2026-17); waiver estimated tax farmers/fishermen — no aplica PR específicamente |
+| Guía Alivio Contributivo rev. 5.20.2026 | `503dc14078d85f25` | Ya en seen.txt |
+| Hacienda comunicados (×8 verificados) | múltiples | Todos ya en seen.txt |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+PR TAX NEWS - Corrida #186 | 2026-05-26 | 10:00 AST
+
+Sin publicaciones nuevas en esta corrida.
+
+--- ALERTAS ACTIVAS ---
+
+[URGENTE - 5 DIAS] BI RI 26-03 - SC 2745
+Deadline 1-jun-2026 (en 5 dias). A partir del 1 de junio SOLO se acepta el SC 2745
+revision 27-mar-2026. Formularios anteriores quedaran obsoletos.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+[ACTIVO] RC 06-2026 "Cheque para Ti" - Pagos en curso
+Programa de alivio contributivo 2025. SURI en mantenimiento intermitente por alto
+volumen de acceso. Registro disponible hasta 30-oct-2026.
+URL: https://hacienda.pr.gov/alivio-contributivo
+
+[VENCIDO] CC RI 26-08 - Exencion IVU preparacion huracanes
+El periodo de exencion de IVU vencio el 25-may-2026 a las 11:59pm AST.
+
+[PENDIENTE] CC RI 26-09, BI RI 26-05, DA 26-02 sin publicar.
+[PENDIENTE] IRB 2026-23 sin publicar (ultimo publicado: IRB 2026-22).
+
+[SEGUIMIENTO] QOZ PR (OBBBA/IRB 2026-20): Gobernador puede nominar nuevas zonas
+desde 1-jul-2026 (35 dias).
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 167 IDs totales
+Proxima corrida: 15:00 AST
+================================
+```
+
+### Seguimiento activo:
+
+- **[URGENTE - 5 DÍAS]** BI RI 26-03 — SC 2745: Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026. Telegram nunca entregado.
+- **[ACTIVO]** RC 06-2026 "Cheque para Ti": SURI en mantenimiento intermitente. Registro hasta 30-oct-2026.
+- **[VENCIDO]** CC RI 26-08 — IVU holiday ciclónica: Venció 25-may-2026 23:59 AST.
+- **[PENDIENTE]** CC RI 26-09, BI RI 26-05, DA 26-02: sin publicar.
+- **[PENDIENTE]** IRB 2026-23: sin publicar.
+- **[SEGUIMIENTO]** QOZ PR (OBBBA/IRB 2026-20): Gobernador puede nominar nuevas zonas desde 1-jul-2026 (35 días).
+
+---
+
 ## 2026-05-26 — CORRIDA #185 (06:00 AST)
 
 **Hora corrida:** 2026-05-26 10:00 UTC / 06:00 AST (slot 6am)
