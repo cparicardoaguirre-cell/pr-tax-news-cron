@@ -2,6 +2,60 @@
 
 ---
 
+## 2026-05-26 — CORRIDA #188 (15:00 AST)
+
+**Hora corrida:** 2026-05-26 19:00 UTC / 15:00 AST (slot 3pm)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**IDs añadidos a seen.txt:** 3 (items encontrados pero descartados; no aplican a futuras corridas)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **44° fallo consecutivo.**
+**seen.txt:** 170 IDs totales
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; DA 26-02 sin publicar; BI RI 26-01 a 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Todos los conocidos en seen.txt; nuevas rondas cheque de alivio (mayo 20-22) sin comunicado oficial nuevo en hacienda.pr.gov |
+| IRS — IRB/Guidance | IRB 2026-22 el más reciente en seen.txt; IRB 2026-23 sin publicar |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en mayo 2026 |
+| DDEC / OCIF | Sin órdenes nuevas; OCIF propuso reglamento (abr-14-2026 →>30 días) |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | `9f55e75af4dc33f2` | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | `8ba1238132925398` | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | `9bf7117566fd6317` | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar → DESCARTADO (Regla 1); NO añadido a seen.txt |
+| CC FP 1300-57-25 | `8ae011a10db203d2` | Fuera de scope (CC Finanzas Públicas - PRIFAS agencias) → DESCARTADO; **añadido a seen.txt** |
+| Comunicado $140M reintegros (feb-27-2026) | `a80ab886ade50671` | Publicado 27-feb-2026 (88 días) → >30 días → DESCARTADO; **añadido a seen.txt** |
+| GAO-26-108642 (español PDF) | `9cedd2c808ce3821` | Publicado dic-2025 → >30 días → DESCARTADO; **añadido a seen.txt** |
+| OCIF reglamento propuesto (abr-14-2026) | — | 42 días → >30 días → DESCARTADO |
+| Tribunal Apelativo — mayo 2026 | — | Sin sentencias tributarias nuevas → DESCARTADO |
+| Comunicados cheque alivio (mayo 20-22) | múltiples | Todos ya en seen.txt (BI RI 26-04, guía, SURI enlace) |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+PR TAX NEWS — Corrida #188 | 2026-05-26 | 15:00 AST
+
+Sin publicaciones nuevas en esta corrida.
+
+[URGENTE - 6 DÍAS] BI RI 26-03 — Nuevo SC 2745 obligatorio
+Fecha límite: 1-jun-2026. A partir del 1 de junio de 2026 ÚNICAMENTE se acepta
+el formulario SC 2745 con revisión del 27-mar-2026. Formularios con revisiones
+anteriores quedarán obsoletos y serán rechazados.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 170 IDs totales
+Próxima corrida: 18:00 AST
+```
+
+---
+
 ## 2026-05-26 — CORRIDA #187 (10:06 AST)
 
 **Hora corrida:** 2026-05-26 14:06 UTC / 10:06 AST (slot 10am)
