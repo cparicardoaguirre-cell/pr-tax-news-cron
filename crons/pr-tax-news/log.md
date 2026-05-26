@@ -2,6 +2,63 @@
 
 ---
 
+## 2026-05-26 — CORRIDA #189 (18:00 AST)
+
+**Hora corrida:** 2026-05-26 22:06 UTC / 18:06 AST (slot 6pm)
+**Items nuevos:** 1
+**IDs añadidos a seen.txt:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **45° fallo consecutivo.**
+**seen.txt:** 171 IDs totales
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-01 a 26-04 en seen.txt |
+| Hacienda PR — Comunicados | **1 NUEVO** — primer desembolso cheque de alivio contributivo (mayo 20-21) |
+| IRS — IRB/Guidance | IRB 2026-22 el más reciente en seen.txt; no hay nuevos IRB con relevancia PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas |
+| DDEC / SURI / OCIF | Sin órdenes nuevas; SURI en mantenimiento |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| Comunicado Primer Desembolso Alivio Contributivo | `2a3392eab8d39d5c` | NUEVO ✓ — añadido a seen.txt |
+| CC RI 26-08 (IVU huracanes) | `70167f7182155f94` | Ya en seen.txt |
+| BI RI 26-04 (Alivio Contributivo SURI) | `968f420c033b47cf` | Ya en seen.txt |
+| DA 26-01 / OA DDEC 2026-01 | `35264db882c36dca` | Ya en seen.txt |
+| IRS IRB 2026-20 (OZ Puerto Rico) | `07c101a18876f0e9` | Ya en seen.txt |
+| IRS IRB 2026-22 (Qualified Mortgage) | `086fac25660e5525` | Ya en seen.txt |
+| DDEC OA 2026-002 (Fondos Cap. Privado) | — | Publicado 11-mar-2026 (76 días) → >30 días → DESCARTADO |
+| IRS RP 2026-14 (OZ nominaciones) | — | Publicado 06-abr-2026 (50 días) → >30 días → DESCARTADO |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+📋 MONITOR CONTRIBUTIVO PR — 26 may 2026, 18:06 AST
+Corrida: 6pm AST | CPA Ricardo Aguirre
+
+[HACIENDA PR - COMUNICADO] Primer desembolso del Cheque de Alivio Contributivo
+Fecha: 2026-05-20
+El Departamento de Hacienda inició el desembolso de los primeros pagos del Cheque de
+Alivio Contributivo ("Cheque para Ti") el 21 de mayo de 2026, totalizando $100.3
+millones para 221,381 contribuyentes de la primera tanda. El programa fue aprobado
+mediante Resolución Conjunta 6-2026 ($554 millones total). Los pagos se realizan por
+depósito directo (contribuyentes que registraron cuenta en planilla 2025 o vía SURI
+desde el 11 de mayo) y por cheque físico para los demás. Para calificar: haber radicado
+planilla 2025 antes del 15-abr-2026, haber residido en PR todo el año 2025, e ingreso
+neto tributable de $150,000 o menos.
+https://hacienda.pr.gov/sobre-hacienda/sala-de-prensa-virtual/comunicados-de-prensa/hacienda-desembolsa-los-primeros-pagos-del-cheque-de-alivio-contributivo
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 171 IDs totales
+Próxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-05-26 — CORRIDA #188 (15:00 AST)
 
 **Hora corrida:** 2026-05-26 19:00 UTC / 15:00 AST (slot 3pm)
