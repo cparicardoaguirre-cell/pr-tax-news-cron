@@ -2,6 +2,59 @@
 
 ---
 
+## 2026-05-26 — CORRIDA #187 (10:06 AST)
+
+**Hora corrida:** 2026-05-26 14:06 UTC / 10:06 AST (slot 10am)
+**Items nuevos:** 0 (sin publicaciones nuevas verificables)
+**IDs añadidos a seen.txt:** 0 (sin cambios)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **43° fallo consecutivo.**
+**seen.txt:** 167 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; DA 26-02 sin publicar; BI RI 26-01 a 26-04 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Último comunicado conocido: 05/12/2026 (cierre ciclo contributivo); todos en seen.txt |
+| IRS — IRB/Guidance | IRB 2026-22 el más reciente en seen.txt; IRB 2026-23 sin publicar |
+| Tribunal Apelativo PR | Caso Sagardía (abr-24-2026) > 30 días → DESCARTADO |
+| DDEC / OCIF | OA DDEC 2026-002 ya en seen.txt (>76 días); OCIF sin emisión contributiva nueva |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | — | Sin publicar → DESCARTADO (Regla 1) |
+| BI RI 26-05 | — | Sin publicar → DESCARTADO (Regla 1) |
+| DA 26-02 | — | Sin publicar → DESCARTADO (Regla 1) |
+| IRB 2026-23/24 | — | Sin publicar → DESCARTADO (Regla 1) |
+| Tribunal Apelativo — Sagardía | — | Publicado abr-24-2026 (32 días) → fuera de ventana 30 días → DESCARTADO |
+| Comunicado IVU Holiday 22-25 mayo | `b9a1b403b0055395` | Ya en seen.txt |
+| Comunicado SURI enlace alivio | `fb62656d7ae22c59` | Ya en seen.txt |
+| Comunicado extensión IVU holiday | `3906bcee4f9cc3bd` | Ya en seen.txt |
+| IRB 2026-15, 2026-20, 2026-22 | múltiples | Todos ya en seen.txt |
+| OA DDEC 2026-002 (fondos capital privado) | — | Ya en seen.txt (>76 días) |
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+PR TAX NEWS — Corrida #187 | 2026-05-26 | 10:06 AST
+
+Sin publicaciones nuevas en esta corrida.
+
+[URGENTE - 6 DIAS] BI RI 26-03 — SC 2745 nueva version
+Deadline: 1-jun-2026. A partir del 1 de junio SOLO se acepta el formulario SC 2745
+con revision del 27-mar-2026. Formularios anteriores quedaran obsoletos.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+================================
+Fuentes revisadas: 6 | Items nuevos: 0 | seen.txt: 167 IDs totales
+Proxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-26 — CORRIDA #186 (10:00 AST)
 
 **Hora corrida:** 2026-05-26 14:00 UTC / 10:00 AST (slot 10am)
