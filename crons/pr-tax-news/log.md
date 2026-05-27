@@ -2,6 +2,71 @@
 
 ---
 
+## 2026-05-27 — CORRIDA #193 (15:00 AST)
+
+**Hora corrida:** 2026-05-27 19:XX UTC / 15:XX AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **49° fallo consecutivo.**
+**seen.txt:** 171 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 sigue devolviendo 403; CC RI 26-10/11/12 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-01 a 26-04 en seen.txt; DA 26-02 y BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | 3ra ronda "Cheque para Ti" confirmada por medios (may-26/27); sin comunicado oficial nuevo en hacienda.pr.gov |
+| IRS — IRB/Guidance | IRB 2026-22 (may-26-2026) sigue siendo el más reciente; IRB 2026-23 no publicado aún |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana 30d |
+| DDEC / SURI / OCIF | DDEC 2026-002 (mar-11-2026) confirmado: 77 días → >30d → DESCARTADO; sin nuevas órdenes |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | `9f55e75af4dc33f2` | URL sigue devolviendo 403 en hacienda.pr.gov → DESCARTADO (Regla #1) |
+| IRB 2026-23 | `de3fea1de5eaf980` | No publicado aún (IRB 2026-22 es el más reciente a may-26-2026) → DESCARTADO |
+| CC FP 1300-44-26 | `a426623ef99b4de2` | Finanzas Públicas (cierre fiscal gubernamental) — fuera de alcance Rentas Internas → DESCARTADO |
+| DDEC 2026-002 (McV PR) | `db4e908994965df1` | Emitida mar-11-2026 (77 días) → >30 días → DESCARTADO |
+| 3ra ronda "Cheque para Ti" | — | Solo fuentes mediáticas (Metro PR, Telemundo); sin comunicado oficial nuevo en hacienda.pr.gov → DESCARTADO (Regla #1) |
+
+### Seguimiento activo:
+- **[URGENTE - 5 DÍAS] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026 aceptado a partir del 1 de junio.
+- **[ACTIVO] RC 06-2026 — Cheque para Ti:** 3ra ronda confirmada para sem. 26-27 may (~100,000 contribuyentes). SURI activo hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-09: Sin URL verificada en hacienda.pr.gov (403 persistente).
+- **[PENDIENTE]** BI RI 26-05: Sin publicar.
+- **[PENDIENTE]** DA 26-02: Sin publicar.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): Gobernador PR puede nominar QOZs desde 1-jul-2026 (35 días).
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[Monitor Contributivo PR] 2026-05-27 15:XX AST
+Corrida #193 — Slot 3pm
+
+Sin novedades nuevas en esta corrida.
+
+⚠️ URGENTE (5 días — deadline 1-jun-2026):
+BI RI 26-03 — A partir del 1-jun-2026 SURI solo aceptará el Formulario SC 2745
+(rev. 27-mar-2026) para declaraciones de retención.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+📌 SEGUIMIENTO ACTIVO:
+• RC 06-2026 "Cheque para Ti": 3ra ronda confirmada para esta semana
+  (~100,000 contribuyentes adicionales). SURI disponible hasta 30-oct-2026.
+• QOZ Puerto Rico (OBBBA / Rev. Proc. 2026-14): Gobernador puede nominar
+  nuevos QOZs a partir del 1-jul-2026 (35 días).
+• CC RI 26-09: URL en hacienda.pr.gov sigue sin cargar (403) — pendiente.
+• BI RI 26-05: Sin publicar. | DA 26-02: Sin publicar.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 171 IDs totales
+Próxima corrida: 18:00 AST
+```
+
+---
+
 ## 2026-05-27 — CORRIDA #192 (10:00 AST)
 
 **Hora corrida:** 2026-05-27 14:06 UTC / 10:06 AST (slot 10am)
