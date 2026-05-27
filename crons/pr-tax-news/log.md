@@ -2,6 +2,81 @@
 
 ---
 
+## 2026-05-27 — CORRIDA #194 (18:00 AST)
+
+**Hora corrida:** 2026-05-27 22:06 UTC / 18:06 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **50° fallo consecutivo.**
+**seen.txt:** 171 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-10 en seen.txt; CC RI 26-09 sigue devolviendo 403; CC RI 26-11/12 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-01 a 26-04 en seen.txt; DA 26-02 y BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | Sin comunicados nuevos verificados en hacienda.pr.gov (portal devuelve 403) |
+| IRS — IRB/Guidance | IRB 2026-22 (may-26-2026) más reciente en seen.txt; IRB 2026-23 no publicado; Rev. Proc. 2026-23 descartada |
+| Tribunal Apelativo PR | Caso Sagardía TA2026CE00487 (constitucional/privacidad) — sin guía contributiva general |
+| DDEC / SURI / OCIF | DDEC 2026-003 sin URL oficial verificada → Regla #1; DDEC 2026-002 >30 días |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC FP 1300-28-26 | `26344408c3f0d6cf` | YA VISTO en seen.txt → DESCARTADO |
+| Rev. Proc. 2026-23 (IRS) | `268d44932740b932` | Solo datos estadísticos precio hipotecario PR; sin impacto contributivo específico → DESCARTADO (filtro IRS) |
+| IRB 2026-22 | `086fac25660e5525` | YA VISTO en seen.txt → DESCARTADO |
+| CC FP 1300-44-26 | `a426623ef99b4de2` | Finanzas Públicas (cierre fiscal gubernamental) — fuera de alcance Rentas Internas → DESCARTADO |
+| CC RI 26-09 | `9f55e75af4dc33f2` | URL sigue devolviendo 403 en hacienda.pr.gov → DESCARTADO (Regla #1) |
+| DDEC 2026-003 | — | Sin URL oficial verificada → DESCARTADO (Regla #1) |
+| Sagardía TA2026CE00487 | — | Caso constitucional/privacidad; no es guía contributiva aplicable → DESCARTADO |
+| IRB 2026-23 | — | No publicado aún → N/A |
+
+### Seguimiento activo:
+- **[URGENTE - 4 DÍAS] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026 aceptado en SURI a partir del 1 de junio.
+- **[ACTIVO] RC 06-2026 — Cheque para Ti:** 3ra ronda en curso esta semana (~100,000 contribuyentes). SURI disponible hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-09: Sin URL verificada en hacienda.pr.gov (403 persistente).
+- **[PENDIENTE]** BI RI 26-05: Sin publicar.
+- **[PENDIENTE]** DA 26-02: Sin publicar.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): Gobernador PR puede nominar QOZs desde 1-jul-2026 (35 días).
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[Monitor Contributivo PR] 2026-05-27 18:06 AST
+Corrida #194 — Slot 6pm
+
+Sin novedades nuevas en esta corrida.
+
+⚠️ URGENTE (4 días — deadline 1-jun-2026):
+BI RI 26-03 — A partir del 1-jun-2026 SURI solo aceptará el
+Formulario SC 2745 (rev. 27-mar-2026) para declaraciones de retención.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+📌 SEGUIMIENTO ACTIVO:
+• RC 06-2026 "Cheque para Ti": 3ra ronda en curso esta semana
+  (~100,000 contribuyentes). SURI disponible hasta 30-oct-2026.
+• QOZ Puerto Rico (Rev. Proc. 2026-14/OBBBA): Gobernador puede
+  nominar nuevos QOZs a partir del 1-jul-2026 (35 días).
+• CC RI 26-09: URL hacienda.pr.gov sigue devolviendo 403 — pendiente.
+• BI RI 26-05: Sin publicar. | DA 26-02: Sin publicar.
+
+--- Descartados esta corrida ---
+• CC FP 1300-28-26: YA VISTO (seen.txt)
+• Rev. Proc. 2026-23 (IRS): Solo datos estadísticos hipotecarios PR → filtro IRS
+• IRB 2026-22: YA VISTO (seen.txt)
+• DDEC 2026-003: Sin URL oficial verificada → Regla #1
+• Tribunal Sagardía TA2026CE00487: Caso constitucional/privacidad
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 171 IDs totales
+Próxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-05-27 — CORRIDA #193 (15:00 AST)
 
 **Hora corrida:** 2026-05-27 19:XX UTC / 15:XX AST (slot 3pm)
