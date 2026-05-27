@@ -2,6 +2,68 @@
 
 ---
 
+## 2026-05-27 — CORRIDA #191 (06:00 AST)
+
+**Hora corrida:** 2026-05-27 10:09 UTC / 06:09 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **47° fallo consecutivo.**
+**seen.txt:** 171 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 y 26-10 en seen.txt; CC RI 26-09 sin URL verificable |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-01 a 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Primer desembolso alivio contributivo (`2a3392eab8d39d5c`) en seen.txt; 3ra ronda sin comunicado oficial publicado |
+| IRS — IRB/Guidance | IRB 2026-22 más reciente en seen.txt; IRB 2026-23/24 no disponibles como bulletins |
+| Tribunal Apelativo PR | Sagardía (abr-24-2026, 33 días) → fuera de ventana; sin otras sentencias tributarias nuevas |
+| DDEC / SURI / OCIF | OA DDEC 2026-002 ya en seen.txt (>77 días); SURI en mantenimiento (fuentes mediáticas únicamente); OCIF sin emisión contributiva nueva |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | `9f55e75af4dc33f2` | URL no verificada en hacienda.pr.gov → DESCARTADO (Regla #1) |
+| CC RI 26-10 | `f0afefe2a3165779` | Ya en seen.txt |
+| IRB 2026-08 (feb-17-2026) | `c80c0eb3a90d210a` | Tasas interés §6621 — sin mención PR → DESCARTADO |
+| IRB 2026-10 (mar-02-2026) | `741bbaf53f2d8a27` | Boletín vacío — sin artículos → DESCARTADO |
+| IRB 2026-22 | `086fac25660e5525` | Ya en seen.txt |
+| IRB 2026-23 | `de3fea1de5eaf980` | No disponible como bulletin (2026-22 es el más reciente) → DESCARTADO |
+| Comunicado 3ra ronda alivio (may-26/27) | — | Sin comunicado oficial en hacienda.pr.gov; solo fuentes mediáticas → DESCARTADO (Regla #1) |
+| DDEC OA 2026-002 (fondos cap. privado) | `d1ddd10ef194ea50` | Publicada 11-mar-2026 (77 días) → >30 días → DESCARTADO |
+| Tribunal Apelativo — Sagardía | `d6fb57ccc3c77c74` | Publicado abr-24-2026 (33 días) → >30 días → DESCARTADO |
+| SURI fallas/mantenimiento mayo-2026 | — | Sin aviso oficial en suri.hacienda.pr.gov; solo fuentes mediáticas → DESCARTADO |
+
+### Seguimiento activo:
+- **[URGENTE - 5 DÍAS] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026 aceptado a partir del 1 de junio.
+- **[ACTIVO] RC 06-2026 — Cheque para Ti:** 3ra ronda en curso esta semana (~100,000 contribuyentes adicionales). SURI activo hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-09: Sin URL verificada en hacienda.pr.gov.
+- **[PENDIENTE]** BI RI 26-05: Sin publicar.
+- **[PENDIENTE]** DA 26-02: Sin publicar.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): Gobernador PR puede nominar QOZs desde 1-jul-2026 (35 días).
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[Monitor Contributivo PR] 2026-05-27 06:09 AST
+
+Sin publicaciones nuevas en esta corrida.
+
+[URGENTE - 5 DÍAS] BI RI 26-03 — SC 2745 nueva versión obligatoria
+Deadline: 1-jun-2026. A partir del 1 de junio de 2026 ÚNICAMENTE se acepta el
+formulario SC 2745 con revisión del 27-mar-2026. Formularios con revisiones
+anteriores serán rechazados.
+URL: https://hacienda.pr.gov/publicaciones/boletin-informativo-de-rentas-internas-num-26-03-bi-ri-26-03
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 171 IDs totales
+Próxima corrida: 10:00 AST
+```
+
+---
+
 ## 2026-05-26 — CORRIDA #190 (22:00 AST)
 
 **Hora corrida:** 2026-05-26 02:11 UTC / 22:11 AST (slot 10pm)
