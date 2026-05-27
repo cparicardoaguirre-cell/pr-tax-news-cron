@@ -2,6 +2,46 @@
 
 ---
 
+## 2026-05-26 — CORRIDA #190 (22:00 AST)
+
+**Hora corrida:** 2026-05-26 02:11 UTC / 22:11 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **46° fallo consecutivo.**
+**seen.txt:** 172 IDs totales
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-01 a 26-04 en seen.txt |
+| Hacienda PR — Comunicados | Primer desembolso alivio contributivo ya en seen.txt; 3ra ronda confirmada esta semana pero sin comunicado oficial publicado |
+| IRS — IRB/Guidance | IRB 2026-22 más reciente en seen.txt; IRB 2026-23 sin contenido PR-relevante confirmado |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas dentro de 30 días |
+| DDEC / SURI / OCIF | Sin órdenes nuevas |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 (URL sin confirmar) | — | URL no verificada en hacienda.pr.gov → DESCARTADO (Regla #1) |
+| CC RI 26-10 | `f0afefe2a3165779` | Ya en seen.txt |
+| Comunicado SURI enlace banco alivio | `fb62656d7ae22c59` | Ya en seen.txt |
+| Comunicado 3ra ronda reintegros $270M | `b346422112977010` | Ya en seen.txt |
+| Comunicado reintegros $200M | `aa982e965c190e67` | Ya en seen.txt |
+| Comunicado reintegros $1,000M | `37e8b2930fffc5a1` | Ya en seen.txt |
+| Comunicado reintegros $156M | `9779bc595a0c236c` | Ya en seen.txt |
+| Comunicado cierre ciclo 1.2M planillas | `b18ef078d5cae33f` | Ya en seen.txt |
+| IRS IRB 2026-23 | `de3fea1de5eaf980` | Sin contenido PR-relevante confirmado → DESCARTADO |
+| Tribunal Apelativo — Sagardía (24-abr-2026) | — | 33 días → >30 días → DESCARTADO |
+| DDEC OA 2026-002 | — | 77 días → >30 días → DESCARTADO |
+
+### Resumen:
+Sin novedades. Tercera ronda del alivio contributivo (Cheque para Ti) confirmada para semana del 26-may-2026 por el Secretario Ángel Pantoja; impactaría a ~100,000 contribuyentes adicionales. Pendiente comunicado oficial de Hacienda.
+
+---
+
 ## 2026-05-26 — CORRIDA #189 (18:00 AST)
 
 **Hora corrida:** 2026-05-26 22:06 UTC / 18:06 AST (slot 6pm)
