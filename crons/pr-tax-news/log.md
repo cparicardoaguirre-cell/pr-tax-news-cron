@@ -2,6 +2,70 @@
 
 ---
 
+## 2026-05-27 — CORRIDA #192 (10:00 AST)
+
+**Hora corrida:** 2026-05-27 14:06 UTC / 10:06 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **48° fallo consecutivo.**
+**seen.txt:** 171 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-10 en seen.txt o descartados; CC RI 26-11/12 sin publicar; CC RI 26-09 sigue sin URL verificable |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-01 a 26-04 en seen.txt; DA 26-02 y BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | 3ra ronda alivio contributivo (~100k contrib.) confirmada por medios (may-26); sin comunicado oficial nuevo en hacienda.pr.gov |
+| IRS — IRB/Guidance | IRB 2026-22 (may-26-2026) sigue siendo el más reciente en seen.txt; IRB 2026-23 no publicado; OBBB pages fuera de ventana 30d |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana 30d (abr-27 a may-27-2026) |
+| DDEC / SURI / OCIF | Sin nuevas órdenes administrativas; OCIF prop. reglamento abr-14 → >30 días → DESCARTADO; SURI activo (alivio contributivo) |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 | `9f55e75af4dc33f2` | URL no verificada en hacienda.pr.gov (403) → DESCARTADO (Regla #1) |
+| IRB OBBB news/provisions/notices | múltiples | Páginas generales IRS sin fecha de publicación reciente → DESCARTADO |
+| IRS Inflation Adj 2026 (IR-2025-102) | `4a9718a8554eeaab` | Publicado oct-9-2025 (>200 días) → DESCARTADO |
+| Notice 2026-23 (Priority Guidance Plan) | `28f3136bcb579ba9` | No menciona PR específicamente → DESCARTADO (filtro IRS) |
+| OCIF prop. reglamento (abr-14-2026) | — | 43 días → >30 días → DESCARTADO |
+| 3ra ronda alivio contributivo | — | Sin comunicado oficial en hacienda.pr.gov; solo fuentes mediáticas → DESCARTADO (Regla #1) |
+
+### Seguimiento activo:
+- **[URGENTE - 5 DÍAS] BI RI 26-03 — SC 2745:** Deadline 1-jun-2026. Solo SC 2745 rev. 27-mar-2026 aceptado a partir del 1 de junio.
+- **[ACTIVO] RC 06-2026 — Cheque para Ti:** 3ra ronda en progreso esta semana (~100,000 contribuyentes adicionales). SURI activo hasta 30-oct-2026.
+- **[PENDIENTE]** CC RI 26-09: Sin URL verificada en hacienda.pr.gov.
+- **[PENDIENTE]** BI RI 26-05: Sin publicar.
+- **[PENDIENTE]** DA 26-02: Sin publicar.
+- **[SEGUIMIENTO]** QOZ PR (Rev. Proc. 2026-14/OBBBA): Gobernador PR puede nominar QOZs desde 1-jul-2026 (35 días).
+
+### Digest preparado (no enviado — Telegram bloqueado):
+
+```
+[Monitor Contributivo PR] 2026-05-27 10:06 AST
+Corrida #192 — Slot 10am
+
+Sin novedades nuevas en esta corrida.
+
+⚠️ RECORDATORIO URGENTE (5 días):
+BI RI 26-03 — A partir del 1-jun-2026 SURI solo aceptará el Formulario SC 2745
+(revisado 27-mar-2026) para declaraciones de retención.
+
+📌 SEGUIMIENTO ACTIVO:
+• RC 06-2026 "Cheque para Ti": 3ª ronda en progreso (~100,000 adicionales).
+  SURI disponible hasta 30-oct-2026.
+• QOZ Puerto Rico (OBBBA/Rev. Proc. 2026-14): Gobernador puede nominar
+  nuevos QOZs a partir del 1-jul-2026 (35 días).
+• CC RI 26-09: Pendiente de publicación oficial en hacienda.pr.gov.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 171 IDs totales
+Próxima corrida: 15:00 AST
+```
+
+---
+
 ## 2026-05-27 — CORRIDA #191 (06:00 AST)
 
 **Hora corrida:** 2026-05-27 10:09 UTC / 06:09 AST (slot 6am)
