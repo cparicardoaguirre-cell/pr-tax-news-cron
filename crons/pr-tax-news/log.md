@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-28 — CORRIDA #197 (15:10 AST)
+
+**Hora corrida:** 2026-05-28 19:10 UTC / 15:10 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **53° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 devuelve 403 → DESCARTADO; CC RI 26-11/12 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-04 en seen.txt; BI RI 26-05/06 sin publicar |
+| Hacienda PR — Comunicados | Comunicados reintegros/alivio contributivo ya en seen.txt |
+| IRS — IRB/Guidance | IRB 2026-22 (26-may-2026) más reciente en seen.txt; IRB 2026-23 sin publicar (esperado ~jun-2) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana 30 días |
+| DDEC / SURI / OCIF | DDEC OA 2026-002 en seen.txt; SURI fallas por alivio contributivo; sin novedades OCIF |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-08 (IVU huracán) | `70167f7182155f94` | YA VISTO |
+| DA 26-01 / OA DDEC 2026-01 | `35264db882c36dca` | YA VISTO |
+| BI RI 26-04 (Alivio Contributivo) | `968f420c033b47cf` | YA VISTO |
+| BI RI 26-03 (SC 2745) | `95eac451c9f2ca38` | YA VISTO |
+| CC RI 26-07 (Orgs Exentas) | `d93bc80580f7b2d4` | YA VISTO |
+| IRS IRB 2026-22 (26-may) | `086fac25660e5525` | YA VISTO |
+| IRS IRB 2026-21 | `2dbf1b7e7f3b4229` | YA VISTO |
+| IRS IRB 2026-20 (RP 2026-14 QOZ/PR) | `07c101a18876f0e9` | YA VISTO |
+| OA DDEC 2026-002 (PE Funds) | `6ebc986dff173b8a` | YA VISTO |
+| Guía Alivio Contributivo PDF rev. 5.20.2026 | `aa14fb2b89a96f89` | YA VISTO |
+| Comunicado "tercera ronda reintegros" | `b346422112977010` | YA VISTO |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar → N/A |
+
+---
+
 ## 2026-05-28 — CORRIDA #196 (10:10 AST)
 
 **Hora corrida:** 2026-05-28 14:10 UTC / 10:10 AST (slot 10am)
