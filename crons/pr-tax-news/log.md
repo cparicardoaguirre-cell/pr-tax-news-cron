@@ -2,6 +2,39 @@
 
 ---
 
+## 2026-05-28 — CORRIDA #196 (10:10 AST)
+
+**Hora corrida:** 2026-05-28 14:10 UTC / 10:10 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **52° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-08 (IVU huracán) es la más reciente en seen.txt; CC RI 26-09 devuelve 403 → DESCARTADO (Regla #1); CC RI 26-10 en seen.txt; CC RI 26-11/12 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-04 en seen.txt; BI RI 26-05/06 sin publicar; DA 26-02 sin publicar |
+| Hacienda PR — Comunicados | Comunicados recientes de ciclo contributivo (reintegros, cierre ciclo) ya en seen.txt |
+| IRS — IRB/Guidance | IRB 2026-22 (may-26-2026) más reciente en seen.txt; IRB 2026-23 sin publicar; RP 2026-12 en seen.txt |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana 30 días |
+| DDEC / SURI / OCIF | DDEC OA 2026-002 en seen.txt; SURI en mantenimiento; sin novedades OCIF |
+
+### Items evaluados:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-09 (Form 480.3(II)) | `9f55e75af4dc33f2` | URL devuelve 403 → DESCARTADO (Regla #1) |
+| CC RI 26-11 | `8cf93d5b83137901` | Sin evidencia de publicación → N/A |
+| CC RI 26-12 | `b82c76d63ef6f381` | Sin evidencia de publicación → N/A |
+| BI RI 26-05 | `8ba1238132925398` | Sin evidencia de publicación → N/A |
+| BI RI 26-06 | `1a381d1e7ac7238b` | Sin evidencia de publicación → N/A |
+| DA 26-02 | `9bf7117566fd6317` | Sin evidencia de publicación → N/A |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar (esperado ~jun-2) → N/A |
+
+---
+
 ## 2026-05-27 — CORRIDA #195 (22:10 AST)
 
 **Hora corrida:** 2026-05-28 02:10 UTC / 22:10 AST (slot 10pm)
