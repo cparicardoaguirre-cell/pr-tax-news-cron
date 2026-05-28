@@ -2,6 +2,46 @@
 
 ---
 
+## 2026-05-28 — CORRIDA #198 (18:00 AST)
+
+**Hora corrida:** 2026-05-28 22:00 UTC / 18:00 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **54° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08, 26-10 en seen.txt; CC RI 26-09 (403); CC FP 1300-44-26 en seen.txt; CC FP 1300-28-26 en seen.txt; CC RI 26-11/12 sin publicar |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-02/03/04 en seen.txt; BI RI 26-05/06 sin publicar; DA 26-02 sin publicar |
+| Hacienda PR — Comunicados | "Cierra ciclo contributivo" (may-12) en seen.txt; "Tercera ronda reintegros" en seen.txt; sin nuevos desde corrida #197 |
+| IRS — IRB/Guidance | IRB 2026-22 (may-26) más reciente en seen.txt; IRB 2026-23 sin publicar (esperado ~jun-2); IRB 2026-11 devuelve 403 → DESCARTADO (Regla #1) |
+| Tribunal Apelativo PR | Lexjuris devuelve 403; búsqueda web sin sentencias tributarias nuevas en ventana 30 días |
+| DDEC / SURI / OCIF | OA DDEC 2026-001 y 2026-002 en seen.txt; OA 2026-003 sin evidencia; SURI fallas por alivio contributivo (ya visto); sin novedades OCIF |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC FP 1300-44-26 (cierre fiscal AY 25-26) | `a426623ef99b4de2` | YA VISTO |
+| CC FP 1300-28-26 (pagos nómina FY 26-27) | `26344408c3f0d6cf` | YA VISTO |
+| Comunicado "cierra ciclo contributivo" may-12 | `b18ef078d5cae33f` | YA VISTO |
+| BI RI 26-02 (IVU municipal mail orders) | `3e1b59bdf0a9b9ad` | YA VISTO |
+| IRS IRB 2026-15 (pop. data/Credit Ceiling PR) | `db227ba305f789da` | YA VISTO |
+| IRS IRB 2026-18 | `4e6917a0ab453974` | YA VISTO |
+| IRS IRB 2026-13 | `e889f0d80bffc883` | YA VISTO |
+| IRS IRB 2026-11 | `fc15151225c9b077` | URL devuelve 403 → DESCARTADO (Regla #1); además >30 días → N/A |
+| CC RI 26-11 / CC RI 26-12 | — | Sin evidencia de publicación → N/A |
+| BI RI 26-05 / BI RI 26-06 | — | Sin evidencia de publicación → N/A |
+| DA 26-02 | — | Sin evidencia de publicación → N/A |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar (esperado ~jun-2) → N/A |
+| OA DDEC 2026-003 | — | Sin evidencia de publicación → N/A |
+| OE-2026-014 (Orden Ejecutiva Gobernadora) | — | No contributiva → N/A |
+
+---
+
 ## 2026-05-28 — CORRIDA #197 (15:10 AST)
 
 **Hora corrida:** 2026-05-28 19:10 UTC / 15:10 AST (slot 3pm)
