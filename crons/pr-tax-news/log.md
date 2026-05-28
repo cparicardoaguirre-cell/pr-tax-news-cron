@@ -5540,3 +5540,43 @@ Sin publicaciones nuevas. Ver nota corrida #111.
 ---
 
 *Nota: Log migrado de base64 a markdown (2026-05-09). Historial corridas #1-#110 en git history.*
+
+---
+
+## 2026-05-28 — CORRIDA #112 (06:06 AST)
+
+**Hora corrida:** 2026-05-28 10:06 UTC / 06:06 AST
+**Items nuevos:** 2
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (403). Digest preparado pero no entregado.
+**seen.txt:** 173 IDs totales (+2 IDs esta corrida)
+
+### Fuentes revisadas:
+- Hacienda PR (CC, BI, DA, Comunicados de Prensa) — vía search + WebFetch
+- SURI (avisos) — vía search
+- IRS (IRB, Rev Proc, Notices con filtro PR) — vía search
+- Tribunal Apelativo PR — vía search
+- DDEC / Act 60 — vía search
+
+### Items nuevos:
+
+**[HACIENDA PR - CC FINANZAS PÚBLICAS] CC FP 1300-44-26 — Cierre Año Fiscal 2025-2026**
+- ID: `a426623ef99b4de2`
+- Fecha pub.: Mayo 2026
+- Deadline próximo: 30 de junio de 2026
+- URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-finanzas-publicas-num-1300-44-26
+
+**[HACIENDA PR - GUÍA PRÁCTICA] Guía Cheque Alivio Contributivo 2025 Rev. 5.20.2026**
+- ID: `aa14fb2b89a96f89`
+- Fecha revisión: 2026-05-20
+- URL: https://hacienda.pr.gov/sites/default/files/guia_sobre_el_alivio_contributivo_2025_rev._5.20.2026_final.pdf
+
+### Items descartados (ya vistos o fuera de ventana 30 días):
+| Ítem | Razón |
+|------|--------|
+| CC RI 26-08 (IVU huracanes) | Ya en seen.txt |
+| BI RI 26-04 (Cheque Alivio) | Ya en seen.txt |
+| IRS IRB 2026-22 (Rev Proc safe harbor PR) | Ya en seen.txt |
+| DA 26-01 / DDEC 2026-01 | Ya en seen.txt |
+| IRS IRB 2026-20 (OZ guidance PR) | Ya en seen.txt |
+| GAO-26-107225 | Ya en seen.txt |
+| Comunicados reintegros (múltiples) | Ya en seen.txt |
