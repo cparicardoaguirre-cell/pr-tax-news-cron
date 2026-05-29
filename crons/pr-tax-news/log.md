@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-28 — CORRIDA #199 (22:00 AST)
+
+**Hora corrida:** 2026-05-29 02:11 UTC / 2026-05-28 22:11 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **55° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-10 en seen.txt; CC RI 26-11/12 sin publicar; CC FP 1300-19/20/25-26 descartadas (URL 403 + contenido no contributivo) |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-02/03/04 en seen.txt; BI RI 26-05/06 sin publicar; DA 26-02 sin publicar |
+| Hacienda PR — Comunicados | Todos los comunicados recientes ya en seen.txt; sin nuevos desde corrida #198 |
+| IRS — IRB/Guidance | IRB 2026-22 en seen.txt; IRB 2026-23 sin publicar (esperado ~jun-2); sin nuevos Notices/Rev.Proc. aplicables a PR en ventana 30 días |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana 30 días |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; CC DDEC 2026-003 (cine, 7-abr-2026) fuera de ventana 30 días (52 días); Ley 38-2026 (tasa 4% Act 60, 21-mar-2026) fuera de ventana (69 días); OA 2026-003 sin evidencia; sin novedades SURI/OCIF |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-10 | `f0afefe2a3165779` | YA VISTO |
+| CC RI 26-11 / CC RI 26-12 | — | Sin evidencia de publicación → N/A |
+| BI RI 26-05 / BI RI 26-06 | — | Sin evidencia de publicación → N/A |
+| DA 26-02 | — | Sin evidencia de publicación → N/A |
+| CC FP 1300-19-26 (códigos disposición cheques) | `7c5d27ba31e46b7a` | URL 403 + contenido no contributivo → DESCARTADO |
+| CC FP 1300-20-26 | `9773ed3db1e43af6` | URL 403 + contenido desconocido → DESCARTADO (Regla #1) |
+| CC FP 1300-25-26 | `f101d9b67f986b4f` | URL 403 + contenido desconocido → DESCARTADO (Regla #1) |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar (esperado ~jun-2) → N/A |
+| CC DDEC 2026-003 (cine/industrias creativas, 7-abr) | — | Fuera de ventana 30 días → DESCARTADO |
+| Ley 38-2026 (Act 60 tasa 4%, 21-mar) | — | Fuera de ventana 30 días → DESCARTADO |
+| OA DDEC 2026-003 | — | Sin evidencia de publicación → N/A |
+| GAO-26-107225 (IRS/Act 60 oversight, dic-2025) | — | Fuera de ventana 30 días + fuente GAO no IRS → DESCARTADO |
+
+---
+
 ## 2026-05-28 — CORRIDA #198 (18:00 AST)
 
 **Hora corrida:** 2026-05-28 22:00 UTC / 18:00 AST (slot 6pm)
