@@ -2,6 +2,40 @@
 
 ---
 
+## 2026-05-29 — CORRIDA #200 (06:00 AST)
+
+**Hora corrida:** 2026-05-29 10:05 UTC / 2026-05-29 06:05 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **56° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-10 en seen.txt; CC RI 26-11/12 sin publicar; CC FP 1300-19-26 (ene-13-2026, >30 días, no contributiva) → DESCARTADA |
+| Hacienda PR — DA/BI | DA 26-01 en seen.txt; BI RI 26-02/03/04 en seen.txt; BI RI 26-05/06 sin publicar; DA 26-02 sin publicar |
+| Hacienda PR — Comunicados | Todos los comunicados recientes (SURI alivio, IVU huracanes, reintegros $200M/$144M) ya en seen.txt; página principal devuelve 403 |
+| IRS — IRB/Guidance | IRB 2026-22 (may-26, Rev. Proc. 2026-23 PR mortgage/Rev. Proc. 2026-14 QOZ) ya en seen.txt; IRB 2026-23 sin publicar (esperado ~jun-2); Rev. Proc. 2026-14 (abr-6, 53 días) fuera de ventana + en IRB 2026-20 ya visto; OBBBA impactos PR capturados en IRBs previos |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana 30 días; poderjudicial.pr y lexjuris sin coincidencias |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; OA 2026-003 sin evidencia; sin novedades SURI/OCIF |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-11 / CC RI 26-12 | — | Sin evidencia de publicación → N/A |
+| BI RI 26-05 / BI RI 26-06 | — | Sin evidencia de publicación → N/A |
+| DA 26-02 | — | Sin evidencia de publicación → N/A |
+| CC FP 1300-19-26 (códigos disposición vouchers) | `7c5d27ba31e46b7a` | ene-13-2026, >30 días + no contributiva (Finanzas Públicas) → DESCARTADA |
+| IRB 2026-23 | `de3fea1de5eaf980` | Sin publicar (esperado ~jun-2) → N/A |
+| Rev. Proc. 2026-14 (QOZ/OBBBA, abr-6) | — | 53 días, fuera ventana + incluido en IRB 2026-20 (ya en seen.txt) → N/A |
+| DDEC OA 2026-003 | — | Sin evidencia de publicación → N/A |
+| IRS forms page PR | `25a5975cb7033433` | Página genérica, no publicación nueva → N/A |
+
+---
+
 ## 2026-05-28 — CORRIDA #199 (22:00 AST)
 
 **Hora corrida:** 2026-05-29 02:11 UTC / 2026-05-28 22:11 AST (slot 10pm)
