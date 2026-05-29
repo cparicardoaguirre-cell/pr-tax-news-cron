@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-05-29 — CORRIDA #202 (18:00 AST)
+
+**Hora corrida:** 2026-05-29 22:11 UTC / 2026-05-29 18:11 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **58° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC FP 1300-44-26 y 1300-28-26 en seen.txt; sin nuevas publicaciones |
+| Hacienda PR — DA/BI | BI RI 26-01 a 26-04 en seen.txt; DA 26-01 en seen.txt; sin nuevas publicaciones |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna HTTP 403; todos los comunicados recientes ya en seen.txt (IVU huracanes, cierra ciclo, alivio contributivo 3ra ronda, reintegros) |
+| IRS — IRB/Guidance | IRB 2026-15/20/21/22 en seen.txt; IRB 2026-23 no publicado aún; sin notices nuevos específicos de PR en mayo 2026 |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas de mayo 2026 |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; sin evidencia de OA 2026-003; SURI en mantenimiento (no es publicación oficial) |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-02 a 26-08 (todos) | Varios | Ya en seen.txt → DESCARTADOS |
+| BI RI 26-01 a 26-04 (todos) | Varios | Ya en seen.txt → DESCARTADOS |
+| DA 26-01 / OA DDEC 2026-01 | `35264db882c36dca` | Ya en seen.txt → DESCARTADO |
+| OA DDEC 2026-002 (fondos capital privado) | `6ebc986dff173b8a` | Ya en seen.txt → DESCARTADO |
+| CC 1300-44-26 | `a426623ef99b4de2` | Ya en seen.txt → DESCARTADO |
+| IRB 2026-21 / 2026-22 | Varios | Ya en seen.txt → DESCARTADOS |
+| Comunicados cheque alivio (3ra ronda, SURI enlace, reintegros) | Varios | Ya en seen.txt → DESCARTADOS |
+| Ley 38-2026 (Act 60 extensión 2055) — URLs terceros (Procopio, Ferraiuoli) | Nuevos | HTTP 403 → no verificables → DESCARTADOS per regla |
+| CC FP 1300-28-26 (enero 2026) | `73ec061a00fe1fda` | Nuevo ID pero >30 días de antigüedad → DESCARTADO por filtro fecha |
+
+---
+
 ## 2026-05-29 — CORRIDA #201 (10:00 AST)
 
 **Hora corrida:** 2026-05-29 14:05 UTC / 2026-05-29 10:05 AST (slot 10am)
