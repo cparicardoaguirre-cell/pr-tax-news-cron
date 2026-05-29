@@ -2,6 +2,46 @@
 
 ---
 
+## 2026-05-29 — CORRIDA #201 (10:00 AST)
+
+**Hora corrida:** 2026-05-29 14:05 UTC / 2026-05-29 10:05 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **57° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-10 en seen.txt; CC RI 26-11/12 sin publicar; CC FP 1300-44-26 y 1300-28-26 en seen.txt |
+| Hacienda PR — DA/BI | BI RI 26-04 en seen.txt; BI RI 26-05/06 sin publicar; DA 26-02 sin publicar |
+| Hacienda PR — Comunicados | WebFetch bloqueado (403); todos los comunicados recientes ya en seen.txt (IVU huracanes, cierra ciclo, reintegros $156M/$200M/$144M/$1,000M) |
+| IRS — IRB/Guidance | IRB 2026-21/22 en seen.txt; mayo 2026 sin notices específicos de PR; IRB 2026-23 sin publicar (~jun-2); IRS IR-2026-60 a 67 no aplican a PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias de mayo 2026 en poderjudicial.pr ni lexjuris.com |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; OA 2026-003 sin evidencia; SURI fallas no son publicaciones oficiales; OCIF sin publicaciones contributivas |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-11 / CC RI 26-12 | — | Sin evidencia de publicación → N/A |
+| BI RI 26-05 / BI RI 26-06 | — | Sin evidencia de publicación → N/A |
+| DA 26-02 | — | Sin evidencia de publicación → N/A |
+| CC FP 1300-44-26 | `a426623ef99b4de2` | Ya en seen.txt → DESCARTADO |
+| CC FP 1300-28-26 | `26344408c3f0d6cf` | Ya en seen.txt → DESCARTADO |
+| BI RI 26-04 (Cheque Alivio Contributivo) | `968f420c033b47cf` | Ya en seen.txt → DESCARTADO |
+| Comunicado IVU huracanes 22-25 mayo | `b9a1b403b0055395` | Ya en seen.txt → DESCARTADO |
+| Comunicado "Hacienda cierra ciclo contributivo" (abr-15) | `b18ef078d5cae33f` | Ya en seen.txt + >30 días → DESCARTADO |
+| Comunicado "Hacienda desembolsa $156M" | `9779bc595a0c236c` | Ya en seen.txt → DESCARTADO |
+| IRB 2026-15 (Census/Credit Ceiling PR) | `db227ba305f789da` | Ya en seen.txt → DESCARTADO |
+| IRB 2026-21 (EA SEE user fees) | `2dbf1b7e7f3b4229` | Ya en seen.txt + no aplica a PR → DESCARTADO |
+| IRS IR-2026-60 a 67 (mayo 2026) | — | No mencionan PR/Section 933/Act 60 → FILTRADOS |
+| DDEC OA 2026-003 | — | Sin evidencia de publicación → N/A |
+| IRB 2026-23 | — | Sin publicar (esperado ~jun-2) → N/A |
+
+---
+
 ## 2026-05-29 — CORRIDA #200 (06:00 AST)
 
 **Hora corrida:** 2026-05-29 10:05 UTC / 2026-05-29 06:05 AST (slot 6am)
