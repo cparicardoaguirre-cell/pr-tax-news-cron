@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-05-29 — CORRIDA #202 (15:00 AST)
+
+**Hora corrida:** 2026-05-29 19:05 UTC / 2026-05-29 15:05 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **58° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09/10 sin evidencia de publicación |
+| Hacienda PR — DA/BI | BI RI 26-01 a 26-04 en seen.txt; DA 26-01/DDEC 2026-01 en seen.txt; BI RI 26-05 sin publicar |
+| Hacienda PR — Comunicados | hacienda.pr.gov devuelve 403 en WebFetch; todos los comunicados recientes en seen.txt |
+| IRS — IRB/Notices | IRB 2026-15/17/20/21/22 en seen.txt; IRB 2026-23 sin publicar; ningún notice nuevo con nexo PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas de mayo 2026 |
+| DDEC / SURI / OCIF | Ninguna publicación nueva; Act 38-2026 / 4% Act 60 (Mar-10-2026) ya en seen.txt; PS 912 Reforma Contributiva en evaluación legislativa, no enactado |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC RI 26-08 (IVU huracanes) | `70167f7182155f94` | Ya en seen.txt → DESCARTADO |
+| BI RI 26-04 (Cheque Alivio) | `968f420c033b47cf` | Ya en seen.txt → DESCARTADO |
+| BI RI 26-03 (SC 2745) | `95eac451c9f2ca38` | Ya en seen.txt → DESCARTADO |
+| CC FP 1300-44-26 | `a426623ef99b4de2` | Ya en seen.txt → DESCARTADO |
+| IRB 2026-22 (Rev Proc safe harbor) | `aa14fb2b89a96f89` | Ya en seen.txt → DESCARTADO |
+| IRB 2026-21 (EA SEE fees) | `2dbf1b7e7f3b4229` | Ya en seen.txt + no aplica PR → DESCARTADO |
+| AAFAF Act 38-2026 / 4% Ley 60 | `12a46082480ac280` | Firmado Mar-10-2026 → >30 días → DESCARTADO |
+| Senado PR – PS 486/487/493/494 | `a9fb8a72782f8472` | PS 486/487 = Leyes 177/178-2025 (>30 días); fuente no configurada → DESCARTADO |
+| Senado PR – Reforma Contributiva comisión | `f146365e23734cfe` | Fecha no verificable; PS 912 no enactado; fuente no configurada → DESCARTADO |
+| PS 912 (Reforma Contributiva) | — | Sin evidencia de aprobación/firma; en evaluación → N/A |
+
+---
+
 ## 2026-05-29 — CORRIDA #201 (10:00 AST)
 
 **Hora corrida:** 2026-05-29 14:05 UTC / 2026-05-29 10:05 AST (slot 10am)
