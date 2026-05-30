@@ -2,6 +2,37 @@
 
 ---
 
+## 2026-05-29 — CORRIDA #203 (22:00 AST)
+
+**Hora corrida:** 2026-05-30 02:05 UTC / 2026-05-29 22:05 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **59° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 mencionada en búsquedas pero sin URL directa verificable → DESCARTADA per Regla #1 |
+| Hacienda PR — DA/BI | BI RI 26-01 a 26-04 en seen.txt; DA 26-01 en seen.txt; sin nuevas publicaciones |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna HTTP 403 en fetch; todos los comunicados recientes ya en seen.txt; CC FP 1300-19-26 (hash nuevo) pero fecha 13/01/2026 >30 días → DESCARTADA |
+| IRS — IRB/Guidance | IRB 2026-22 en seen.txt (contiene Rev. Proc. 2026-23 con safe harbors para PR); IRB 2026-23 aún no publicado (último disponible: 2026-22 del 26/05/2026) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas de mayo 2026 |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; DACO 2026-001 no verificable (403) y materia posiblemente no contributiva → DESCARTADA |
+
+### Items evaluados esta corrida:
+
+| Item | Hash SHA256 (16c) | Estado |
+|------|-------------------|--------|
+| CC FP 1300-19-26 (uso código disposición en comprobantes) | `7c5d27ba31e46b7a` | NUEVO hash pero fecha 13/01/2026 (>30 días) → DESCARTADO por filtro fecha |
+| CC RI 26-09 (Form 480.3(II), negocios con decretos exención, ACA 2025) | `9f55e75af4dc83f2` | URL no verificable via hacienda.pr.gov (403) → DESCARTADO per Regla #1 |
+| IRB 2026-23 (separado) | `de3fea1de5eaf980` | No publicado aún; más reciente es IRB 2026-22 (26/05/2026) |
+| DACO 2026-001 (Interpretación del Secretario) | `dc7f3159ec83f86b` | URL retorna 403; materia posiblemente no contributiva → DESCARTADO |
+| CC RI 26-01 a 26-08, BI RI 26-01 a 26-04, DA 26-01, OA DDEC 2026-001/002 | Varios | Ya en seen.txt → DESCARTADOS |
+| Comunicados mayo (SURI alivio, IVU huracanes, reintegros) | Varios | Ya en seen.txt → DESCARTADOS |
+
+---
 ## 2026-05-29 — CORRIDA #202 (18:00 AST)
 
 **Hora corrida:** 2026-05-29 22:11 UTC / 2026-05-29 18:11 AST (slot 6pm)
