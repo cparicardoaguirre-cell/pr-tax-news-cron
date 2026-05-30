@@ -2,6 +2,37 @@
 
 ---
 
+## 2026-05-30 — CORRIDA #204 (06:00 AST)
+
+**Hora corrida:** 2026-05-30 10:06 UTC / 2026-05-30 06:06 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **60° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09/BI RI 26-05/DA 26-02 — sin evidencia de existencia en búsquedas → DESCARTADAS per Regla #1 |
+| Hacienda PR — DA/BI | BI RI 26-01 a 26-04 en seen.txt; DA 26-01 en seen.txt; hacienda.pr.gov retorna 403 en todos los fetches |
+| Hacienda PR — Comunicados | Todos los comunicados recientes (mayo 2026) ya en seen.txt |
+| IRS — IRB/Guidance | IRB 2026-22 (26/05/2026) ya en seen.txt; IRB 2026-23 no publicado aún; ningún item nuevo con relevancia PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; sin nuevas órdenes detectadas |
+
+### Items evaluados esta corrida:
+
+| Item | Estado |
+|------|--------|
+| CC RI 26-09 (URL especulativa) | Sin evidencia de existencia → DESCARTADO per Regla #1 |
+| BI RI 26-05 (URL especulativa) | Sin evidencia de existencia → DESCARTADO per Regla #1 |
+| DA 26-02 (URL especulativa) | Sin evidencia de existencia → DESCARTADO per Regla #1 |
+| IRB 2026-22 Rev. Proc. 2026-23 | YA_VISTO (hash `086fac25660e5525`) |
+| 11 candidatos Hacienda/IRS/DDEC | YA_VISTOS — todos en seen.txt |
+
+---
+
 ## 2026-05-29 — CORRIDA #203 (22:00 AST)
 
 **Hora corrida:** 2026-05-30 02:05 UTC / 2026-05-29 22:05 AST (slot 10pm)
