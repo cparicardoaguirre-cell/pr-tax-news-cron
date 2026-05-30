@@ -2,6 +2,39 @@
 
 ---
 
+## 2026-05-30 — CORRIDA #205 (10:00 AST)
+
+**Hora corrida:** 2026-05-30 14:00 UTC / 2026-05-30 10:00 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **61° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; sin publicaciones nuevas (CC RI 26-09+ no existen aún) |
+| Hacienda PR — DA/BI | BI RI 26-01 a 26-04 en seen.txt; DA 26-01 en seen.txt; hacienda.pr.gov retorna 403 en fetches directos |
+| Hacienda PR — Comunicados | Todos los comunicados de mayo 2026 ya en seen.txt |
+| IRS — IRB/Guidance | IRB 2026-22 (26/05/2026) ya en seen.txt; IRB 2026-23 no publicado aún; ningún item nuevo con relevancia PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; sin nuevas órdenes detectadas; SURI sin avisos nuevos |
+
+### Items evaluados esta corrida:
+
+| Item | Estado |
+|------|--------|
+| CC FP 1300-44-26 | YA_VISTO (hash `a426623ef99b4de2`) |
+| BI RI 26-04 | YA_VISTO (hash en seen.txt) |
+| IRB 2026-20 | YA_VISTO (hash `07c101a18876f0e9`) |
+| IRB 2026-15 | YA_VISTO (hash `db227ba305f789da`) |
+| GAO-26-107225 | YA_VISTO (hash `20d6ab1fa15cb748`) — además fecha dic 2025 >30 días |
+| IRB 2026-23 | URL no publicada aún por IRS (IRB 2026-22 es el más reciente) |
+| 12 comunicados Hacienda | YA_VISTOS — todos en seen.txt |
+
+---
+
 ## 2026-05-30 — CORRIDA #204 (06:00 AST)
 
 **Hora corrida:** 2026-05-30 10:06 UTC / 2026-05-30 06:06 AST (slot 6am)
