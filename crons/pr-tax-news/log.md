@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-05-30 — CORRIDA #207 (18:00 AST)
+
+**Hora corrida:** 2026-05-30 22:10 UTC / 2026-05-30 18:10 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403: Host not in allowlist). **63° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; DA 26-02/BI RI 26-05 no existen; hacienda.pr.gov retorna 403 en fetches directos |
+| Hacienda PR — Comunicados | Todos los comunicados de prensa de mayo 2026 ya en seen.txt (incl. CC FP 1300-44-26, alivio contributivo, IVU huracanes) |
+| IRS — IRB/Guidance | IRB 2026-21 y 2026-22 en seen.txt; IRB 2026-23 aún no publicado (esperado ~2 jun 2026) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas |
+| DDEC / SURI / OCIF | OA DDEC 2026-001 y 2026-002 en seen.txt; SURI sin avisos formales nuevos; OCIF sin publicaciones contributivas |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado |
+|------|---------|--------|
+| CC RI 26-08 (IVU exento huracanes may-26) | `70167f7182155f94` | YA_VISTO |
+| CC FP 1300-44-26 (cierre fiscal 25-26) | `a426623ef99b4de2` | YA_VISTO |
+| DA 26-01 / OA DDEC 2026-01 (IANE electrónico) | `35264db882c36dca` | YA_VISTO |
+| BI RI 26-04 (Cheque Alivio SURI enlace) | `968f420c033b47cf` | YA_VISTO |
+| IRB 2026-22 (Rev. Proc. 2026-23, safe harbors PR) | `086fac25660e5525` | YA_VISTO |
+| IRB 2026-21 (Rev. Proc. 2026-21, precios PR) | `2dbf1b7e7f3b4229` | YA_VISTO |
+| OA DDEC 2026-002 (fondos capital privado) | `6ebc986dff173b8a` | YA_VISTO |
+| IRB 2026-23 | `de3fea1de5eaf980` | NO PUBLICADO AÚN (descartado per Regla #1) |
+| Colegio CPA PR (may 4, 18, 26 / 2026) | varios | 403 Forbidden → descartados per Regla #1 |
+
+---
+
 ## 2026-05-30 — CORRIDA #206 (15:00 AST)
 
 **Hora corrida:** 2026-05-30 19:05 UTC / 2026-05-30 15:05 AST (slot 3pm)
