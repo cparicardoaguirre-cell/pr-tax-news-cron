@@ -2,6 +2,48 @@
 
 ---
 
+## 2026-05-30 — CORRIDA #206 (15:00 AST)
+
+**Hora corrida:** 2026-05-30 19:05 UTC / 2026-05-30 15:05 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **62° fallo consecutivo.**
+**seen.txt:** 173 IDs totales (sin cambios)
+
+### Fuentes revisadas (6 fuentes):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI | BI RI 26-01 a 26-04 en seen.txt; DA 26-01 en seen.txt; BI RI 26-05/DA 26-02 no existen aún; hacienda.pr.gov retorna 403 en fetches |
+| Hacienda PR — Comunicados | CC FP 1300-28-26 y 1300-44-26 ya en seen.txt; todos los comunicados de mayo 2026 ya en seen.txt |
+| IRS — IRB/Guidance | IRB 2026-22 (26/05/2026) ya en seen.txt (incl. Rev. Proc. 2026-23 con safe harbors PR); IRB 2026-23 no publicado aún (esperado 2/jun/2026); IR-2026-69/70 (29/may) sin relevancia PR |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas |
+| DDEC / SURI / OCIF | OA DDEC 2026-001/002 en seen.txt; Ley 38-2026 en seen.txt Y >30 días; SURI en mantenimiento por alta demanda (Cheque Alivio); sin publicaciones formales nuevas |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado |
+|------|---------|--------|
+| CC FP 1300-28-26 | `26344408c3f0d6cf` | YA_VISTO |
+| CC FP 1300-44-26 | `a426623ef99b4de2` | YA_VISTO |
+| CC RI 26-08 | `70167f7182155f94` | YA_VISTO |
+| BI RI 26-04 | `968f420c033b47cf` | YA_VISTO |
+| IRB 2026-22 (incl. Rev. Proc. 2026-23) | `086fac25660e5525` | YA_VISTO |
+| Ley 38-2026 (Act 60 ext. 2055) | `a95d6806ef62018e` | YA_VISTO (además >30 días: 21/mar/2026) |
+| OA DDEC 2026-002 (Private Equity) | `113cec13597525de` | YA_VISTO |
+| IRB 2026-23 | `de3fea1de5eaf980` | NO PUBLICADO AÚN (descartado per Regla #1) |
+| CC RI 26-09 / BI RI 26-05 / DA 26-02 | varios | NO EXISTEN AÚN (descartados per Regla #1) |
+| Hacienda comunicado "3ra ronda alivio" (Mayo 26) | N/A | Noticia de prensa; communicado oficial no indexado → descartado |
+| IR-2026-69 (Sec. 892, foreign govts.) | N/A | Sin relevancia PR |
+| IR-2026-70 (construction contracts) | N/A | Sin relevancia PR |
+| One Big Beautiful Bill (P.L. 119-21) | N/A | Firmado 4/jul/2025 — >30 días; ya capturado en corridas previas |
+
+### Nota operacional:
+SURI reportó fallas el 20/may/2026 por alta concurrencia (≈800,000 usuarios simultáneos) revisando balances del Cheque de Alivio Contributivo (Res. Conjunta 6-2026, $554M). El Secretario Ángel Pantoja confirmó normalidad del proceso. No constituye aviso formal de política contributiva.
+
+---
+
 ## 2026-05-30 — CORRIDA #205 (10:00 AST)
 
 **Hora corrida:** 2026-05-30 14:00 UTC / 2026-05-30 10:00 AST (slot 10am)
