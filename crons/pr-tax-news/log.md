@@ -2,6 +2,52 @@
 
 ---
 
+## 2026-05-30 — CORRIDA #208 (22:00 AST)
+
+**Hora corrida:** 2026-05-30 02:06 UTC+1 / 2026-05-30 22:06 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 1 (IRS IR-2026-67 TAC sábado PR — no incluido en digest; evento ya concluido)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **64° fallo consecutivo.**
+**seen.txt:** 174 IDs totales
+
+### Fuentes revisadas (9 fuentes, ~25 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; BI RI 26-05/DA 26-02 no existen aún |
+| Hacienda PR — CC FP | CC FP 1300-19/20/25/28/44/46-26 verificadas; 1300-19-26 (13/ene, >30 días), resto sin relevancia contributiva directa |
+| Hacienda PR — Comunicados | Todos los comunicados de mayo 2026 ya en seen.txt (incl. IVU huracanes, Alivio, cierre ciclo) |
+| IRS — IRB/Guidance | IRB 2026-22 en seen.txt; IRB 2026-23 aún no publicado; IR-2026-67 (TAC sábado PR) nuevo → ID registrado |
+| IRS — Notices/Announcements | IR-2026-69 (Sec. 892, foreign govts.) — sin relevancia PR; no hay notices nuevos PR en mayo 28-30 |
+| DDEC / Act 60 | OA DDEC 2026-001/002/003 en seen.txt; sin nuevas órdenes en mayo 2026 |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas para mayo 2026 |
+| SURI / OCIF | Sin avisos formales nuevos |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado |
+|------|---------|--------|
+| CC RI 26-08 (IVU exento huracanes) | `70167f7182155f94` | YA_VISTO |
+| BI RI 26-04 (Cheque Alivio $554M) | `968f420c033b47cf` | YA_VISTO |
+| CC FP 1300-44-26 (cierre fiscal 25-26) | `a426623ef99b4de2` | YA_VISTO |
+| DA 26-01 / OA DDEC 2026-01 (IANE) | `35264db882c36dca` | YA_VISTO |
+| IRB 2026-22 (Rev. Proc. 2026-23) | `086fac25660e5525` | YA_VISTO |
+| OA DDEC 2026-002 (Private Equity) | `113cec13597525de` | YA_VISTO |
+| OA DDEC 2026-003 (Ind. Creativas PDF) | `0ec428a04365dfb3` | YA_VISTO |
+| CC RI 26-09 / BI RI 26-05 / DA 26-02 | — | NO EXISTEN AÚN (descartados per Regla #1) |
+| IRB 2026-23 | — | NO PUBLICADO AÚN (esperado ~2/jun) |
+| CC FP 1300-19-26 | `7c5d27ba31e46b7a` | NUEVO pero >30 días (13/ene/2026) → DESCARTADO |
+| CC FP 1300-20/25/46-26 | varios | NUEVO pero sin relevancia contributiva directa |
+| IR-2026-67 (TAC sábado PR, 27/may) | `61b7e3d903e2bb99` | NUEVO → registrado en seen.txt; no digest (evento pasado) |
+| IR-2026-69 (Sec. 892) | — | Sin relevancia PR → DESCARTADO |
+| Microjuris SC 2745 (20/abr) | `52e612bb638903fe` | NUEVO pero tertiary source (BI RI 26-03 ya en seen.txt) |
+
+### Deadline próximo (ya informado):
+⚠️ **1 JUN 2026**: Formulario SC 2745 (revisión mar-2026) OBLIGATORIO desde mañana. La versión de oct-2016 expira hoy a medianoche (BI RI 26-03, ID: `95eac451c9f2ca38`).
+
+---
+
 ## 2026-05-30 — CORRIDA #207 (18:00 AST)
 
 **Hora corrida:** 2026-05-30 22:10 UTC / 2026-05-30 18:10 AST (slot 6pm)
