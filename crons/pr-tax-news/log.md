@@ -2,6 +2,38 @@
 
 ---
 
+## 2026-05-31 — CORRIDA #209 (06:00 AST)
+
+**Hora corrida:** 2026-05-31 10:06 UTC / 2026-05-31 06:06 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **65° fallo consecutivo.**
+**seen.txt:** 174 IDs totales
+
+### Fuentes revisadas (5 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; DA 26-02/26-03 no confirmadas (403 fetch) |
+| Hacienda PR — Comunicados | Todos los comunicados de mayo 2026 ya en seen.txt |
+| IRS — IRB/Newsroom | IRB 2026-22 en seen.txt; IRB 2026-23 no publicado aún; TAC Saturday PR ya registrado |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt; sin nuevas órdenes en mayo 2026 |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas |
+| SURI / OCIF | Sin avisos formales nuevos |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado |
+|------|---------|--------|
+| IRS CI — Gajwani/Act 60 guilty plea | fea64d2bde502c67 | DESCARTADO — publicado jun-2025 (>30 días) |
+| IRS IRB 2026-23 | de3fea1de5eaf980 | DESCARTADO — URL no existe aún (404/sin contenido) |
+| Hacienda DA 26-02 (URL candidata) | 9bf7117566fd6317 | DESCARTADO — página retorna 403, no confirmada |
+| Hacienda DA 26-03 (URL candidata) | 24d11120046649a8 | DESCARTADO — página retorna 403, no confirmada |
+| CC RI 26-09 (URL candidata) | 9f55e75af4dc33f2 | DESCARTADO — búsqueda no confirma existencia |
+
+---
+
 ## 2026-05-30 — CORRIDA #208 (22:00 AST)
 
 **Hora corrida:** 2026-05-30 02:06 UTC+1 / 2026-05-30 22:06 AST (slot 10pm)
