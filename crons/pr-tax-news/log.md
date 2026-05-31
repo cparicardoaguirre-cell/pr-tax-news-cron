@@ -5803,3 +5803,30 @@ Sin publicaciones nuevas. Ver nota corrida #111.
 | IRS IRB 2026-20 (OZ guidance PR) | Ya en seen.txt |
 | GAO-26-107225 | Ya en seen.txt |
 | Comunicados reintegros (múltiples) | Ya en seen.txt |
+
+---
+
+## Corrida: 2026-05-31 15:05 AST (3pm)
+
+**Resumen:** 1 item nuevo | seen.txt: 175 IDs totales
+
+### Items nuevos enviados:
+
+**[IRS-PR - ENFORCEMENT] Karakashian v. Commissioner: IRS Rechaza Residencia Bona Fide en PR bajo IRC § 937**
+- ID: `39787763d406aba4`
+- Fecha: Mayo 2026 (petición Tax Court radicada 2026-04-27)
+- URL: https://www.hklaw.com/en/insights/publications/2026/05/irs-rejects-claim-of-bona-fide-residency-in-puerto-rico
+
+### Items descartados (ya vistos o fuera de ventana 30 días):
+| Ítem | Razón |
+|------|--------|
+| CC RI 26-08 (IVU huracanes, May 22-25) | Ya en seen.txt |
+| BI RI 26-04 (Cheque Alivio SURI) | Ya en seen.txt |
+| IRS IRB 2026-22 (Rev Proc 2026-23 safe harbor PR) | Ya en seen.txt |
+| IRS IRB 2026-20 (OZ guidance PR) | Ya en seen.txt |
+| GAO-26-107225 (IRS oversight PR) | Ya en seen.txt |
+| DDEC 2026-002 (private equity funds) | Fuera de ventana 30 días (2026-03-11) |
+| Act 38-2026 extensión Act 60 | Fuera de ventana 30 días (2026-03) |
+
+### Nota entrega Telegram:
+API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest preservado en log.
