@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-05-31 — CORRIDA #210 (10:00 AST)
+
+**Hora corrida:** 2026-05-31 14:10 UTC / 2026-05-31 10:10 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (no está en allowlist de red). **66° fallo consecutivo.**
+**seen.txt:** 174 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~14 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; sin novedades |
+| Hacienda PR — Comunicados | Últimas rondas de reintegros ya en seen.txt |
+| IRS — IRBs | IRB 2026-20, 26-21, 26-22 en seen.txt; IRB 2026-23 no publicado aún |
+| DDEC / Act 60 | OA DDEC 2026-001/002, Ley 38-2026 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas identificadas |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado |
+|------|---------|--------|
+| CC RI 26-08 (IVU huracán may 22-25) | 70167f7182155f94 | VISTO |
+| CC FP 1300-44-26 (cierre fiscal) | a426623ef99b4de2 | VISTO |
+| CC FP 1300-28-26 (pagos nómina) | 26344408c3f0d6cf | VISTO |
+| DA 26-01 / OA DDEC 2026-01 | 35264db882c36dca | VISTO |
+| BI RI 26-04 (SURI cuentas alivio) | 968f420c033b47cf | VISTO |
+| BI RI 26-03 | 95eac451c9f2ca38 | VISTO |
+| Ley 38-2026 / Act 60 enmiendas | a95d6806ef62018e | VISTO |
+| IRB 2026-22 (safe harbors PR) | 086fac25660e5525 | VISTO |
+| IRB 2026-20 (QOZ Puerto Rico) | 07c101a18876f0e9 | VISTO |
+| IRB 2026-15 (credit ceiling PR) | db227ba305f789da | VISTO |
+
+---
+
 ## 2026-05-31 — CORRIDA #209 (06:00 AST)
 
 **Hora corrida:** 2026-05-31 10:06 UTC / 2026-05-31 06:06 AST (slot 6am)
