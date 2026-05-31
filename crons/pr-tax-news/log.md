@@ -2,6 +2,40 @@
 
 ---
 
+## 2026-05-31 — CORRIDA #211 (18:00 AST)
+
+**Hora corrida:** 2026-05-31 22:05 UTC / 2026-05-31 18:05 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **67° fallo consecutivo.**
+**seen.txt:** 175 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; sin novedades |
+| Hacienda PR — Comunicados | Todos en seen.txt; sin nuevos comunicados post-mayo 20 |
+| IRS — IRBs (2026-22 más reciente) | IRB 2026-22 (May 26) en seen.txt; IRB 2026-23 no publicado aún |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt; sin nuevas órdenes en mayo 2026 |
+| Tribunal Apelativo / OCIF | Sin sentencias tributarias ni regulaciones contributivas nuevas |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado |
+|------|---------|--------|
+| CC RI 26-08 (IVU huracán) | 70167f7182155f94 | VISTO |
+| DA 26-01 / OA DDEC 2026-01 | 35264db882c36dca | VISTO |
+| BI RI 26-04 (Alivio Contributivo SURI) | 968f420c033b47cf | VISTO |
+| IRB 2026-22 (RP 2026-23 safe harbors PR) | 086fac25660e5525 | VISTO |
+| GAO-26-107225 (IRS oversight PR) | 20d6ab1fa15cb748 | VISTO |
+| CC RI 26-09 (URL candidata) | 9f55e75af4dc33f2 | DESCARTADO — búsquedas no confirman existencia |
+| IRS IRB 2026-23 | de3fea1de5eaf980 | DESCARTADO — no publicado aún (>May 31) |
+| OCIF Reglamentos 5337/8469/8470 | — | DESCARTADO — no es materia contributiva |
+
+---
+
 ## 2026-05-31 — CORRIDA #210 (10:00 AST)
 
 **Hora corrida:** 2026-05-31 14:10 UTC / 2026-05-31 10:10 AST (slot 10am)
