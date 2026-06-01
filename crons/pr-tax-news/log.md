@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-06-01 — CORRIDA #214 (15:11 AST)
+
+**Hora corrida:** 2026-06-01 19:11 UTC / 2026-06-01 15:11 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **70° fallo consecutivo.**
+**seen.txt:** 184 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~14 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI/Comunicados | DA 26-01, BI RI 26-01 a 26-04, comunicados reintegros — todos en seen.txt |
+| IRS — IRBs / Notices PR | IRB 2026-22 (May 26) más reciente; IRB 2026-23 no publicado aún |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt o fuera de ventana 30 días (Act 38-2026 marzo 2026) |
+| Tribunal Apelativo / SURI | Sin sentencias tributarias nuevas; lexjuris.com retorna 403 |
+| OCIF | Sin novedades |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado | Razón |
+|------|---------|--------|-------|
+| CC RI 26-08 (IVU huracanes) | 70167f7182155f94 | YA EN seen.txt | — |
+| BI RI 26-04 (Alivio contributivo) | 968f420c033b47cf | YA EN seen.txt | — |
+| DA 26-01 / DDEC 2026-01 | 35264db882c36dca | YA EN seen.txt | — |
+| IRB 2026-22 (Rev. Proc. 2026-23) | 086fac25660e5525 | YA EN seen.txt | — |
+| IRB 2026-20 (Rev. Proc. 2026-14 QOZ) | 07c101a18876f0e9 | YA EN seen.txt | — |
+| DDEC 2026-002 (PEF rules) | db4e908994965df1 | DESCARTADO | >30 días (marzo 11, 2026) |
+| Act 38-2026 (ext. Act 60 a 2055) | 1422d03bff7c87c6 | DESCARTADO | URL no oficial confirmada |
+
+### Nota:
+Senate Bill 912 (reforma contributiva — segunda fase) continúa pendiente. IRB 2026-23 esperado semana del 8 de junio.
+
+---
+
 ## 2026-06-01 — CORRIDA #213 (06:13 AST)
 
 **Hora corrida:** 2026-06-01 10:13 UTC / 2026-06-01 06:13 AST (slot 6am)
