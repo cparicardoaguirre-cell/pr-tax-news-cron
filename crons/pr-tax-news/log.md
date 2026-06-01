@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-05-31 — CORRIDA #212 (22:00 AST)
+
+**Hora corrida:** 2026-05-31 02:05 UTC / 2026-05-31 22:05 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **68° fallo consecutivo.**
+**seen.txt:** 175 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~12 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; sin novedades |
+| Hacienda PR — Comunicados | Sin nuevos comunicados post-mayo 2026; hacienda.pr.gov retorna 403 |
+| IRS — IRBs / Notices PR | IRB 2026-22 (May 26) más reciente; IRB 2026-23 no publicado aún |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo / SURI / OCIF | Sin sentencias tributarias ni regulaciones contributivas nuevas |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado |
+|------|---------|--------|
+| CC FP 1300-44-26 | a426623ef99b4de2 | VISTO |
+| CC RI 26-08 (IVU huracán) | 70167f7182155f94 | VISTO |
+| CC RI 26-02, 26-03, 26-05, 26-06 | 9e504eb3/e73ff434/8bee6b7b/f36a4195 | VISTO |
+| CC FP 1300-28-26 | 26344408c3f0d6cf | VISTO |
+| BI RI 26-04 (alivio contributivo) | 968f420c033b47cf | VISTO |
+| BI RI 26-03 / 26-02 | 95eac451/3e1b59bd | VISTO |
+| DA 26-01 / OA DDEC 2026-01 | 35264db882c36dca | VISTO |
+| IRB 2026-22 (RP 2026-23 safe harbors PR) | 086fac25660e5525 | VISTO |
+| IRB 2026-15 (credit ceiling PR) | db227ba305f789da | VISTO |
+| CC RI 26-09 (URL candidata) | — | DESCARTADO — no existe aún |
+| IRB 2026-23 | — | DESCARTADO — no publicado aún |
+| SURI mantenimiento junio 2026 | — | DESCARTADO — aviso genérico, no publicación regulatoria |
+
+---
+
 ## 2026-05-31 — CORRIDA #211 (18:00 AST)
 
 **Hora corrida:** 2026-05-31 22:05 UTC / 2026-05-31 18:05 AST (slot 6pm)
