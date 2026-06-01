@@ -6262,3 +6262,35 @@ Sin publicaciones nuevas. Ver nota corrida #111.
 
 ### Nota entrega Telegram:
 API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest preservado en log.
+
+---
+
+## Corrida: 2026-06-01 06:00 AST (6am)
+
+**Resumen:** 0 items nuevos | seen.txt: 184 IDs totales
+
+### Items descartados (ya vistos o fuera de ventana 30 días):
+| Ítem | Razón |
+|------|--------|
+| CC RI 26-01 a 26-08 (Hacienda) | Ya en seen.txt |
+| DA 26-01 / DDEC 2026-01 (IANE electrónico) | Ya en seen.txt |
+| BI RI 26-01 a 26-04 (Hacienda) | Ya en seen.txt |
+| CC FP 1300-44-26 (cierre fiscal 2025-2026) | Ya en seen.txt |
+| CC FP 1300-19-26 | Ya en seen.txt |
+| IRS IRB 2026-15 a 2026-22 | Ya en seen.txt |
+| DDEC OA 2026-002 (private equity funds) | Fuera de ventana (2026-03-11) |
+| IRS CI: Gajwani plea / Act 60 false Form 2553 | Fuera de ventana (plea 2025-06, sentencia 2025-08) |
+| Act 38-2026 extensión Act 60 a 2055 | Fuera de ventana (2026-03) |
+| IRB 2026-23 | No publicado aún (latest: IRB 2026-22, 2026-05-26) |
+| Comunicado IVU uniformes escolares | Fecha no verificada — descartado per Regla #1 |
+
+### Fuentes revisadas:
+1. Hacienda PR (publicaciones oficiales + comunicados) — sin novedad
+2. SURI — sin aviso nuevo verificado
+3. IRS (IRBs, newsroom, CI) — sin novedad dentro de ventana
+4. Tribunal Apelativo PR — sin sentencia contributiva nueva verificada
+5. DDEC Act 60 — sin orden nueva (última: DDEC 2026-002, fuera de ventana)
+6. OCIF — sin publicación contributiva nueva
+
+### Nota entrega Telegram:
+API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest preservado en log.
