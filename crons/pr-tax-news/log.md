@@ -2,6 +2,39 @@
 
 ---
 
+## 2026-06-01 — CORRIDA #215 (18:06 AST)
+
+**Hora corrida:** 2026-06-01 22:06 UTC / 2026-06-01 18:06 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **71° fallo consecutivo.**
+**seen.txt:** 184 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~15 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no publicada aún |
+| Hacienda PR — DA/BI/CC FP | DA 26-01, BI RI 26-01 a 26-04, CC FP 1300-19/28/44-26 — todos en seen.txt |
+| IRS — IRBs / Notices PR | IRB 2026-22 (May 26) más reciente; IRB 2026-23 esperado semana del 8 de junio |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt o fuera de ventana 30 días |
+| Tribunal Apelativo / SURI | Sin sentencias tributarias nuevas; SURI en mantenimiento |
+| OCIF | Sin novedades |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | ID Hash | Estado | Razón |
+|------|---------|--------|-------|
+| IRB 2026-08 (Feb 17, 2026) | c80c0eb3a90d210a | DESCARTADO | >30 días |
+| IRB 2026-10 (Mar 2, 2026) | 741bbaf53f2d8a27 | DESCARTADO | >30 días; sin contenido publicado |
+| GAO-26-107225 (Dic 12, 2025) | — | DESCARTADO | >30 días (6 meses); fuera de ventana |
+| DDEC 2026-002 (Mar 11, 2026) | 6ebc986dff173b8a | DESCARTADO | >30 días y ya en seen.txt |
+
+### Nota:
+IRB 2026-23 esperado semana del 8 de junio. Senate Bill 912 (reforma contributiva — segunda fase) continúa pendiente en Senado PR.
+
+---
+
 ## 2026-06-01 — CORRIDA #214 (15:11 AST)
 
 **Hora corrida:** 2026-06-01 19:11 UTC / 2026-06-01 15:11 AST (slot 3pm)
