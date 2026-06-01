@@ -2,6 +2,45 @@
 
 ---
 
+## 2026-06-01 — CORRIDA #213 (06:13 AST)
+
+**Hora corrida:** 2026-06-01 10:13 UTC / 2026-06-01 06:13 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 9 (todos descartados — fuera de ventana o no contributivos)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **69° fallo consecutivo.**
+**seen.txt:** 184 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no existe aún |
+| Hacienda PR — DA/BI/Comunicados | DA 26-01, BI RI 26-04 en seen.txt; CC FP 1300-19-26 descartada (pagos a proveedores, no contributivo) |
+| IRS — IRBs / Notices PR | IRB 2026-22 más reciente (May 26); IRB 2026-23 no publicado; Notice 2026-23 descartado (Priority Guidance Plan, no aplica PR) |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt; AAFAF 4% Act 60 descartado (Act 38-2026, marzo 2026 — fuera ventana 30 días) |
+| Tribunal Apelativo / SURI | Sin sentencias tributarias ni novedades SURI nuevas |
+| OCIF | Aviso derogación Regs 5337/8469/8470 (May 27) — no contributivo, descartado |
+
+### Items evaluados esta corrida:
+
+| Item | ID Hash | Estado | Razón descarte |
+|------|---------|--------|----------------|
+| CC FP 1300-19-26 (pagos a proveedores) | 7c5d27ba31e46b7a | DESCARTADO | No es política contributiva |
+| IRB 2026-23 | de3fea1de5eaf980 | DESCARTADO | No publicado aún |
+| IRS Notice 2026-23 (Priority Guidance Plan) | 28f3136bcb579ba9 | DESCARTADO | No menciona PR ni posesiones |
+| Senado aprueba reforma contributiva (artículo antiguo) | 400353c8de4b34fa | DESCARTADO | Artículo no verificable / posiblemente anterior a 2026 |
+| Senado article.cfm?nwsid=2684 | 3e93a2a974b49a3f | DESCARTADO | No verificable (403) |
+| notiuno.com reforma contributiva | de8ae841a056f018 | DESCARTADO | Fuente no oficial |
+| AAFAF — Gobernadora firma 4% Act 60 | 12a46082480ac280 | DESCARTADO | Act 38-2026 firmada marzo 2026 — fuera ventana 30 días |
+| AAFAF — Estimado exenciones solar/EV | f3a91d3f8b79cc77 | DESCARTADO | Relacionado a vistas ene/feb 2026 — fuera ventana |
+| Hacienda aviso PDF 12513-n-4x2PH | bd477bb42478fc2b | DESCARTADO | No verificable (403), contenido ambiguo |
+
+### Nota:
+Senate Bill 912 (reforma contributiva — segunda fase, nuevas tasas 0%–33%) continúa en vista pública, sin aprobación confirmada a la fecha.
+IRB 2026-23 esperado para la semana del 8 de junio de 2026.
+
+---
+
 ## 2026-05-31 — CORRIDA #212 (22:00 AST)
 
 **Hora corrida:** 2026-05-31 02:05 UTC / 2026-05-31 22:05 AST (slot 10pm)
