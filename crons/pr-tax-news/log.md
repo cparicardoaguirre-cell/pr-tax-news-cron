@@ -2,6 +2,54 @@
 
 ---
 
+## 2026-06-02 — CORRIDA #217 (06:13 AST — manual)
+
+**Hora corrida:** 2026-06-02 10:13 UTC / 2026-06-02 06:13 AST (manual)
+**Items nuevos:** 1
+**IDs añadidos a seen.txt:** 1
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **73° fallo consecutivo.**
+**seen.txt:** 185 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~22 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; no existe CC RI 26-09 publicada |
+| Hacienda PR — DA/BI/CC FP | DA 26-01, BI RI 26-01 a 26-04, CC FP 1300-19/20/25/28/44/46-26 evaluados |
+| IRS — IRBs / Rev. Procs. | **NUEVO: Rev. Proc. 2026-23 (May 26)** — no estaba en seen.txt como URL directa PDF |
+| IRS — IRB 2026-23 (Jun 1) | Sin contenido PR-relevante (deprec. autos, ingreso extranjero, activos digitales) |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt o fuera de ventana 30 días |
+| Tribunal Apelativo / SURI | Sin sentencias tributarias nuevas; sin avisos SURI nuevos |
+
+### Items nuevos incluidos en digest:
+
+| Item | ID Hash | Fecha | Estado |
+|------|---------|-------|--------|
+| Rev. Proc. 2026-23 — IRS (qualified mortgage bonds, Puerto Rico) | 268d44932740b932 | 2026-05-26 | INCLUIDO |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | ID Hash | Estado | Razón |
+|------|---------|--------|-------|
+| CC FP 1300-46-26 | 1297592bd0dfdcd8 | DESCARTADO | Finanzas Públicas (ausencias compensadas agencias gov.) — fuera de scope contributivo |
+| IRB 2026-23 PDF alt URL | 39f8b2329c87ba9b | DESCARTADO | Sin contenido PR-relevante |
+| IRB 2026-22 PDF alt URL | c23eebd6c82bba9f | DESCARTADO | Mismo contenido que HTML ya en seen.txt |
+| Procopio — Act 60 extension art. | cd3d0a8d4e28da07 | DESCARTADO | Tercero; ley base (Ley 38-2026/Act 60) publicada ~marzo 2026 (>30 días) |
+
+### Digest enviado (Telegram falló, contenido guardado en log):
+
+```
+[IRS — Revenue Procedure] Rev. Proc. 2026-23 — Precios promedio de adquisición para bonos hipotecarios cualificados (Puerto Rico)
+Fecha: 2026-05-26
+La Rev. Proc. 2026-23 establece los precios promedio de adquisición de área (average area purchase price safe harbors) requeridos por las Secciones 143(e) y 143(f) del IRC para emisores de bonos hipotecarios cualificados (qualified mortgage bonds) y certificados de crédito hipotecario (mortgage credit certificates). Los precios para Puerto Rico se derivan de los límites FHA publicados el 11 de diciembre de 2025. Aplica a compromisos de financiamiento formalizados a partir del 6 de mayo de 2026. Reemplaza a Rev. Proc. 2025-18 para este propósito.
+URL: https://www.irs.gov/pub/irs-drop/rp-26-23.pdf
+```
+
+### Nota:
+IRB 2026-24 esperado semana del 8 de junio. Senate Bill 912 (reforma contributiva — segunda fase) continúa pendiente en Senado PR. Rev. Proc. 2026-23 relevante para emisores de bonos hipotecarios cualificados en PR bajo §§ 143(e)/(f) IRC.
+
+---
+
 ## 2026-06-02 — CORRIDA #216 (06:00 AST)
 
 **Hora corrida:** 2026-06-02 10:00 UTC / 2026-06-02 06:00 AST (slot 6am)
