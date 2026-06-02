@@ -2,6 +2,39 @@
 
 ---
 
+## 2026-06-02 — CORRIDA #219 (15:05 AST)
+
+**Hora corrida:** 2026-06-02 19:05 UTC / 2026-06-02 15:05 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (red del entorno no permite outbound a api.telegram.org). **75° fallo consecutivo.**
+**seen.txt:** 185 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~14 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 todas en seen.txt; CC RI 26-09/10 no existen aún |
+| Hacienda PR — DA/BI/CC FP/Comunicados | DA 26-01 (pub. hoy, ya en seen.txt); BI RI 26-04, CC FP 1300-44-26 en seen.txt |
+| IRS — IRBs / Notices | IRB 2026-22 y 2026-23 en seen.txt; IRB 2026-24 no publicado aún |
+| SURI | Sin avisos nuevos verificados; mantenimiento en curso (genérico, no específico) |
+| DDEC / Act 60 | DDEC 2026-01 y 2026-002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en mayo-junio 2026 |
+
+### Items descartados esta corrida:
+
+| Item | Razón |
+|------|-------|
+| Comunicado IVU uniformes escolares (URL nueva) | Publicado ~junio 2025 (>30 días) — eventos (jul-2025 y ene-2026) ya pasados |
+| CC RI 26-09, BI RI 26-05 | No existen — búsqueda site:hacienda.pr.gov no los devuelve |
+| IRB 2026-23 | Ya en seen.txt |
+| Caso TA PR Sagardía c. Hacienda | Procesal/constitucional, no sentencia tributaria de fondo |
+
+### Nota:
+Próxima publicación esperada: IRB 2026-24 (semana del 8 de junio). Posibles nuevas CCs/BIs de Hacienda para periodo fiscal cierre junio 2026.
+
+---
+
 ## 2026-06-02 — CORRIDA #218 (10:09 AST)
 
 **Hora corrida:** 2026-06-02 14:09 UTC / 2026-06-02 10:09 AST (slot 10am)
