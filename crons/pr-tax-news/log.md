@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-06-02 — CORRIDA #216 (06:00 AST)
+
+**Hora corrida:** 2026-06-02 10:00 UTC / 2026-06-02 06:00 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **72° fallo consecutivo.**
+**seen.txt:** 184 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~17 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 sin confirmar publicación oficial |
+| Hacienda PR — DA/BI/CC FP | DA 26-01, BI RI 26-01 a 26-04, CC FP varias — todos en seen.txt |
+| IRS — IRBs / Notices PR | IRB 2026-23 (Jun 1) ya en seen.txt (procesado corrida anterior); sin IRB 2026-24 aún |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt |
+| Tribunal Apelativo / SURI | Sin sentencias tributarias nuevas; sin avisos SURI nuevos |
+| OCIF | Sin novedades contributivas |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | ID Hash | Estado | Razón |
+|------|---------|--------|-------|
+| CC RI 26-09 | — | DESCARTADO | Sin URL oficial confirmada (Rule 1: no inventar) |
+| BI RI 26-05 | — | DESCARTADO | No publicada aún |
+| CC FP 1300-20-26 | 9773ed3db1e43af6 | DESCARTADO | Administrativa/presupuestal, no contributiva |
+| CC FP 1300-25-26 | f101d9b67f986b4f | DESCARTADO | Administrativa/presupuestal, no contributiva |
+| Reglamento Deudas Contributivas en Mora | 4edc91a3e2f9846e | DESCARTADO | Fecha no confirmada dentro ventana 30 días |
+| IRB 2026-23 (Jun 1, 2026) | de3fea1de5eaf980 | DESCARTADO | Ya en seen.txt (procesado corrida anterior) |
+
+### Nota:
+Senate Bill 912 (reforma contributiva — segunda fase) continúa pendiente en Senado PR. IRB 2026-24 esperado semana del 8 de junio. Sin CC RI 26-09 confirmada.
+
+---
+
 ## 2026-06-01 — CORRIDA #215 (18:06 AST)
 
 **Hora corrida:** 2026-06-01 22:06 UTC / 2026-06-01 18:06 AST (slot 6pm)
