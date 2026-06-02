@@ -2,6 +2,40 @@
 
 ---
 
+## 2026-06-02 — CORRIDA #218 (10:09 AST)
+
+**Hora corrida:** 2026-06-02 14:09 UTC / 2026-06-02 10:09 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **74° fallo consecutivo.**
+**seen.txt:** 185 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~14 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no verificable (URL no confirmada en links de búsqueda, descartada per Regla #1) |
+| Hacienda PR — DA/BI/CC FP/Comunicados | DA 26-01, BI RI 26-01 a 26-04, CC FP evaluadas — todas en seen.txt |
+| IRS — IRBs / Notices | IRB 2026-22 en seen.txt; IRB 2026-23 no publicado aún; sin nuevos notices PR-relevantes |
+| SURI | Sin avisos nuevos verificados |
+| DDEC / Act 60 | CC DDEC 2026-003, DDEC 2026-004 — ya en seen.txt o sin URL verificable |
+| Tribunal Apelativo/Supremo PR | Caso Sagardía: procesal (entrega de documentos al Senado), no sentencia tributaria — descartado |
+
+### Items descartados esta corrida:
+
+| Item | Razón |
+|------|-------|
+| CC RI 26-09 (posible) | URL no confirmada por links reales de búsqueda — descartada per Regla #1 |
+| Rev. Proc. 2026-23 (IRB 2026-22) | Ya en seen.txt (añadida en Corrida #217, 06:13 AST) |
+| DDEC CC 2026-003 / Guía Alivio rev.5.20.2026 | Ya en seen.txt |
+| TA PR — caso Sagardía | Procesal/constitucional, no sentencia tributaria de fondo |
+| IRS TAC Saturday hours May 30 | Aviso operacional, no guía contributiva |
+
+### Nota:
+Próxima publicación esperada: IRB 2026-24 (semana del 8 de junio). Senate Bill 912 (reforma contributiva fase 2) pendiente en Senado PR.
+
+---
+
 ## 2026-06-02 — CORRIDA #217 (06:13 AST — manual)
 
 **Hora corrida:** 2026-06-02 10:13 UTC / 2026-06-02 06:13 AST (manual)
