@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-06-02 — CORRIDA #220 (18:09 AST)
+
+**Hora corrida:** 2026-06-02 22:09 UTC / 2026-06-02 18:09 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403). **76° fallo consecutivo.**
+**seen.txt:** 185 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~13 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 en seen.txt; CC RI 26-09 no publicada aún |
+| Hacienda PR — DA/BI RI/Comunicados | DA 26-01, BI RI 26-01 a 26-04, CC FP 1300-44-26 en seen.txt |
+| Hacienda PR — CC FP adicionales | CC FP 1300-12/17/18/19/20/25-26 encontradas; 19-26 en seen.txt; 20-26 pub. dic. 2025 (>30 días); resto sin fecha verificable + no contributivas — descartadas (Regla #1) |
+| IRS — IRBs / Notices | IRB 2026-20/22/23 en seen.txt; IRB 2026-24 no publicado (esperado semana del 8 jun.) |
+| SURI | En mantenimiento; sin avisos específicos verificables |
+| DDEC / Act 60 | DDEC 2026-001/002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Caso Sagardía: procesal/informativo, no sentencia tributaria de fondo — descartado |
+| OCIF | Reglamento adm. publicado abril 14, 2026 (>30 días) — descartado |
+
+### Items descartados esta corrida:
+
+| Item | Razón |
+|------|-------|
+| CC FP 1300-20-26 | Publicada diciembre 4, 2025 — >30 días |
+| CC FP 1300-12/17/18/25-26 | Fecha de publicación no verificable (WebFetch bloqueado); materia de finanzas públicas gubernamentales, no contributiva para clientes CPA — Regla #1 |
+| IRB 2026-20 (Rev. Proc. 2026-14 QOZ) | Ya en seen.txt (hash 07c101a18876f0e9) |
+| OCIF propuesta reglamento | Publicada abril 14, 2026 — >30 días |
+| Tribunal Apelativo Sagardía | Procesal (entrega documentos al Senado), no sentencia tributaria |
+
+### Nota:
+Próxima publicación esperada: IRB 2026-24 (semana del 8 de junio). Posibles nuevas CC RI o BI RI de Hacienda para periodo de cierre fiscal junio 2026.
+
+---
+
 ## 2026-06-02 — CORRIDA #219 (15:05 AST)
 
 **Hora corrida:** 2026-06-02 19:05 UTC / 2026-06-02 15:05 AST (slot 3pm)
