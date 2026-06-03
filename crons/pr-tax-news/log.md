@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-06-03 — CORRIDA #224 (15:10 AST)
+
+**Hora corrida:** 2026-06-03 19:10 UTC / 2026-06-03 15:10 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403: Forbidden). **80° fallo consecutivo.**
+**seen.txt:** 186 IDs totales
+
+### Fuentes revisadas (8 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09 es la más reciente (ya en seen.txt); sin CC RI 26-10 publicada |
+| Hacienda PR — DA | DA 26-01 es la única de 2026 (ya en seen.txt); sin DA 26-02 |
+| Hacienda PR — BI RI | BI RI 26-01 a 26-04 en seen.txt; sin BI RI 26-05 publicado |
+| Hacienda PR — Comunicados | Todos los comunicados mayo-junio 2026 ya en seen.txt |
+| IRS — IRBs / Notices | IRBs hasta 2026-23 (01-jun-2026) en seen.txt; IRB 2026-24 no publicado aún |
+| DDEC / Act 60 | DDEC 2026-001/002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas (mayo-jun 2026) |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-09, DA 26-01, BI RI 26-01 a 26-04 | Ya en seen.txt |
+| CC FP 1300-44-26, CC FP 1300-19-26 | Ya en seen.txt |
+| GAO-26-107225 (IRS oversight Act 60) | Ya en seen.txt |
+| Comunicados reintegros Hacienda (×6) | Ya en seen.txt |
+| IRB 2026-23 PDF URL alternativa | Duplicado (mismo contenido, ID HTML ya en seen.txt) |
+| IRB 2026-24 | No publicado aún |
+| Rivera Camacho v. Publi-Inversiones (TS 21-may-2026) | No tributario/contributivo |
+| IRS around-the-nation territories (Jun-25 Saturday) | Operacional, no publicación fiscal |
+
+---
+
 ## 2026-06-03 — CORRIDA #223 (10:12 AST)
 
 **Hora corrida:** 2026-06-03 14:12 UTC / 2026-06-03 10:12 AST (slot 10am)
