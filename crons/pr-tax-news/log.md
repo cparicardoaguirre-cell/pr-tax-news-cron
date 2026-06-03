@@ -2,6 +2,40 @@
 
 ---
 
+## 2026-06-02 — CORRIDA #221 (22:11 AST)
+
+**Hora corrida:** 2026-06-03 02:11 UTC / 2026-06-02 22:11 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox. **77° fallo consecutivo.**
+**seen.txt:** 185 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 y 26-10 en seen.txt; CC RI 26-09 no publicada aún |
+| Hacienda PR — DA/BI RI | DA 26-01 en seen.txt; BI RI 26-01 a 26-04 en seen.txt; DA 26-02/BI RI 26-05/26-06 no publicadas |
+| Hacienda PR — Comunicados | Todos los comunicados recientes verificados en seen.txt (reintegros, alivio contributivo, cierre ciclo) |
+| IRS — IRBs / Notices | IRBs hasta 2026-23 en seen.txt; IRB 2026-24 publicado (Rev. Proc. 2026-24 HSA) — no aplica a PR, descartado |
+| DDEC / Act 60 | DDEC 2026-001/002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+| OCIF | Derogación Reglamentos 5337/8469/8470 (27 mayo 2026) — materia hipotecaria/financiera, NO contributiva — descartado |
+| SURI | Sin avisos nuevos detectados |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-09 (URL candidata) | Documento no publicado aún — búsquedas confirman último es 26-08/26-10 |
+| BI RI 26-05, 26-06 (URLs candidatas) | Documentos no publicados — búsquedas confirman último es BI RI 26-04 |
+| DA 26-02 (URL candidata) | Documento no publicado — búsquedas confirman solo DA 26-01 en 2026 |
+| IRB 2026-24 (Rev. Proc. 2026-24) | Contiene ajustes HSA para 2027; no menciona PR/Section 933/Act 60 — descartado per Regla #3 |
+| OCIF Reglamentos 5337/8469/8470 | Reglamentos hipotecarios/financieros; no contributivos — descartado per Regla #6 |
+| Comunicado IVU uniformes escolares (URL nueva) | Publicado en 2025; >30 días — descartado per Regla de filtro de fecha |
+
+---
+
 ## 2026-06-02 — CORRIDA #220 (18:09 AST)
 
 **Hora corrida:** 2026-06-02 22:09 UTC / 2026-06-02 18:09 AST (slot 6pm)
