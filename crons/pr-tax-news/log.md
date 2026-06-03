@@ -2,6 +2,43 @@
 
 ---
 
+## 2026-06-03 — CORRIDA #222 (06:06 AST)
+
+**Hora corrida:** 2026-06-03 10:06 UTC / 2026-06-03 06:06 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403: Host not in allowlist). **78° fallo consecutivo.**
+**seen.txt:** 185 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~15 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-01 a 26-08 y 26-10 en seen.txt; CC RI 26-09/26-11 no publicadas |
+| Hacienda PR — DA/BI RI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; DA 26-02, BI RI 26-05 no publicadas |
+| Hacienda PR — Comunicados | Comunicados recientes verificados en seen.txt; ninguno nuevo en últimas 8 horas |
+| IRS — IRBs / Notices | IRBs hasta 2026-23 en seen.txt; IRB 2026-24 no publicado (esperado semana del 8 jun.) |
+| SURI | Sin avisos nuevos detectados |
+| DDEC / Act 60 | DDEC 2026-001/002 en seen.txt; sin nuevas órdenes administrativas |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| DA 26-01 / DDEC OA 2026-01 | Ya en seen.txt (hash 35264db882c36dca) |
+| BI RI 26-04 (Alivio Contributivo) | Ya en seen.txt (hash 968f420c033b47cf) |
+| CC RI 26-08 (IVU exención huracanes) | Ya en seen.txt (hash 70167f7182155f94) |
+| IRB 2026-22 (Rev. Proc. 2026-23, QOZ) | Ya en seen.txt (hash 086fac25660e5525) |
+| DDEC OA 2026-002 (fondos capital privado) | Ya en seen.txt (hash 6ebc986dff173b8a) |
+| CC FP 1300-44-26 | Ya en seen.txt; cierre AY 2025-2026, no contributiva para clientes CPA |
+
+### Nota:
+Próximas publicaciones esperadas: IRB 2026-24 (semana del 8 de junio). Posibles nuevas CC RI o BI RI de Hacienda para período de cierre fiscal junio 2026. Verificar Act 60 nuevas enmiendas DDEC.
+
+---
+
 ## 2026-06-02 — CORRIDA #221 (22:11 AST)
 
 **Hora corrida:** 2026-06-03 02:11 UTC / 2026-06-02 22:11 AST (slot 10pm)
