@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-06-03 — CORRIDA #225 (18:06 AST)
+
+**Hora corrida:** 2026-06-03 22:06 UTC / 2026-06-03 18:06 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403: Forbidden). **81° fallo consecutivo.**
+**seen.txt:** 186 IDs totales
+
+### Fuentes revisadas (8 fuentes, ~14 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09 sigue siendo la más reciente (ya en seen.txt); sin CC RI 26-10 publicada |
+| Hacienda PR — DA | DA 26-01 única de 2026 (ya en seen.txt); sin DA 26-02 |
+| Hacienda PR — BI RI | BI RI 26-01 a 26-04 en seen.txt; sin BI RI 26-05 publicado |
+| Hacienda PR — Comunicados | Últimos comunicados mayo 2026 ya en seen.txt; sin nuevos de junio |
+| IRS — IRBs / Notices | IRB 2026-23 (01-jun-2026) el más reciente en seen.txt; IRB 2026-24 no publicado aún |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt; sin nuevas órdenes de junio |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas (jun 2026) |
+| SURI | Sin avisos de mantenimiento o nuevos formularios |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-09 y anteriores | Ya en seen.txt |
+| DA 26-01, BI RI 26-01 a 26-04 | Ya en seen.txt |
+| OA DDEC 2026-001 / DA 26-01 | Ya en seen.txt |
+| OA DDEC 2026-002 (11-mar-2026) | Ya en seen.txt |
+| IRB 2026-23 PDF (01-jun-2026) | Ya en seen.txt |
+| IRB 2026-24 | No publicado aún |
+| CC RI 26-10 | No publicada aún |
+| BI RI 26-05 | No publicado aún |
+| IRS Puerto Rico Local Standards Jun 2026 | No es publicación formal (aviso/notice/ruling); página operacional |
+| Comunicados Hacienda Reintegros / IVU | Ya en seen.txt |
+
+---
+
 ## 2026-06-03 — CORRIDA #224 (15:10 AST)
 
 **Hora corrida:** 2026-06-03 19:10 UTC / 2026-06-03 15:10 AST (slot 3pm)
