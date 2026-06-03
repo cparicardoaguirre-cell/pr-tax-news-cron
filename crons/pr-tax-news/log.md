@@ -2,6 +2,43 @@
 
 ---
 
+## 2026-06-03 — CORRIDA #223 (10:12 AST)
+
+**Hora corrida:** 2026-06-03 14:12 UTC / 2026-06-03 10:12 AST (slot 10am)
+**Items nuevos:** 1
+**IDs añadidos a seen.txt:** 1 (9f55e75af4dc33f2)
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403: Host not in allowlist). **79° fallo consecutivo.**
+**seen.txt:** 186 IDs totales
+
+### Items nuevos esta corrida:
+
+| # | Fuente | Tipo | Número Oficial | Título | URL |
+|---|--------|------|----------------|--------|-----|
+| 1 | Hacienda PR | Carta Circular | CC RI 26-09 | Radicación Planilla 480.3(II) para Negocios con Decretos de Exención — AÑO CONT. 2025 | https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-09-cc-ri-26-09 |
+
+### Fuentes revisadas (8 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09 NUEVA (publicada entre 22:00 jun-2 y 10:12 jun-3); resto en seen.txt |
+| Hacienda PR — DA/BI RI | DA 26-01, BI RI 26-01 a 26-04 en seen.txt; DA 26-02, BI RI 26-05 no publicadas |
+| Hacienda PR — Comunicados | Sin comunicados nuevos |
+| IRS — IRBs / Notices | IRBs hasta 2026-23 en seen.txt; IRB 2026-24 no publicado aún |
+| SURI | Sistema actualmente en mantenimiento (aviso detectado) |
+| DDEC / Act 60 | DDEC 2026-001/002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| DA 26-01, CC RI 26-08, BI RI 26-04, IRB 2026-20/22/23 | Ya en seen.txt |
+| BI RI 26-05, DA 26-02 | No publicados aún |
+| SURI mantenimiento | Aviso operacional, no publicación oficial |
+
+---
+
 ## 2026-06-03 — CORRIDA #222 (06:06 AST)
 
 **Hora corrida:** 2026-06-03 10:06 UTC / 2026-06-03 06:06 AST (slot 6am)
