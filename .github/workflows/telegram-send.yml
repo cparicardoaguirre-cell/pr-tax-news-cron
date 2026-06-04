@@ -1,0 +1,57 @@
+name: Send PR Tax News Digest to Telegram
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'crons/pr-tax-news/pending_digest.txt'
+
+jobs:
+  send-telegram:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Send digest to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request, urllib.parse, json, os, sys
+
+          BOT = os.environ['TELEGRAM_BOT_TOKEN']
+          CHAT = os.environ['TELEGRAM_CHAT_ID']
+          DIGEST_FILE = 'crons/pr-tax-news/pending_digest.txt'
+
+          if not os.path.exists(DIGEST_FILE):
+              print("No pending digest file found. Skipping.")
+              sys.exit(0)
+
+          with open(DIGEST_FILE, 'r', encoding='utf-8') as f:
+              text = f.read().strip()
+
+          if not text:
+              print("Digest file is empty. Skipping.")
+              sys.exit(0)
+
+          MAX = 4000
+          parts = [text[i:i+MAX] for i in range(0, len(text), MAX)]
+          for part in parts:
+              data = urllib.parse.urlencode({'chat_id': CHAT, 'text': part}).encode()
+              req = urllib.request.Request(
+                  f'https://api.telegram.org/bot{BOT}/sendMessage', data
+              )
+              resp = json.load(urllib.request.urlopen(req, timeout=15))
+              print("Sent:", resp.get('ok'))
+          PYEOF
+
+      - name: Remove pending_digest.txt and commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          rm -f crons/pr-tax-news/pending_digest.txt
+          git add crons/pr-tax-news/pending_digest.txt
+          git diff --cached --quiet || git commit -m "chore: clear pending digest after Telegram send"
+          git push origin HEAD

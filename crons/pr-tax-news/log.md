@@ -2,6 +2,77 @@
 
 ---
 
+## 2026-06-04 — CORRIDA #228 (10:00 AST)
+
+**Hora corrida:** 2026-06-04 14:00 UTC / 2026-06-04 10:00 AST (slot 10am)
+**Items nuevos:** 1
+**IDs añadidos a seen.txt:** 1 (`8cf93d5b83137901`)
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **84° fallo consecutivo.** Digest preservado en log.
+**seen.txt:** 187 IDs totales (+1 esta corrida)
+
+### Fuentes revisadas (6 fuentes, ~20 queries + WebFetch):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | **CC RI 26-11 NUEVO** (2026-06-02) — periodos IVU regreso escuelas AE 2026-2027 |
+| Hacienda PR — DA | DA 26-01 en seen.txt; sin DA 26-02 publicada |
+| Hacienda PR — BI RI | BI RI 26-01 a 26-04 en seen.txt; sin BI RI 26-05 publicado |
+| Hacienda PR — Comunicados | Comunicados escolares IVU — fechas no verificadas, descartados (Regla #1) |
+| IRS — IRBs / Notices | IRB 2026-23 en seen.txt; IRB 2026-23 no tiene aplicación PR directa |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas verificadas |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal de mantenimiento o nuevo formulario |
+
+### Items nuevos esta corrida:
+
+**[HACIENDA PR — CARTA CIRCULAR] CC RI 26-11 — Periodos IVU Regreso a la Escuela AE 2026-2027**
+- ID: `8cf93d5b83137901`
+- Fecha publicación: 2026-06-02
+- Tema: Períodos de ventas exentas del Impuesto sobre Ventas y Uso (IVU) para uniformes, calzado y materiales escolares para el año escolar 2026-2027, conforme a la Sección 4030.28 del Código de Rentas Internas de PR de 2011.
+- URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-11-cc-ri-26-11
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-02 a 26-10 | Ya en seen.txt |
+| BI RI 26-01 a 26-04 | Ya en seen.txt |
+| DA 26-01 / OA DDEC 2026-01 | Ya en seen.txt |
+| OA DDEC 2026-002 (Fondos Capital Privado) | Ya en seen.txt |
+| IRB 2026-22 (Rev Proc 2026-23 — safe harbors hipotecas PR) | Ya en seen.txt |
+| IRB 2026-23 (yield curve, planes retiro) | Ya en seen.txt |
+| GAO-26-107225 (IRS oversight PR Act 60) | Ya en seen.txt |
+| Comunicados IVU escolares (3 URLs) | Fechas no verificables — descartados (Regla #1) |
+| CC FP 1300-46-26 (empleados, licencias) | Finanzas Públicas (gobierno interno), fuera de alcance contributivo |
+
+### Digest preparado (no entregado por bloqueo red):
+
+```
+PR TAX NEWS | 2026-06-04 | 10:00 AST
+===============================================
+
+[HACIENDA PR - CARTA CIRCULAR] CC RI 26-11
+Periodos de Ventas Exentas de IVU para Regreso a la Escuela AE 2026-2027
+Fecha: 2026-06-02
+Hacienda establecio los periodos de ventas exentas del Impuesto sobre Ventas y Uso (IVU)
+aplicables a uniformes, calzado y materiales escolares para el ano escolar 2026-2027,
+conforme a la Seccion 4030.28 del Codigo de Rentas Internas de Puerto Rico de 2011.
+La CC RI 26-11 establece las fechas especificas de los dos periodos de exencion anuales
+(tipicamente mediados de julio y principios de enero). Los comerciantes minoristas deben
+observar los requisitos de documentacion, reporte y los articulos elegibles bajo esta
+exencion. Esta circular sustituye a la de la vigencia del ano escolar anterior.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-11-cc-ri-26-11
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 187 IDs totales
+Proxima corrida: 15:00 AST
+================================
+```
+
+---
+
 ## 2026-06-04 — CORRIDA #227 (06:00 AST)
 
 **Hora corrida:** 2026-06-04 10:00 UTC / 2026-06-04 06:00 AST (slot 6am)
