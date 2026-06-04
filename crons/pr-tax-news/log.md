@@ -2,6 +2,44 @@
 
 ---
 
+## 2026-06-04 — CORRIDA #227 (06:00 AST)
+
+**Hora corrida:** 2026-06-04 10:00 UTC / 2026-06-04 06:00 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por sandbox (HTTP Error 403: Forbidden). **83° fallo consecutivo.**
+**seen.txt:** 186 IDs totales
+
+### Fuentes revisadas (8 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-09 sigue siendo la más reciente (ya en seen.txt); CC RI 26-10 no publicada |
+| Hacienda PR — DA | DA 26-01 única de 2026 (ya en seen.txt); DA 26-02 no publicada |
+| Hacienda PR — BI RI | BI RI 26-01 a 26-04 en seen.txt; BI RI 26-05 no publicado |
+| Hacienda PR — Comunicados | Sin comunicados nuevos de junio 2026; todos anteriores en seen.txt |
+| IRS — IRBs / Notices | IRB 2026-23 el más reciente en seen.txt; IRB 2026-24 no publicado; ningún Notice nuevo con aplicación PR |
+| DDEC / Act 60 | OA DDEC 2026-001 y 2026-002 en seen.txt; sin nuevas órdenes |
+| Tribunal Apelativo PR | Sin sentencias tributarias indexadas para junio 2026 |
+| SURI | Sistema bajo mantenimiento al momento de la corrida |
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-02 a 26-09 | Ya en seen.txt |
+| BI RI 26-01 a 26-04 | Ya en seen.txt |
+| DA 26-01 / OA DDEC 2026-01 | Ya en seen.txt |
+| OA DDEC 2026-002 (Fondos Capital Privado) | Ya en seen.txt |
+| IRB 2026-20 (QOZs Puerto Rico, Rev Proc efectiva 6-abr-2026) | Ya en seen.txt |
+| IRB 2026-22 (Rev Proc 2026-23 — safe harbors hipotecas PR) | Ya en seen.txt |
+| IRB 2026-23 (yield curve, planes retiro) | Ya en seen.txt (sin aplicación contributiva directa PR) |
+| CC RI 26-10, BI RI 26-05, DA 26-02 | No publicados aún |
+| IRB 2026-24 | No publicado aún |
+| SURI aviso | Estado mantenimiento real-time, no publicación formal |
+
+---
+
 ## 2026-06-03 — CORRIDA #226 (22:05 AST)
 
 **Hora corrida:** 2026-06-04 02:05 UTC / 2026-06-03 22:05 AST (slot 10pm)
