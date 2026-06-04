@@ -3,8 +3,6 @@ name: Send PR Tax News Digest to Telegram
 on:
   push:
     branches: [main]
-    paths:
-      - 'crons/pr-tax-news/pending_digest.txt'
 
 jobs:
   send-telegram:
@@ -21,19 +19,23 @@ jobs:
           python3 << 'PYEOF'
           import urllib.request, urllib.parse, json, os, sys
 
-          BOT = os.environ['TELEGRAM_BOT_TOKEN']
-          CHAT = os.environ['TELEGRAM_CHAT_ID']
+          BOT = os.environ.get('TELEGRAM_BOT_TOKEN', '').strip()
+          CHAT = os.environ.get('TELEGRAM_CHAT_ID', '').strip()
           DIGEST_FILE = 'crons/pr-tax-news/pending_digest.txt'
 
+          if not BOT or not CHAT:
+              print("Secrets not configured. Set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID in repo secrets.")
+              sys.exit(0)
+
           if not os.path.exists(DIGEST_FILE):
-              print("No pending digest file found. Skipping.")
+              print("No pending digest file. Nothing to send.")
               sys.exit(0)
 
           with open(DIGEST_FILE, 'r', encoding='utf-8') as f:
               text = f.read().strip()
 
           if not text:
-              print("Digest file is empty. Skipping.")
+              print("Digest file empty. Nothing to send.")
               sys.exit(0)
 
           MAX = 4000
@@ -45,12 +47,24 @@ jobs:
               )
               resp = json.load(urllib.request.urlopen(req, timeout=15))
               print("Sent:", resp.get('ok'))
+          print("Digest delivered successfully.")
           PYEOF
 
       - name: Remove pending_digest.txt and commit
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ]; then
+            echo "Secrets not set — keeping pending_digest.txt for next attempt."
+            exit 0
+          fi
+          if [ ! -f crons/pr-tax-news/pending_digest.txt ]; then
+            echo "No pending digest to clean up."
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
           rm -f crons/pr-tax-news/pending_digest.txt
           git add crons/pr-tax-news/pending_digest.txt
           git diff --cached --quiet || git commit -m "chore: clear pending digest after Telegram send"
