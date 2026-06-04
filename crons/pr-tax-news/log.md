@@ -2,6 +2,79 @@
 
 ---
 
+## 2026-06-04 — CORRIDA #229 (15:00 AST)
+
+**Hora corrida:** 2026-06-04 19:00 UTC / 2026-06-04 15:00 AST (slot 3pm)
+**Items nuevos:** 1
+**IDs añadidos a seen.txt:** 1 (`24d11120046649a8`)
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **85° fallo consecutivo.** Digest preservado en log.
+**seen.txt:** 188 IDs totales (+1 esta corrida)
+
+### Fuentes revisadas (6 fuentes, ~17 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 más reciente; sin CC RI 26-12 publicada |
+| Hacienda PR — DA | **DA 26-03 NUEVO** (2026-05-20) — Reglas Cheque Alivio Contributivo |
+| Hacienda PR — BI RI | BI RI 26-04 sigue siendo el más reciente; sin BI RI 26-05 |
+| Hacienda PR — Comunicados | Comunicado SURI/Alivio (`fb62656d7ae22c59`) ya en seen.txt |
+| IRS — Notices/IRBs | Notice 26-24 (farmers/fishermen) y 26-25 (Section 911) — sin aplicación PR |
+| DDEC / Act 60 | OA DDEC 2026-001/002 en seen.txt; sin nueva OA 2026-003 verificada |
+| Act 38-2026 (Ley 60 ext. 2055) | Aprobada ~marzo 2026; fuera de ventana 30 días |
+| Tribunal Apelativo PR | Caso Sagardía (abril 2026) fuera de ventana 30 días |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo |
+
+### Items nuevos esta corrida:
+
+**[HACIENDA PR — DETERMINACION ADMINISTRATIVA] DA 26-03 — Reglas del Cheque de Alivio Contributivo (Año 2025)**
+- ID: `24d11120046649a8`
+- Fecha publicación: 2026-05-20
+- Tema: Reglas aplicables al Cheque de Alivio Contributivo para Trabajadores y la Clase Media para el año contributivo 2025, conforme a Resolución Conjunta 6-2026 ($554M). Establece elegibilidad, métodos de pago (depósito directo/cheque postal), y proceso SURI para cuenta bancaria. Plazo: 30 de octubre de 2026.
+- URL: https://hacienda.pr.gov/publicaciones/determinacion-administrativa-num-26-03
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-11 | Ya en seen.txt (corrida #228) |
+| BI RI 26-04 | Ya en seen.txt |
+| DA 26-01 / OA DDEC 2026-01/002 | Ya en seen.txt |
+| Comunicado SURI/Alivio Contributivo | Ya en seen.txt (ID fb62656d7ae22c59) |
+| DA 26-02 (Modelo SC 2745) | Fecha 2026-04-29 — fuera de ventana 30 días |
+| Act 38-2026 (Ley 60 ext. 2055) | Fecha ~2026-03 — fuera de ventana 30 días |
+| Notice 2026-24 (farmers/fishermen) | Sin aplicación Puerto Rico |
+| Notice 2026-25 (Section 911 housing) | Section 911 no aplica a PR (territorio US) |
+| Caso Sagardía — Tribunal Apelativo | Fecha 2026-04-24 — fuera de ventana 30 días |
+| DDEC OA 2026-003 | Mencionado sin URL oficial verificable — descartado (Regla #1) |
+
+### Digest preparado (no entregado por bloqueo red):
+
+```
+PR TAX NEWS | 2026-06-04 | 15:00 AST
+===============================================
+
+[HACIENDA PR - DETERMINACION ADMINISTRATIVA] DA 26-03
+Reglas del Cheque de Alivio Contributivo — Trabajadores y Clase Media (Año 2025)
+Fecha: 2026-05-20
+Hacienda establecio mediante la Determinacion Administrativa Num. 26-03 las reglas
+aplicables al Cheque de Alivio Contributivo para Trabajadores y la Clase Media para
+el ano contributivo 2025, segun la Resolucion Conjunta 6-2026 que asigno $554 millones.
+La DA 26-03 fija criterios de elegibilidad (ingreso neto sujeto a contribucion de
+$150,000 o menos, residente PR durante 2025), metodos de pago (deposito directo o
+cheque postal), y el proceso en SURI para registrar cuentas bancarias. El plazo
+para confirmar cuenta bancaria vence el 30 de octubre de 2026.
+URL: https://hacienda.pr.gov/publicaciones/determinacion-administrativa-num-26-03
+---
+
+================================
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 188 IDs totales
+Proxima corrida: 18:00 AST
+================================
+```
+
+---
+
 ## 2026-06-04 — CORRIDA #228 (10:00 AST)
 
 **Hora corrida:** 2026-06-04 14:00 UTC / 2026-06-04 10:00 AST (slot 10am)
