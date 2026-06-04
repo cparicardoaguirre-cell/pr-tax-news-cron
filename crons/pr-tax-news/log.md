@@ -2,6 +2,68 @@
 
 ---
 
+## 2026-06-04 — CORRIDA #230 (18:00 AST)
+
+**Hora corrida:** 2026-06-04 22:00 UTC / 2026-06-04 18:00 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **86° fallo consecutivo.**
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~12 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 más reciente (publicada 2026-06-02); CC RI 26-12 no publicada aún |
+| Hacienda PR — DA | DA 26-03 sigue siendo la más reciente; sin DA 26-04 publicada |
+| Hacienda PR — BI RI | BI RI 26-04 sigue siendo la más reciente; sin BI RI 26-05 publicada |
+| Hacienda PR — Comunicados | Comunicado IVU huracanes (`b9a1b403b0055395`) ya en seen.txt |
+| IRS — IRB 2026-22 | Rev. Proc. 2026-23 (mortgage bonds PR safe harbors) — ya en seen.txt (`086fac25660e5525`) |
+| IRS — IRB 2026-23 | Jun 1, 2026 — partnership regs, DB plans Cycle 4, AOD 2026-1 — sin aplicación PR específica; ya en seen.txt (`de3fea1de5eaf980`) |
+| IRS — IRB 2026-20 | Rev. Proc. 2026-14 (QOZ PR nominations) — ya en seen.txt (`07c101a18876f0e9`) |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; sin OA 2026-003 verificada |
+| Tribunal Apelativo PR | Caso Sagardía ya conocido; sin nueva sentencia contributiva |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo |
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-11 (2026-06-02) | Ya en seen.txt (corrida anterior) |
+| DA 26-03 (2026-05-20) | Ya en seen.txt (corrida #229) |
+| BI RI 26-04 | Ya en seen.txt |
+| IRB 2026-22 / Rev. Proc. 2026-23 | Ya en seen.txt (`086fac25660e5525`) |
+| IRB 2026-23 (2026-06-01) | Ya en seen.txt; sin aplicación PR específica |
+| IRB 2026-20 / Rev. Proc. 2026-14 | Ya en seen.txt; además, fecha Apr 6 fuera de ventana 30 días |
+| CC FP 1300-44-26 (2026-04-30) | Ya en seen.txt |
+| OA DDEC 2026-002 (2026-03-11) | Ya en seen.txt; >30 días |
+| Comunicado IVU huracanes | Ya en seen.txt (`b9a1b403b0055395`) |
+
+### Digest enviado:
+
+```
+PR TAX NEWS | 2026-06-04 | 18:00 AST
+=============================================
+
+Sin novedades contributivas nuevas en esta corrida.
+
+Fuentes revisadas (6): Hacienda PR (CC/DA/BI), IRS-PR, DDEC, Tribunal Apelativo.
+Todos los items encontrados ya estaban en seen.txt.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
+Proxima corrida: 22:00 AST
+================================
+```
+*(No entregado — api.telegram.org bloqueado por red del contenedor)*
+
+---
+
 ## 2026-06-04 — CORRIDA #229 (15:00 AST)
 
 **Hora corrida:** 2026-06-04 19:00 UTC / 2026-06-04 15:00 AST (slot 3pm)
