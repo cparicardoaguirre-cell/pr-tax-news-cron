@@ -1,14 +1,15 @@
-PR TAX NEWS | 2026-06-04 | 10:00 AST
+PR TAX NEWS | 2026-06-05 | 15:00 AST
 ===============================================
 
-[HACIENDA PR - CARTA CIRCULAR] CC RI 26-11
-Periodos de Ventas Exentas de IVU para Regreso a la Escuela AE 2026-2027
-Fecha: 2026-06-02
-Hacienda establecio los periodos de ventas exentas del Impuesto sobre Ventas y Uso (IVU) aplicables a uniformes, calzado y materiales escolares para el ano escolar 2026-2027, conforme a la Seccion 4030.28 del Codigo de Rentas Internas de Puerto Rico de 2011. La CC RI 26-11 establece las fechas especificas de los dos periodos de exencion anuales (tipicamente mediados de julio y principios de enero). Los comerciantes minoristas deben observar los requisitos de documentacion, reporte y los articulos elegibles bajo esta exencion. Esta circular sustituye a la de la vigencia del ano escolar anterior.
-URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-rentas-internas-num-26-11-cc-ri-26-11
----
+Sin novedades en esta corrida.
+
+Fuentes revisadas: Hacienda PR (CC RI, DA, BI RI, Comunicados),
+SURI, IRS-PR (IRBs, Notices), Tribunal Apelativo PR, DDEC Act 60, OCIF.
+
+Todos los items encontrados ya estaban registrados en corridas anteriores.
+Ultima publicacion nueva: CC RI 26-11 (2026-06-02) — periodos exencion IVU regreso escuela AE 2026-2027.
 
 ================================
-Fuentes revisadas: 6 | Items: 1 | seen.txt: 187 IDs totales
-Proxima corrida: 15:00 AST
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
+Proxima corrida: 18:00 AST
 ================================

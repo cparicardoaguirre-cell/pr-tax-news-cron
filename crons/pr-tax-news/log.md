@@ -2,6 +2,48 @@
 
 ---
 
+## 2026-06-05 — CORRIDA #234 (15:00 AST)
+
+**Hora corrida:** 2026-06-05 19:11 UTC / 15:11 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** N/A — sin items nuevos; pending_digest.txt actualizado con mensaje de sin novedades. GH Actions enviará al push (api.telegram.org bloqueado en contenedor). **90° fallo consecutivo de envío directo.**
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~13 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 sigue siendo la más reciente (2026-06-02); CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 sigue siendo la más reciente (2026-05-20); DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 sigue siendo la más reciente (2026-05-08); BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde última corrida |
+| IRS — IRBs | IRB 2026-23 sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | IRS n-26-25 (Sec. 911 housing) — descartado, no aplica a PR (no es Sec. 933/Act 60) |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva sustantiva |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo |
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-09 a 26-11 | Ya en seen.txt |
+| DA 26-01 a 26-03 | Ya en seen.txt |
+| BI RI 26-01 a 26-04 | Ya en seen.txt |
+| IRS IRBs 2026-15 a 2026-23 | Ya en seen.txt |
+| IRS IRB 2026-24 | No publicado aún (esperado ~2026-06-09) |
+| IRS n-26-25 (Sec. 911 housing costs) | No aplica a PR — filtro IRS |
+| OA DDEC 2026-002 | Ya en seen.txt |
+| CC RI 26-12, DA 26-04, BI RI 26-05 | No publicados aún |
+
+---
+
 ## 2026-06-05 — CORRIDA #233 (10:00 AST)
 
 **Hora corrida:** 2026-06-05 14:06 UTC / 10:06 AST (slot 10am)
