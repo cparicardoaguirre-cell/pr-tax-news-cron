@@ -2,6 +2,55 @@
 
 ---
 
+## 2026-06-05 — CORRIDA #233 (10:00 AST)
+
+**Hora corrida:** 2026-06-05 14:06 UTC / 10:06 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **89° fallo consecutivo.** (Pending digest 06-04 también reintentado sin éxito.)
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~14 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 sigue siendo la más reciente (2026-06-02); CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 sigue siendo la más reciente (2026-05-20); DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 sigue siendo la más reciente (2026-05-08); BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde última corrida |
+| IRS — IRBs | IRB 2026-23 sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | Sin Notice/Rev.Proc. nuevo con aplicación PR identificado |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva sustantiva; caso Sagardía (divulgación de récords) no aplica |
+| Reforma Contributiva PR | PS 912 en evaluación en Comisión del Senado — no aprobada aún |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | En mantenimiento; sin aviso formal nuevo |
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-11 (2026-06-02) | Ya en seen.txt (`8cf93d5b83137901`) |
+| DA 26-03 (2026-05-20) | Ya en seen.txt (`24d11120046649a8`) |
+| BI RI 26-04 (2026-05-08) | Ya en seen.txt (`968f420c033b47cf`) |
+| CC FP 1300-44-26 | Ya en seen.txt (`a426623ef99b4de2`) |
+| DA 26-01 / OA DDEC 2026-01 | Ya en seen.txt (`35264db882c36dca`) |
+| OA DDEC 2026-002 | Ya en seen.txt (`6ebc986dff173b8a`) |
+| IRS IRBs 2026-16 a 2026-23 | Todos ya en seen.txt |
+| GAO-26-107225 (Puerto Rico IRS oversight) | Publicado 2026-12-12 — más de 30 días, descartado por filtro de tiempo |
+| Tribunal Apelativo — caso Sagardía | Divulgación de récords contributivos al Senado; no es cambio de ley ni norma contributiva |
+| Reforma Contributiva PS 912 | En proceso legislativo; no es publicación oficial Hacienda/IRS |
+| CC RI 26-12 | No publicada aún |
+| DA 26-04 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+| IRS IRB 2026-24 | No publicado aún (esperado ~2026-06-09) |
+
+---
+
 ## 2026-06-05 — CORRIDA #232 (06:00 AST)
 
 **Hora corrida:** 2026-06-05 06:10 UTC-4 / AST (slot 6am)
