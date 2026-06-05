@@ -2,6 +2,51 @@
 
 ---
 
+## 2026-06-05 — CORRIDA #232 (06:00 AST)
+
+**Hora corrida:** 2026-06-05 06:10 UTC-4 / AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **88° fallo consecutivo.**
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~14 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 sigue siendo la más reciente (2026-06-02); CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 sigue siendo la más reciente (2026-05-20); DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 sigue siendo la más reciente (2026-05-08); BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde última corrida |
+| IRS — IRBs | IRB 2026-23 sigue siendo el más reciente (~2026-06-02); IRB 2026-24 esperado ~2026-06-09 |
+| IRS — "One Big Beautiful Bill" | Revisado — sin impacto específico a PR/Section 933/possessions verificado |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; sin OA 2026-003 identificada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva sustantiva identificada |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo (portal en mantenimiento) |
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-11 (2026-06-02) | Ya en seen.txt (`8cf93d5b83137901`) |
+| DA 26-03 (2026-05-20) | Ya en seen.txt (`24d11120046649a8`) |
+| BI RI 26-04 (2026-05-08) | Ya en seen.txt (`968f420c033b47cf`) |
+| IRS IRBs 2026-16 a 2026-23 | Todos ya en seen.txt |
+| OA DDEC 2026-002 | Ya en seen.txt (`6ebc986dff173b8a`) |
+| IRS "One Big Beautiful Bill" guidance (deprec. producción) | Sin mención verificable de PR/Section 933/possessions — descartado por regla IRS |
+| IRS Rev. Proc. 2026-23 (mortgage safe harbors PR) | En IRB 2026-22 ya en seen.txt (`086fac25660e5525`) |
+| CC RI 26-12 | No publicada aún |
+| DA 26-04 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+| IRS IRB 2026-24 | No publicado aún (esperado ~2026-06-09) |
+
+---
+
 ## 2026-06-04 — CORRIDA #231 (22:00 AST)
 
 **Hora corrida:** 2026-06-05 02:12 UTC / 2026-06-04 22:12 AST (slot 10pm)
