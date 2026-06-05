@@ -2,6 +2,43 @@
 
 ---
 
+## 2026-06-05 — CORRIDA #235 (18:00 AST)
+
+**Hora corrida:** 2026-06-05 22:02 UTC / 18:02 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #91 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada aún |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde corrida anterior |
+| IRS — IRBs | IRB 2026-23 (2026-06-02) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | Rev. Proc. 2026-23 (QOZ) y Rev. Proc. 2026-22 (mortgage bonds) — mencionan PR geográficamente; ya en seen.txt |
+| DDEC | OA DDEC 2026-002 (2026-03-11) ya en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva sustantiva |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo |
+
+### Candidatos verificados esta corrida (13 URLs):
+- CC RI 26-02, 26-03, 26-05, 26-06, 26-08, 26-11: todos en seen.txt
+- CC FP 1300-44-26, 1300-28-26: en seen.txt
+- DA 26-01/DDEC 2026-01, DA 26-03: en seen.txt
+- BI RI 26-04: en seen.txt
+- Comunicados planilla 2025, IVU huracanes, SURI alivio: en seen.txt
+- IRS IRB 2026-20, 2026-23: en seen.txt
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-05 — CORRIDA #234 (15:00 AST)
 
 **Hora corrida:** 2026-06-05 19:11 UTC / 15:11 AST (slot 3pm)
