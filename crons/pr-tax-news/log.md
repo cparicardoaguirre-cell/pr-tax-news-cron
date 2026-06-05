@@ -2,6 +2,73 @@
 
 ---
 
+## 2026-06-04 — CORRIDA #231 (22:00 AST)
+
+**Hora corrida:** 2026-06-05 02:12 UTC / 2026-06-04 22:12 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **87° fallo consecutivo.**
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 sigue siendo la más reciente (publicada 2026-06-02); CC RI 26-12 no publicada aún |
+| Hacienda PR — DA | DA 26-03 sigue siendo la más reciente (2026-05-20); DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde última corrida |
+| IRS — IRB 2026-15, 22, 23 | Todos ya en seen.txt; IRB 2026-24 aún no publicado |
+| IRS — PR específico | Sin Notice/Rev.Proc. nuevo con aplicación PR |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; sin OA 2026-003 verificada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva identificada |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo |
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Items evaluados y descartados esta corrida:
+
+| Item | Razón descarte |
+|------|----------------|
+| CC RI 26-11 (2026-06-02) | Ya en seen.txt (`8cf93d5b83137901`) |
+| DA 26-03 (2026-05-20) | Ya en seen.txt (`24d11120046649a8`) |
+| BI RI 26-04 (2026-05-08) | Ya en seen.txt (`968f420c033b47cf`) |
+| CC FP 1300-44-26 | Ya en seen.txt (`a426623ef99b4de2`) |
+| IRS IRB 2026-22 | Ya en seen.txt (`086fac25660e5525`) |
+| IRS IRB 2026-23 | Ya en seen.txt (`de3fea1de5eaf980`) |
+| IRS IRB 2026-15 | Ya en seen.txt (`db227ba305f789da`) |
+| OA DDEC 2026-002 | Ya en seen.txt (`6ebc986dff173b8a`) |
+| GAO-26-107225 | Ya en seen.txt (`b2b44d1f88e880f3`); además >30 días (publicado dic 2025) |
+| IRS TAC PR Feb 24 | Fuera de ventana 30 días |
+| IRS TAC PR May 13 | Anuncio operacional (no novedad contributiva); evento ya pasado |
+| IRS IRB 2026-24 | No publicado aún (próximo ~Jun 9, 2026) |
+| CC RI 26-12 | No publicada aún |
+| DA 26-04 | No publicada aún |
+| BI RI 26-05 | No publicada aún |
+
+### Digest enviado:
+
+```
+PR TAX NEWS | 2026-06-04 | 22:00 AST
+=============================================
+
+Sin novedades contributivas nuevas en esta corrida.
+
+Fuentes revisadas (6): Hacienda PR (CC/DA/BI), IRS-PR, DDEC, Tribunal Apelativo, SURI, OCIF.
+Todos los items encontrados ya estaban en seen.txt o fuera de ventana de 30 dias.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
+Proxima corrida: 06:00 AST (2026-06-05)
+================================
+```
+*(No entregado — api.telegram.org bloqueado por red del contenedor)*
+
+---
+
 ## 2026-06-04 — CORRIDA #230 (18:00 AST)
 
 **Hora corrida:** 2026-06-04 22:00 UTC / 2026-06-04 18:00 AST (slot 6pm)
