@@ -1,7 +1,7 @@
-PR TAX NEWS | 2026-06-06 | 10:00 AST
+PR TAX NEWS | 2026-06-06 | 15:00 AST
 ===============================================
 
-Sin novedades en esta corrida (10:00 AST).
+Sin novedades en esta corrida (15:00 AST).
 
 Fuentes revisadas:
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
@@ -22,7 +22,10 @@ corridas anteriores. Publicaciones mas recientes confirmadas:
 Pendientes (no publicados): CC RI 26-12, DA 26-04,
 BI RI 26-05, IRS IRB 2026-24 (esperado ~2026-06-09).
 
+Nota: IRS Notice 2026-36 (2026-06-05) evaluado y descartado
+-- no aplica a Puerto Rico (trata compensacion excesiva en ONPs).
+
 ================================
-Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
-Proxima corrida: 15:00 AST
+Fuentes revisadas: 8 | Items: 0 | seen.txt: 188 IDs totales
+Proxima corrida: 18:00 AST
 ================================

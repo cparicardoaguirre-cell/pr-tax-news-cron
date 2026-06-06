@@ -2,6 +2,53 @@
 
 ---
 
+## 2026-06-06 — CORRIDA #238 (15:00 AST)
+
+**Hora corrida:** 2026-06-06 ~19:00 UTC / 15:00 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #94 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (8 fuentes, ~20 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo; comunicado más reciente en seen.txt: Alivio SURI (2026-05-12) |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | IRS Notice 2026-36 (2026-06-05): no aplica a PR (trata compensación excesiva en ONPs) |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; CC DDEC 2026-003 ya en seen.txt; OA 2026-004 sin URL/contenido verificable |
+| Tribunal Apelativo PR | Caso Sagardía (2026-04-24) >30 días; sin sentencia contributiva nueva |
+| OCIF / SURI | Sin publicación contributiva nueva |
+
+### Candidatos evaluados esta corrida:
+
+- CC RI 26-11: en seen.txt (hash 8cf93d5b83137901)
+- DA 26-03: en seen.txt
+- BI RI 26-04: en seen.txt (hash 968f420c033b47cf)
+- OA DDEC 2026-002: en seen.txt (hash 6ebc986dff173b8a)
+- CC DDEC 2026-003: en seen.txt (hash 0ec428a04365dfb3)
+- CC FP 1300-44-26 (2026-04-30): en seen.txt (hash a426623ef99b4de2)
+- Hacienda SURI/Alivio Contributivo (comunic.): en seen.txt (hash fb62656d7ae22c59)
+- DDEC fortalece fiscalización: en seen.txt (hash 4f84a78cc3c68239)
+- Act 38-2026 (Ley Act 60→2055, firmada ~2026-03-20): >30 días — descartada
+- Acts 177-180-2025 (cuatro medidas tributarias, dic. 2025): >30 días — descartadas
+- IRS Notice 2026-36 (2026-06-05): no aplica a PR — descartado
+- Sagardía, TA (2026-04-24): >30 días — descartado
+- IRB 2026-24: no publicado aún
+- CC RI 26-12: no publicada aún
+- DA 26-04: no publicada aún
+- BI RI 26-05: no publicada aún
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-06 — CORRIDA #237 (10:00 AST)
 
 **Hora corrida:** 2026-06-06 ~14:00 UTC / 10:00 AST (slot 10am)
