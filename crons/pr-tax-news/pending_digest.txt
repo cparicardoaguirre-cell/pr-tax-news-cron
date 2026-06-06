@@ -1,24 +1,28 @@
-PR TAX NEWS | 2026-06-05 | 18:02 AST
+PR TAX NEWS | 2026-06-06 | 06:00 AST
 ===============================================
 
-Sin novedades en esta corrida (18:00 AST).
+Sin novedades en esta corrida (06:00 AST).
 
 Fuentes revisadas:
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
 - SURI: avisos del sistema
-- IRS-PR: IRBs 2026-22/23, Notices
+- IRS-PR: IRBs, Notices, Revenue Procedures
 - Tribunal Apelativo PR: sentencias contributivas
 - DDEC: Act 60 ordenes administrativas
 - OCIF: publicaciones contributivas
 
-Todos los items encontrados (13 candidatos verificados) ya
-estaban registrados en corridas anteriores.
+Todos los items encontrados ya estaban registrados en
+corridas anteriores. Publicaciones mas recientes confirmadas:
+• CC RI 26-11 (2026-06-02) — en seen.txt
+• DA 26-03 (2026-05-20) — en seen.txt
+• BI RI 26-04 (2026-05-08) — en seen.txt
+• IRS IRB 2026-23 (2026-06-01) — en seen.txt
+• OA DDEC 2026-002 (2026-03-11) — en seen.txt
 
-Ultima publicacion nueva reportada:
-CC RI 26-11 (2026-06-02) — Periodo libre IVU utiles
-escolares ano escolar 2026-2027.
+Pendientes (no publicados): CC RI 26-12, DA 26-04,
+BI RI 26-05, IRS IRB 2026-24 (esperado ~2026-06-09).
 
 ================================
 Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
-Proxima corrida: 22:00 AST
+Proxima corrida: 10:00 AST
 ================================

@@ -2,6 +2,46 @@
 
 ---
 
+## 2026-06-06 — CORRIDA #236 (06:00 AST)
+
+**Hora corrida:** 2026-06-06 ~10:00 UTC / 06:00 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #92 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada aún |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde corrida anterior (más reciente: 2026-05-12) |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | IRS Notice 2026-36 (2026-06-05, Sec. 4960 compensación excesiva ONPs) — descartado, no aplica a PR |
+| DDEC | OA DDEC 2026-002 (2026-03-11) ya en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva sustantiva |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo (sistema en mantenimiento periódico) |
+
+### Candidatos evaluados esta corrida:
+
+- CC RI 26-02 a 26-11: todos en seen.txt
+- CC FP 1300-44-26: en seen.txt
+- DA 26-01, 26-02, 26-03: en seen.txt
+- BI RI 26-01 a 26-04: en seen.txt
+- IRS IRBs 2026-15 a 2026-23: en seen.txt
+- OA DDEC 2026-001, 2026-002: en seen.txt
+- IRS Notice 2026-36: descartado (Sec. 4960, no aplica a PR)
+- IRB 2026-24: no publicado aún
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-05 — CORRIDA #235 (18:00 AST)
 
 **Hora corrida:** 2026-06-05 22:02 UTC / 18:02 AST (slot 6pm)
