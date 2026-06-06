@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-06-06 — CORRIDA #237 (10:00 AST)
+
+**Hora corrida:** 2026-06-06 ~14:00 UTC / 10:00 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #93 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo; más reciente en seen.txt: 2026-05-12 |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | Sin Notice/Rev.Proc. nuevo aplicable a PR en junio 2026 |
+| DDEC | OA DDEC 2026-002 (2026-03-11) ya en seen.txt; CC DDEC 2026-003 ya en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR / TSPR | Sin nueva sentencia contributiva sustantiva |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo |
+
+### Candidatos evaluados esta corrida:
+
+- CC RI 26-11: en seen.txt (hash 8cf93d5b83137901)
+- DA 26-03: en seen.txt (hash 24d11120046649a8)
+- BI RI 26-04: en seen.txt (hash 968f420c033b47cf)
+- OA DDEC 2026-002: en seen.txt (hash 6ebc986dff173b8a)
+- CC DDEC 2026-003 Industrias Creativas: en seen.txt (hash 0ec428a04365dfb3)
+- GAO-26-107225 (IRS oversight Sec. 933 / Act 60): en seen.txt (hash b2b44d1f88e880f3)
+- Comunicado IVU huracanes (mayo): en seen.txt (hash b9a1b403b0055395)
+- IRS IR-2026-73 (Notice 2026-36, Sec. 4960 ONPs): descartado, no aplica a PR
+- IRB 2026-24: no publicado aún
+- CC RI 26-12: no publicada aún
+- DA 26-04: no publicada aún
+- BI RI 26-05: no publicada aún
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-06 — CORRIDA #236 (06:00 AST)
 
 **Hora corrida:** 2026-06-06 ~10:00 UTC / 06:00 AST (slot 6am)

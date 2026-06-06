@@ -1,7 +1,7 @@
-PR TAX NEWS | 2026-06-06 | 06:00 AST
+PR TAX NEWS | 2026-06-06 | 10:00 AST
 ===============================================
 
-Sin novedades en esta corrida (06:00 AST).
+Sin novedades en esta corrida (10:00 AST).
 
 Fuentes revisadas:
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
@@ -24,5 +24,5 @@ BI RI 26-05, IRS IRB 2026-24 (esperado ~2026-06-09).
 
 ================================
 Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
-Proxima corrida: 10:00 AST
+Proxima corrida: 15:00 AST
 ================================
