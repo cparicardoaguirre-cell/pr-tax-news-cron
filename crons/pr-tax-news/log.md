@@ -2,6 +2,68 @@
 
 ---
 
+## 2026-06-06 — CORRIDA #239 (18:00 AST)
+
+**Hora corrida:** 2026-06-06 ~22:00 UTC / 18:00 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #95 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (9 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo; más reciente en seen.txt: Alivio SURI (2026-05-12) |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | Sin Notice/Rev.Proc. nuevo aplicable a PR; Notice 2026-36 (Sec. 4960 ONPs) previamente descartado |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; CC DDEC 2026-003 ya en seen.txt; OA 2026-004 sin URL verificable |
+| Tribunal Apelativo PR | Sin sentencia contributiva nueva; Sagardía (2026-04-24) >30 días |
+| OCIF / SURI | Sin publicación contributiva nueva |
+
+### Candidatos evaluados esta corrida:
+
+- CC RI 26-12: no publicada aún → DESCARTADA (Regla 1)
+- BI RI 26-05: no publicada aún → DESCARTADA (Regla 1)
+- DA 26-04: no publicada aún → DESCARTADA (Regla 1)
+- IRB 2026-24: no publicado aún (IRS IRB más reciente: 2026-23) → DESCARTADO (Regla 1)
+- Notice 2026-37/38: no encontradas → DESCARTADAS (Regla 1)
+- Comunicado "Hacienda desembolsa $144M reintegros": fecha ~2026-03-19 (>30 días) → DESCARTADO (Regla 4)
+- Todos los CC RI 26-02 a 26-11: en seen.txt
+- IRBs 2026-15 a 2026-23: en seen.txt
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Digest enviado (pending_digest.txt — Telegram bloqueado):
+
+```
+PR TAX NEWS | 2026-06-06 | 18:00 AST
+===============================================
+
+Sin novedades en esta corrida (18:00 AST).
+
+Publicaciones mas recientes confirmadas:
+- CC RI 26-11 (2026-06-02) — en seen.txt
+- DA 26-03 (2026-05-20) — en seen.txt
+- BI RI 26-04 (2026-05-08) — en seen.txt
+- IRS IRB 2026-23 (2026-06-01) — en seen.txt
+- OA DDEC 2026-002 (2026-03-11) — en seen.txt
+
+Pendientes: CC RI 26-12, DA 26-04, BI RI 26-05, IRB 2026-24 (~2026-06-09).
+
+================================
+Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
+Proxima corrida: 22:00 AST
+================================
+```
+
+---
+
 ## 2026-06-06 — CORRIDA #238 (15:00 AST)
 
 **Hora corrida:** 2026-06-06 ~19:00 UTC / 15:00 AST (slot 3pm)
