@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-06-06 — CORRIDA #240 (18:08 AST — ejecución manual)
+
+**Hora corrida:** 2026-06-06 22:08 UTC / 18:08 AST (slot 6pm — re-ejecución manual)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Bloqueado en entorno remoto. pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (~22 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) más reciente; DA 26-02 (2026-04-29, >30 días) → FILTRADA |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo confirmado |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) más reciente; IRB 2026-24 no publicado aún |
+| IRS — PR específico | Rev. Proc. 2026-14 (QOZs PR) en seen.txt; sin nuevo Notice PR |
+| DDEC | OA DDEC 2026-002 en seen.txt; sin nueva orden |
+| Tribunal Apelativo PR | Sin sentencia contributiva nueva indexada |
+| OCIF / SURI | Sin publicación contributiva nueva |
+
+### Candidatos evaluados y descartados:
+
+- CC RI 26-12: no publicada → DESCARTADA (Regla 1)
+- BI RI 26-05: no publicada → DESCARTADA (Regla 1)
+- DA 26-02 (Form Sc 2745): publicada 2026-04-29 (38 días) → FILTRADA (Regla 4, >30 días)
+- IRB 2026-24: no publicado → DESCARTADO (Regla 1)
+- Reforma Contributiva (legislativa): proyecto en evaluación senado → no es publicación oficial Hacienda
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-06 — CORRIDA #239 (18:00 AST)
 
 **Hora corrida:** 2026-06-06 ~22:00 UTC / 18:00 AST (slot 6pm)

@@ -1,7 +1,7 @@
-PR TAX NEWS | 2026-06-06 | 18:00 AST
+PR TAX NEWS | 2026-06-06 | 18:08 AST
 ===============================================
 
-Sin novedades en esta corrida (18:00 AST).
+Sin novedades en esta corrida (18:08 AST — ejecucion manual).
 
 Fuentes revisadas:
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
@@ -13,14 +13,18 @@ Fuentes revisadas:
 
 Todos los items encontrados ya estaban registrados en
 corridas anteriores. Publicaciones mas recientes confirmadas:
-- CC RI 26-11 (2026-06-02) — en seen.txt
-- DA 26-03 (2026-05-20) — en seen.txt
-- BI RI 26-04 (2026-05-08) — en seen.txt
-- IRS IRB 2026-23 (2026-06-01) — en seen.txt
-- OA DDEC 2026-002 (2026-03-11) — en seen.txt
+- CC RI 26-11 (2026-06-02) — IVU regreso a clases 2026-2027
+- DA 26-03 (2026-05-20) — ya en seen.txt
+- BI RI 26-04 (2026-05-08) — Cheque Alivio Contributivo
+- IRS IRB 2026-23 (2026-06-01) — ya en seen.txt
+- OA DDEC 2026-002 (2026-03-11) — ya en seen.txt
 
-Pendientes (no publicados): CC RI 26-12, DA 26-04,
-BI RI 26-05, IRS IRB 2026-24 (esperado ~2026-06-09).
+Candidatos evaluados y descartados:
+- CC RI 26-12: no publicada aun
+- BI RI 26-05: no publicada aun
+- DA 26-02 (Form Sc 2745, 2026-04-29): >30 dias, filtrada
+- IRB 2026-24: no publicado aun (esperado ~2026-06-09)
+- Reforma Contributiva: proyecto legislativo, sin ley aprobada
 
 ================================
 Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
