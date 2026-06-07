@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-06-07 — CORRIDA #243 (15:09 AST)
+
+**Hora corrida:** 2026-06-07 19:09 UTC / 2026-06-07 15:09 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #94 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde 2026-05-12; comunicados junio no encontrados |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | Notice 2026-36 (sec. 4960, orgs exentas): no aplica PR, descartado; IRS Local Standards PR: sin doc nuevo |
+| DDEC | OA 2026-002 en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sagardía (abr-24-2026, >30 días, ya en seen.txt); sin nueva sentencia contributiva |
+| OCIF / SURI | Sin publicación contributiva nueva |
+
+### Candidatos evaluados esta corrida (~16 URLs verificadas):
+
+- CC RI 26-12: no publicada (búsqueda directa confirma CC RI 26-11 como más reciente)
+- DA 26-04: no publicada; DA 26-02 (URL alternativa) no encontrada en hacienda.pr.gov
+- BI RI 26-05: no publicada
+- CC Finanzas Públicas 1300-44-26: ID a426623ef99b4de2 ya en seen.txt
+- Comunicados Hacienda (junio 2026): 403 Forbidden en fetch directo; búsqueda no muestra nuevos
+- IRS IRBs 2026-17 a 2026-23: todos en seen.txt (IDs verificados)
+- IRS IRB 2026-24: no publicado aún
+- IRS Notice 2026-36 (jun-05-2026): sección 4960 compensación excesiva org. exentas — no aplica PR, descartado
+- GAO-26-107225 (IRS PR Act 60 oversight): ID 20d6ab1fa15cb748 en seen.txt (dic-2025, >30 días)
+- Rev. Proc. 2026-14 / IRB 2026-20 (OZ 2.0 nominaciones PR): ID 07c101a18876f0e9 en seen.txt (abr-2026, >30 días)
+- Tribunal Apelativo Sagardía: ID d6fb57ccc3c77c74 en seen.txt
+- DDEC OA 2026-002 PDF: ID 6ebc986dff173b8a en seen.txt
+- OCIF: sin publicación contributiva nueva
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-07 — CORRIDA #242 (10:00 AST)
 
 **Hora corrida:** 2026-06-07 14:00 UTC / 2026-06-07 10:00 AST (slot 10am)

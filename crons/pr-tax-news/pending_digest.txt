@@ -1,10 +1,10 @@
-PR TAX NEWS | 2026-06-07 | 10:00 AST
+PR TAX NEWS | 2026-06-07 | 15:09 AST
 ===============================================
 
-Sin novedades en esta corrida (10:00 AST — slot 10am).
+Sin novedades en esta corrida (15:09 AST — slot 3pm).
 
-Fuentes revisadas (9 fuentes, ~18 queries):
-- Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
+Fuentes revisadas (6 fuentes, ~16 queries):
+- Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa, CC Finanzas Publicas
 - SURI: avisos del sistema
 - IRS-PR: IRBs, Notices, Revenue Procedures, News Releases
 - Tribunal Apelativo PR: sentencias tributarias
@@ -13,22 +13,28 @@ Fuentes revisadas (9 fuentes, ~18 queries):
 
 Todos los items encontrados ya estaban registrados en
 corridas anteriores. Publicaciones mas recientes confirmadas:
-- CC RI 26-11 (2026-06-02) — IVU regreso a clases 2026-2027
-- DA 26-03 (2026-05-20) — ya en seen.txt
+- CC RI 26-11 (2026-06-02) — mas reciente; CC RI 26-12 no publicada
+- DA 26-03 (2026-05-20) — mas reciente; DA 26-04 no publicada
 - BI RI 26-04 (2026-05-08) — Cheque Alivio Contributivo
-- IRS IRB 2026-23 (2026-06-01) — ya en seen.txt
-- OA DDEC 2026-002 (2026-03-11) — ya en seen.txt
+- IRS IRB 2026-23 (2026-06-01) — mas reciente; IRB 2026-24 esperado ~09-jun
+- OA DDEC 2026-002 (2026-03-11) — mas reciente; OA 2026-003 no publicada
 
 Candidatos evaluados y descartados esta corrida:
-- CC RI 26-12: no publicada aun (secuencial siguiente)
+- CC RI 26-12: no publicada aun
 - BI RI 26-05: no publicada aun
 - DA 26-04: no publicada aun
 - IRB 2026-24: no publicado aun (esperado ~2026-06-09)
-- IRS TAC sabados junio PR: aviso operacional, no contributivo, descartado
-- IRS Local Standards PR: actualizacion pendiente, sin doc nuevo confirmado
-- Tribunal Apelativo Sagardia: abr-24-2026 (>30 dias), ya en seen.txt
+- CC Finanzas Publicas 1300-44-26: ya en seen.txt (cierre fiscal interno)
+- GAO-26-107225 (IRS PR Act 60): publicado dic-2025, >30 dias, en seen.txt
+- Rev. Proc. 2026-14 (OZ 2.0 PR): publicado abr-01-2026, >30 dias
+- Tribunal Apelativo Sagardia: abr-24-2026, >30 dias, ya en seen.txt
+- IRS Notice 2026-36 (jun-05): sec. 4960 orgs exentas, no aplica PR
+- DDEC OA 2026-003: no publicada aun
+
+Telegram: Fallo directo #94 (api.telegram.org bloqueado).
+GH Actions enviara al hacer push.
 
 ================================
-Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
-Proxima corrida: 15:00 AST (2026-06-07)
+Fuentes: 6 | Items: 0 | seen.txt: 188 IDs
+Proxima corrida: 18:00 AST (2026-06-07)
 ================================
