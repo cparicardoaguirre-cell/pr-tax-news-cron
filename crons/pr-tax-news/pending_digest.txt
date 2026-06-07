@@ -1,12 +1,12 @@
-PR TAX NEWS | 2026-06-06 | 18:08 AST
+PR TAX NEWS | 2026-06-06 | 22:08 AST
 ===============================================
 
-Sin novedades en esta corrida (18:08 AST — ejecucion manual).
+Sin novedades en esta corrida (22:08 AST — slot 10pm).
 
-Fuentes revisadas:
+Fuentes revisadas (10 fuentes, ~22 queries):
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
 - SURI: avisos del sistema
-- IRS-PR: IRBs, Notices, Revenue Procedures
+- IRS-PR: IRBs, Notices, Revenue Procedures, News Releases
 - Tribunal Apelativo PR: sentencias tributarias
 - DDEC: Act 60 ordenes administrativas
 - OCIF: publicaciones contributivas
@@ -18,15 +18,18 @@ corridas anteriores. Publicaciones mas recientes confirmadas:
 - BI RI 26-04 (2026-05-08) — Cheque Alivio Contributivo
 - IRS IRB 2026-23 (2026-06-01) — ya en seen.txt
 - OA DDEC 2026-002 (2026-03-11) — ya en seen.txt
+- CC DDEC 2026-003 (incentivos cine) — ya en seen.txt
 
-Candidatos evaluados y descartados:
-- CC RI 26-12: no publicada aun
+Candidatos evaluados y descartados esta corrida:
+- CC RI 26-12: no publicada aun (secuencial siguiente)
 - BI RI 26-05: no publicada aun
-- DA 26-02 (Form Sc 2745, 2026-04-29): >30 dias, filtrada
+- DA 26-04: no publicada aun
 - IRB 2026-24: no publicado aun (esperado ~2026-06-09)
-- Reforma Contributiva: proyecto legislativo, sin ley aprobada
+- IRS IR-2025-102 (inflation adj.): >30 dias, descartado
+- IRS Notice 2026-36 (Sec. 4960): no aplica a PR, descartado
+- IRS Data Book FY2025: sin contenido PR contributivo confirmado, descartado
 
 ================================
-Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
-Proxima corrida: 22:00 AST
+Fuentes: 10 | Items: 0 | seen.txt: 188 IDs
+Proxima corrida: 06:00 AST (2026-06-07)
 ================================

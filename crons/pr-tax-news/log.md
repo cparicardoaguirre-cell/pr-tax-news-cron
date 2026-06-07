@@ -2,6 +2,53 @@
 
 ---
 
+## 2026-06-06 — CORRIDA #241 (22:08 AST)
+
+**Hora corrida:** 2026-06-07 02:08 UTC / 2026-06-06 22:08 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #92 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (10 fuentes, ~22 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada aún |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde 2026-05-12; comunicados de reintegros ($144M, $200M) ya en seen.txt |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — Ajustes inflación 2026 | IR-2025-102 (publicado 2025): descartado (>30 días); contenido PR-QOZ ya cubierto por IRB 2026-20 en seen.txt |
+| IRS — Notice 2026-36 | Sec. 4960 compensación excesiva ONPs: descartado (no aplica a PR) |
+| IRS — Data Book FY2025 | IR-2026-74 (2026-06-05): descartado (sin contenido PR contributivo confirmado) |
+| DDEC | OA 2026-002 y CC 2026-003 en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva sustantiva |
+| OCIF | Sin publicación contributiva nueva |
+| SURI | Sin aviso formal nuevo |
+
+### Candidatos evaluados esta corrida (22 URLs verificadas):
+
+- CC RI 26-09, 26-10, 26-11: en seen.txt
+- CC FP 1300-44-26: en seen.txt
+- DA 26-01, 26-02, 26-03: en seen.txt
+- BI RI 26-01 a 26-04: en seen.txt
+- Comunicados reintegros ($144M, $200M, $200M primera nómina, $1,000M): en seen.txt
+- IRS IRBs 2026-15 a 2026-23: en seen.txt
+- IRS IRB 2026-24: no publicado aún
+- IRS IR-2025-102 (inflation adj. 2026): descartado (>30 días)
+- IRS Notice 2026-36: descartado (no aplica a PR)
+- IRS Data Book FY2025 (IR-2026-74): descartado (sin relevancia PR confirmada)
+- GAO-26-107225: en seen.txt
+- OA DDEC 2026-001, 2026-002: en seen.txt
+- CC DDEC 2026-003 (incentivos cine): en seen.txt
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-06 — CORRIDA #240 (18:08 AST — ejecución manual)
 
 **Hora corrida:** 2026-06-06 22:08 UTC / 18:08 AST (slot 6pm — re-ejecución manual)
