@@ -1,9 +1,9 @@
-PR TAX NEWS | 2026-06-06 | 22:08 AST
+PR TAX NEWS | 2026-06-07 | 10:00 AST
 ===============================================
 
-Sin novedades en esta corrida (22:08 AST — slot 10pm).
+Sin novedades en esta corrida (10:00 AST — slot 10am).
 
-Fuentes revisadas (10 fuentes, ~22 queries):
+Fuentes revisadas (9 fuentes, ~18 queries):
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
 - SURI: avisos del sistema
 - IRS-PR: IRBs, Notices, Revenue Procedures, News Releases
@@ -18,18 +18,17 @@ corridas anteriores. Publicaciones mas recientes confirmadas:
 - BI RI 26-04 (2026-05-08) — Cheque Alivio Contributivo
 - IRS IRB 2026-23 (2026-06-01) — ya en seen.txt
 - OA DDEC 2026-002 (2026-03-11) — ya en seen.txt
-- CC DDEC 2026-003 (incentivos cine) — ya en seen.txt
 
 Candidatos evaluados y descartados esta corrida:
 - CC RI 26-12: no publicada aun (secuencial siguiente)
 - BI RI 26-05: no publicada aun
 - DA 26-04: no publicada aun
 - IRB 2026-24: no publicado aun (esperado ~2026-06-09)
-- IRS IR-2025-102 (inflation adj.): >30 dias, descartado
-- IRS Notice 2026-36 (Sec. 4960): no aplica a PR, descartado
-- IRS Data Book FY2025: sin contenido PR contributivo confirmado, descartado
+- IRS TAC sabados junio PR: aviso operacional, no contributivo, descartado
+- IRS Local Standards PR: actualizacion pendiente, sin doc nuevo confirmado
+- Tribunal Apelativo Sagardia: abr-24-2026 (>30 dias), ya en seen.txt
 
 ================================
-Fuentes: 10 | Items: 0 | seen.txt: 188 IDs
-Proxima corrida: 06:00 AST (2026-06-07)
+Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
+Proxima corrida: 15:00 AST (2026-06-07)
 ================================

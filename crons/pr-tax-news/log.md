@@ -2,6 +2,48 @@
 
 ---
 
+## 2026-06-07 — CORRIDA #242 (10:00 AST)
+
+**Hora corrida:** 2026-06-07 14:00 UTC / 2026-06-07 10:00 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #93 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (9 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada aún |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde 2026-05-12 |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 esperado ~2026-06-09 |
+| IRS — PR específico | TAC sábados (aviso operacional, descartado); Local Standards sin doc nuevo confirmado |
+| DDEC | OA 2026-002 en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sagardía (abr-24-2026, >30 días, ya en seen.txt); sin nueva sentencia contributiva |
+| OCIF / SURI | Sin publicación contributiva nueva |
+
+### Candidatos evaluados esta corrida (18 URLs verificadas):
+
+- CC RI 26-11 a 26-12: 26-11 en seen.txt; 26-12 no publicada
+- DA 26-03 a 26-04: 26-03 en seen.txt; 26-04 no publicada
+- BI RI 26-04 a 26-05: 26-04 en seen.txt; 26-05 no publicada
+- Comunicados Hacienda (mayo-junio): todos en seen.txt
+- IRS IRBs 2026-22 a 2026-24: 22 y 23 en seen.txt (IDs 086fac25660e5525 / de3fea1de5eaf980); 24 no publicado
+- IRS TAC sábados junio PR (IR-2026-xx): aviso operacional, descartado
+- IRS Local Standards PR (junio 2026): sin nuevo documento confirmado, descartado
+- Tribunal Apelativo Sagardía: ID d6fb57ccc3c77c74 en seen.txt; fallo abr-24 (>30 días)
+- DDEC OA 2026-002 PDF: ID 6ebc986dff173b8a en seen.txt
+- OCIF regulación abr-2026: procedimental, no contributiva, descartada
+- SURI avisos junio 2026: sin aviso formal nuevo
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-06 — CORRIDA #241 (22:08 AST)
 
 **Hora corrida:** 2026-06-07 02:08 UTC / 2026-06-06 22:08 AST (slot 10pm)
