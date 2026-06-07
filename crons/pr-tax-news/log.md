@@ -7663,3 +7663,25 @@ Próxima corrida: 15:00 AST
 
 ### Nota entrega Telegram:
 API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest preservado en log.
+
+---
+
+## 2026-06-07 18:04 AST — Corrida #5 (slot 6pm)
+
+**Items nuevos:** 0
+**seen.txt:** 188 IDs
+
+**Fuentes revisadas:** Hacienda PR (CC RI, DA, BI RI, Comunicados), SURI, IRS-PR, Tribunal Apelativo, DDEC, OCIF
+
+**Resultado:** Sin novedades. Todos los items encontrados ya estaban registrados en corridas anteriores.
+
+**Estado publicaciones:**
+- CC RI 26-11 (2026-06-02) — más reciente; CC RI 26-12 no publicada
+- DA 26-03 (2026-05-20) — más reciente; DA 26-04 no publicada
+- BI RI 26-04 (2026-05-08) — más reciente; BI RI 26-05 no publicada
+- IRS IRB 2026-23 (2026-06-01) — más reciente; IRB 2026-24 esperado ~09-jun
+- OA DDEC 2026-002 (2026-03-11) — más reciente; OA 2026-003 no publicada
+- SURI: en mantenimiento, sin aviso específico nuevo
+
+**Telegram:** Fallo directo (api.telegram.org bloqueado en entorno remoto). GH Actions enviará al hacer push.
+
