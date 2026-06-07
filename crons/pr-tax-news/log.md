@@ -7570,3 +7570,52 @@ API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest pr
 
 ### Nota entrega Telegram:
 API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest preservado en log.
+
+---
+
+## Corrida: 2026-06-07 10:10 AST (10am)
+
+**Resumen:** 0 items nuevos | seen.txt: 188 IDs totales (sin cambios)
+
+### Fuentes revisadas:
+1. Hacienda PR (CC, BI, DA, Comunicados de Prensa) — sin novedad
+2. SURI — sin aviso nuevo indexado
+3. IRS (IRBs, newsroom, notices con filtro PR) — sin novedad dentro de ventana
+4. Tribunal Apelativo PR — sin sentencia contributiva nueva verificada
+5. DDEC / Act 60 — sin orden nueva (última: DDEC 2026-002, fuera de ventana)
+6. OCIF — sin publicación contributiva nueva
+
+### Items descartados:
+| Ítem | Razón |
+|------|--------|
+| CC RI 26-09, 26-10, 26-11 | Ya en seen.txt (procesadas en corridas previas) |
+| DA 26-03 (20-may-2026) | Ya en seen.txt |
+| DA 26-02 (29-abr-2026) | Fuera de ventana 30 días (39 días) |
+| IRB 2026-23 (1-jun-2026) | Ya en seen.txt; sin contenido PR-específico |
+| IRB 2026-24 | No publicado aún (último confirmado: 2026-23, 1-jun-2026) |
+| IR-2026-71/72/73 (jun 2026) | Sin nexo Puerto Rico |
+| Notice 2026-36 (5-jun-2026) | Compensación excesiva org. exentas — sin nexo PR verificado |
+| DDEC 2026-002 (11-mar-2026) | Fuera de ventana 30 días |
+| Tribunal Apelativo jun-2026 | Sin sentencias tributarias indexadas |
+
+### Digest enviado:
+```
+[PR TAX NEWS — 2026-06-07 10:10 AST]
+Sin publicaciones nuevas detectadas en esta corrida.
+
+Hacienda PR: CC hasta 26-11 ✓ | BI hasta 26-04 ✓ | DA hasta 26-03 ✓
+IRS-PR: IRB hasta 2026-23 ✓ (2026-24 aún no publicado)
+Tribunal Apelativo: sin sentencia contributiva nueva
+DDEC / Act 60: sin orden nueva (última: DDEC 2026-002, fuera de ventana)
+SURI: sin aviso nuevo indexado
+
+Nota: CC FP 1300-44-26 (cierre año fiscal jun-2026) — deadline 30-jun-2026 (23 días) — ya reportada.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
+Próxima corrida: 15:00 AST
+================================
+```
+
+### Nota entrega Telegram:
+API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest preservado en log.
