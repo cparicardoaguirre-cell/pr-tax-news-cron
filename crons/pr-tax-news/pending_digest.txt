@@ -1,30 +1,28 @@
-PR TAX NEWS | 2026-06-08 | 10:12 AST
+PR TAX NEWS | 2026-06-08 | 15:00 AST
 ===============================================
 
-Sin novedades en esta corrida (10:12 AST — slot 10am).
+Sin novedades en esta corrida (15:00 AST — slot 3pm).
 
-Fuentes revisadas (9 fuentes, ~13 queries):
+Fuentes revisadas (9 fuentes, ~12 queries):
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
-- SURI: sin avisos nuevos
-- IRS-PR: IRBs 2026-22/2026-23, Notices filtro PR
-- IRS: bona fide resident / Section 933 / Act 60 notices
-- Tribunal Apelativo PR: sentencias tributarias
+- SURI: sin avisos nuevos (403 en fetch directo)
+- IRS-PR: IRBs, Notices filtro PR, Act 60/Section 933/IRC 937
 - DDEC: Act 60 ordenes administrativas
-- GAO: informe PR-IRS oversight
+- Tribunal Apelativo PR: sentencias tributarias
 
-Todos los items encontrados ya estaban registrados en
-corridas anteriores. Publicaciones mas recientes confirmadas:
-- CC RI 26-11 (2026-06-02) — mas reciente; CC RI 26-12 no publicada
-- DA 26-03 (2026-05-20) — mas reciente
-- BI RI 26-04 (2026-05-08) — Cheque Alivio Contributivo
-- IRS IRB 2026-23 (2026-06-01) — mas reciente; IRB 2026-24 esperado ~2026-06-09
-- OA DDEC 2026-002 (2026-03-11) — mas reciente; OA 2026-003 no publicada
+Estado publicaciones mas recientes (sin cambio vs 10:12 AST):
+- CC RI 26-11 (2026-06-02) — sigue siendo la mas reciente; CC RI 26-12 no publicada
+- DA 26-03 (2026-05-20) — sigue siendo la mas reciente
+- BI RI 26-04 (2026-05-08) — sigue siendo la mas reciente
+- IRS IRB 2026-23 (2026-06-01) — sigue siendo el mas reciente; IRB 2026-24 esperado ~2026-06-09
+- OA DDEC 2026-002 (2026-03-11) — sigue siendo la mas reciente
 
-Candidato evaluado y descartado:
-- DA 26-02: URL sin confirmar (hacienda.pr.gov retorna 403); descripcion ambigua
-  en dos fuentes distintas; ademas >30 dias (29/04/2026). Descartado por Regla 1.
+Candidatos evaluados y descartados:
+- DDEC OA 2026-003: resultado de busqueda ambiguo (URL no confirmada); descartado Regla 1.
+- CC FP 1300-44-26 / 1300-19-26: CC de Finanzas Publicas (solo agencias gobierno); fuera del ambito.
+- Tribunal Apelativo TA2025AP00555 (Sagardia): caso constitucional/separacion de poderes, no doctrina contributiva privada; descartado.
 
 ================================
 Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
-Proxima corrida: 15:00 AST (2026-06-08)
+Proxima corrida: 18:00 AST (2026-06-08)
 ================================

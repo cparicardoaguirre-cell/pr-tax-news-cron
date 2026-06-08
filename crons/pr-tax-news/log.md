@@ -2,6 +2,41 @@
 
 ---
 
+## 2026-06-08 — CORRIDA #248 (15:00 AST)
+
+**Hora corrida:** 2026-06-08 19:00 UTC / 2026-06-08 15:00 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #97 (api.telegram.org bloqueado por política de red del entorno). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (9 fuentes, ~12 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente |
+| Hacienda PR — Comunicados | Sin nuevos comunicados post 2026-05-18; hacienda.pr.gov retorna 403 en fetch directo |
+| Hacienda PR — CC FP | CC FP 1300-44-26 y 1300-19-26 identificadas pero fuera del ámbito (solo agencias gobierno) |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 no publicado (esperado ~2026-06-09) |
+| IRS — Section 933 / Act 60 / IRC 937 | Sin nueva guidance específica para PR en 2026 |
+| DDEC | OA 2026-002 en seen.txt; OA 2026-003: búsqueda ambigua (URL no confirmada) |
+| Tribunal Apelativo PR | TA2025AP00555 (Sagardía): caso constitucional, no doctrina contributiva privada; descartado |
+
+### Candidatos evaluados esta corrida:
+
+- **DDEC OA 2026-003**: Un resultado de búsqueda sugirió su existencia, pero solo retornó la página principal de DDEC sin URL directa. Contenido no verificable. **Descartado por Regla 1.**
+- **CC FP Núm. 1300-44-26**: Carta Circular de Finanzas Públicas (cierre fiscal año 2025-2026 de sistemas gubernamentales de nómina y contabilidad). Aplica exclusivamente a agencias de gobierno; no es CC de Rentas Internas o Política Contributiva. **Excluida del ámbito.**
+- **CC FP Núm. 1300-19-26**: Igual categoría que anterior. **Excluida del ámbito.**
+- **Tribunal Apelativo TA2025AP00555** (Sagardía): Caso sobre poder investigativo del Senado vs. Hacienda para entregar información contributiva de contratista. Asunto constitucional/separación de poderes, sin impacto en doctrina contributiva para contribuyentes privados. **Descartado.**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-08 — CORRIDA #247 (10:12 AST)
 
 **Hora corrida:** 2026-06-08 14:12 UTC / 2026-06-08 10:12 AST (slot 10am)
