@@ -7685,3 +7685,55 @@ API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest pr
 
 **Telegram:** Fallo directo (api.telegram.org bloqueado en entorno remoto). GH Actions enviará al hacer push.
 
+
+---
+
+## 2026-06-07 22:04 AST — Corrida #6 (slot 10pm)
+
+**Items nuevos:** 0
+**seen.txt:** 188 IDs
+
+**Fuentes revisadas:** Hacienda PR (CC RI, DA, BI RI, Comunicados), SURI, IRS-PR (IRB 2026-20/22), Tribunal Apelativo, DDEC/Act 60, OCIF
+
+**Resultado:** Sin novedades. Todos los items encontrados ya estaban registrados en corridas anteriores.
+
+**Estado publicaciones verificado:**
+- CC RI 26-11 (2026-06-02) — más reciente confirmada; CC RI 26-12 no publicada
+- BI RI 26-04 (2026-05-08) — más reciente; BI RI 26-05 no publicada
+- DA 26-01 (DDEC 2026-01) — última DA confirmada en Hacienda
+- IRS IRB 2026-22 (2026-05-26) — sin contenido PR-específico; IRB 2026-23 ya procesada
+- OA DDEC 2026-002 (2026-03-11) — última orden DDEC; 2026-003 no publicada
+- Tribunal Apelativo — sentencia Sagardía abr-2026 ya procesada; sin nuevas
+
+**Items descartados esta corrida:**
+| Ítem | Razón |
+|------|--------|
+| CC RI 26-08 (01-may-2026) | Ya en seen.txt |
+| BI RI 26-04 (08-may-2026) | Ya en seen.txt |
+| CC RI 26-11 (02-jun-2026) | Ya en seen.txt |
+| IRS IRB 2026-20 (06-abr-2026) | Ya en seen.txt |
+| DA 26-01 / OA DDEC 2026-01 | Ya en seen.txt |
+| OA DDEC 2026-002 | Ya en seen.txt |
+| Comunicados Hacienda (reintegros, cierre ciclo) | Ya en seen.txt |
+
+**Digest enviado:**
+```
+Monitor Contributivo PR — Corrida 22:04 AST (07-jun-2026)
+
+Sin novedades en esta corrida.
+
+Fuentes revisadas:
+• Hacienda PR (CC, BI, DA, Comunicados)
+• IRS — filtro Puerto Rico
+• DDEC / Act 60
+• Tribunal Apelativo PR
+• SURI
+
+================================
+Fuentes revisadas: 5 | Items: 0 | seen.txt: 188 IDs totales
+Próxima corrida: 06:00 AST (08-jun-2026)
+================================
+```
+
+**Nota entrega Telegram:** API Telegram bloqueada por política de red del contenedor (api.telegram.org no en allowlist). Digest preservado en log.
+
