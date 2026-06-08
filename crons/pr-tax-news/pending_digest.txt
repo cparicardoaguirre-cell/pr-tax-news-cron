@@ -1,28 +1,29 @@
-PR TAX NEWS | 2026-06-08 | 15:00 AST
+PR TAX NEWS | 2026-06-08 | 18:04 AST
 ===============================================
 
-Sin novedades en esta corrida (15:00 AST — slot 3pm).
+Sin novedades en esta corrida (18:04 AST — slot 6pm).
 
-Fuentes revisadas (9 fuentes, ~12 queries):
+Fuentes revisadas (6 fuentes, ~16 queries):
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
-- SURI: sin avisos nuevos (403 en fetch directo)
+- SURI: sin avisos nuevos
 - IRS-PR: IRBs, Notices filtro PR, Act 60/Section 933/IRC 937
 - DDEC: Act 60 ordenes administrativas
 - Tribunal Apelativo PR: sentencias tributarias
+- OCIF: sin publicaciones contributivas
 
-Estado publicaciones mas recientes (sin cambio vs 10:12 AST):
+Estado publicaciones mas recientes (sin cambio vs 15:00 AST):
 - CC RI 26-11 (2026-06-02) — sigue siendo la mas reciente; CC RI 26-12 no publicada
-- DA 26-03 (2026-05-20) — sigue siendo la mas reciente
+- DA 26-01 (2026-02-XX) — sigue siendo la mas reciente
 - BI RI 26-04 (2026-05-08) — sigue siendo la mas reciente
-- IRS IRB 2026-23 (2026-06-01) — sigue siendo el mas reciente; IRB 2026-24 esperado ~2026-06-09
+- IRS IRB 2026-24 (2026-06-08) — publicado hoy; Notice 2026-33 (long-term care, no aplica a PR); descartado
 - OA DDEC 2026-002 (2026-03-11) — sigue siendo la mas reciente
 
-Candidatos evaluados y descartados:
-- DDEC OA 2026-003: resultado de busqueda ambiguo (URL no confirmada); descartado Regla 1.
-- CC FP 1300-44-26 / 1300-19-26: CC de Finanzas Publicas (solo agencias gobierno); fuera del ambito.
-- Tribunal Apelativo TA2025AP00555 (Sagardia): caso constitucional/separacion de poderes, no doctrina contributiva privada; descartado.
+Candidatos evaluados y descartados esta corrida:
+- IRB 2026-24 (Notice 2026-33): trata qualified long-term care distributions de planes de beneficio definido; sin mencion de PR/Section 933/Act 60. Descartado por filtro IRS.
+- DA 26-02 (2026-04-29): >30 dias de publicado (40 dias); descartado por filtro de fecha.
+- CC RI 26-12: no existe; confirmado que CC RI 26-11 (2026-06-02) es la mas reciente.
 
 ================================
-Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
-Proxima corrida: 18:00 AST (2026-06-08)
+Fuentes: 6 | Items: 0 | seen.txt: 188 IDs
+Proxima corrida: 22:00 AST (2026-06-08)
 ================================

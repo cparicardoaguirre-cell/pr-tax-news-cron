@@ -2,6 +2,39 @@
 
 ---
 
+## 2026-06-08 — CORRIDA #249 (18:04 AST)
+
+**Hora corrida:** 2026-06-08 22:04 UTC / 2026-06-08 18:04 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #98 (api.telegram.org bloqueado por política de red del entorno). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-01 sigue siendo la más reciente de 2026; DA 26-02 (2026-04-29) tiene >30 días |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente |
+| Hacienda PR — Comunicados | Sin nuevos comunicados post 2026-06-02; hacienda.pr.gov retorna 403 en fetch directo |
+| IRS — IRBs | IRB 2026-24 publicado hoy (2026-06-08): Notice 2026-33 sobre long-term care, sin relevancia PR |
+| DDEC | OA 2026-002 en seen.txt; OA 2026-003 no confirmada con URL verificable |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en los últimos 30 días |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **IRS IRB 2026-24 (Notice 2026-33)**: Guidance sobre qualified long-term care distributions de planes de contribución definida. Sin mención de Puerto Rico, Section 933, Act 60 ni IRC 937. **Descartado por filtro IRS.**
+- **DA 26-02 (2026-04-29)**: Posposición de plazo para pago de contribución sobre ingresos año contributivo 2025. Publicada hace 40 días (>30 días). URL directa no indexada; hacienda.pr.gov retorna 403. **Descartado: fuera del rango de 30 días.**
+- **CC RI 26-12**: No existe; confirmado que CC RI 26-11 (2026-06-02) es la más reciente según múltiples búsquedas.
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-08 — CORRIDA #248 (15:00 AST)
 
 **Hora corrida:** 2026-06-08 19:00 UTC / 2026-06-08 15:00 AST (slot 3pm)
