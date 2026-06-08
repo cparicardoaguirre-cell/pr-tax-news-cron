@@ -2,6 +2,50 @@
 
 ---
 
+## 2026-06-08 — CORRIDA #246 (06:06 AST)
+
+**Hora corrida:** 2026-06-08 10:06 UTC / 2026-06-08 06:06 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #95 (api.telegram.org bloqueado). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (9 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin comunicado nuevo desde 2026-05-12; hacienda.pr.gov retorna 403 en fetch directo |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 no publicado (esperado ~2026-06-09) |
+| IRS — Local Standards PR | Actualización junio 2026 esperada (abril 2025 standards postponed to June); no confirmada con URL verificable |
+| IRS — bona fide resident / Section 933 | Sin nueva guidance específica para PR en junio 2026 |
+| DDEC | OA 2026-002 en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sagardía (abr-24-2026, >30 días, ya en seen.txt); sin nueva sentencia contributiva |
+| OCIF / SURI | Sin publicación contributiva nueva |
+
+### Candidatos evaluados esta corrida (~16 URLs verificadas):
+
+- CC RI 26-12: no publicada (búsqueda directa confirma CC RI 26-11 como más reciente)
+- DA 26-04: no publicada; DA 26-01/OA DDEC 2026-01 en seen.txt
+- BI RI 26-05: no publicada
+- Comunicados Hacienda junio 2026: fetch retorna 403; búsqueda no muestra nuevos
+- IRS IRB 2026-24: no publicado aún
+- IRS Notice 2026-xx (jun-2026 PR-específico): ninguno encontrado con nexo PR
+- IRS Local Standards PR june-2026: actualización pendiente de confirmación con URL verificable; descartado (regla #1)
+- IRS bona fide resident / Section 933 / Act 60 notices: última guidance relevante ya en seen.txt
+- OA DDEC 2026-003: no publicada
+- Tribunal Apelativo Sagardía: ID d6fb57ccc3c77c74 en seen.txt
+- OCIF: sin publicación contributiva nueva
+- SURI: sin aviso de sistema nuevo
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-07 — CORRIDA #243 (15:09 AST)
 
 **Hora corrida:** 2026-06-07 19:09 UTC / 2026-06-07 15:09 AST (slot 3pm)
