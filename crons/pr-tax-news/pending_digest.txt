@@ -1,36 +1,30 @@
-PR TAX NEWS | 2026-06-08 | 06:06 AST
+PR TAX NEWS | 2026-06-08 | 10:12 AST
 ===============================================
 
-Sin novedades en esta corrida (06:06 AST — slot 6am).
+Sin novedades en esta corrida (10:12 AST — slot 10am).
 
-Fuentes revisadas (9 fuentes, ~16 queries):
+Fuentes revisadas (9 fuentes, ~13 queries):
 - Hacienda PR: CC RI, DA, BI RI, Comunicados de Prensa
 - SURI: sin avisos nuevos
-- IRS-PR: IRBs, Notices, Local Standards PR
+- IRS-PR: IRBs 2026-22/2026-23, Notices filtro PR
 - IRS: bona fide resident / Section 933 / Act 60 notices
 - Tribunal Apelativo PR: sentencias tributarias
 - DDEC: Act 60 ordenes administrativas
-- OCIF: sin publicaciones contributivas nuevas
+- GAO: informe PR-IRS oversight
 
 Todos los items encontrados ya estaban registrados en
 corridas anteriores. Publicaciones mas recientes confirmadas:
 - CC RI 26-11 (2026-06-02) — mas reciente; CC RI 26-12 no publicada
-- DA 26-03 (2026-05-20) — mas reciente; DA 26-04 no publicada
+- DA 26-03 (2026-05-20) — mas reciente
 - BI RI 26-04 (2026-05-08) — Cheque Alivio Contributivo
-- IRS IRB 2026-23 (2026-06-01) — mas reciente; IRB 2026-24 esperado ~09-jun
+- IRS IRB 2026-23 (2026-06-01) — mas reciente; IRB 2026-24 esperado ~2026-06-09
 - OA DDEC 2026-002 (2026-03-11) — mas reciente; OA 2026-003 no publicada
 
-Candidatos evaluados y descartados:
-- CC RI 26-12: no publicada aun
-- BI RI 26-05: no publicada aun
-- DA 26-04: no publicada aun
-- IRB 2026-24: no publicado (esperado ~2026-06-09)
-- IRS Local Standards PR (jun-2026): actualizacion esperada este mes; no confirmada con URL verificable
-- OA DDEC 2026-003: no publicada aun
-- Tribunal Apelativo: sin nueva sentencia contributiva (Sagardia ya en seen.txt)
-- OCIF / SURI: sin publicacion contributiva nueva
+Candidato evaluado y descartado:
+- DA 26-02: URL sin confirmar (hacienda.pr.gov retorna 403); descripcion ambigua
+  en dos fuentes distintas; ademas >30 dias (29/04/2026). Descartado por Regla 1.
 
 ================================
 Fuentes: 9 | Items: 0 | seen.txt: 188 IDs
-Proxima corrida: 10:00 AST (2026-06-08)
+Proxima corrida: 15:00 AST (2026-06-08)
 ================================

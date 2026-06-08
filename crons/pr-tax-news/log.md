@@ -2,6 +2,40 @@
 
 ---
 
+## 2026-06-08 — CORRIDA #247 (10:12 AST)
+
+**Hora corrida:** 2026-06-08 14:12 UTC / 2026-06-08 10:12 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #96 (api.telegram.org bloqueado por política de red del entorno). pending_digest.txt actualizado; GH Actions enviará al push.
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (9 fuentes, ~13 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) confirmada como más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) confirmada como más reciente |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) confirmada como más reciente |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; búsqueda sin nuevos comunicados post 2026-05-12 |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) en seen.txt; IRB 2026-24 no publicado (esperado ~2026-06-09) |
+| IRS — Rev. Proc. 2026-23 | Incluido en IRB 2026-22; mencionaPR (mortgage bonds safe harbor); ya en seen.txt |
+| IRS — bona fide resident / Section 933 / Act 60 | Sin nueva guidance específica para PR |
+| DDEC | OA 2026-002 en seen.txt; OA 2026-003 no publicada |
+| Tribunal Apelativo PR | Sin nueva sentencia contributiva; última conocida ya en seen.txt |
+| GAO | GAO-26-107225 ya en seen.txt |
+
+### Candidatos evaluados esta corrida:
+
+- **DA 26-02**: ID `9bf7117566fd6317` no está en seen.txt. Sin embargo: (a) URL no confirmada — hacienda.pr.gov retorna 403 en WebFetch; (b) contenido ambiguo — dos fuentes distintas dan descripciones contradictorias; (c) fecha 29/04/2026 = 40 días > límite de 30 días. **Descartado por Regla #1 y filtro temporal.**
+- CC RI 26-08 al 26-11, BI RI 26-04, DA 26-01/DDEC 2026-01, DDEC 2026-002, IRB 2026-20 al 2026-23, GAO-26-107225, Comunicados Hacienda (IVU huracanes, SURI Alivio): todos en seen.txt.
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-08 — CORRIDA #246 (06:06 AST)
 
 **Hora corrida:** 2026-06-08 10:06 UTC / 2026-06-08 06:06 AST (slot 6am)
