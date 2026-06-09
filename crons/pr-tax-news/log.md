@@ -2,6 +2,48 @@
 
 ---
 
+## 2026-06-09 — CORRIDA #252 (15:03 AST)
+
+**Hora corrida:** 2026-06-09 19:03 UTC / 2026-06-09 15:03 AST (slot 3pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 2 (gao.gov/products/GAO-26-107225 + DA 26-02 URL variante — ambos evaluados y descartados)
+**Telegram:** Pendiente de envío (api.telegram.org bloqueado por política de red del entorno).
+**seen.txt:** 191 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; búsquedas no revelan nuevos comunicados post 2026-06-02 |
+| SURI | Bajo mantenimiento ("No disponible") al momento de la corrida; no es publicación oficial |
+| IRS — IRBs | IRB 2026-24 (2026-06-08) ya en seen.txt; IRB 2026-25 no publicado aún (esperado ~2026-06-15) |
+| IRS — Section 933 / Act 60 / IRC 937 | Sin nueva guidance específica para PR; estándar vivienda PR postergado a junio 2026 pero sin confirmación de publicación y fuera de alcance del filtro |
+| GAO-26-107225 (gao.gov/products) | URL canónica evaluada por primera vez; contenido publicado dic 2025 (>30 días). Descartado por Regla de fecha. URL files.gao.gov ya estaba en seen.txt |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; OA 2026-003 no confirmada |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas para junio 2026 |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No existe; CC RI 26-11 (2026-06-02) confirmada como la más reciente. **Descartado.**
+- **DA 26-04**: No existe; DA 26-03 (2026-05-20) es la más reciente. **Descartado.**
+- **BI RI 26-05**: No existe; BI RI 26-04 (2026-05-08) es la más reciente. **Descartado.**
+- **IRS IRB 2026-25**: No publicado; IRB 2026-24 (2026-06-08) sigue siendo el más reciente. **Descartado.**
+- **GAO-26-107225** (hash `fbc80951186cbf25`): URL gao.gov/products evaluada por primera vez. Publicado diciembre 2025 (>30 días). **Descartado por Regla de fecha.**
+- **DA 26-02** (hash `9bf7117566fd6317`): URL variante evaluada. Publicado abril 2026 (>30 días desde hoy). **Descartado por Regla de fecha.**
+- **IRS Local Standards PR — Housing**: Actualización postergada a junio 2026 pendiente de publicación; además, estándares de cobro administrativos fuera del filtro de política contributiva. **Descartado por alcance.**
+- **DDEC OA 2026-003**: No confirmada; búsquedas no revelan publicación oficial. **Descartado por Regla 1.**
+- **SURI "No disponible"**: Página de mantenimiento, no publicación oficial. **No añadido a seen.txt.**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-09 — CORRIDA #251 (10:05 AST)
 
 **Hora corrida:** 2026-06-09 14:05 UTC / 2026-06-09 10:05 AST (slot 10am)
