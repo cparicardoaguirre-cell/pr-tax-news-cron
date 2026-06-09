@@ -8049,3 +8049,64 @@ Próxima corrida: 10:00 AST
 ```
 
 **Nota entrega Telegram:** API Telegram bloqueada por política de red del contenedor (api.telegram.org no en allowlist). Digest preservado en log.
+
+---
+
+## 2026-06-09 18:00 AST — Corrida (slot 6pm)
+
+**Items nuevos:** 0
+**seen.txt:** 195 IDs (+4 CC FP descartadas)
+
+**Fuentes revisadas:** Hacienda PR (CC RI, DA, BI RI, Comunicados, CC FP), SURI, IRS-PR (IRBs, Newsroom), Tribunal Apelativo, DDEC/Act 60, OCIF
+
+**Resultado:** Sin novedades contributivas. Los únicos items no registrados previamente fueron circulares de Finanzas Públicas (CC FP) para agencias de gobierno — no contributivas y fuera de ventana 30 días.
+
+**Estado publicaciones verificado:**
+- CC RI 26-11 (2026-06-02) — más reciente CC RI; CC RI 26-12 no publicada
+- BI RI 26-04 (2026-05-08) — más reciente BI RI; BI RI 26-05 no publicada
+- DA 26-03 (2026-05-20) — más reciente DA; DA 26-04 no publicada
+- IRS IRB 2026-23 (2026-06-01) — más reciente IRB; IRB 2026-24 no publicado aún
+- OA DDEC 2026-002 (2026-03-11) — última orden DDEC (fuera ventana); DDEC 2026-003 no publicada
+- IRS Newsroom jun-2026: IR-2026-71 a 76 — sin nexo Puerto Rico/Sección 933/Act 60
+- Tribunal Apelativo PR: sin sentencias tributarias nuevas en may-jun 2026
+
+**Items descartados esta corrida:**
+| Ítem | ID | Razón |
+|------|----|-------|
+| CC FP 1300-12-26 | a822675a2b1eba5f | CC de Finanzas Públicas (no contributiva); publicada ene-feb 2026 (>30 días) |
+| CC FP 1300-18-26 | 2f099395a0d1ac34 | CC de Finanzas Públicas (no contributiva); publicada feb-mar 2026 (>30 días) |
+| CC FP 1300-20-26 | 9773ed3db1e43af6 | CC de Finanzas Públicas (no contributiva); publicada mar 2026 (>30 días) |
+| CC FP 1300-25-26 | f101d9b67f986b4f | CC de Finanzas Públicas — Single Audit req.; publicada abr 2026 (>30 días) |
+| IRS IR-2026-71 a 76 (jun-2026) | — | Sin nexo Puerto Rico/Sección 933/Act 60 |
+| IRB 2026-24 | dad9f69eb8bd8efa | No publicado aún (ID ya en seen.txt como placeholder) |
+| Tribunal Apelativo may-jun 2026 | — | Sin sentencias tributarias indexadas |
+| DDEC 2026-002 (11-mar-2026) | — | Fuera de ventana 30 días (ya en seen.txt) |
+
+**Digest:**
+```
+[PR TAX NEWS — Monitor Contributivo PR]
+Corrida: 2026-06-09 18:00 AST
+
+Sin publicaciones nuevas detectadas en esta corrida.
+
+Estado del inventario:
+• Hacienda PR — CC RI: hasta 26-11 (02-jun-2026) ✓
+• Hacienda PR — BI RI: hasta 26-04 (08-may-2026) ✓
+• Hacienda PR — DA: hasta 26-03 (20-may-2026) ✓
+• IRS — IRB: hasta 2026-23 (01-jun-2026) ✓ | IRB 2026-24: no publicado aún
+• DDEC / Act 60: hasta DDEC 2026-002 (11-mar-2026, fuera ventana)
+• Tribunal Apelativo PR: sin sentencias tributarias nuevas
+• SURI: sin avisos nuevos verificados
+
+Items evaluados y descartados:
+— CC FP 1300-12/18/20/25-26: circulares de Finanzas Públicas (agencias gobierno, no contributivas); fuera de ventana 30 días
+— IRS IR-2026-71 a 76 (jun-2026): sin nexo Puerto Rico/Sección 933/Act 60
+— Tribunal Apelativo may-jun 2026: sin sentencias tributarias indexadas
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 195 IDs totales
+Próxima corrida: 22:00 AST
+================================
+```
+
+**Nota entrega Telegram:** API Telegram bloqueada por política de red del contenedor (HTTP 403). Digest preservado en log.
