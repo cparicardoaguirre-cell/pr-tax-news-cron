@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-06-09 — CORRIDA #251 (10:05 AST)
+
+**Hora corrida:** 2026-06-09 14:05 UTC / 2026-06-09 10:05 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 1 (IRB 2026-24 evaluado y descartado — no aplica a PR)
+**Telegram:** Pendiente de envío (api.telegram.org bloqueado por política de red del entorno).
+**seen.txt:** 189 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~16 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; búsquedas no revelan nuevos comunicados post 2026-06-02 |
+| IRS — IRB 2026-24 (jun 8, 2026) | Nuevo hash evaluado; contiene Notice 2026-33 (SECURE 2.0 LTC distributions) — no aplica a PR. Descartado por Regla 3 |
+| IRS — Section 933 / Act 60 / IRC 937 | Sin nueva guidance específica para PR |
+| DDEC | OA DDEC 2026-002 ya en seen.txt; OA 2026-003 no confirmada |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas para junio 2026 |
+| SURI | Sin avisos nuevos |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No existe; CC RI 26-11 (2026-06-02) confirmada como la más reciente. **Descartado.**
+- **DA 26-04**: No existe; DA 26-03 (2026-05-20) es la más reciente. **Descartado.**
+- **BI RI 26-05**: No existe; BI RI 26-04 (2026-05-08) es la más reciente. **Descartado.**
+- **IRS IRB 2026-24** (hash `dad9f69eb8bd8efa`): Publicado 2026-06-08. Contiene Notice 2026-33 (SECURE 2.0 LTC distributions). No menciona Puerto Rico, Section 933, Act 60, IRC 937 ni territorios. **Descartado por Regla 3.**
+- **DDEC OA 2026-003**: No confirmada; búsquedas no revelan publicación oficial. **Descartado por Regla 1.**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-08 — CORRIDA #250 (22:09 AST)
 
 **Hora corrida:** 2026-06-09 02:09 UTC / 2026-06-08 22:09 AST (slot 10pm)
