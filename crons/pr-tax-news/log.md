@@ -7924,3 +7924,50 @@ Próxima corrida: 06:00 AST (08-jun-2026)
 
 **Nota entrega Telegram:** API Telegram bloqueada por política de red del contenedor (api.telegram.org no en allowlist). Digest preservado en log.
 
+
+---
+
+## Corrida: 2026-06-09 06:10 AST
+
+**Fuentes revisadas:** Hacienda PR (CC/DA/BI/Comunicados), SURI, IRS-PR, DDEC/Act 60, Tribunal Apelativo PR, OCIF
+
+**Búsquedas ejecutadas:** 14 queries WebSearch + 6 WebFetch (403 Forbidden en hacienda.pr.gov, acceso vía search snippets)
+
+**Estado del inventario al cierre:**
+- CC RI 26-11 (02-jun-2026) — más reciente CC de Rentas Internas, ya en seen.txt
+- DA 26-03 (20-may-2026) — más reciente DA, ya en seen.txt
+- BI RI 26-04 (08-may-2026) — más reciente BI, ya en seen.txt
+- CC RI 26-10 (20-may-2026) — Cheque Alivio Contributivo, ya en seen.txt
+- OA DDEC 2026-002 (11-mar-2026) — última orden DDEC; CC DDEC 2026-003 (07-abr-2026) ya en seen.txt
+- IRS IRB 2026-23 — ya en seen.txt; IRB 2026-22 con Rev. Proc. 2026-23 (mortgage bonds PR) ya en seen.txt
+- SURI: mantenimiento activo al momento del scan
+
+**Items descartados esta corrida:**
+| Ítem | Razón |
+|------|--------|
+| Comunicado uniformes IVU "mediados julio/enero 2026" | Fecha ambigua — posiblemente jul-2025; descartado por regla de ambigüedad |
+| IRS Notice 2026-25 (Section 911 housing) | No aplica a PR/Section 933/Act 60 |
+| Comunicado "notarios / SC 2745" | Publicado abr-2026 (>30 días) |
+| DA 26-02 | URL no confirmada/documento no existe |
+| SURI homepage | No es publicación contributiva |
+
+**Digest enviado:**
+```
+Monitor Contributivo PR — Corrida 06:10 AST (09-jun-2026)
+
+Sin novedades en esta corrida.
+
+Fuentes revisadas:
+• Hacienda PR (CC RI, DA, BI, Comunicados)
+• SURI
+• IRS — filtro Puerto Rico / Sección 933 / Act 60
+• DDEC — Órdenes Administrativas Act 60
+• Tribunal Apelativo PR — materia contributiva
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 188 IDs totales
+Próxima corrida: 10:00 AST
+================================
+```
+
+**Nota entrega Telegram:** API Telegram bloqueada por política de red del contenedor (api.telegram.org no en allowlist). Digest preservado en log.
