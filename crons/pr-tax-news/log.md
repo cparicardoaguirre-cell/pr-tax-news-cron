@@ -2,6 +2,47 @@
 
 ---
 
+## 2026-06-08 — CORRIDA #250 (22:09 AST)
+
+**Hora corrida:** 2026-06-09 02:09 UTC / 2026-06-08 22:09 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** Fallo directo #99 (api.telegram.org bloqueado por política de red del entorno).
+**seen.txt:** 188 IDs totales (sin cambio)
+
+### Fuentes revisadas (6 fuentes, ~18 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | Sin nuevos comunicados post 2026-06-02; hacienda.pr.gov retorna 403 en fetch directo |
+| IRS — IRBs | IRB 2026-23 (2026-06-01) sigue siendo el más reciente; IRB 2026-24 no confirmado publicado (página retorna 403) |
+| IRS — Section 933 / Act 60 / IRC 937 | Sin nueva guidance específica para PR publicada en últimos 30 días |
+| DDEC | OA DDEC 2026-002 y DA 26-01/OA DDEC 2026-01 en seen.txt; OA 2026-003 no confirmada |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas (Sagardía: caso constitucional, ya descartado) |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No existe; CC RI 26-11 (2026-06-02) confirmada como la más reciente. **Descartado.**
+- **BI RI 26-05**: No existe; BI RI 26-04 (2026-05-08) confirmada como la más reciente. **Descartado.**
+- **DA 26-04**: No existe; DA 26-03 es la más reciente. **Descartado.**
+- **IRS IRB 2026-24**: Hash nuevo en seen.txt; sin embargo, página retorna 403 y búsquedas no confirman publicación. **Descartado por Regla 1 (contenido no verificable).**
+- **DLA Piper OBBBA (jul-2025)**: Hash nuevo en seen.txt; publicado julio 2025 (>30 días). **Descartado por fecha.**
+- **"Juramenta nuevo Secretario Hacienda" comunicado**: Hash nuevo en seen.txt; comunicado de enero 2025 (>30 días). **Descartado por fecha.**
+- **Holland & Knight Act 60 Residency (abr-2026)**: Hash nuevo en seen.txt; publicado abril 2026 (>30 días). **Descartado por fecha.**
+- **Procopio "IRS Intensifies Scrutiny" Act 60**: Publicado sep/dic 2025 (>30 días). **Descartado por fecha.**
+- **Tax Notes "Transition Rules PR Possession Tax Credit"**: Regulaciones históricas (1998-2000). **Descartado — fuera de ámbito.**
+- **Rev. Proc. 2026-23 (IRB 2026-22)**: Precios promedio para mortgage bonds; IRB 2026-22 ya en seen.txt. **Descartado.**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-08 — CORRIDA #249 (18:04 AST)
 
 **Hora corrida:** 2026-06-08 22:04 UTC / 2026-06-08 18:04 AST (slot 6pm)
