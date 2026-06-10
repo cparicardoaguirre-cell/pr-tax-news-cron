@@ -2,6 +2,52 @@
 
 ---
 
+## 2026-06-10 — CORRIDA #254 (06:06 AST)
+
+**Hora corrida:** 2026-06-10 10:06 UTC / 2026-06-10 06:06 AST (slot 6am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0 (todos los candidatos evaluados ya estaban en seen.txt)
+**Telegram:** Pendiente de envío (api.telegram.org bloqueado por política de red del entorno).
+**seen.txt:** 197 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~15 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; búsquedas no revelan nuevos comunicados post 2026-06-02 |
+| SURI | Retorna 403; no disponible |
+| IRS — IRB 2026-23/24/25 | Todos ya en seen.txt (hashes `de3fea1de5eaf980`, `dad9f69eb8bd8efa`, `7c2c012e26cb0357`); sin contenido PR-específico nuevo |
+| IRS — Collection Financial Standards PR | Actualización esperada para junio 2026 (retrasada desde abril); no confirmada publicación. Página base no añadida a seen.txt — se monitorea en próximas corridas |
+| IRS — Section 933 / Act 60 / IRC 937 | Sin nueva guidance oficial para PR |
+| DDEC | OA DDEC 2026-003 no confirmada; búsquedas no revelan publicación oficial |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas para junio 2026 |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No existe; CC RI 26-11 (2026-06-02) es la más reciente. **Descartado.**
+- **DA 26-04**: No existe; DA 26-03 (2026-05-20) es la más reciente. **Descartado.**
+- **BI RI 26-05**: No existe; BI RI 26-04 (2026-05-08) es la más reciente. **Descartado.**
+- **IRB 2026-23** (hash `de3fea1de5eaf980`): Ya en seen.txt. **Descartado.**
+- **IRB 2026-24** (hash `dad9f69eb8bd8efa`): Ya en seen.txt. Notice 2026-24 trata sobre waiver de adición al impuesto para farmers/fishermen bajo Section 6654 — no aplica a PR. **Descartado.**
+- **IRB 2026-25** (hash `7c2c012e26cb0357`): Ya en seen.txt desde corrida #253. Notice 2026-25 trata sobre housing adjustments bajo Section 911 para países extranjeros — no aplica a PR. **Descartado.**
+- **GAO-26-107225** (hash `b2b44d1f88e880f3`): Ya en seen.txt. Publicado diciembre 2025, >30 días. **Descartado.**
+- **DDEC OA 2026-003**: No confirmada; búsquedas no revelan publicación oficial. **Descartado por Regla 1.**
+- **IRS Collection Financial Standards PR**: Actualización esperada junio 2026 (retrasada desde abril 2025); no confirmada aún. URL base (`626e1f84c6398593`) no añadida a seen.txt para mantener monitoreo activo en próximas corridas.
+
+### Ítem a vigilar próximas corridas:
+
+- **IRS Collection Financial Standards PR** (`https://www.irs.gov/businesses/small-businesses-self-employed/collection-financial-standards`): Se espera actualización de estándares de vivienda/utilidades para PR correspondiente a junio 2026 (el IRS anunció que actualizaciones usualmente de abril 2025 se pospusieron a junio 2026). Monitorear activamente en corridas del 10-30 de junio.
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-09 — CORRIDA #253 (22:08 AST)
 
 **Hora corrida:** 2026-06-10 02:08 UTC / 2026-06-09 22:08 AST (slot 10pm)
