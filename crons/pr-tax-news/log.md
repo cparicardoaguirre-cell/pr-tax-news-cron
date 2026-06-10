@@ -2,6 +2,49 @@
 
 ---
 
+## 2026-06-09 — CORRIDA #253 (22:08 AST)
+
+**Hora corrida:** 2026-06-10 02:08 UTC / 2026-06-09 22:08 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 2 (IRS Notice 2026-25 PDF + IRS OBBB newsroom — ambos evaluados y descartados)
+**Telegram:** Pendiente de envío (api.telegram.org bloqueado por política de red del entorno).
+**seen.txt:** 197 IDs totales
+
+### Fuentes revisadas (6 fuentes, ~20 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — CC FP | CC FP 1300-44-26 ya en seen.txt (hash a426623ef99b4de2); circular administrativa para agencias de gobierno, fuera de alcance |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; búsquedas no revelan nuevos comunicados post 2026-06-02 |
+| SURI | Retorna 403; no disponible |
+| IRS — IRBs | IRB 2026-25 no publicado aún (esperado ~2026-06-15); último publicado es IRB 2026-24 (2026-06-08), ya en seen.txt |
+| IRS — Notice 2026-25 | Publicado en IRB 2026-17 (2026-04-20); Section 911 housing adjustments para países extranjeros — no aplica a residentes bona fide de PR; además, >30 días. Descartado. |
+| IRS — OBBB / Notice 2026-16 | IR-2026-25 (2026-02-20): guidance sobre depreciación especial para qualified production property bajo Section 168(n) / One Big Beautiful Bill; fecha >30 días; no menciona PR específicamente. Descartado. |
+| IRS — Section 933 / Act 60 / IRC 937 | Sin nueva guidance oficial para PR. Caso Karakashian v. Commissioner (Tax Court petition, 2026-04-27) evaluado: petición pendiente sin número oficial publicado, fuera de alcance per Regla 2. |
+| DDEC | OA DDEC 2026-003 no confirmada; búsquedas no revelan publicación oficial |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas para junio 2026 |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No existe; CC RI 26-11 (2026-06-02) confirmada como la más reciente. **Descartado.**
+- **DA 26-04**: No existe; DA 26-03 (2026-05-20) es la más reciente. **Descartado.**
+- **BI RI 26-05**: No existe; BI RI 26-04 (2026-05-08) es la más reciente. **Descartado.**
+- **IRB 2026-25**: No publicado; IRB 2026-24 (2026-06-08) sigue siendo el más reciente. **Descartado.**
+- **IRS Notice 2026-25** (hash `7c2c012e26cb0357`): PDF URL evaluado por primera vez. Publicado en IRB 2026-17 (2026-04-20), >30 días. Trata sobre ajustes de gastos de vivienda bajo Section 911 para países extranjeros — no aplica a residentes bona fide de PR (ellos usan Section 933, no 911). **Descartado por Regla 3 y Regla de fecha. Añadido a seen.txt.**
+- **IRS OBBB newsroom** (hash `bc4b0e7dba9f1a57`): Página de IRS sobre guidance de qualified production property (Notice 2026-16, IR-2026-25, 2026-02-20). >30 días. No menciona Puerto Rico o posesiones específicamente. **Descartado por Regla de fecha. Añadido a seen.txt.**
+- **Karakashian v. Commissioner** (Tax Court, petición 2026-04-27): Caso de IRS rechazando residencia bona fide en PR bajo IRC 937. Interesante como tendencia de enforcement, pero: (1) es una petición pendiente, no decisión publicada; (2) sin número oficial de Notice/Rev Ruling; (3) sin publicación oficial IRS. **Descartado por Regla 2.**
+- **DDEC OA 2026-003**: No confirmada; búsquedas no revelan publicación oficial. **Descartado por Regla 1.**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+---
+
 ## 2026-06-09 — CORRIDA #252 (15:03 AST)
 
 **Hora corrida:** 2026-06-09 19:03 UTC / 2026-06-09 15:03 AST (slot 3pm)
