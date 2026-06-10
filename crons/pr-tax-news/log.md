@@ -2,6 +2,56 @@
 
 ---
 
+## 2026-06-10 — CORRIDA #255 (10:03 AST)
+
+**Hora corrida:** 2026-06-10 14:03 UTC / 2026-06-10 10:03 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **88° fallo consecutivo.**
+**seen.txt:** 197 IDs totales (sin cambio)
+
+### Fuentes revisadas (~15 queries):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-01 / DA 26-03 ya en seen.txt; sin DA 26-04 publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; sin BI RI 26-05 publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; sin nuevos comunicados post 2026-06-02 |
+| IRS — IRB 2026-23/24/25 | Todos ya en seen.txt; sin contenido PR-específico nuevo |
+| IRS — Collection Financial Standards PR | Actualización esperada junio 2026 (anunciada como retrasada desde abril 2025) — aún no confirmada |
+| DDEC — Act 60 | OA DDEC 2026-003 no confirmada; búsquedas sin publicación oficial nueva |
+| Act 38-2026 | Ya en seen.txt; publicada ~marzo 2026, fuera de ventana 30 días |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana actual |
+| OCIF | Sin publicaciones contributivas nuevas |
+| SURI | Sin aviso formal nuevo |
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Digest enviado:
+
+```
+PR TAX NEWS | 2026-06-10 | 10:03 AST
+===============================================
+
+Sin novedades contributivas nuevas en esta corrida.
+
+Todas las fuentes revisadas — items encontrados ya estaban en seen.txt.
+
+Ítem a vigilar: IRS Collection Financial Standards PR (actualización
+esperada junio 2026 para estándares de vivienda/utilidades de PR).
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 197 IDs totales
+Próxima corrida: 15:00 AST
+================================
+```
+*(No entregado — api.telegram.org bloqueado por red del contenedor)*
+
+---
+
 ## 2026-06-10 — CORRIDA #254 (06:06 AST)
 
 **Hora corrida:** 2026-06-10 10:06 UTC / 2026-06-10 06:06 AST (slot 6am)
