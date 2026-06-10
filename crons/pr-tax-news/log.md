@@ -2,6 +2,79 @@
 
 ---
 
+## 2026-06-10 — CORRIDA #257 (18:00 AST)
+
+**Hora corrida:** 2026-06-10 22:00 UTC / 2026-06-10 18:00 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **90° fallo consecutivo.**
+**seen.txt:** 197 IDs totales (sin cambio)
+
+### Fuentes revisadas (~16 queries WebSearch + intentos WebFetch):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — CC FP | 1300-12/19/20/25/28/44-26 ya en seen.txt |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; sin nuevos comunicados post 2026-06-02 |
+| SURI | En mantenimiento; sin avisos nuevos indexados |
+| IRS — IRB 2026-25 | No publicado aún; el más reciente confirmado es IRB 2026-24 (ya en seen.txt); IRB 2026-25 esperado ~16-jun |
+| IRS — Collection Financial Standards PR | Actualización June 2026 anunciada pero no confirmada publicada |
+| DDEC / Act 60 | OA DDEC 2026-002 (11-mar-2026): fuera ventana 30 días |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas en ventana 30 días |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No publicada. **Descartado (Regla 1).**
+- **DA 26-04**: No publicada. **Descartado (Regla 1).**
+- **BI RI 26-05**: No publicada. **Descartado (Regla 1).**
+- **IRB 2026-25**: No publicado (~esperado 16-jun). **Descartado (Regla 1).**
+- **IRS PR Local Standards June 2026**: Actualización anunciada para junio 2026 pero no confirmada aún. **Descartado (Regla 1).**
+- **CC FP 1300-20/25/44-26**: Ya en seen.txt. **Descartado.**
+- **DDEC OA 2026-002** (11-mar-2026): >30 días. **Descartado (Regla de fecha).**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Digest:
+
+```
+[PR TAX NEWS — Monitor Contributivo PR]
+Corrida: 2026-06-10 18:00 AST (slot 6pm) | Corrida #257
+
+Sin publicaciones nuevas detectadas en esta corrida.
+
+Estado del inventario:
+• Hacienda PR — CC RI: hasta 26-11 (02-jun-2026) ✓
+• Hacienda PR — BI RI: hasta 26-04 (08-may-2026) ✓
+• Hacienda PR — DA: hasta 26-03 (20-may-2026) ✓
+• IRS — IRB: hasta 2026-24 (08-jun-2026) ✓ | IRB 2026-25: esperado ~16-jun
+• DDEC / Act 60: OA 2026-002 (11-mar-2026, fuera ventana 30 días)
+• Tribunal Apelativo PR: sin sentencias tributarias nuevas indexadas
+• SURI: en mantenimiento
+
+Items evaluados y descartados esta corrida:
+— CC RI 26-12: no publicada aún (descartado – Regla 1)
+— DA 26-04: no publicada aún (descartado – Regla 1)
+— BI RI 26-05: no publicada aún (descartado – Regla 1)
+— IRB 2026-25: no publicado aún, esperado ~16-jun (descartado – Regla 1)
+— IRS PR Local Standards June 2026: actualización no confirmada (descartado – Regla 1)
+— CC FP 1300-20/25/44-26: ya en seen.txt
+— DDEC OA 2026-002: publicado 11-mar-2026, >30 días (descartado)
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 197 IDs totales
+Próxima corrida: 22:00 AST
+================================
+```
+*(No entregado — api.telegram.org bloqueado por red del contenedor)*
+
+---
+
 ## 2026-06-10 — CORRIDA #256 (15:11 AST)
 
 **Hora corrida:** 2026-06-10 19:11 UTC / 2026-06-10 15:11 AST (slot 3pm)
