@@ -2,6 +2,55 @@
 
 ---
 
+## 2026-06-11 — CORRIDA #261 (15:10 AST)
+
+**Hora corrida:** 2026-06-11 19:10 UTC / 2026-06-11 15:10 AST (slot 3pm)
+**Items nuevos:** 1
+**IDs añadidos a seen.txt:** 1 (`1297592bd0dfdcd8`)
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403 "Host not in allowlist"). **94° fallo consecutivo.**
+**seen.txt:** 198 IDs totales
+
+### Item nuevo encontrado:
+
+| # | Fuente | Tipo | Número | Fecha estimada |
+|---|--------|------|--------|----------------|
+| 1 | Hacienda PR | CC Finanzas Públicas | CC FP 1300-46-26 | mayo-jun 2026 |
+
+**CC FP 1300-46-26** — Implementa Pronunciamiento GASB Núm. 101 ("Compensated Absences"), sustituyendo GASB 16. Instruye agencias gubernamentales ELA a recopilar datos de ausencias compensadas para AF 2025-2026. Deroga CC FP 1300-55-25. Solo aplica a entidades gubernamentales (no contribuyentes privados).
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-finanzas-publicas-num-1300-46-26
+
+### Fuentes revisadas (~22 queries WebSearch + intentos WebFetch):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — CC FP | CC FP 1300-46-26 → NUEVA (no estaba en seen.txt) |
+| Hacienda PR — DA | DA 26-01 sigue siendo la más reciente |
+| Hacienda PR — BI RI | BI RI 26-04 sigue siendo la más reciente |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB | IRB 2026-22 a 2026-24 ya en seen.txt; IRB 2026-25 no publicado aún |
+| IRS — Puerto Rico específico | Sin nuevas guías Section 933/Act 60/QOZ en ventana 30 días; Rev. Proc. 2026-14 ya procesada |
+| DDEC / Act 60 | OA 2026-002 y CC 2026-003 ya procesadas; sin nuevas órdenes |
+| Tribunal Supremo PR | TSPR 37 (Redmane Technology): contratación pública, no tributario. Descartado. |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas en ventana 30 días |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Digest enviado:
+```
+FALLO TELEGRAM — digest preparado pero no entregado:
+
+[HACIENDA PR - CC FP] CC FP 1300-46-26
+Fecha: 2026 (mayo-junio estimado)
+Implementa GASB 101 sobre ausencias compensadas. Deroga CC FP 1300-55-25.
+Aplica a agencias gubernamentales ELA. No impacta contribuyentes sector privado.
+URL: https://hacienda.pr.gov/publicaciones/carta-circular-de-finanzas-publicas-num-1300-46-26
+---
+Fuentes revisadas: 6 | Items: 1 | seen.txt: 198 IDs | Próxima: 18:00 AST
+```
+
+---
+
 ## 2026-06-11 — CORRIDA #260 (10:07 AST)
 
 **Hora corrida:** 2026-06-11 14:07 UTC / 2026-06-11 10:07 AST (slot 10am)
