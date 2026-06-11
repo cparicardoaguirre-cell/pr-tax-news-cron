@@ -2,6 +2,68 @@
 
 ---
 
+## 2026-06-11 — CORRIDA #259 (manual post-10pm AST)
+
+**Hora corrida:** 2026-06-11 (manual) AST
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **92° fallo consecutivo.**
+**seen.txt:** 197 IDs totales (sin cambio)
+
+### Fuentes revisadas (~20 queries WebSearch + intentos WebFetch):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; sin nuevos comunicados post 2026-06-02 |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB 2026-24 | Ya en seen.txt (Notice 2026-33: long-term care, sin contenido PR aplicable) |
+| IRS — IRB 2026-25 | No publicado aún (~esperado 2026-06-16) |
+| IRS — bona fide resident / Section 933 / Act 60 | Sin nuevas guías específicas PR en ventana 30 días |
+| DDEC / Act 60 | OA 2026-002 ya procesada; 2026-003/004 sin confirmar publicadas |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas en ventana 30 días |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No publicada. **Descartado (Regla 1).**
+- **DA 26-04**: No publicada. **Descartado (Regla 1).**
+- **BI RI 26-05**: No publicada. **Descartado (Regla 1).**
+- **IRB 2026-25**: No publicado (~esperado 16-jun). **Descartado (Regla 1).**
+- **DDEC 2026-003/004**: URLs no confirmadas, contenido no verificado. **Descartado (Regla 1).**
+- **Comunicado IVU regreso a clases (hacienda.pr.gov)**: Fecha no verificable (403 en fetch). **Descartado (Regla 1).**
+- **DA 26-02/03 URL variantes**: Variantes de URL de items ya en seen.txt. **Descartado (duplicado).**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Digest:
+
+```
+[PR TAX NEWS — Monitor Contributivo PR]
+Corrida: 2026-06-11 (slot manual) | Corrida #259
+
+Sin publicaciones nuevas detectadas en esta corrida.
+
+Estado mas reciente verificado (sin cambio vs corrida #258):
+• CC RI 26-11 (2026-06-02) — mas reciente; CC RI 26-12 no publicada
+• DA 26-03 (2026-05-20) — mas reciente; DA 26-04 no publicada
+• BI RI 26-04 (2026-05-08) — mas reciente; BI RI 26-05 no publicada
+• IRS IRB 2026-24 (2026-06-08) — ya procesado; sin contenido PR aplicable
+• IRS IRB 2026-25 — no publicado aun (~esperado 16-jun-2026)
+• DDEC — OA 2026-002 ya procesada; 003/004 sin confirmar publicadas
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 197 IDs totales
+Proxima corrida: 06:00 AST (2026-06-12)
+================================
+```
+
+---
+
 ## 2026-06-11 — CORRIDA #258 (22:04 AST)
 
 **Hora corrida:** 2026-06-11 02:04 UTC / 2026-06-11 22:04 AST (slot 10pm)
