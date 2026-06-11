@@ -2,6 +2,69 @@
 
 ---
 
+## 2026-06-11 — CORRIDA #258 (22:04 AST)
+
+**Hora corrida:** 2026-06-11 02:04 UTC / 2026-06-11 22:04 AST (slot 10pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **91° fallo consecutivo.**
+**seen.txt:** 197 IDs totales (sin cambio)
+
+### Fuentes revisadas (~18 queries WebSearch + intentos WebFetch):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; sin nuevos comunicados post 2026-06-02 |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB 2026-24 | Ya en seen.txt (Notice 2026-33: long-term care, sin contenido PR); IRB 2026-25 esperado ~16-jun |
+| IRS — IRB 2026-22/23 | Ya en seen.txt (sin contenido PR aplicable) |
+| IRS — Coll. Financial Standards PR | Actualización junio 2026 anunciada pero sin confirmar publicada |
+| IRS — OBBBA / One Big Beautiful Bill | Guía general publicada; sin nueva reglamentación específica PR |
+| DDEC / Act 60 | OA DDEC 2026-002 (11-mar-2026): fuera ventana 30 días |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas en ventana 30 días |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No publicada. **Descartado (Regla 1).**
+- **DA 26-04**: No publicada. **Descartado (Regla 1).**
+- **BI RI 26-05**: No publicada. **Descartado (Regla 1).**
+- **IRB 2026-25**: No publicado (~esperado 16-jun). **Descartado (Regla 1).**
+- **IRS Coll. Financial Standards PR Jun 2026**: Actualización anunciada, sin confirmar publicada aún. **Descartado (Regla 1).**
+- **GAO-26-107225** (dic-2025): Reporte GAO sobre supervisión IRS de exenciones PR; fuera ventana 30 días. **Descartado (filtro fecha).**
+- **IRS OBBBA / One Big Beautiful Bill**: Guía general sobre depreciación y temas individuales; sin nueva reglamentación específica PR publicada en ventana. **Descartado (filtro PR).**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Digest:
+
+```
+[PR TAX NEWS — Monitor Contributivo PR]
+Corrida: 2026-06-11 22:04 AST (slot 10pm) | Corrida #258
+
+Sin publicaciones nuevas detectadas en esta corrida.
+
+Estado publicaciones mas recientes (sin cambio vs corrida #257):
+• CC RI 26-11 (2026-06-02) — mas reciente; CC RI 26-12 no publicada
+• DA 26-03 (2026-05-20) — mas reciente; DA 26-04 no publicada
+• BI RI 26-04 (2026-05-08) — mas reciente; BI RI 26-05 no publicada
+• IRS IRB 2026-24 (2026-06-08) — ya procesado; sin contenido PR aplicable
+• IRB 2026-25 — esperado aprox. 2026-06-16
+• IRS Coll. Financial Standards PR — actualizacion junio 2026 pendiente
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 197 IDs totales
+Proxima corrida: 06:00 AST (2026-06-12)
+================================
+```
+
+---
+
 ## 2026-06-10 — CORRIDA #257 (18:00 AST)
 
 **Hora corrida:** 2026-06-10 22:00 UTC / 2026-06-10 18:00 AST (slot 6pm)
