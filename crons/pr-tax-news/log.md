@@ -2,6 +2,72 @@
 
 ---
 
+## 2026-06-11 — CORRIDA #260 (10:07 AST)
+
+**Hora corrida:** 2026-06-11 14:07 UTC / 2026-06-11 10:07 AST (slot 10am)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403). **93° fallo consecutivo.**
+**seen.txt:** 197 IDs totales (sin cambio)
+
+### Fuentes revisadas (~18 queries WebSearch + intentos WebFetch):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; comunicados escolares IVU descartados (fecha no verificable / período ya pasado) |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB 2026-25 | No publicado aún (~esperado 2026-06-16); IRB 2026-24 (2026-06-08) ya en seen.txt |
+| IRS — bona fide resident / Section 933 / Act 60 | Sin nuevas guías específicas PR en ventana 30 días |
+| DDEC / Act 60 | OA 2026-002 (2026-03-11) ya procesada; sin nuevas órdenes confirmadas |
+| Tribunal Supremo PR | TSPR 37 (Redmane Technology, LLC): contratación pública, no materia contributiva. Descartado. |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas en ventana 30 días |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No publicada en hacienda.pr.gov. **Descartado (Regla 1).**
+- **DA 26-04**: No publicada. **Descartado (Regla 1).**
+- **BI RI 26-05**: No publicada. **Descartado (Regla 1).**
+- **IRS IRB 2026-25**: No publicado (~esperado 16-jun). **Descartado (Regla 1).**
+- **Comunicado "uniformes y materiales escolares IVU julio/enero 2026"**: Fecha no verificable (403 en fetch); probable publicación 2025; CC RI 26-11 (ya en seen.txt) cubre el mismo tema. **Descartado (Regla 1 + duplicado conceptual).**
+- **Comunicado "Se acerca segundo periodo"**: Fecha no verificable (403); contenido sobre enero 2026 (período ya pasado). **Descartado (Regla 4 — más de 30 días).**
+- **TSPR 2026tspr37 (Redmane Technology vs. Depto. Salud y D2Sol)**: Caso de contratación pública / adjudicación de RFP para sistema Medicaid, sin materia contributiva. **Descartado (Regla 3 — no aplica a PR contributivo).**
+- **DDEC OA 2026-002 variantes URL**: Ya en seen.txt. **Descartado (duplicado).**
+
+### Items nuevos esta corrida:
+
+Ninguno.
+
+### Digest enviado:
+
+```
+[PR TAX NEWS — Monitor Contributivo PR]
+Corrida: 2026-06-11 10:07 AST | Corrida #260 (slot 10am)
+
+Sin publicaciones nuevas detectadas en esta corrida.
+
+Estado más reciente verificado (sin cambio vs corrida #259):
+• CC RI 26-11 (2026-06-02) — más reciente; CC RI 26-12 no publicada
+• DA 26-03 (2026-05-20) — más reciente; DA 26-04 no publicada
+• BI RI 26-04 (2026-05-08) — más reciente; BI RI 26-05 no publicada
+• IRS IRB 2026-24 (2026-06-08) — ya procesado; sin contenido PR aplicable
+• IRS IRB 2026-25 — no publicado aún (~esperado 2026-06-16)
+• DDEC — OA 2026-002 (2026-03-11) ya procesada
+• Tribunal Supremo PR — TSPR 37 (Redmane Technology): contratación pública, no materia contributiva
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 197 IDs totales
+Próxima corrida: 15:00 AST
+================================
+```
+
+**Nota Telegram:** Fallo HTTP 403 (bloqueado por red del contenedor). 93° fallo consecutivo.
+
+---
+
 ## 2026-06-11 — CORRIDA #259 (manual post-10pm AST)
 
 **Hora corrida:** 2026-06-11 (manual) AST
