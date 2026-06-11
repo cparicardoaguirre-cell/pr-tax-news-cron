@@ -2,6 +2,58 @@
 
 ---
 
+## 2026-06-11 — CORRIDA #262 (18:02 AST)
+
+**Hora corrida:** 2026-06-11 22:02 UTC / 2026-06-11 18:02 AST (slot 6pm)
+**Items nuevos:** 0
+**IDs añadidos a seen.txt:** 0
+**Telegram:** FALLO — api.telegram.org bloqueado por red del contenedor (HTTP 403 "Host not in allowlist"). **95° fallo consecutivo.**
+**seen.txt:** 198 IDs totales (sin cambio)
+
+### Fuentes revisadas (~25 queries WebSearch + intentos WebFetch):
+
+| Fuente | Estado |
+|--------|--------|
+| Hacienda PR — CC RI | CC RI 26-11 (2026-06-02) sigue siendo la más reciente; CC RI 26-12 no publicada |
+| Hacienda PR — CC FP | CC FP 1300-46-26 ya en seen.txt (añadida en corrida #261) |
+| Hacienda PR — DA | DA 26-03 (2026-05-20) sigue siendo la más reciente; DA 26-04 no publicada |
+| Hacienda PR — BI RI | BI RI 26-04 (2026-05-08) sigue siendo la más reciente; BI RI 26-05 no publicada |
+| Hacienda PR — Comunicados | hacienda.pr.gov retorna 403 en fetch directo; sin comunicados nuevos indexados jun 2026 |
+| SURI | Sin avisos nuevos indexados |
+| IRS — IRB | IRB 2026-24 (2026-06-08) ya en seen.txt; IRB 2026-25 no publicado aún (~esperado 2026-06-15) |
+| IRS — Puerto Rico específico | Sin nuevas guías Section 933/Act 60/Form 1040-SS en ventana 30 días |
+| DDEC / Act 60 | OA 2026-002, CC DDEC 2026-003 ya procesadas; DDEC nota "registro prof. certificado" — fecha no verificable, descartado (Regla 1) |
+| Tribunal Apelativo PR | Sin sentencias tributarias nuevas indexadas en ventana 30 días |
+| OCIF | Sin publicaciones contributivas nuevas |
+
+### Candidatos evaluados esta corrida:
+
+- **CC RI 26-12**: No publicada en hacienda.pr.gov. **Descartado (Regla 1).**
+- **DA 26-04**: No publicada en hacienda.pr.gov. **Descartado (Regla 1).**
+- **BI RI 26-05**: No publicada en hacienda.pr.gov. **Descartado (Regla 1).**
+- **IRS IRB 2026-24 PDF**: URL distinta al HTML ya visto — mismo contenido. **Descartado (duplicado).**
+- **DDEC noticia "registro prof. certificado"**: Fecha no confirmable (403 en fetch). **Descartado (Regla 1).**
+
+### Digest enviado:
+```
+FALLO TELEGRAM — digest preparado pero no entregado:
+
+PR Tax News Monitor — 2026-06-11 18:02 AST
+Corrida #262 (slot 6pm)
+
+Sin publicaciones nuevas en esta corrida.
+
+Fuentes revisadas: Hacienda PR (CC RI, DA, BI RI, Comunicados),
+SURI, IRS-PR (IRB 2026-24 ya visto), DDEC Act 60,
+Tribunal Apelativo PR, OCIF.
+
+================================
+Fuentes revisadas: 6 | Items: 0 | seen.txt: 198 IDs totales
+Próxima corrida: 22:00 AST
+```
+
+---
+
 ## 2026-06-11 — CORRIDA #261 (15:10 AST)
 
 **Hora corrida:** 2026-06-11 19:10 UTC / 2026-06-11 15:10 AST (slot 3pm)
